@@ -10,7 +10,6 @@ import spacy
 nations= ['CH', 'DE', 'FR', 'IT', 'UK', 'US']
 edition_str_len= 15
 
-nations= ['CH']
 
 nation_to_lang= {'CH': 'fr',
                  'DE': 'de',
@@ -36,7 +35,7 @@ editions= []
 flow= []
 editions_en= []
 flow_en= []
-#A utility function which allow me to print Unicode encoded chars
+#A utility function which allows me to print Unicode encoded chars
 def unicode_fix(to_fix):
     for news in to_fix:
         for new in news:
@@ -53,6 +52,8 @@ def create_concept(word, meaning, pos):
     concept= {'word': word, 'meaning': meaning, 'pos': pos}
     return concept
 
+#function who translates a given string into a given language
+#currently not used due to the very slow running of googletrans lib
 def to_english(new, lang):
     curr_news_en= copy.deepcopy(new)
     service_urls=['translate.google.com']
@@ -93,41 +94,56 @@ def news_finder(nation):
                 #flow_en.append(curr_news_en)
 
 
+def pos_tagger(editions):
+    to_ret= []
+    for edition in editions:
+        c_edit= []
+        nlp= de_nlp
+        for new in edition:
+            concepts= []
+            #if new['nation']== "CH" or new['nation']=="FR":
+                #nlp= fr_nlp
+            #elif new['nation']== "UK" or new['nation']=="US":
+                #nlp= en_nlp
+            #elif new['nation']== "IT":
+                #nlp= it_nlp
+            #Choosing the right nlp-parser due to the news languages
+            nlp= nlp_dict[new['nation']]
+            #NLP-ing the title
+            doc_title= nlp(new['title'])
+            for t_token in doc_title:
+                #print(t_token.text, t_token.dep_, t_token.head.pos_)
+                if t_token.dep_ == "nsubj" or t_token.dep_ == "dobj" or t_token.dep_ == "pobj" or t_token.dep_ == "csubj":
+                    concepts.append(create_concept(t_token.text, t_token.dep_, t_token.head.pos_))
+            #this s a try only because some news may not have a content field, in that case just skip
+            #currently not using it because it tends to analyze "sentence-per-sentence", going out of the project target
+            #try:
+                #doc_content= nlp(new['content'])
+                #for c_token in doc_content:
+                    #print(c_token.text, c_token.dep_, c_token.head.pos_)
+                    #if c_token.head.pos_ == "NOUN" or  c_token.dep_ == "nsubj":
+                        #concepts.append(create_concept(c_token.text, c_token.dep_, c_token.head.pos_))
+            #except:
+                #pass
+            conceptitle={'title': new['title'],
+                        'date': new['date'],
+                        'nation': new['nation'],
+                        'source': new['source'],
+                        'concepts': concepts}
+            #print(json.dumps(conceptitle, indent= 4))
+            c_edit.append(conceptitle)
+        to_ret.append(c_edit)
+    return to_ret
+        
+
 for nation in nations:
     news_finder(nation)
 flow= unicode_fix(flow)
 #print(editions_en)
 #print(flow_en)
-
-for edition in editions:
-    nlp= de_nlp
-    for new in edition:
-        concepts= []
-        #if new['nation']== "CH" or new['nation']=="FR":
-            #nlp= fr_nlp
-        #elif new['nation']== "UK" or new['nation']=="US":
-            #nlp= en_nlp
-        #elif new['nation']== "IT":
-            #nlp= it_nlp
-        nlp= nlp_dict[new['nation']]
-        doc_title= nlp(new['title'])
-        for t_token in doc_title:
-            #print(t_token.text, t_token.dep_, t_token.head.pos_)
-            if t_token.head.pos_ == "NOUN" or  t_token.dep_ == "nsubj":
-                concepts.append(create_concept(t_token.text, t_token.dep_, t_token.head.pos_))
-        try:
-            doc_content= nlp(new['content'])
-            for c_token in doc_content:
-                #print(c_token.text, c_token.dep_, c_token.head.pos_)
-                if c_token.head.pos_ == "NOUN" or  c_token.dep_ == "nsubj":
-                    concepts.append(create_concept(c_token.text, c_token.dep_, c_token.head.pos_))
-        except:
-            pass
-        conceptitle={'title': new['title'],
-                     'date': new['date'],
-                     'nation': new['nation'],
-                     'source': new['source'],
-                     'concepts': concepts}
-        print(conceptitle)
-        
-        
+c_flows= []
+c_editions= []
+c_flows = pos_tagger(flow)
+c_editions= pos_tagger(editions)
+print(json.dumps(c_editions, indent= 4))
+print(json.dumps(c_flows, indent= 4))
