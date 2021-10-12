@@ -5,12 +5,12 @@ from googletrans import Translator
 import copy
 import time
 import httpx
-#jshint ignore:start
 import spacy
-#jshint ignore:end
 
 nations= ['CH', 'DE', 'FR', 'IT', 'UK', 'US']
 edition_str_len= 15
+
+nations= ['CH']
 
 nation_to_lang= {'CH': 'fr',
                  'DE': 'de',
@@ -48,6 +48,10 @@ def unicode_fix(to_fix):
                     pass
     return to_fix
 
+
+def create_concept(word, meaning, pos):
+    concept= {'word': word, 'meaning': meaning, 'pos': pos}
+    return concept
 
 def to_english(new, lang):
     curr_news_en= copy.deepcopy(new)
@@ -87,7 +91,7 @@ def news_finder(nation):
             else:
                 flow.append(curr_news)
                 #flow_en.append(curr_news_en)
- 
+
 
 for nation in nations:
     news_finder(nation)
@@ -98,6 +102,7 @@ flow= unicode_fix(flow)
 for edition in editions:
     nlp= de_nlp
     for new in edition:
+        concepts= []
         #if new['nation']== "CH" or new['nation']=="FR":
             #nlp= fr_nlp
         #elif new['nation']== "UK" or new['nation']=="US":
@@ -107,12 +112,22 @@ for edition in editions:
         nlp= nlp_dict[new['nation']]
         doc_title= nlp(new['title'])
         for t_token in doc_title:
-            print(t_token.text, t_token.dep_, t_token.head.pos_)
+            #print(t_token.text, t_token.dep_, t_token.head.pos_)
+            if t_token.head.pos_ == "NOUN" or  t_token.dep_ == "nsubj":
+                concepts.append(create_concept(t_token.text, t_token.dep_, t_token.head.pos_))
         try:
             doc_content= nlp(new['content'])
             for c_token in doc_content:
-                print(c_token.text, c_token.dep_, c_token.head.pos_)
+                #print(c_token.text, c_token.dep_, c_token.head.pos_)
+                if c_token.head.pos_ == "NOUN" or  c_token.dep_ == "nsubj":
+                    concepts.append(create_concept(c_token.text, c_token.dep_, c_token.head.pos_))
         except:
             pass
+        conceptitle={'title': new['title'],
+                     'date': new['date'],
+                     'nation': new['nation'],
+                     'source': new['source'],
+                     'concepts': concepts}
+        print(conceptitle)
         
         
