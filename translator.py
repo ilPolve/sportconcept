@@ -1,12 +1,11 @@
 import json
-import datetime
 import os
 from googletrans import Translator
 import copy
 import time
 import httpx
 
-nations= ['CH', 'DE', 'FR', 'IT']
+nations= ['CH', 'DE', 'FR', 'IT', 'UK', 'US']
 edition_str_len= 15
 
 
@@ -37,10 +36,16 @@ def to_english(new, lang):
     timeout = httpx.Timeout(5)
     translator = Translator(service_urls= service_urls, timeout= timeout)
     translator.raise_Exception = True
-    curr_news_en['en_title']= translator.translate(new['title'], src= lang, dest= "en").text
+    if lang != "en":
+        curr_news_en['en_title']= translator.translate(new['title'], src= lang, dest= "en").text
+    else:
+        curr_news_en['en_title']= curr_news_en['title']
     print(curr_news_en)
     try:
-        curr_news_en['en_content']= translator.translate(new['content'], dest= "en").text
+        if lang != "en":
+            curr_news_en['en_content']= translator.translate(new['content'], dest= "en").text
+        else:
+            curr_news_en['en_content']= curr_news_en['content']
     except:
         pass
     return curr_news_en
@@ -52,7 +57,7 @@ def news_translator(nation):
         newspaper= subdir.name
         for news in os.scandir(subdir):
             print(news.name)
-            if(news.name[0:2] != "en"):
+            if news.name[0:2] != "en" and news.name[0:2] != "co":
                 f= open(directory + "/" + newspaper + "/" + news.name, "r+", encoding= "latin-1")            
                 curr_news= json.load(f)
                 curr_edit= []
@@ -64,10 +69,9 @@ def news_translator(nation):
                         curr_new['filename']= news.name
                         lang= nation_to_lang[nation]
                         time.sleep(0.1)
-                        if lang != 'en':
-                            #now create a hardcopy in order to have the same new, but in English
-                            curr_news_en= to_english(curr_new, lang)
-                            curr_edit.append(curr_news_en)
+                        #now create a hardcopy in order to have the same new, but in English
+                        curr_news_en= to_english(curr_new, lang)
+                        curr_edit.append(curr_news_en)
                 f.close()
                 #replacing the old news-file with a new one with english content added
                 os.remove(directory + "/" + newspaper + "/" + news.name)
