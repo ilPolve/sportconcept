@@ -41,15 +41,30 @@ def news_getter(nation, source):
 
 
 #Funzione naif che compara due news e restituisce grado di similarità e parole uguali
-def compare(news_a, news_b):
-    is_simil= 0
-    to_ret= []
+def compare_naif(news_a, news_b):
+    to_ret= {}
+    conc_to_ret= []
+    n_A= 0
+    n_B= 0
+    couples= 0
     for concept_a in news_a['concepts']:
+        n_A+=1
+        n_B= 0
         for concept_b in news_b['concepts']:
+            n_B+=1
             if concept_a['word'] == concept_b['word']:
-                to_ret.append(concept_a)
-                is_simil+= 0.5
-    return is_simil, to_ret
+                couples+=1
+                conc_to_ret.append(concept_a)
+    if couples > 1:
+        similar= True
+    else:
+        similar= False
+    to_ret['n_found']= couples
+    to_ret['n_newA']= n_A
+    to_ret['n_newB']= n_B
+    to_ret['n_possible']= n_A*n_B
+    to_ret['concepts_found']= conc_to_ret
+    return similar, to_ret
 
 #Funzione che dato un array di giornali, restituisce una lista di notizie simili con concatenati i concetti simili
 def news_comparing(sources):
@@ -60,8 +75,8 @@ def news_comparing(sources):
                 for edition_b in sources[j]:
                     for news_a in edition_a:
                         for news_b in edition_b:
-                            rate, concepts= compare(news_a, news_b)
-                            if rate >= 1:
+                            are_similar, concepts= compare_naif(news_a, news_b)
+                            if are_similar:
                                 to_app= []
                                 to_app.append(news_a)
                                 to_app.append(news_b)

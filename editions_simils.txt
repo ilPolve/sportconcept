@@ -1,17 +1,23 @@
 [
     {
-        "concepts": [
-            {
-                "word": "thousands",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "people",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 4,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "thousands",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "people",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "A Lugano, des milliers de personnes rendent hommage Ã  Marco Borradori",
@@ -91,18 +97,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "elections",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Russia",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 4,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "elections",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Russia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Les Ã©lections lÃ©gislatives ont lieu la semaine prochaine en Russie",
@@ -172,18 +184,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Sarkozy",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "financing",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 3,
+            "n_possible": 15,
+            "concepts_found": [
+                {
+                    "word": "Sarkozy",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "financing",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Nicolas Sarkozy condamnÃ© Ã  un an de prison pour le financement de sa campagne",
@@ -260,18 +278,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Sarkozy",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "financing",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 3,
+            "n_possible": 15,
+            "concepts_found": [
+                {
+                    "word": "Sarkozy",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "financing",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Nicolas Sarkozy condamnÃ© Ã  un an de prison pour le financement de sa campagne",
@@ -348,18 +372,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Sarkozy",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "financing",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 2,
+            "n_possible": 10,
+            "concepts_found": [
+                {
+                    "word": "Sarkozy",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "financing",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Nicolas Sarkozy condamnÃ© Ã  un an de prison pour le financement de sa campagne",
@@ -431,18 +461,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "year",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "financing",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 4,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "year",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "financing",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Nicolas Sarkozy condamnÃ© Ã  un an de prison pour le financement de sa campagne",
@@ -524,23 +560,29 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "attacks",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Paris",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 3,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "attacks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -612,18 +654,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Paris",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -700,18 +748,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "attacks",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "attacks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -783,18 +837,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Paris",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 5,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -876,23 +936,29 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "attacks",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "November",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 3,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "attacks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "November",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -964,18 +1030,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Paris",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -1047,18 +1119,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "November",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "November",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -1130,18 +1208,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "attacks",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 2,
+            "n_possible": 8,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "attacks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -1208,18 +1292,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "November",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Paris",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "November",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -1291,18 +1381,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "attacks",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Paris",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 5,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "attacks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -1384,18 +1480,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "attacks",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "attacks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -1467,18 +1569,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Paris",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -1555,18 +1663,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "attacks",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 2,
+            "n_possible": 8,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "attacks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -1633,18 +1747,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Paris",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -1721,18 +1841,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "attacks",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 6,
+            "n_possible": 24,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "attacks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -1819,18 +1945,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "attacks",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "attacks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -1902,18 +2034,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Paris",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -1985,18 +2123,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "attacks",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "November",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "attacks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "November",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -2073,18 +2217,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Paris",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -2161,18 +2311,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Que faisiez-vous le 11 septembre 2001? (3/5) RÃ©action du Mali",
@@ -2249,18 +2405,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "trial",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Paris",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ouverture du procÃ¨s des attentats du 13 novembre 2015 Ã  Paris",
@@ -2337,18 +2499,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 1,
+            "n_newB": 6,
+            "n_possible": 6,
+            "concepts_found": [
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "15 minutes - Football et tÃªte: faut-il sÂinquiÃ©ter?",
@@ -2420,18 +2588,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "France",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "ambassadors",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "France",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ambassadors",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La France rappelle ses ambassadeurs aux Etats-Unis et en Australie aprÃ¨s la crise des sous-marins",
@@ -2508,18 +2682,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Europe",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Greece",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 6,
+            "n_possible": 24,
+            "concepts_found": [
+                {
+                    "word": "Europe",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Greece",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Des pompiers de toute lÂEurope luttent contre les incendies en GrÃ¨ce",
@@ -2606,18 +2786,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Messi",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "PSG",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 3,
+            "n_possible": 9,
+            "concepts_found": [
+                {
+                    "word": "Messi",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "PSG",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Lionel Messi a donnÃ© sa premiÃ¨re confÃ©rence de presse avec le PSG",
@@ -2684,18 +2870,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "all",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "all",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 5,
+            "n_possible": 25,
+            "concepts_found": [
+                {
+                    "word": "all",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "all",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "\"Le mariage pour tous serait une atteinte au bien-Ãªtre des enfants\" dixit les opposants au Mariage pour toutes et tous",
@@ -2782,18 +2974,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "all",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "all",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 5,
+            "n_possible": 25,
+            "concepts_found": [
+                {
+                    "word": "all",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "all",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "\"Le mariage pour tous serait une atteinte au bien-Ãªtre des enfants\" dixit les opposants au Mariage pour toutes et tous",
@@ -2880,18 +3078,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "I",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "I",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 4,
+            "n_possible": 8,
+            "concepts_found": [
+                {
+                    "word": "I",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "I",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Le Point J - Faudrait-il arrÃªter de manger du poisson?",
@@ -2958,18 +3162,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Une app vaudoise permet de s'entraÃ®ner au questionnaire en vue d'une naturalisation",
@@ -3046,18 +3256,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Taliban",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "government",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 3,
+            "n_possible": 6,
+            "concepts_found": [
+                {
+                    "word": "Taliban",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Les talibans s'apprÃªtent Ã  dÃ©voiler leur gouvernement",
@@ -3119,18 +3335,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Court",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "abortion",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 2,
+            "n_possible": 10,
+            "concepts_found": [
+                {
+                    "word": "Court",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "abortion",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La Cour SuprÃªme des Etats-Unis a donnÃ© raison aux opposants texans Ã  lÂavortement",
@@ -3202,18 +3424,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Court",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "abortion",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 2,
+            "n_possible": 10,
+            "concepts_found": [
+                {
+                    "word": "Court",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "abortion",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La Cour SuprÃªme des Etats-Unis a donnÃ© raison aux opposants texans Ã  lÂavortement",
@@ -3285,18 +3513,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Taliban",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "government",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 3,
+            "n_possible": 6,
+            "concepts_found": [
+                {
+                    "word": "Taliban",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Les talibans s'apprÃªtent Ã  dÃ©voiler leur gouvernement",
@@ -3358,18 +3592,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Taliban",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "government",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 5,
+            "n_possible": 10,
+            "concepts_found": [
+                {
+                    "word": "Taliban",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Les talibans s'apprÃªtent Ã  dÃ©voiler leur gouvernement",
@@ -3441,18 +3681,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Taliban",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "government",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 4,
+            "n_possible": 8,
+            "concepts_found": [
+                {
+                    "word": "Taliban",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Les talibans s'apprÃªtent Ã  dÃ©voiler leur gouvernement",
@@ -3519,18 +3765,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 6,
+            "n_possible": 24,
+            "concepts_found": [
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Qui retrouve-t-on Ã  la tÃªte des Freiheitstrychler?",
@@ -3617,18 +3869,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "NOUN"
-            },
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "NOUN"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 5,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Les Singapouriens boivent l'eau des Ã©gouts et en font une fiertÃ© nationale",
@@ -3710,18 +3968,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 6,
+            "n_possible": 24,
+            "concepts_found": [
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Faut-il offrir des primes aux personnes vaccinÃ©es? Interview d'Alessandro Diana",
@@ -3808,18 +4072,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Que faisiez-vous le 11 septembre 2001? Jean-Pierre Jobin, ancien directeur de l'aÃ©roport de GenÃ¨ve Cointrin",
@@ -3896,18 +4166,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "pass",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Italy",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 4,
+            "n_possible": 8,
+            "concepts_found": [
+                {
+                    "word": "pass",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Bilan du pass sanitaire en Italie et en France",
@@ -3974,18 +4250,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "price",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "price",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 3,
+            "n_possible": 9,
+            "concepts_found": [
+                {
+                    "word": "price",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "price",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Augmentation du prix des lettres: rÃ©action de Monsieur Prix",
@@ -4052,18 +4334,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "price",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "price",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 4,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "price",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "price",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Augmentation du prix des lettres: rÃ©action de Monsieur Prix",
@@ -4135,18 +4423,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "France",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 5,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "France",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La France va rapatrier des travailleurs afghans qu'elle a employÃ©: interview de Magali Guadalupe Miranda",
@@ -4228,18 +4522,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "France",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "workers",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "France",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "workers",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La France va rapatrier des travailleurs afghans qu'elle a employÃ©: interview de Magali Guadalupe Miranda",
@@ -4316,18 +4616,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "France",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "workers",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 2,
+            "n_possible": 8,
+            "concepts_found": [
+                {
+                    "word": "France",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "workers",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La France va rapatrier des travailleurs afghans qu'elle a employÃ©: interview de Magali Guadalupe Miranda",
@@ -4394,18 +4700,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "France",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "workers",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "France",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "workers",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La France va rapatrier des travailleurs afghans qu'elle a employÃ©: interview de Magali Guadalupe Miranda",
@@ -4477,18 +4789,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 5,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La France va rapatrier des travailleurs afghans qu'elle a employÃ©: interview de Magali Guadalupe Miranda",
@@ -4570,18 +4888,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "EU",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "France",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 6,
+            "n_newB": 5,
+            "n_possible": 30,
+            "concepts_found": [
+                {
+                    "word": "EU",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "France",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Ex \"Monsieur Brexit\" de l'UE, Michel Barnier plaide pour un moratoire et un rÃ©fÃ©rendum en France sur lÂimmigration",
@@ -4673,18 +4997,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Raducanu",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Open",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 5,
+            "n_possible": 10,
+            "concepts_found": [
+                {
+                    "word": "Raducanu",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Open",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Emma Raducanu et Leylah Fernandez sÂaffronteront dans une finale de lÂUS Open inattendue",
@@ -4756,18 +5086,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Que faisiez-vous le 11 septembre 2001? (5/5): FranÃ§ois Hollande, ancien prÃ©sident de la RÃ©publique franÃ§aise",
@@ -4844,18 +5180,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "AUX"
-            },
-            {
-                "word": "Taliban",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 6,
+            "n_possible": 18,
+            "concepts_found": [
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Taliban",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Pourquoi est-il important de maintenir le contact avec les talibans?",
@@ -4937,18 +5279,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "AUX"
-            },
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "AUX"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 5,
+            "n_possible": 15,
+            "concepts_found": [
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Pourquoi est-il important de maintenir le contact avec les talibans?",
@@ -5025,18 +5373,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "AUX"
-            },
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "AUX"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 5,
+            "n_possible": 10,
+            "concepts_found": [
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Le Point J - JeÃ»ner, c'est vraiment bon pour la santÃ©?",
@@ -5108,18 +5462,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "November",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Paris",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "November",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "PremiÃ¨res auditions pour les victimes de lÂattentat du 13 novembre Ã  Paris",
@@ -5191,18 +5551,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "SCONJ"
-            },
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "\"Plus fort que la violence\", une nouvelle exposition sur les violences conjugales et sexuelles inaugurÃ©e Ã  Morges",
@@ -5274,18 +5640,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "SCONJ"
-            },
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "\"Plus fort que la violence\", une nouvelle exposition sur les violences conjugales et sexuelles inaugurÃ©e Ã  Morges",
@@ -5362,18 +5734,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "SCONJ"
-            },
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "\"Plus fort que la violence\", une nouvelle exposition sur les violences conjugales et sexuelles inaugurÃ©e Ã  Morges",
@@ -5450,18 +5828,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "SCONJ"
-            },
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 2,
+            "n_possible": 8,
+            "concepts_found": [
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "\"Plus fort que la violence\", une nouvelle exposition sur les violences conjugales et sexuelles inaugurÃ©e Ã  Morges",
@@ -5528,18 +5912,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "victims",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "November",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "victims",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "November",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "PremiÃ¨res auditions pour les victimes de lÂattentat du 13 novembre Ã  Paris",
@@ -5611,18 +6001,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "SCONJ"
-            },
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "\"Plus fort que la violence\", une nouvelle exposition sur les violences conjugales et sexuelles inaugurÃ©e Ã  Morges",
@@ -5694,18 +6090,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Biden",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Afghanistan",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 5,
+            "n_possible": 25,
+            "concepts_found": [
+                {
+                    "word": "Biden",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Le G7 veut convaincre Biden de maintenir des troupes en Afghanistan au-delÃ  du 31 aoÃ»t",
@@ -5792,18 +6194,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Biden",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Afghanistan",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 4,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "Biden",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Le G7 veut convaincre Biden de maintenir des troupes en Afghanistan au-delÃ  du 31 aoÃ»t",
@@ -5885,18 +6293,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "years",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "prison",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "years",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "L'ex-cadre du SECO accusÃ© de corruption condamnÃ© Ã  quatre ans de prison",
@@ -5973,18 +6387,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "years",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "prison",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "years",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "L'ex-cadre du SECO accusÃ© de corruption condamnÃ© Ã  quatre ans de prison",
@@ -6056,18 +6476,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 4,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Que faisiez-vous le 11 septembre 2001? (4/5): Sean Penney, un enseignant canadien",
@@ -6139,18 +6565,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Palestinians",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "prison",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 5,
+            "n_possible": 10,
+            "concepts_found": [
+                {
+                    "word": "Palestinians",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "IsraÃ«l: six Palestiniens sÂÃ©vadent d'une prison de haute sÃ©curitÃ©",
@@ -6222,18 +6654,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 4,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Que faisiez-vous le 11 septembre 2001? (1/5): Bader, un Ã©tudiant bruxellois",
@@ -6305,18 +6743,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "years",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "prison",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 4,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "years",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "L'opposante Maria Kolesnikova est condamnÃ©e Ã  11 ans de prison en BiÃ©lorussie",
@@ -6388,18 +6832,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "years",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "prison",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 3,
+            "n_possible": 9,
+            "concepts_found": [
+                {
+                    "word": "years",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "L'opposante Maria Kolesnikova est condamnÃ©e Ã  11 ans de prison en BiÃ©lorussie",
@@ -6466,18 +6916,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Macron",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Marseille",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "Macron",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Marseille",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Emmanuel Macron se rend Ã  Marseille pour tenter de soigner la ville de la violence et du trafic de drogues",
@@ -6554,18 +7010,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Macron",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "city",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "Macron",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "city",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Emmanuel Macron se rend Ã  Marseille pour tenter de soigner la ville de la violence et du trafic de drogues",
@@ -6642,23 +7104,29 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Macron",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Marseille",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 3,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "Macron",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Marseille",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Emmanuel Macron se rend Ã  Marseille pour tenter de soigner la ville de la violence et du trafic de drogues",
@@ -6735,23 +7203,29 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Macron",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Marseille",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 3,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "Macron",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Marseille",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Emmanuel Macron se rend Ã  Marseille pour tenter de soigner la ville de la violence et du trafic de drogues",
@@ -6828,18 +7302,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Marseille",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 2,
+            "n_possible": 8,
+            "concepts_found": [
+                {
+                    "word": "Marseille",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Emmanuel Macron se rend Ã  Marseille pour tenter de soigner la ville de la violence et du trafic de drogues",
@@ -6906,18 +7386,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Macron",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Marseille",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 5,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "Macron",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Marseille",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Emmanuel Macron se rend Ã  Marseille pour tenter de soigner la ville de la violence et du trafic de drogues",
@@ -6999,18 +7485,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "team",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "team",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 6,
+            "n_newB": 2,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "team",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "team",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Football: Une Ã©quipe de Suisse dÃ©cimÃ©e va affronter la GrÃ¨ce pour le premier match de Murat Yakin Ã  la tÃªte de lÂÃ©quipe",
@@ -7087,18 +7579,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Messi",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "PSG",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 3,
+            "n_possible": 6,
+            "concepts_found": [
+                {
+                    "word": "Messi",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "PSG",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Football: Lionel Messi rejoint le PSG",
@@ -7160,18 +7658,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Kabul",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Taliban",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 4,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "Kabul",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Taliban",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La prise de Kaboul par les talibans semble imminente",
@@ -7243,18 +7747,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Kabul",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Taliban",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 3,
+            "n_possible": 9,
+            "concepts_found": [
+                {
+                    "word": "Kabul",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Taliban",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La prise de Kaboul par les talibans semble imminente",
@@ -7321,18 +7831,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Kabul",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Taliban",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 4,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "Kabul",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Taliban",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La prise de Kaboul par les talibans semble imminente",
@@ -7404,18 +7920,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Kabul",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Taliban",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 4,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "Kabul",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Taliban",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La prise de Kaboul par les talibans semble imminente",
@@ -7487,18 +8009,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "earthquake",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Haiti",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 4,
+            "n_possible": 8,
+            "concepts_found": [
+                {
+                    "word": "earthquake",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Haiti",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Un sÃ©isme de magnitude de 7,2 a frappÃ© HaÃ¯ti",
@@ -7565,18 +8093,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Kabul",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Taliban",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 4,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "Kabul",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Taliban",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La prise de Kaboul par les talibans semble imminente",
@@ -7648,18 +8182,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "end",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "end",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 2,
+            "n_possible": 10,
+            "concepts_found": [
+                {
+                    "word": "end",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "end",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Le motard Thomas LÃ¼thi a dÃ©cidÃ© de mettre un terme Ã  sa carriÃ¨re Ã  la fin de la saison",
@@ -7731,18 +8271,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Afghanistan",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Taliban",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 5,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Taliban",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La situation est toujours tendue en Afghanistan aprÃ¨s la prise de pouvoir des talibans",
@@ -7824,18 +8370,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Afghanistan",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Taliban",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Taliban",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La situation est toujours tendue en Afghanistan aprÃ¨s la prise de pouvoir des talibans",
@@ -7912,18 +8464,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Afghanistan",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Taliban",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Taliban",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La situation est toujours tendue en Afghanistan aprÃ¨s la prise de pouvoir des talibans",
@@ -8000,18 +8558,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Afghanistan",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Taliban",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 5,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Taliban",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "La situation est toujours tendue en Afghanistan aprÃ¨s la prise de pouvoir des talibans",
@@ -8093,18 +8657,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "end",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "end",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 4,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "end",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "end",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Le motard Thomas LÃ¼thi a dÃ©cidÃ© de mettre un terme Ã  sa carriÃ¨re Ã  la fin de la saison",
@@ -8186,18 +8756,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "end",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "end",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 3,
+            "n_possible": 15,
+            "concepts_found": [
+                {
+                    "word": "end",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "end",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Le motard Thomas LÃ¼thi a dÃ©cidÃ© de mettre un terme Ã  sa carriÃ¨re Ã  la fin de la saison",
@@ -8274,18 +8850,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Japan",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "Kishida",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 2,
+            "n_possible": 4,
+            "concepts_found": [
+                {
+                    "word": "Japan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Kishida",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Au Japon, le modÃ©rÃ© Fumio Kishida sera le prochain Premier ministre",
@@ -8342,18 +8924,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Taliban",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Afghanistan",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 5,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "Taliban",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Les talibans progressent et s'emparent d'une 4e capitale de province en 3 jours en Afghanistan",
@@ -8435,18 +9023,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Taliban",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Afghanistan",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "Taliban",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Les talibans progressent et s'emparent d'une 4e capitale de province en 3 jours en Afghanistan",
@@ -8523,18 +9117,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Taliban",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Afghanistan",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "Taliban",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Les talibans progressent et s'emparent d'une 4e capitale de province en 3 jours en Afghanistan",
@@ -8611,18 +9211,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Taliban",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Afghanistan",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 5,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "Taliban",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Les talibans progressent et s'emparent d'une 4e capitale de province en 3 jours en Afghanistan",
@@ -8704,18 +9310,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Israel",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Palestinians",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 4,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "Israel",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Palestinians",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "IsraÃ«l autorise la construction de nouveaux logements pour les Palestiniens en Cisjordanie",
@@ -8797,18 +9409,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "race",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "race",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 4,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "race",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "race",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Isabelle Moret (PLR) se lance dans la course au Conseil d'Etat vaudois",
@@ -8880,18 +9498,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "crisis",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "trip",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "crisis",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "trip",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Les petits patrons Ã  la sortie de la crise sanitaire (1/10): Jacqueline Ulrich, co-directrice de lÂagence lÂEsprit du Voyage",
@@ -8968,18 +9592,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "AUX"
-            },
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "AUX"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 5,
+            "n_possible": 25,
+            "concepts_found": [
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Afghanistan: Emmanuel Macron a dÃ©clarÃ© quÂil ne fallait pas baisser la garde contre les islamistes de lÂEI",
@@ -9066,18 +9696,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "SCONJ"
-            },
-            {
-                "word": "violence",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 1,
+            "n_possible": 4,
+            "concepts_found": [
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "\"Plus fort que la violence\", une nouvelle exposition sur les violences conjugales et sexuelles inaugurÃ©e Ã  Morges",
@@ -9139,23 +9775,29 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "party",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "majority",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "elections",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 3,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "party",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "majority",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "elections",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": " Putins Partei verteidigt bei Parlamentswahlen in Russland Zweidrittelmehrheit",
@@ -9227,18 +9869,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "party",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "majority",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 4,
+            "n_possible": 16,
+            "concepts_found": [
+                {
+                    "word": "party",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "majority",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": " Putins Partei verteidigt bei Parlamentswahlen in Russland Zweidrittelmehrheit",
@@ -9315,18 +9963,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "party",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "majority",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "party",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "majority",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": " Putins Partei verteidigt bei Parlamentswahlen in Russland Zweidrittelmehrheit",
@@ -9398,18 +10052,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "party",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "majority",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "party",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "majority",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": " Putins Partei verteidigt bei Parlamentswahlen in Russland Zweidrittelmehrheit",
@@ -9481,18 +10141,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "SPD",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "coalition",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 3,
+            "n_possible": 9,
+            "concepts_found": [
+                {
+                    "word": "SPD",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "coalition",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Mit folgenden Themen: SPD plant Ampelkoalition",
@@ -9560,18 +10226,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "tribute",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "who",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 7,
+            "n_possible": 35,
+            "concepts_found": [
+                {
+                    "word": "tribute",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "who",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "A book to pay tribute to his son who died in the Bataclan terrorist attack in 2015",
@@ -9670,18 +10342,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 6,
+            "n_newB": 6,
+            "n_possible": 36,
+            "concepts_found": [
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "9/11 anniversary: 'Today we remember your loss, we share your sorrow', says former President Bush",
@@ -9780,18 +10458,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 6,
+            "n_newB": 6,
+            "n_possible": 36,
+            "concepts_found": [
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "9/11 anniversary: 'Today we remember your loss, we share your sorrow', says former President Bush",
@@ -9890,18 +10574,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 6,
+            "n_newB": 3,
+            "n_possible": 18,
+            "concepts_found": [
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "9/11 anniversary: 'Today we remember your loss, we share your sorrow', says former President Bush",
@@ -9985,18 +10675,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "we",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 6,
+            "n_newB": 5,
+            "n_possible": 30,
+            "concepts_found": [
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "we",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "9/11 anniversary: 'Today we remember your loss, we share your sorrow', says former President Bush",
@@ -10090,18 +10786,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Kabul",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "flight",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 5,
+            "n_possible": 15,
+            "concepts_found": [
+                {
+                    "word": "Kabul",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "flight",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Pakistani plane lands in Kabul in first commercial flight since Taliban takeover",
@@ -10180,18 +10882,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "flight",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Kabul",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 5,
+            "n_possible": 25,
+            "concepts_found": [
+                {
+                    "word": "flight",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Kabul",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "First flight carrying foreigners since US pull-out from Afghanistan leaves Kabul",
@@ -10280,18 +10988,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "Biden",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "Americans",
-                "meaning": "pobj",
-                "pos": "ADP"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 6,
+            "n_possible": 18,
+            "concepts_found": [
+                {
+                    "word": "Biden",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Americans",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Biden announces sweeping new vaccine mandates for 100 million Americans",
@@ -10375,18 +11089,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "you",
-                "meaning": "dobj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 6,
+            "n_possible": 24,
+            "concepts_found": [
+                {
+                    "word": "you",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "you",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "Do you know why so many websites now ask you to accept cookies and tracers?",
@@ -10475,18 +11195,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "I",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "I",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 3,
+            "n_possible": 12,
+            "concepts_found": [
+                {
+                    "word": "I",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "I",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "'I bought a fake health pass Â and then I caught Covid-19Â",
@@ -10560,18 +11286,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "I",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "I",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 6,
+            "n_possible": 24,
+            "concepts_found": [
+                {
+                    "word": "I",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "I",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "'I bought a fake health pass Â and then I caught Covid-19Â",
@@ -10660,18 +11392,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "I",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "I",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 9,
+            "n_possible": 36,
+            "concepts_found": [
+                {
+                    "word": "I",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "I",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "'I bought a fake health pass Â and then I caught Covid-19Â",
@@ -10775,18 +11513,24 @@
         ]
     },
     {
-        "concepts": [
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "AUX"
-            },
-            {
-                "word": "it",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            }
-        ],
+        "concepts": {
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 3,
+            "n_possible": 15,
+            "concepts_found": [
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "it",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
         "news": [
             {
                 "title": "ÂSuperhumanÂ immunity: What is it and what does it mean for the fight against Covid?",
