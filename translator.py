@@ -38,6 +38,7 @@ def to_english(new, lang):
     translator.raise_Exception = True
     if lang != "en":
         curr_news_en['en_title']= translator.translate(new['title'], src= lang, dest= "en").text
+        print(curr_news_en['en_title'])
     else:
         curr_news_en['en_title']= curr_news_en['title']
     print(curr_news_en)
