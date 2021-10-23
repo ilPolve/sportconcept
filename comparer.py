@@ -59,6 +59,7 @@ def compare_naif(news_a, news_b):
         similar= True
     else:
         similar= False
+    to_ret['similar']= similar
     to_ret['n_found']= couples
     to_ret['n_newA']= n_A
     to_ret['n_newB']= n_B
