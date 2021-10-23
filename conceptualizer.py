@@ -30,7 +30,7 @@ def pos_tagger(editions):
                 doc_title= nlp(new['en_title'])
                 for t_token in doc_title:
                     #print(t_token.text, t_token.dep_, t_token.head.pos_)
-                    if t_token.dep_ == "nsubj" or t_token.dep_ == "dobj" or t_token.dep_ == "pobj" or t_token.dep_ == "csubj":
+                    if t_token.pos_ == "NOUN" or t_token.pos_ == "PROPN":
                         concepts.append(create_concept(t_token.text, t_token.dep_, t_token.head.pos_))
                 #this s a try only because some news may not have a content field, in that case just skip
                 #currently not using it because it tends to analyze "sentence-per-sentence", going out of the project target
