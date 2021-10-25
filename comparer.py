@@ -75,7 +75,10 @@ def news_comparing(sources):
             for edition_a in sources[i]:
                 for edition_b in sources[j]:
                     for news_a in edition_a:
+                        #max = 2
                         for news_b in edition_b:
+                            #if max <= 0:
+                                #break
                             are_similar, concepts= compare_naif(news_a, news_b)
                             if are_similar:
                                 to_app= []
@@ -83,6 +86,7 @@ def news_comparing(sources):
                                 to_app.append(news_b)
                                 to_ret= {'concepts': concepts, 'news': to_app}
                                 simil.append(to_ret)
+                            #max-=1
     return simil
     
 

@@ -72,7 +72,7 @@ def getting_news(nation):
                 curr_news= json.load(f)
                 edition= []
                 for new in curr_news:
-                    new['filename'] = news.name
+                    new['filename'] = "conc_" + news.name
                     edition.append(new)
                 f.close()
                 editions.append(edition)
