@@ -38,7 +38,7 @@ def get_simm_list(directory):
     f.close()
     for simils in json_file:
         simm_list.append(simil_format(simils))
-        news_names[simil_format(simils)].append(simils["news"][0]["title"] + "_____is simil to_____" + simils["news"][1]["title"])
+        news_names[simil_format(simils)].append(simils["news"][0]["en_title"] + "_____is simil to_____" + simils["news"][1]["en_title"])
     return simm_list, news_names
 
 #a yattag function which creates the similarity table
@@ -65,7 +65,7 @@ def get_simm_table(to_tab, simils, simil_names, is_edit):
                                 with tag('th', klass = 'table-success', id=edition + "-" + edition_b):
                                     to_print= ""
                                     for titles in simil_names[edition+"-"+edition_b]:
-                                        to_print+= titles + "\n"
+                                        to_print+= titles + "-----------------"
                                     text(to_print)
                             else:
                                 with tag('th', klass = 'table-danger', id=edition + "-" + edition_b):
