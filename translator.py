@@ -5,16 +5,14 @@ import copy
 import time
 import httpx
 
-nations= ['CH', 'DE', 'FR', 'IT', 'UK', 'US']
+mysubdirs= ['edition/DE', 'edition/FR', 'edition/EN', 'edition/IT', 'flow/DE', 'flow/EN', "flow/IT"]
 edition_str_len= 15
 
 
-nation_to_lang= {'CH': 'fr',
+subdir_n_to_lang= {'FR': 'fr',
                  'DE': 'de',
-                 'FR': 'en',
                  'IT': 'it',
-                 'UK': 'en',
-                 'US': 'en'}
+                 'EN': 'en'}
 
 #A utility function which allows me to print Unicode encoded chars
 def unicode_fix(to_fix):
@@ -52,8 +50,8 @@ def to_english(new, lang):
     return curr_news_en
 
 #Function which populates arrays of news, based on eidition or flow type of news
-def news_translator(nation):
-    directory= "../newScraping/collectedNews/" + nation
+def news_translator(subdir_n):
+    directory= "../newScraping/collectedNews/" + subdir_n
     for subdir in os.scandir(directory):
         newspaper= subdir.name
         for news in os.scandir(subdir):
@@ -65,10 +63,12 @@ def news_translator(nation):
                 #adding new conceptual informations to the news
                 for curr_new in curr_news:
                     if curr_new['title'] != None:
-                        curr_new['language']= nation_to_lang[nation]
+                        subdir_n= subdir_n[(len(subdir_n)-2):(len(subdir_n))]
+                        print(subdir_n)
+                        curr_new['language']= subdir_n_to_lang[subdir_n]
                         curr_new['source']= newspaper
                         curr_new['filename']= news.name
-                        lang= nation_to_lang[nation]
+                        lang= subdir_n_to_lang[subdir_n]
                         time.sleep(0.1)
                         #now create a hardcopy in order to have the same new, but in English
                         curr_news_en= to_english(curr_new, lang)
@@ -80,5 +80,5 @@ def news_translator(nation):
                 json.dump(curr_edit, f, indent= 4, ensure_ascii= False)
                 f.close()
 
-for nation in nations:
-    news_translator(nation)
+for subdir_n in mysubdirs:
+    news_translator(subdir_n)
