@@ -16,7 +16,7 @@ flows_by_source= [[], [],[], [], []]
 #Semlice funzione che dato un file .json ne restituisce un oggetto sse contiene il campo "concepts"
 def jsonizer(directory):
     f= open(directory, "r+")
-    print(directory)
+    #print(directory)
     to_ret= json.load(f, encoding='mac_roman')
     f.close()
     to_append= False
@@ -75,19 +75,26 @@ def news_comparing(sources):
         for j in range(i+1, len(sources)):
             for edition_a in sources[i]:
                 for edition_b in sources[j]:
-                    for news_a in edition_a:
-                        #max = 2
-                        for news_b in edition_b:
-                            #if max <= 0:
-                                #break
-                            are_similar, concepts= compare_naif(news_a, news_b)
-                            if are_similar:
-                                to_app= []
-                                to_app.append(news_a)
-                                to_app.append(news_b)
-                                to_ret= {'concepts': concepts, 'news': to_app}
-                                simil.append(to_ret)
-                            #max-=1
+                    try:
+                        date_a = edition_a[0]['date']
+                        date_b = edition_b[0]['date']
+                    except:
+                        date_a = edition_a[0]['date_raw']
+                        date_b = edition_b[0]['date_raw']
+                    if date_a == date_b: 
+                        for news_a in edition_a:
+                            #max = 2
+                            for news_b in edition_b:
+                                #if max <= 0:
+                                    #break
+                                are_similar, concepts= compare_naif(news_a, news_b)
+                                if are_similar:
+                                    to_app= []
+                                    to_app.append(news_a)
+                                    to_app.append(news_b)
+                                    to_ret= {'concepts': concepts, 'news': to_app}
+                                    simil.append(to_ret)
+                                #max-=1
     return simil
     
 

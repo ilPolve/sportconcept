@@ -42,9 +42,13 @@ def pos_tagger(editions):
                             #concepts.append(create_concept(c_token.text, c_token.dep_, c_token.head.pos_))
                 #except:
                     #pass
+                try:
+                    act_date = new['date']
+                except:
+                    act_date = new['date_raw']
                 conceptitle={'title': new['title'],
                             'en_title': new['en_title'],
-                            'date': new['date'],
+                            'date': act_date,
                             'language': new['language'],
                             'source': new['source'],
                             'concepts': concepts}
@@ -54,7 +58,7 @@ def pos_tagger(editions):
             to_ret.append(c_edit)
             if len(edition) > 0:
                 os.remove(basedir + my_subdir + "/" + edition[0]['source'] + "/" + edition[0]['filename'][5:])
-                f= open(basedir + my_subdir + "/" + edition[0]['source'] + "/conc_" + edition[0]['filename'][5:], "w")
+                f= open(basedir + my_subdir + "/" + edition[0]['source'] + "/conc_" + edition[0]['filename'][5:], "w") 
                 json.dump(edition, f, ensure_ascii = False, indent= 4)
                 f.close()
     return to_ret
