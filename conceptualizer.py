@@ -2,7 +2,7 @@ import json
 import os
 import spacy
 
-nations= ['CH', 'DE', 'FR', 'IT', 'UK', 'US']
+my_subdirs= ['edition/DE', 'edition/FR', 'edition/EN', 'edition/IT', 'flow/DE', 'flow/EN', 'flow/IT']
 
 nlp= spacy.load("en_core_web_sm")
 
@@ -19,11 +19,11 @@ def pos_tagger(editions):
             c_edit= []
             for new in edition:
                 concepts= []
-                #if new['nation']== "CH" or new['nation']=="FR":
+                #if new['my_subdir']== "CH" or new['my_subdir']=="FR":
                     #nlp= fr_nlp
-                #elif new['nation']== "UK" or new['nation']=="US":
+                #elif new['my_subdir']== "UK" or new['my_subdir']=="US":
                     #nlp= en_nlp
-                #elif new['nation']== "IT":
+                #elif new['my_subdir']== "IT":
                     #nlp= it_nlp
                 #Choosing the right nlp-parser due to the news languages
                 #nlp-ing the title
@@ -53,22 +53,22 @@ def pos_tagger(editions):
                 c_edit.append(conceptitle)
             to_ret.append(c_edit)
             if len(edition) > 0:
-                os.remove(basedir + nation + "/" + edition[0]['source'] + "/" + edition[0]['filename'])
-                f= open(basedir + nation + "/" + edition[0]['source'] + "/conc_" + edition[0]['filename'], "w")
+                os.remove(basedir + my_subdir + "/" + edition[0]['source'] + "/" + edition[0]['filename'][5:])
+                f= open(basedir + my_subdir + "/" + edition[0]['source'] + "/conc_" + edition[0]['filename'][5:], "w")
                 json.dump(edition, f, ensure_ascii = False, indent= 4)
                 f.close()
     return to_ret
         
 
-def getting_news(nation):
-    directory= basedir + nation
+def getting_news(my_subdir):
+    directory= basedir + my_subdir
     nat_ed= []
     for subdir in os.scandir(directory):
         newspaper= subdir.name
         editions= []
         for news in os.scandir(subdir):
             if(news.name[0:2] == "en"):
-                f= open(directory + "/" + newspaper + "/" + news.name, "r+", encoding= "latin-1")            
+                f= open(directory + "/" + newspaper + "/" + news.name, "r+", encoding= "latin-1")         
                 curr_news= json.load(f)
                 edition= []
                 for new in curr_news:
@@ -79,5 +79,5 @@ def getting_news(nation):
         nat_ed.append(editions)
     return nat_ed 
 
-for nation in nations:
-    pos_tagger(getting_news(nation))
+for my_subdir in my_subdirs:
+    pos_tagger(getting_news(my_subdir))

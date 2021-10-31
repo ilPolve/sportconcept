@@ -5,7 +5,7 @@ import copy
 import time
 import httpx
 
-mysubdirs= ['edition/DE', 'edition/FR', 'edition/EN', 'edition/IT', 'flow/DE', 'flow/EN', "flow/IT"]
+mysubdirs= ['edition/DE', 'edition/FR', 'edition/EN', 'edition/IT', 'flow/DE', 'flow/EN', 'flow/IT']
 edition_str_len= 15
 
 
