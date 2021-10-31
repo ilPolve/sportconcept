@@ -1,7 +1,7 @@
 import json
 import os
 
-nations= ['CH', 'DE', 'FR', 'IT', 'UK', 'US']
+my_subdirs= ['edition/DE', 'edition/FR', 'edition/EN', 'edition/IT', 'flow/DE', 'flow/EN', 'flow/IT']
 
 ed_type= ["RTS", "Tagesschau", "Zdf", "France24", "GR1", "PBS"]
 flow_type= ["Zeit", "Televideo", "ilPost", "BBC", "NYT"]
@@ -16,7 +16,8 @@ flows_by_source= [[], [],[], [], []]
 #Semlice funzione che dato un file .json ne restituisce un oggetto sse contiene il campo "concepts"
 def jsonizer(directory):
     f= open(directory, "r+")
-    to_ret= json.load(f)
+    print(directory)
+    to_ret= json.load(f, encoding='mac_roman')
     f.close()
     to_append= False
     if 'concepts' in to_ret[0]:
@@ -24,8 +25,8 @@ def jsonizer(directory):
     return to_append, to_ret
 
 #Funzione ausiliaria che data una nazione e un giornale, aggiunge le sue edizioni (o i suoi flussi) al relativo array
-def news_getter(nation, source):
-    directory= "../newScraping/collectedNews/" + nation + "/" + source
+def news_getter(my_subdir, source):
+    directory= "../newScraping/collectedNews/" + my_subdir + "/" + source
     if source in ed_type:
         for to_append in os.scandir(directory):
             should_i, to_append= jsonizer(directory + "/" + to_append.name)
@@ -91,11 +92,11 @@ def news_comparing(sources):
     
 
 
-for nation in nations:
-    dir= "../newScraping/collectedNews/" + nation
+for my_subdir in my_subdirs:
+    dir= "../newScraping/collectedNews/" + my_subdir
     for source_dir in os.scandir(dir):
         source= source_dir.name
-        news_getter(nation, source)
+        news_getter(my_subdir, source)
 f= open("editions_simils.txt", "w")
 simil_ed = news_comparing(editions_by_source)
 json.dump(simil_ed, f, indent= 4, ensure_ascii= False)
