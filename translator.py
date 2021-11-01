@@ -14,6 +14,10 @@ subdir_n_to_lang= {'FR': 'fr',
                  'IT': 'it',
                  'EN': 'en'}
 
+def main():
+    for subdir_n in mysubdirs:
+        news_translator(subdir_n)
+
 #A utility function which allows me to print Unicode encoded chars
 def unicode_fix(to_fix):
     for news in to_fix:
@@ -80,9 +84,6 @@ def news_translator(subdir_n):
                 json.dump(curr_edit, f, indent= 4, ensure_ascii= False)
                 f.close()
 
-def main():
-    for subdir_n in mysubdirs:
-        news_translator(subdir_n)
 
 if __name__ == "__main__":
     main()

@@ -4,12 +4,36 @@ from collections import defaultdict
 from yattag import Doc
 from yattag import indent
 
-editions_name= ["CH/RTS/", "DE/Tagesschau/", "DE/Zdf/",
-                "FR/France24/", "IT/GR1/", "US/PBS/"]
+editions_name= ["edition/FR/RTS/", "edition/DE/Tagesschau/", "edition/DE/Zdf/",
+                "edition/EN/France24/", "edition/IT/GR1/", "edition/EN/PBS/"]
 
-flows_name= [ "DE/Zeit/", "IT/ilPost/", "IT/Televideo/", "UK/BBC/", "US/NYT/"]
+flows_name= [ "flow/DE/Zeit/", "flow/IT/ilPost/", "flow/IT/Televideo/", "flow/EN/BBC/", "flow/EN/NYT/"]
 
-editions_name = ["CH/RTS/", "DE/Tagesschau", "FR/France24"]
+#editions_name = ["CH/RTS/", "DE/Tagesschau", "FR/France24"]
+
+
+            
+def main():
+    #giorno di cui visualizzare la tabella di somiglianza tra notizie
+    day = "2021-10-28"
+    #editions = get_editions(editions_name)
+    #flows = get_editions(flows_name)
+    editions_title = get_news(editions_name, day)
+    flows_title = get_news(flows_name, day)
+
+    #editions_simils, edit_names = get_simm_list("editions_simils.txt")
+    #flows_simils, flow_names = get_simm_list("flows_simils.txt")
+    editions_simils_title, edit_names_title = get_simils_by_title("editions_simils.txt", day)
+    flows_simils_title, flow_names_title = get_simils_by_title("flows_simils.txt", day)
+
+    #get_simm_table(editions, editions_simils, edit_names, True)
+    #get_simm_table(flows, flows_simils, flow_names, False)
+    get_simm_table_title(editions_title, editions_simils_title, edit_names_title, True)
+    get_simm_table_title(flows_title, flows_simils_title, flow_names_title, False)
+
+    #print(editions)
+    #print(flows)
+
 
 #a function that deletes from filenames utility strings
 def string_format(to_format):
@@ -37,7 +61,7 @@ def get_editions(to_get):
             to_ret.append(string_format(source + "/" + found.name))
     return to_ret
 
-def get_news(to_get):
+def get_news(to_get, day):
     titles = []
     for subdir in to_get:
         directory = "../newScraping/collectedNews/" + subdir
@@ -45,9 +69,14 @@ def get_news(to_get):
             f= open(directory + "/" + jfile.name, "r+")
             curr_news= json.load(f)
             f.close()
-            for new in curr_news:
-                if jfile.name[0] == 'e' or jfile.name[0] == 'c':
-                    titles.append(new['en_title'] + "___in edition___" + new['source'] + "/" + string_format(new['filename']))
+            try:
+                curr_date = curr_news[0]['date']
+            except:
+                curr_date = curr_news[0]['date_raw']
+            if curr_date == day:
+                for new in curr_news:
+                    if jfile.name[0] == 'e' or jfile.name[0] == 'c':
+                        titles.append(new['en_title'] + "___in edition___" + new['source'] + "/" + string_format(new['filename']))
     return titles
 
 
@@ -64,16 +93,21 @@ def get_simm_list(directory):
     return simm_list, news_names
 
 
-def get_simils_by_title(filename):
+def get_simils_by_title(filename, day):
     concept_names = defaultdict(list)
     simm_list= []
     f= open(filename, "r+")
     json_file= json.load(f)
     f.close()
     for simils in json_file:
-        simm_list.append(simil_format_title(simils))
-        for to_app in simils['concepts']['concepts_found']:
-            concept_names[simil_format_title(simils)].append(to_app['word'])
+        try:
+            curr_date = simils['news'][0]['date']
+        except:
+            curr_date = simils['news'][0]['date_raw']
+        if curr_date == day:
+            simm_list.append(simil_format_title(simils))
+            for to_app in simils['concepts']['concepts_found']:
+                concept_names[simil_format_title(simils)].append(to_app['word'])
     return simm_list, concept_names
 
 #a yattag function which creates the similarity table
@@ -133,10 +167,10 @@ def get_simm_table_title(to_tab, simils, simil_concepts, is_edit):
                         with tag('th', ('scope', 'row'), id="row_"+title):
                             text(title)
                         for title_b in to_tab:
-                            if title + "--" + title_b in simils:
+                            if title[:title.index("_")] + "--" + title_b[:title_b.index("_")] in simils:
                                 with tag('th', klass= 'table-success', id= title + "--" + title_b):
                                     to_print= ""
-                                    for concepts in simil_concepts[title+"--"+title_b]:
+                                    for concepts in simil_concepts[title[:title.index("_")]+"--"+title_b[:title_b.index("_")]]:
                                         to_print+=concepts + "--------------"
                                     text(to_print)
                             else:
@@ -148,26 +182,6 @@ def get_simm_table_title(to_tab, simils, simil_concepts, is_edit):
         f= open("flows_title.html", "w")
     f.write(indent(doc.getvalue()))
     f.close()
-
-            
-def main():
-    editions = get_editions(editions_name)
-    flows = get_editions(flows_name)
-    editions_title = get_news(editions_name)
-    #flows_title = get_news(flows_name)
-
-    #editions_simils, edit_names = get_simm_list("editions_simils.txt")
-    #flows_simils, flow_names = get_simm_list("flows_simils.txt")
-    editions_simils_title, edit_names_title = get_simils_by_title("editions_simils.txt")
-    #flows_simils_title, flow_names_title = get_simils_by_title("flows_simils.txt")
-
-    #get_simm_table(editions, editions_simils, edit_names, True)
-    #get_simm_table(flows, flows_simils, flow_names, False)
-    get_simm_table_title(editions_title, editions_simils_title, edit_names_title, True)
-    #get_simm_table_title(flows_title, flows_simils_title, flow_names_title, False)
-
-    #print(editions)
-    #print(flows)
 
 if __name__ == "__main__":
     main()

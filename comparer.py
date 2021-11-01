@@ -141,5 +141,4 @@ def news_comparing(edition_a, edition_b):
     return simil
 
 if __name__ == "__main__":
-    print("ciao")
     main()
