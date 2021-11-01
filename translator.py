@@ -80,5 +80,9 @@ def news_translator(subdir_n):
                 json.dump(curr_edit, f, indent= 4, ensure_ascii= False)
                 f.close()
 
-for subdir_n in mysubdirs:
-    news_translator(subdir_n)
+def main():
+    for subdir_n in mysubdirs:
+        news_translator(subdir_n)
+
+if __name__ == "__main__":
+    main()

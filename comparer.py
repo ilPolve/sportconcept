@@ -98,17 +98,20 @@ def news_comparing(sources):
     return simil
     
 
+def main():
+    for my_subdir in my_subdirs:
+        dir= "../newScraping/collectedNews/" + my_subdir
+        for source_dir in os.scandir(dir):
+            source= source_dir.name
+            news_getter(my_subdir, source)
+    f= open("editions_simils.txt", "w")
+    simil_ed = news_comparing(editions_by_source)
+    json.dump(simil_ed, f, indent= 4, ensure_ascii= False)
+    f.close()
+    f= open("flows_simils.txt", "w")
+    simil_fl = news_comparing(flows_by_source)
+    json.dump(simil_fl, f, indent= 4, ensure_ascii= False)
+    f.close()
 
-for my_subdir in my_subdirs:
-    dir= "../newScraping/collectedNews/" + my_subdir
-    for source_dir in os.scandir(dir):
-        source= source_dir.name
-        news_getter(my_subdir, source)
-f= open("editions_simils.txt", "w")
-simil_ed = news_comparing(editions_by_source)
-json.dump(simil_ed, f, indent= 4, ensure_ascii= False)
-f.close()
-f= open("flows_simils.txt", "w")
-simil_fl = news_comparing(flows_by_source)
-json.dump(simil_fl, f, indent= 4, ensure_ascii= False)
-f.close()
+if __name__ == "__main__":
+    main()

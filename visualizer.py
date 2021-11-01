@@ -150,21 +150,24 @@ def get_simm_table_title(to_tab, simils, simil_concepts, is_edit):
     f.close()
 
             
+def main():
+    editions = get_editions(editions_name)
+    flows = get_editions(flows_name)
+    editions_title = get_news(editions_name)
+    #flows_title = get_news(flows_name)
 
-editions = get_editions(editions_name)
-flows = get_editions(flows_name)
-editions_title = get_news(editions_name)
-#flows_title = get_news(flows_name)
+    #editions_simils, edit_names = get_simm_list("editions_simils.txt")
+    #flows_simils, flow_names = get_simm_list("flows_simils.txt")
+    editions_simils_title, edit_names_title = get_simils_by_title("editions_simils.txt")
+    #flows_simils_title, flow_names_title = get_simils_by_title("flows_simils.txt")
 
-#editions_simils, edit_names = get_simm_list("editions_simils.txt")
-#flows_simils, flow_names = get_simm_list("flows_simils.txt")
-editions_simils_title, edit_names_title = get_simils_by_title("editions_simils.txt")
-#flows_simils_title, flow_names_title = get_simils_by_title("flows_simils.txt")
+    #get_simm_table(editions, editions_simils, edit_names, True)
+    #get_simm_table(flows, flows_simils, flow_names, False)
+    get_simm_table_title(editions_title, editions_simils_title, edit_names_title, True)
+    #get_simm_table_title(flows_title, flows_simils_title, flow_names_title, False)
 
-#get_simm_table(editions, editions_simils, edit_names, True)
-#get_simm_table(flows, flows_simils, flow_names, False)
-get_simm_table_title(editions_title, editions_simils_title, edit_names_title, True)
-#get_simm_table_title(flows_title, flows_simils_title, flow_names_title, False)
+    #print(editions)
+    #print(flows)
 
-#print(editions)
-#print(flows)
+if __name__ == "__main__":
+    main()

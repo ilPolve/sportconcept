@@ -12,7 +12,7 @@ def create_concept(word, meaning, pos):
     concept= {'word': word, 'meaning': meaning, 'pos': pos}
     return concept
 
-def pos_tagger(editions):
+def pos_tagger(editions, my_subdir):
     to_ret= []
     for nat_ed in editions:
         for edition in nat_ed:
@@ -83,5 +83,9 @@ def getting_news(my_subdir):
         nat_ed.append(editions)
     return nat_ed 
 
-for my_subdir in my_subdirs:
-    pos_tagger(getting_news(my_subdir))
+def main():
+    for my_subdir in my_subdirs:
+        pos_tagger(getting_news(my_subdir), my_subdir)
+
+if __name__ == "__main__":
+    main()
