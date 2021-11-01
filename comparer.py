@@ -12,6 +12,29 @@ source_conv= {'RTS': 0, 'Tagesschau': 1, 'Zdf': 2, 'France24': 3, 'GR1': 4, 'PBS
 editions_by_source= [[], [], [], [], [], []]
 flows_by_source= [[], [],[], [], []]
 
+simil_clean = []
+
+def main():
+    for my_subdir in my_subdirs:
+        dir= "../newScraping/collectedNews/" + my_subdir
+        for source_dir in os.scandir(dir):
+            source= source_dir.name
+            news_getter(my_subdir, source)
+    f= open("editions_simils.txt", "w")
+    simil_ed = source_comparing(editions_by_source)
+    #next three lines are for a simpler visualization of the simil_file
+    global simil_clean
+    simil_ed = simil_clean
+    simil_clean = []
+    json.dump(simil_ed, f, indent= 4, ensure_ascii= False)
+    f.close()
+    f= open("flows_simils.txt", "w")
+    simil_fl = source_comparing(flows_by_source)
+    #next two lines are for a simpler visualization of the simil_file
+    simil_fl = simil_clean
+    simil_clean =[]
+    json.dump(simil_fl, f, indent= 4, ensure_ascii= False)
+    f.close()
 
 #Semlice funzione che dato un file .json ne restituisce un oggetto sse contiene il campo "concepts"
 def jsonizer(directory):
@@ -31,11 +54,13 @@ def news_getter(my_subdir, source):
         for to_append in os.scandir(directory):
             should_i, to_append= jsonizer(directory + "/" + to_append.name)
             if should_i:
+                global editions_by_source
                 editions_by_source[source_conv[source]].append(to_append)
     elif source in flow_type:
             for to_append in os.scandir(directory):
                 should_i, to_append= jsonizer(directory + "/" + to_append.name)
                 if should_i:
+                    global flows_by_source
                     flows_by_source[source_conv[source]].append(to_append)
     else:
         print("Source not recognized")
@@ -68,50 +93,53 @@ def compare_naif(news_a, news_b):
     to_ret['concepts_found']= conc_to_ret
     return similar, to_ret
 
-#Funzione che dato un array di giornali, restituisce una lista di notizie simili con concatenati i concetti simili
-def news_comparing(sources):
-    simil= []
+#Funzione che dato un array di sources di notizie, restituisce le coppie di notizie dello stesso giorno simili
+def source_comparing(sources):
+    to_ret= []
     for i in range(0, len(sources)):
         for j in range(i+1, len(sources)):
-            for edition_a in sources[i]:
-                for edition_b in sources[j]:
-                    try:
-                        date_a = edition_a[0]['date']
-                        date_b = edition_b[0]['date']
-                    except:
-                        date_a = edition_a[0]['date_raw']
-                        date_b = edition_b[0]['date_raw']
-                    if date_a == date_b: 
-                        for news_a in edition_a:
-                            #max = 2
-                            for news_b in edition_b:
-                                #if max <= 0:
-                                    #break
-                                are_similar, concepts= compare_naif(news_a, news_b)
-                                if are_similar:
-                                    to_app= []
-                                    to_app.append(news_a)
-                                    to_app.append(news_b)
-                                    to_ret= {'concepts': concepts, 'news': to_app}
-                                    simil.append(to_ret)
-                                #max-=1
-    return simil
-    
+            temp = edition_comparing(sources[i], sources[j])
+            if len(temp) > 0:
+                to_ret.append(temp)
+    return to_ret
 
-def main():
-    for my_subdir in my_subdirs:
-        dir= "../newScraping/collectedNews/" + my_subdir
-        for source_dir in os.scandir(dir):
-            source= source_dir.name
-            news_getter(my_subdir, source)
-    f= open("editions_simils.txt", "w")
-    simil_ed = news_comparing(editions_by_source)
-    json.dump(simil_ed, f, indent= 4, ensure_ascii= False)
-    f.close()
-    f= open("flows_simils.txt", "w")
-    simil_fl = news_comparing(flows_by_source)
-    json.dump(simil_fl, f, indent= 4, ensure_ascii= False)
-    f.close()
+#Funzione che dati due array di edizioni, restituisce le coppie di notizie dello stesso giorno simili
+def edition_comparing(editions_a, editions_b):
+    to_ret = []
+    for edition_a in editions_a:
+        for edition_b in editions_b:
+            try:
+                date_a = edition_a[0]['date']
+                date_b = edition_b[0]['date']
+            except:
+                date_a = edition_a[0]['date_raw']
+                date_b = edition_b[0]['date_raw']
+            if date_a == date_b:
+                temp = news_comparing(edition_a, edition_b)
+                if len(temp) > 0:
+                    to_ret.append(temp)
+    return to_ret
+
+#Funzione che dati due array di notizie, restituisce una lista di notizie simili con concatenati i concetti simili
+def news_comparing(edition_a, edition_b):
+    simil= []
+    for news_a in edition_a:
+        #max = 2
+        for news_b in edition_b:
+            #if max <= 0:
+                 #break
+            are_similar, concepts= compare_naif(news_a, news_b)
+            if are_similar:
+                to_app= []
+                to_app.append(news_a)
+                to_app.append(news_b)
+                to_ret= {'concepts': concepts, 'news': to_app}
+                global simil_clean
+                simil_clean.append(to_ret)
+                simil.append(to_ret)
+                #max-=1
+    return simil
 
 if __name__ == "__main__":
+    print("ciao")
     main()
