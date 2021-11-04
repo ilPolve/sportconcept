@@ -1,0 +1,822 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Erste Sitzung des neuen Bundestags und Wahl des PrÃÂ¤sidiums",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1635324290.628036,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "First meeting of the new Bundestag and choice of the Presidium",
+            "concepts": [
+                {
+                    "word": "meeting",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Bundestag",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "choice",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Presidium",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " BundesprÃÂ¤sident Steinmeier ÃÂ¼berreicht Entlassungs-Urkunden an Regierung der vergangenen Wahlperiode",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1635324290.628062,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Federal President Steinmeier passes dismissal documents to the government of the past electoral period",
+            "concepts": [
+                {
+                    "word": "President",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Steinmeier",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "dismissal",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "documents",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "period",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Konstituierende Sitzung des Landtags von Mecklenburg-Vorpommern",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1635324290.6280777,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Constituent meeting of the state parliament of Mecklenburg-Vorpommern",
+            "concepts": [
+                {
+                    "word": "meeting",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "state",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "parliament",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Mecklenburg",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vorpommern",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Reform soll Arbeit des Bundesnachrichtendienstes effektiver machen",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1635324290.6280925,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Reform should make work of the Federal Court of First Instance",
+            "concepts": [
+                {
+                    "word": "Reform",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "work",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Federal",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Court",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "First",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Instance",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " EU-Energieminister finden kein einheitliches Vorgehen gegen Anstieg der Energiepreise",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1635324290.628105,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "EU energy ministers find no consistent approach to increase in energy prices",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "energy",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ministers",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "approach",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "energy",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prices",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " UN-Sicherheitsrat berÃÂ¤t ÃÂ¼ber Lage im Sudan nach MilitÃÂ¤rputsch",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1635324290.6281178,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "UN Security Council Board at Sudan to Military Cut",
+            "concepts": [
+                {
+                    "word": "UN",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Security",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Board",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Sudan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Military",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cut",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Laut Bitcom-Umfrage kritisiert die Mehrheit der BevÃÂ¶lkerung mangelnde Digitalisierung der Verwaltungen",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1635324290.6281302,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "According to Bitcom survey, the majority of population criticizes lack of digitization of administrations",
+            "concepts": [
+                {
+                    "word": "Bitcom",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "survey",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "majority",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "population",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "lack",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "digitization",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "administrations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Neuer Trainer beim VfL Wolfsburg wird Florian Kohfeldt",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1635324290.6281424,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "New coach at VfL Wolfsburg is Florian Kohfeldt",
+            "concepts": [
+                {
+                    "word": "coach",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "VfL",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wolfsburg",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Florian",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kohfeldt",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": " WM-Qualifikation der Frauen: Deutschland gegen Israel",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1635324290.628154,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "World Cup qualification of women: Germany against Israel",
+            "concepts": [
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cup",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "qualification",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "women",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Israel",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Schauspieler Arved Birnbaum gestorben",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1635324290.6281662,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Actor Arved Birnbaum died",
+            "concepts": [
+                {
+                    "word": "Actor",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Arved",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Birnbaum",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "10",
+            "epoch": 1635324290.628183,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "The weather",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Dems make progress in Biden agenda talks, but agreement may still take time",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/dems-make-progress-in-biden-agenda-talks-but-agreement-may-still-take-time",
+            "duration": "6 min",
+            "ranked": 0,
+            "epoch": 1635368411.9844718,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Dems make progress in Biden agenda talks, but agreement may still take time",
+            "concepts": [
+                {
+                    "word": "Dems",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "progress",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Biden",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "agenda",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "talks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "agreement",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "time",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "News Wrap: FDA advisers back Pfizer vaccine for kids 5 to 11",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-fda-advisers-back-pfizer-vaccine-for-kids-5-to-11",
+            "duration": "6 min",
+            "ranked": 1,
+            "epoch": 1635368411.9844744,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "News Wrap: FDA advisers back Pfizer vaccine for kids 5 to 11",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "FDA",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "advisers",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Pfizer",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "kids",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "U.S. Northeast, Midwest hit by big storms; West Coast recovers from Ã¢ÂÂbomb cyclonesÃ¢ÂÂ",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/u-s-northeast-midwest-hit-by-big-storms-west-coast-recovers-from-bomb-cyclones",
+            "duration": "2 min",
+            "ranked": 2,
+            "epoch": 1635368411.9844754,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "U.S. Northeast, Midwest hit by big storms; West Coast recovers from Ã¢ÂÂbomb cyclonesÃ¢ÂÂ",
+            "concepts": [
+                {
+                    "word": "U.S.",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Northeast",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Midwest",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "storms",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "West",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Coast",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cyclonesÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Why cuts to proposed federal paid leave policy could be a Ã¢ÂÂhuge lossÃ¢ÂÂ to Americans",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/why-cuts-to-proposed-federal-paid-leave-policy-could-be-a-huge-loss-to-americans",
+            "duration": "8 min",
+            "ranked": 3,
+            "epoch": 1635368411.9844759,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Why cuts to proposed federal paid leave policy could be a Ã¢ÂÂhuge lossÃ¢ÂÂ to Americans",
+            "concepts": [
+                {
+                    "word": "leave",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "policy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "lossÃ¢ÂÂ",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Americans",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "KidsÃ¢ÂÂ mental health, safety in the spotlight as social media execs face Congress",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/kids-mental-healthy-safety-in-the-spotlight-as-social-media-execs-face-congress",
+            "duration": "9 min",
+            "ranked": 4,
+            "epoch": 1635368411.9844763,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "KidsÃ¢ÂÂ mental health, safety in the spotlight as social media execs face Congress",
+            "concepts": [
+                {
+                    "word": "health",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "safety",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "spotlight",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "media",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "execs",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Congress",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "One Afghan refugee on her Ã¢ÂÂdesperate hopeÃ¢ÂÂ for her homeland, life in the U.S.",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/one-afghan-refugee-on-her-desperate-hope-for-her-homeland-life-in-the-u-s",
+            "duration": "8 min",
+            "ranked": 5,
+            "epoch": 1635368411.984477,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "One Afghan refugee on her Ã¢ÂÂdesperate hopeÃ¢ÂÂ for her homeland, life in the U.S.",
+            "concepts": [
+                {
+                    "word": "refugee",
+                    "meaning": "dep",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hopeÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "homeland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "life",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "U.S.",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Jobs requiring college degrees disqualify most U.S. workers Ã¢ÂÂ especially workers of color",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/jobs-requiring-college-degrees-disqualify-most-u-s-workers-especially-workers-of-color",
+            "duration": "9 min",
+            "ranked": 6,
+            "epoch": 1635368411.9844775,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Jobs requiring college degrees disqualify most U.S. workers Ã¢ÂÂ especially workers of color",
+            "concepts": [
+                {
+                    "word": "Jobs",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "college",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "degrees",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "U.S.",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "workers",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "workers",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "color",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Drought-stricken California faces rise in water theft by illegal marijuana farms",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/drought-stricken-california-faces-rise-in-water-theft-by-illegal-marijuana-farms",
+            "duration": "5 min",
+            "ranked": 7,
+            "epoch": 1635368411.984478,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Drought-stricken California faces rise in water theft by illegal marijuana farms",
+            "concepts": [
+                {
+                    "word": "Drought",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "California",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "rise",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "water",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "theft",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "marijuana",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "farms",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,773 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Un rÃÂ©fÃÂ©rendum est lancÃÂ© contre le crÃÂ©dit fÃÂ©dÃÂ©ral destinÃÂ© ÃÂ  Frontex",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773623.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/un-referendum-est-lance-contre-le-credit-federal-destine-a-frontex-25773606.html",
+            "duration": "01:42",
+            "ranked": 0,
+            "epoch": 1635627609.3582914,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "A renderer is launched against the Federal Federal Created",
+            "concepts": [
+                {
+                    "word": "renderer",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Federal",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Federal",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Le Parlement jurassien refuse la crÃÂ©ation d'une commission d'enquÃÂªte sur les violences domestiques",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773623.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-parlement-jurassien-refuse-la-creation-d-une-commission-d-enquete-sur-les-violences-domestiques-25773605.html",
+            "duration": "01:32",
+            "ranked": 1,
+            "epoch": 1635627609.3582938,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "The JuraSien Parliament refuses the creation of a domestic violence investigation commission",
+            "concepts": [
+                {
+                    "word": "JuraSien",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Parliament",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "creation",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "investigation",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "commission",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le HC Sierre pourrait enfin se voir accorder une nouvelle patinoire",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773623.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-hc-sierre-pourrait-enfin-se-voir-accorder-une-nouvelle-patinoire-25773608.html",
+            "duration": "01:52",
+            "ranked": 2,
+            "epoch": 1635627609.3582947,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "The HC Sierre could finally be granted a new ice rink",
+            "concepts": [
+                {
+                    "word": "HC",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Sierre",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ice",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rink",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Les chiffres de prÃÂ©vision de croissance en Allemagne sont fortement revus ÃÂ  la baisse",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773623.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-chiffres-de-prevision-de-croissance-en-allemagne-sont-fortement-revus-a-la-baisse-25773614.html",
+            "duration": "01:06",
+            "ranked": 3,
+            "epoch": 1635627609.358296,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Growth planning figures in Germany are strongly reviewed downwards",
+            "concepts": [
+                {
+                    "word": "Growth",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "planning",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "figures",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "downwards",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "OpÃÂ©ration de la police genevoise pour traquer les deux-roues trop bruyants",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773623.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/operation-de-la-police-genevoise-pour-traquer-les-deux-roues-trop-bruyants-25773611.html",
+            "duration": "01:36",
+            "ranked": 4,
+            "epoch": 1635627609.3582966,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "OPERATION OF THE GENEVOIC POLICE TO TRACK BUILD TWO DOES",
+            "concepts": [
+                {
+                    "word": "OPERATION",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "GENEVOIC",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "POLICE",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "TRACK",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "BUILD",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "TWO",
+                    "meaning": "pobj",
+                    "pos": "PART"
+                }
+            ]
+        },
+        {
+            "title": "Les Etats-Unis tentent une nouvelle fois de faire extrader Julian Assange",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773623.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-etats-unis-tentent-une-nouvelle-fois-de-faire-extrader-julian-assange-25773612.html",
+            "duration": "01:43",
+            "ranked": 5,
+            "epoch": 1635627609.3582976,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "The United States is trying again to make extrader Julian Assange",
+            "concepts": [
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "States",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "extrader",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Julian",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Assange",
+                    "meaning": "punct",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "L'Australie veut atteindre la neutralitÃÂ© carbone en 2050 sans pour autant changer ses habitudes",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773623.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-australie-veut-atteindre-la-neutralite-carbone-en-2050-sans-pour-autant-changer-ses-habitudes-25773613.html",
+            "duration": "01:25",
+            "ranked": 6,
+            "epoch": 1635627609.3582983,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Australia wants to reach the neutrality carbon in 2050 without changing its habits",
+            "concepts": [
+                {
+                    "word": "Australia",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "neutrality",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "carbon",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "habits",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Le mouvement \"Street Stitchers\" encourage les Britanniques ÃÂ  s'habiller de maniÃÂ¨re plus responsable",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773623.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-mouvement-street-stitchers-encourage-les-britanniques-a-s-habiller-de-maniere-plus-responsable-25773618.html",
+            "duration": "02:31",
+            "ranked": 7,
+            "epoch": 1635627609.358299,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "The \"Street Stitchers\" movement encourages the British to dress more responsible",
+            "concepts": [
+                {
+                    "word": "Street",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Stitchers",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "movement",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "British",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Football: Etoile-Carouge s'apprÃÂªte ÃÂ  affronter BÃÂ¢le ce mercredi",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773623.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/football-etoile-carouge-s-apprete-a-affronter-bale-ce-mercredi-25773616.html",
+            "duration": "01:35",
+            "ranked": 8,
+            "epoch": 1635627609.3583002,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Football: Etoile-Carouge is getting ready to face BÃ Â¢ on Wednesday",
+            "concepts": [
+                {
+                    "word": "Football",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Etoile",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Carouge",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "BÃ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Wednesday",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le Suisse David Schmid est sacrÃÂ© meilleur pÃÂ¢tissier du monde",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773623.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-suisse-david-schmid-est-sacre-meilleur-patissier-du-monde-25773617.html",
+            "duration": "01:03",
+            "ranked": 9,
+            "epoch": 1635627609.358301,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Switzerland David Schmid is sacred best fabrics of the world",
+            "concepts": [
+                {
+                    "word": "Switzerland",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "David",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Schmid",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "fabrics",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "world",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "L'invitÃÂ©e du 12h30 - Brigitte Glutz-Ruedin publie \"Sept personnalitÃÂ©s en Valais\"",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773623.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invitee-du-12h30-brigitte-glutz-ruedin-publie-sept-personnalites-en-valais-25773625.html",
+            "duration": "10:19",
+            "ranked": 10,
+            "epoch": 1635627609.3583016,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "The guest of 12:30 - Brigitte Glutz-Ruedin publishes \"Seven Personalities in Valais\"",
+            "concepts": [
+                {
+                    "word": "guest",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Brigitte",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Glutz",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ruedin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Personalities",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Valais",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Paid family leave, billionaire tax likely cut from spending bill over Manchin opposition",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/paid-family-leave-billionaire-tax-likely-cut-from-spending-bill-over-manchin-opposition",
+            "duration": "5 min",
+            "ranked": 0,
+            "epoch": 1635454819.362047,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Paid family leave, billionaire tax likely cut from spending bill over Manchin opposition",
+            "concepts": [
+                {
+                    "word": "family",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "billionaire",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tax",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "spending",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "bill",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "opposition",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "A billionaire tax is unlikely. HereÃ¢ÂÂs other ways Dems want to pay for their spending bill",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/a-billionaire-tax-is-unlikely-heres-other-ways-dems-want-to-pay-for-their-spending-bill",
+            "duration": "7 min",
+            "ranked": 1,
+            "epoch": 1635454819.3620486,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "A billionaire tax is unlikely. HereÃ¢ÂÂs other ways Dems want to pay for their spending bill",
+            "concepts": [
+                {
+                    "word": "billionaire",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tax",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "ways",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Dems",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "spending",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "bill",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "News Wrap: Immigration arrests inside the U.S. hit decade low under Biden",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-immigration-arrests-inside-the-u-s-hit-decade-low-under-biden",
+            "duration": "5 min",
+            "ranked": 2,
+            "epoch": 1635454819.3620496,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "News Wrap: Immigration arrests inside the U.S. hit decade low under Biden",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Immigration",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "arrests",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "U.S.",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "decade",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Biden",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Politics of masks, critical race theory fueling heated school board elections",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/politics-of-masks-critical-race-theory-fueling-heated-school-board-elections",
+            "duration": "11 min",
+            "ranked": 3,
+            "epoch": 1635454819.36205,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Politics of masks, critical race theory fueling heated school board elections",
+            "concepts": [
+                {
+                    "word": "Politics",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "masks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "race",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "theory",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "school",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "board",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "elections",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "How MinnesotaÃ¢ÂÂs lack of teachers of color hurts students, and what reform could look like",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/how-minnesotas-lack-of-teachers-of-color-hurts-students-and-what-reform-could-look-like",
+            "duration": "8 min",
+            "ranked": 4,
+            "epoch": 1635454819.3620508,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "How MinnesotaÃ¢ÂÂs lack of teachers of color hurts students, and what reform could look like",
+            "concepts": [
+                {
+                    "word": "MinnesotaÃ¢ÂÂs",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "teachers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "color",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "students",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "reform",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Bolsonaro may face criminal charges for botching COVID response over Ã¢ÂÂfalse dilemmaÃ¢ÂÂ",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/bolsonaro-may-face-criminal-charges-for-botching-covid-response-over-false-dilemma",
+            "duration": "8 min",
+            "ranked": 5,
+            "epoch": 1635454819.3620512,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Bolsonaro may face criminal charges for botching COVID response over Ã¢ÂÂfalse dilemmaÃ¢ÂÂ",
+            "concepts": [
+                {
+                    "word": "Bolsonaro",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "charges",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "COVID",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "response",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "dilemmaÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "PhiladelphiaÃ¢ÂÂs Ã¢ÂÂLibertyÃ¢ÂÂ exhibit spotlights role of people of color in American Revolution",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/philadelphias-liberty-exhibit-spotlights-role-of-people-of-color-in-american-revolution",
+            "duration": "7 min",
+            "ranked": 6,
+            "epoch": 1635454819.3620517,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "PhiladelphiaÃ¢ÂÂs Ã¢ÂÂLibertyÃ¢ÂÂ exhibit spotlights role of people of color in American Revolution",
+            "concepts": [
+                {
+                    "word": "Ã¢ÂÂLibertyÃ¢ÂÂ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "exhibit",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "spotlights",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "role",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "people",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "color",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "American",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Revolution",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1961 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "LÃ¢ÂÂultimo volo di Alitalia",
+            "date_raw": "October 14, 2021",
+            "date": "2021-10-14",
+            "news_url": "https://www.ilpost.it/2021/10/14/ultimo-volo-alitalia-ita/",
+            "content": " SarÃÂ  stasera, e da domani il suo posto sarÃÂ  preso dalla nuova compagnia ITA, ma ci sono ancora varie questioni aperte ",
+            "ranked": 0,
+            "placed": "Economics",
+            "epoch": 1634673611.71473,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "LÃ¢ÂÂultimo volo di Alitalia",
+            "en_content": " SarÃÂ  stasera, e da domani il suo posto sarÃÂ  preso dalla nuova compagnia ITA, ma ci sono ancora varie questioni aperte ",
+            "concepts": [
+                {
+                    "word": "LÃ¢ÂÂultimo",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "volo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "di",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Alitalia",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Le proposte della Commissione Europea per contrastare la crisi energetica",
+            "date_raw": "October 13, 2021",
+            "date": "2021-10-13",
+            "news_url": "https://www.ilpost.it/2021/10/13/commissione-europea-prposte-crisi-energia/",
+            "content": " Ha presentato una serie di consigli agli stati membri, tra cui sussidi, tagli delle tasse e investimenti sulle energie rinnovabili\t",
+            "ranked": 1,
+            "placed": "Economics",
+            "epoch": 1634673611.7147331,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Le proposte della Commissione Europea per contrastare la crisi energetica",
+            "en_content": " Ha presentato una serie di consigli agli stati membri, tra cui sussidi, tagli delle tasse e investimenti sulle energie rinnovabili\t",
+            "concepts": [
+                {
+                    "word": "Le",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "proposte",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "della",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Commissione",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Europea",
+                    "meaning": "nsubj",
+                    "pos": "X"
+                },
+                {
+                    "word": "contrastare",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "energetica",
+                    "meaning": "dobj",
+                    "pos": "X"
+                }
+            ]
+        },
+        {
+            "title": "Il Nobel per lÃ¢ÂÂEconomia a David Card, Joshua D. Angrist e Guido W. Imbens",
+            "date_raw": "October 11, 2021",
+            "date": "2021-10-11",
+            "news_url": "https://www.ilpost.it/2021/10/11/nobel-economia-2021/",
+            "content": " Per i loro studi sull'economia del lavoro e le analisi sulle relazioni causali\t",
+            "ranked": 2,
+            "placed": "Economics",
+            "epoch": 1634673611.714734,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Il Nobel per lÃ¢ÂÂEconomia a David Card, Joshua D. Angrist e Guido W. Imbens",
+            "en_content": " Per i loro studi sull'economia del lavoro e le analisi sulle relazioni causali\t",
+            "concepts": [
+                {
+                    "word": "Il",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Nobel",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "lÃ¢ÂÂEconomia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "David",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Card",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Joshua",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "D.",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Angrist",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "e",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Guido",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "W.",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Imbens",
+                    "meaning": "punct",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Come Tesla ÃÂ¨ sopravvissuta alla mancanza di microchip",
+            "date_raw": "October 09, 2021",
+            "date": "2021-10-09",
+            "news_url": "https://www.ilpost.it/2021/10/09/tesla-microchip/",
+            "content": " La societÃÂ  di Elon Musk non ha rallentato la produzione come altre aziende automobilistiche, grazie alla flessibilitÃÂ  dei suoi sistemi\t",
+            "ranked": 3,
+            "placed": "Economics",
+            "epoch": 1634673611.714735,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Come Tesla ÃÂ¨ sopravvissuta alla mancanza di microchip",
+            "en_content": " La societÃÂ  di Elon Musk non ha rallentato la produzione come altre aziende automobilistiche, grazie alla flessibilitÃÂ  dei suoi sistemi\t",
+            "concepts": [
+                {
+                    "word": "Tesla",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ÃÂ¨",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sopravvissuta",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "alla",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "microchip",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "CÃ¢ÂÂÃÂ¨ un nuovo accordo su una tassa minima globale sui guadagni delle multinazionali",
+            "date_raw": "October 08, 2021",
+            "date": "2021-10-08",
+            "news_url": "https://www.ilpost.it/2021/10/08/ocse-accordo-tassa-multinazionali-g20/",
+            "content": " \t",
+            "ranked": 4,
+            "placed": "Economics",
+            "epoch": 1634673611.714736,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "CÃ¢ÂÂÃÂ¨ un nuovo accordo su una tassa minima globale sui guadagni delle multinazionali",
+            "en_content": " \t",
+            "concepts": [
+                {
+                    "word": "CÃ¢ÂÂÃÂ¨",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "un",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "nuovo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "accordo",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "su",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "una",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "tassa",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "minima",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "globale",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "sui",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "guadagni",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "delle",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂIrlanda aumenterÃÂ  la tassazione minima sui guadagni delle multinazionali al 15 per cento",
+            "date_raw": "October 08, 2021",
+            "date": "2021-10-08",
+            "news_url": "https://www.ilpost.it/2021/10/08/irlanda-aliquota-profitti-multinazionali/",
+            "content": " \t",
+            "ranked": 5,
+            "placed": "Economics",
+            "epoch": 1634673611.714737,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "LÃ¢ÂÂIrlanda aumenterÃÂ  la tassazione minima sui guadagni delle multinazionali al 15 per cento",
+            "en_content": " \t",
+            "concepts": [
+                {
+                    "word": "LÃ¢ÂÂIrlanda",
+                    "meaning": "compound",
+                    "pos": "SPACE"
+                },
+                {
+                    "word": "aumenterÃÂ",
+                    "meaning": "compound",
+                    "pos": "SPACE"
+                },
+                {
+                    "word": "la",
+                    "meaning": "det",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tassazione",
+                    "meaning": "appos",
+                    "pos": "SPACE"
+                },
+                {
+                    "word": "minima",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "sui",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "guadagni",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "delle",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "al",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cento",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La prossima edizione del Salone dellÃ¢ÂÂauto di Ginevra ÃÂ¨ stata annullata a causa del coronavirus e della carenza di microchip",
+            "date_raw": "October 07, 2021",
+            "date": "2021-10-07",
+            "news_url": "https://www.ilpost.it/2021/10/07/salone-auto-ginevra-annullato-coronavirus-microchip-2022/",
+            "content": " \t",
+            "ranked": 6,
+            "placed": "Economics",
+            "epoch": 1634673611.7147377,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "La prossima edizione del Salone dellÃ¢ÂÂauto di Ginevra ÃÂ¨ stata annullata a causa del coronavirus e della carenza di microchip",
+            "en_content": " \t",
+            "concepts": [
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "prossima",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "del",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Salone",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "dellÃ¢ÂÂauto",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "di",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ginevra",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ÃÂ¨",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "stata",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "coronavirus",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "e",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "della",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "microchip",
+                    "meaning": "appos",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Il forte aumento del prezzo del metano",
+            "date_raw": "October 06, 2021",
+            "date": "2021-10-06",
+            "news_url": "https://www.ilpost.it/2021/10/06/aumento-prezzo-gas-metano-europa/",
+            "content": " ÃÂ un'altra conseguenza del rincaro generale dei costi dell'energia: e al momento non sembrano esserci soluzioni al problema\t",
+            "ranked": 7,
+            "placed": "Economics",
+            "epoch": 1634673611.7147386,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Il forte aumento del prezzo del metano",
+            "en_content": " ÃÂ un'altra conseguenza del rincaro generale dei costi dell'energia: e al momento non sembrano esserci soluzioni al problema\t",
+            "concepts": [
+                {
+                    "word": "Il",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "forte",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prezzo",
+                    "meaning": "nmod",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "metano",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Che cosa cÃ¢ÂÂÃÂ¨ nei Ã¢ÂÂPandora PapersÃ¢ÂÂ",
+            "date_raw": "October 04, 2021",
+            "date": "2021-10-04",
+            "news_url": "https://www.ilpost.it/2021/10/04/pandora-papers/",
+            "content": " Un nuovo grande archivio di documenti riservati mostra come politici e personaggi pubblici sfruttino sistematicamente i paradisi fiscali per i loro patrimoni\t",
+            "ranked": 8,
+            "placed": "Economics",
+            "epoch": 1634673611.7147396,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Che cosa cÃ¢ÂÂÃÂ¨ nei Ã¢ÂÂPandora PapersÃ¢ÂÂ",
+            "en_content": " Un nuovo grande archivio di documenti riservati mostra come politici e personaggi pubblici sfruttino sistematicamente i paradisi fiscali per i loro patrimoni\t",
+            "concepts": [
+                {
+                    "word": "Che",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "cosa",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "cÃ¢ÂÂÃÂ¨",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "PapersÃ¢ÂÂ",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Cinque paesi europei contro le banconote da 500 euro",
+            "date_raw": "October 03, 2021",
+            "date": "2021-10-03",
+            "news_url": "https://www.ilpost.it/2021/10/03/500-euro-banconota/",
+            "content": " Italia, Francia, Spagna, Paesi Bassi e Belgio vogliono renderle illegali per ridurre il riciclaggio e l'evasione fiscale\t",
+            "ranked": 9,
+            "placed": "Economics",
+            "epoch": 1634673611.7147403,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Cinque paesi europei contro le banconote da 500 euro",
+            "en_content": " Italia, Francia, Spagna, Paesi Bassi e Belgio vogliono renderle illegali per ridurre il riciclaggio e l'evasione fiscale\t",
+            "concepts": [
+                {
+                    "word": "paesi",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "europei",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "contro",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "le",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "banconote",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "da",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "euro",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "La Cassazione dice che bisogna pagare le tasse sulle mance",
+            "date_raw": "October 01, 2021",
+            "date": "2021-10-01",
+            "news_url": "https://www.ilpost.it/2021/10/01/corte-cassazione-pagamento-tasse-mance/",
+            "content": " PerchÃÂ© sarebbero un reddito percepito grazie al rapporto di lavoro, e pertanto soggetto a tassazione\t",
+            "ranked": 10,
+            "placed": "Economics",
+            "epoch": 1634673611.714741,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "La Cassazione dice che bisogna pagare le tasse sulle mance",
+            "en_content": " PerchÃÂ© sarebbero un reddito percepito grazie al rapporto di lavoro, e pertanto soggetto a tassazione\t",
+            "concepts": [
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cassazione",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "dice",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "che",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "bisogna",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "pagare",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "le",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "tasse",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sulle",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "mance",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Cosa dice lÃ¢ÂÂaggiornamento al DEF approvato dal governo",
+            "date_raw": "September 29, 2021",
+            "date": "2021-09-29",
+            "news_url": "https://www.ilpost.it/2021/09/29/nadef-approvato/",
+            "content": " Stima una crescita maggiore dell'economia italiana rispetto a quella prospettata lo scorso aprile, ha detto Mario Draghi\t",
+            "ranked": 11,
+            "placed": "Economics",
+            "epoch": 1634673611.7147417,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Cosa dice lÃ¢ÂÂaggiornamento al DEF approvato dal governo",
+            "en_content": " Stima una crescita maggiore dell'economia italiana rispetto a quella prospettata lo scorso aprile, ha detto Mario Draghi\t",
+            "concepts": [
+                {
+                    "word": "Cosa",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "dice",
+                    "meaning": "nsubj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "lÃ¢ÂÂaggiornamento",
+                    "meaning": "prep",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "al",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "DEF",
+                    "meaning": "pobj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "approvato",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "dal",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "governo",
+                    "meaning": "dep",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Faremo i conti con la crisi energetica in Cina?",
+            "date_raw": "September 28, 2021",
+            "date": "2021-09-28",
+            "news_url": "https://www.ilpost.it/2021/09/28/crisi-energetica-cina/",
+            "content": " Molte fabbriche hanno sospeso o ridotto la produzione per non superare i limiti sui consumi energetici, in un periodo in cui si produce di piÃÂ¹ in vista del Natale\t",
+            "ranked": 12,
+            "placed": "Economics",
+            "epoch": 1634673611.714743,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Faremo i conti con la crisi energetica in Cina?",
+            "en_content": " Molte fabbriche hanno sospeso o ridotto la produzione per non superare i limiti sui consumi energetici, in un periodo in cui si produce di piÃÂ¹ in vista del Natale\t",
+            "concepts": [
+                {
+                    "word": "Faremo",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "energetica",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Cina",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La direttrice del FMI si deve dimettere, dice lÃ¢ÂÂEconomist",
+            "date_raw": "September 26, 2021",
+            "date": "2021-09-26",
+            "news_url": "https://www.ilpost.it/2021/09/26/georgieva-fmi-economist/",
+            "content": " Kristalina Georgieva ÃÂ¨ accusata di aver favorito la Cina in un'influente classifica economica quando era alla Banca mondiale\t",
+            "ranked": 13,
+            "placed": "Economics",
+            "epoch": 1634673611.7147434,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "La direttrice del FMI si deve dimettere, dice lÃ¢ÂÂEconomist",
+            "en_content": " Kristalina Georgieva ÃÂ¨ accusata di aver favorito la Cina in un'influente classifica economica quando era alla Banca mondiale\t",
+            "concepts": [
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "direttrice",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "FMI",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "deve",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "dimettere",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "dice",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "lÃ¢ÂÂEconomist",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Si riparla di salario minimo per i lavoratori",
+            "date_raw": "September 26, 2021",
+            "date": "2021-09-26",
+            "news_url": "https://www.ilpost.it/2021/09/26/salario-minimo-pd-m5s-draghi/",
+            "content": " La proposta di introdnews_urlo in Italia piace sia al Partito Democratico sia al Movimento 5 Stelle, ma non ÃÂ¨ tra le prioritÃÂ  di Draghi\t",
+            "ranked": 14,
+            "placed": "Economics",
+            "epoch": 1634673611.7147498,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Si riparla di salario minimo per i lavoratori",
+            "en_content": " La proposta di introdnews_urlo in Italia piace sia al Partito Democratico sia al Movimento 5 Stelle, ma non ÃÂ¨ tra le prioritÃÂ  di Draghi\t",
+            "concepts": [
+                {
+                    "word": "Si",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "riparla",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "di",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "salario",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La Cina ha reso illegali tutte le transazioni con criptovalute",
+            "date_raw": "September 24, 2021",
+            "date": "2021-09-24",
+            "news_url": "https://www.ilpost.it/2021/09/24/cina-criptovalute-vietate/",
+            "content": " Lo ha deciso la Banca Centrale cinese, e l'annuncio ha provocato una grossa svalutazione del bitcoin e delle altre monete virtuali\t",
+            "ranked": 15,
+            "placed": "Economics",
+            "epoch": 1634673611.7147505,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "La Cina ha reso illegali tutte le transazioni con criptovalute",
+            "en_content": " Lo ha deciso la Banca Centrale cinese, e l'annuncio ha provocato una grossa svalutazione del bitcoin e delle altre monete virtuali\t",
+            "concepts": [
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cina",
+                    "meaning": "dep",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "reso",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "illegali",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "tutte",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "le",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "transazioni",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "con",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "criptovalute",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂEuropa ÃÂ¨ a corto di gas",
+            "date_raw": "September 23, 2021",
+            "date": "2021-09-23",
+            "news_url": "https://www.ilpost.it/2021/09/23/europa-gas-riserve-prezzo-energia-elettrica/",
+            "content": " Ed ÃÂ¨ questa la principale causa dell'aumento del costo dell'energia elettrica, prima ancora della transizione energetica\t",
+            "ranked": 16,
+            "placed": "Economics",
+            "epoch": 1634673611.714751,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "LÃ¢ÂÂEuropa ÃÂ¨ a corto di gas",
+            "en_content": " Ed ÃÂ¨ questa la principale causa dell'aumento del costo dell'energia elettrica, prima ancora della transizione energetica\t",
+            "concepts": [
+                {
+                    "word": "LÃ¢ÂÂEuropa",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ÃÂ¨",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "gas",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Le trattative tra ITA e i sindacati sul contratto di assunzione dei lavoratori si sono interrotte",
+            "date_raw": "September 21, 2021",
+            "date": "2021-09-21",
+            "news_url": "https://www.ilpost.it/2021/09/21/ita-alitalia-sindacati/",
+            "content": " \t",
+            "ranked": 17,
+            "placed": "Economics",
+            "epoch": 1634673611.7147517,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Le trattative tra ITA e i sindacati sul contratto di assunzione dei lavoratori si sono interrotte",
+            "en_content": " \t",
+            "concepts": [
+                {
+                    "word": "Le",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "trattative",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ITA",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "e",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sul",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "contratto",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "assunzione",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "lavoratori",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "si",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sono",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "interrotte",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂazienda che sta facendo crollare le borse",
+            "date_raw": "September 21, 2021",
+            "date": "2021-09-21",
+            "news_url": "https://www.ilpost.it/2021/09/21/evergrande-immobiliare-cina/",
+            "content": " Il conglomerato immobiliare cinese Evergrande ÃÂ¨ pieno di debiti, e il suo fallimento potrebbe avere gravi conseguenze sull'economia\t",
+            "ranked": 18,
+            "placed": "Economics",
+            "epoch": 1634673611.7147524,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "LÃ¢ÂÂazienda che sta facendo crollare le borse",
+            "en_content": " Il conglomerato immobiliare cinese Evergrande ÃÂ¨ pieno di debiti, e il suo fallimento potrebbe avere gravi conseguenze sull'economia\t",
+            "concepts": [
+                {
+                    "word": "LÃ¢ÂÂazienda",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "che",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "sta",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "facendo",
+                    "meaning": "nsubj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "crollare",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La centrale a carbone di La Spezia potrebbe chiudere prima del previsto",
+            "date_raw": "September 21, 2021",
+            "date": "2021-09-21",
+            "news_url": "https://www.ilpost.it/2021/09/21/chiusura-centrale-carbone-enel-la-spezia/",
+            "content": " Per il suo forte impatto ambientale: Enel potrebbe mantenere solo la parte a metano, dice il Sole 24 Ore\t",
+            "ranked": 19,
+            "placed": "Economics",
+            "epoch": 1634673611.714753,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "La centrale a carbone di La Spezia potrebbe chiudere prima del previsto",
+            "en_content": " Per il suo forte impatto ambientale: Enel potrebbe mantenere solo la parte a metano, dice il Sole 24 Ore\t",
+            "concepts": [
+                {
+                    "word": "La",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "carbone",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Spezia",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "potrebbe",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "chiudere",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prima",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "previsto",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Amazon e i sindacati italiani hanno firmato un importante accordo di collaborazione",
+            "date_raw": "September 16, 2021",
+            "date": "2021-09-16",
+            "news_url": "https://www.ilpost.it/2021/09/16/amazon-italia-sindacati-accordo/",
+            "content": " \t",
+            "ranked": 20,
+            "placed": "Economics",
+            "epoch": 1634673611.7147539,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Amazon e i sindacati italiani hanno firmato un importante accordo di collaborazione",
+            "en_content": " \t",
+            "concepts": [
+                {
+                    "word": "Amazon",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sindacati",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "italiani",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "hanno",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "firmato",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "un",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "importante",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "accordo",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "di",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "collaborazione",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Come ha funzionato lo smart working nella pubblica amministrazione?",
+            "date_raw": "September 14, 2021",
+            "date": "2021-09-14",
+            "news_url": "https://www.ilpost.it/2021/09/14/smart-working-pubblica-amministrazione/",
+            "content": " Non ci sono dati per valutarlo, e inoltre raramente ÃÂ¨ stato davvero Ã¢ÂÂsmart workingÃ¢ÂÂ: ma il ministro Brunetta vorrebbe comunque limitarlo ",
+            "ranked": 21,
+            "placed": "Economics",
+            "epoch": 1634673611.7147546,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Come ha funzionato lo smart working nella pubblica amministrazione?",
+            "en_content": " Non ci sono dati per valutarlo, e inoltre raramente ÃÂ¨ stato davvero Ã¢ÂÂsmart workingÃ¢ÂÂ: ma il ministro Brunetta vorrebbe comunque limitarlo ",
+            "concepts": [
+                {
+                    "word": "lo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "smart",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "working",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "nella",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "pubblica",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "amministrazione",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "PerchÃÂ© sta aumentando il prezzo dellÃ¢ÂÂenergia",
+            "date_raw": "September 14, 2021",
+            "date": "2021-09-14",
+            "news_url": "https://www.ilpost.it/2021/09/14/aumento-bolletta-energia-elettrica-gas/",
+            "content": " E quindi anche le bollette di gas ed elettricitÃÂ : c'entrano le materie prime sempre piÃÂ¹ care e un sistema di permessi per emettere anidride carbonica, tra le altre cose\t",
+            "ranked": 22,
+            "placed": "Economics",
+            "epoch": 1634673611.714755,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "PerchÃÂ© sta aumentando il prezzo dellÃ¢ÂÂenergia",
+            "en_content": " E quindi anche le bollette di gas ed elettricitÃÂ : c'entrano le materie prime sempre piÃÂ¹ care e un sistema di permessi per emettere anidride carbonica, tra le altre cose\t",
+            "concepts": [
+                {
+                    "word": "PerchÃÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "il",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prezzo",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Il successo delle officine a domicilio negli Stati Uniti",
+            "date_raw": "September 13, 2021",
+            "date": "2021-09-13",
+            "news_url": "https://www.ilpost.it/2021/09/13/meccanico-officine-a-domicilio/",
+            "content": " Farsi arrivare il meccanico a casa o al lavoro ÃÂ¨ un servizio diventato sempre piÃÂ¹ richiesto, anche in seguito alla pandemia\t",
+            "ranked": 23,
+            "placed": "Economics",
+            "epoch": 1634673611.7147555,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Il successo delle officine a domicilio negli Stati Uniti",
+            "en_content": " Farsi arrivare il meccanico a casa o al lavoro ÃÂ¨ un servizio diventato sempre piÃÂ¹ richiesto, anche in seguito alla pandemia\t",
+            "concepts": [
+                {
+                    "word": "Il",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "successo",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "delle",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "domicilio",
+                    "meaning": "amod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "negli",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Stati",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Uniti",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La crisi della business class",
+            "date_raw": "September 12, 2021",
+            "date": "2021-09-12",
+            "news_url": "https://www.ilpost.it/2021/09/12/business-class-viaggi-di-lavoro-pandemia/",
+            "content": " CioÃÂ¨ dei costosi posti in aereo spesso usati dai professionisti, che dopo la pandemia potrebbero viaggiare sempre meno\t",
+            "ranked": 24,
+            "placed": "Economics",
+            "epoch": 1634673611.7147563,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "La crisi della business class",
+            "en_content": " CioÃÂ¨ dei costosi posti in aereo spesso usati dai professionisti, che dopo la pandemia potrebbero viaggiare sempre meno\t",
+            "concepts": [
+                {
+                    "word": "La",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "della",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "business",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "class",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Ripensare gli aeroporti",
+            "date_raw": "September 10, 2021",
+            "date": "2021-09-10",
+            "news_url": "https://www.ilpost.it/2021/09/10/aeroporti-problemi-epidemia/",
+            "content": " Tradizionalmente impersonali e poco confortevoli, le preoccupazioni portate dalla pandemia stanno spingendo a riprogettarne gli spazi per renderli piÃÂ¹ accoglienti\t",
+            "ranked": 25,
+            "placed": "Economics",
+            "epoch": 1634673611.7147572,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-19T22.00.11E1634673611.7147748.json",
+            "en_title": "Ripensare gli aeroporti",
+            "en_content": " Tradizionalmente impersonali e poco confortevoli, le preoccupazioni portate dalla pandemia stanno spingendo a riprogettarne gli spazi per renderli piÃÂ¹ accoglienti\t",
+            "concepts": [
+                {
+                    "word": "Ripensare",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "aeroporti",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says",
+            "date_raw": "October 14, 2021",
+            "date": "2021-10-14",
+            "news_url": "https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html",
+            "content": "A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws.",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1634846402.228783,
+            "more_info": {
+                "section": "world",
+                "subsection": "americas",
+                "uri": "nyt://article/79de0fa6-ff7d-5b15-b33c-46c74a92b2db",
+                "byline": "By Oscar Lopez",
+                "item_type": "Article",
+                "updated_date": "2021-10-15T10:55:22-04:00",
+                "created_date": "2021-10-14T20:00:27-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Subways",
+                    "Accidents and Safety",
+                    "Welding and Welders"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Lopez Obrador, Andres Manuel",
+                    "Sheinbaum, Claudia",
+                    "Slim Helu, Carlos"
+                ],
+                "geo_facet": [
+                    "Mexico",
+                    "Mexico City (Mexico)"
+                ],
+                "short_news_url": "https://nyti.ms/30uaBfC"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-21T22.00.02E1634846402.2289577.json",
+            "en_title": "Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says",
+            "en_content": "A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws.",
+            "concepts": [
+                {
+                    "word": "Faulty",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Studs",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Led",
+                    "meaning": "ccomp",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Mexico",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "City",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Metro",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Collapse",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Attorney",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "General",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "She Searched the East Side of Manhattan With a $625,000 Budget. Which Apartment Would You Choose?",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.nytimes.com/interactive/2021/10/21/realestate/21hunt-small.html",
+            "content": "A lifelong New Yorker hoped to realize her dream of owning a home in Manhattan, but could she afford a one-bedroom near her office? Hereâs what she found.",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1634846402.2288125,
+            "more_info": {
+                "section": "realestate",
+                "subsection": "",
+                "uri": "nyt://interactive/7ef14237-8cfe-57f8-89d9-78a79c53c9a4",
+                "byline": "By Joyce Cohen",
+                "item_type": "Interactive",
+                "updated_date": "2021-10-21T15:11:01-04:00",
+                "created_date": "2021-10-21T05:00:05-04:00",
+                "material_type_facet": "",
+                "kicker": "The Hunt",
+                "des_facet": [
+                    "Real Estate and Housing (Residential)"
+                ],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [
+                    "Stuyvesant Square (Manhattan, NY)",
+                    "Gramercy Park (Manhattan, NY)"
+                ],
+                "short_news_url": "https://nyti.ms/3nhOcty"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-21T22.00.02E1634846402.2289577.json",
+            "en_title": "She Searched the East Side of Manhattan With a $625,000 Budget. Which Apartment Would You Choose?",
+            "en_content": "A lifelong New Yorker hoped to realize her dream of owning a home in Manhattan, but could she afford a one-bedroom near her office? Hereâs what she found.",
+            "concepts": [
+                {
+                    "word": "East",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Side",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Manhattan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Budget",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Apartment",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Love Letter: A Cute Neighbor and a Coincidence",
+            "date_raw": "October 15, 2021",
+            "date": "2021-10-15",
+            "news_url": "https://www.nytimes.com/2021/10/15/style/love-letter-newsletter-a-cute-neighbor-coincidence.html",
+            "content": "And: How a pilot afraid of heights and an emergency room nurse not afraid of much dive into life.",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1634846402.2288356,
+            "more_info": {
+                "section": "style",
+                "subsection": "",
+                "uri": "nyt://article/208a4203-fce1-509c-b2f5-b44c1094fc87",
+                "byline": "By Miya Lee",
+                "item_type": "Article",
+                "updated_date": "2021-10-15T14:00:06-04:00",
+                "created_date": "2021-10-15T14:00:06-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Love (Emotion)",
+                    "Dating and Relationships",
+                    "Marriages"
+                ],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [],
+                "short_news_url": ""
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-21T22.00.02E1634846402.2289577.json",
+            "en_title": "Love Letter: A Cute Neighbor and a Coincidence",
+            "en_content": "And: How a pilot afraid of heights and an emergency room nurse not afraid of much dive into life.",
+            "concepts": [
+                {
+                    "word": "Love",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Letter",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cute",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Neighbor",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Coincidence",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "At Rallies, Trump Fans Wear Their Grievances",
+            "date_raw": "October 14, 2021",
+            "date": "2021-10-14",
+            "news_url": "https://www.nytimes.com/2021/10/14/us/politics/trump-fans-rally-fashion.html",
+            "content": "For some, itâs not enough to go to an event in the name of Donald J. Trump â their attendance also requires wearing something that embraces some of his political calling cards.",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1634846402.2288527,
+            "more_info": {
+                "section": "us",
+                "subsection": "politics",
+                "uri": "nyt://article/8c5ed241-3de0-5df6-a4ab-9d3a6df346ce",
+                "byline": "By Astead W. Herndon",
+                "item_type": "Article",
+                "updated_date": "2021-10-15T19:29:03-04:00",
+                "created_date": "2021-10-14T18:30:04-04:00",
+                "material_type_facet": "",
+                "kicker": "On Politics",
+                "des_facet": [
+                    "United States Politics and Government"
+                ],
+                "org_facet": [
+                    "Republican Party"
+                ],
+                "per_facet": [
+                    "Trump, Donald J"
+                ],
+                "geo_facet": [
+                    "Virginia"
+                ],
+                "short_news_url": "https://nyti.ms/2YO1sy8"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-21T22.00.02E1634846402.2289577.json",
+            "en_title": "At Rallies, Trump Fans Wear Their Grievances",
+            "en_content": "For some, itâs not enough to go to an event in the name of Donald J. Trump â their attendance also requires wearing something that embraces some of his political calling cards.",
+            "concepts": [
+                {
+                    "word": "Rallies",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Trump",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Fans",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Grievances",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "A Subway Rider Confronted Unmasked Police Officers. They Kicked Him Out.",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.nytimes.com/2021/10/20/nyregion/nypd-unmasked-covid.html",
+            "content": "Andrew Gilbert said he repeatedly asked two officers to wear masks in accordance with M.T.A. and Police Department policy. He was eventually pushed out of the station.",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1634846402.2288692,
+            "more_info": {
+                "section": "nyregion",
+                "subsection": "",
+                "uri": "nyt://article/c90c0c33-9f0b-58b9-9553-788fb1ff8bc3",
+                "byline": "By Troy Closson",
+                "item_type": "Article",
+                "updated_date": "2021-10-21T02:03:37-04:00",
+                "created_date": "2021-10-20T13:35:29-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Coronavirus (2019-nCoV)",
+                    "Subways",
+                    "Vaccination and Immunization",
+                    "Masks"
+                ],
+                "org_facet": [
+                    "Police Department (NYC)",
+                    "Metropolitan Transportation Authority"
+                ],
+                "per_facet": [
+                    "de Blasio, Bill"
+                ],
+                "geo_facet": [
+                    "New York City"
+                ],
+                "short_news_url": "https://nyti.ms/2XuoM34"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-21T22.00.02E1634846402.2289577.json",
+            "en_title": "A Subway Rider Confronted Unmasked Police Officers. They Kicked Him Out.",
+            "en_content": "Andrew Gilbert said he repeatedly asked two officers to wear masks in accordance with M.T.A. and Police Department policy. He was eventually pushed out of the station.",
+            "concepts": [
+                {
+                    "word": "Subway",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rider",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Confronted",
+                    "meaning": "amod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Unmasked",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Police",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Officers",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "I Was Wrong About Donald Trump",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
+            "content": "Democrats need a bigger, bolder campaign blueprint to save democracy that doesnât hinge on the whims of Congress.",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1634846402.2288876,
+            "more_info": {
+                "section": "opinion",
+                "subsection": "",
+                "uri": "nyt://article/57e4d643-378d-5d9d-91b0-6bfc869669eb",
+                "byline": "By David Brock",
+                "item_type": "Article",
+                "updated_date": "2021-10-21T10:17:57-04:00",
+                "created_date": "2021-10-21T05:00:13-04:00",
+                "material_type_facet": "",
+                "kicker": "Guest Essay",
+                "des_facet": [
+                    "Voter Fraud (Election Fraud)",
+                    "United States Politics and Government",
+                    "Presidential Election of 2024",
+                    "Storming of the US Capitol (Jan, 2021)",
+                    "Rumors and Misinformation",
+                    "Politics and Government"
+                ],
+                "org_facet": [
+                    "Republican Party"
+                ],
+                "per_facet": [
+                    "Trump, Donald J"
+                ],
+                "geo_facet": [
+                    "Arizona",
+                    "Virginia",
+                    "Georgia"
+                ],
+                "short_news_url": "https://nyti.ms/3nbFbm0"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-21T22.00.02E1634846402.2289577.json",
+            "en_title": "I Was Wrong About Donald Trump",
+            "en_content": "Democrats need a bigger, bolder campaign blueprint to save democracy that doesnât hinge on the whims of Congress.",
+            "concepts": [
+                {
+                    "word": "Donald",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Trump",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "The True Cost of Upgrading Your Phone",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.nytimes.com/2021/10/20/technology/personaltech/iphone-upgrades-cost.html",
+            "content": "Buying a $1,000 iPhone can be equivalent to giving up $17,000 in retirement savings or 2,500 cups of coffee.",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1634846402.228902,
+            "more_info": {
+                "section": "technology",
+                "subsection": "personaltech",
+                "uri": "nyt://article/8ce80eea-7b2a-5665-8d0d-293ac56c5722",
+                "byline": "By Brian X. Chen",
+                "item_type": "Article",
+                "updated_date": "2021-10-21T10:02:23-04:00",
+                "created_date": "2021-10-20T15:06:42-04:00",
+                "material_type_facet": "",
+                "kicker": "Tech Fix",
+                "des_facet": [
+                    "Smartphones",
+                    "iPhone",
+                    "Prices (Fares, Fees and Rates)",
+                    "Content Type: Service",
+                    "Personal Finances"
+                ],
+                "org_facet": [
+                    "Apple Inc",
+                    "Samsung Group"
+                ],
+                "per_facet": [],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3m6HM1j"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-21T22.00.02E1634846402.2289577.json",
+            "en_title": "The True Cost of Upgrading Your Phone",
+            "en_content": "Buying a $1,000 iPhone can be equivalent to giving up $17,000 in retirement savings or 2,500 cups of coffee.",
+            "concepts": [
+                {
+                    "word": "True",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Cost",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Phone",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Trump Organization, Already Under Indictment, Faces New Criminal Inquiry",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
+            "content": "The investigation, by the Westchester County district attorneyâs office, increases the legal scrutiny of the former president and his family business.",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1634846402.2289157,
+            "more_info": {
+                "section": "nyregion",
+                "subsection": "",
+                "uri": "nyt://article/933f3537-860d-5b69-a06a-7199b98be0d6",
+                "byline": "By William K. Rashbaum and Ben Protess",
+                "item_type": "Article",
+                "updated_date": "2021-10-20T23:54:59-04:00",
+                "created_date": "2021-10-20T05:00:24-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "United States Politics and Government",
+                    "Golf",
+                    "Tax Evasion",
+                    "Employee Fringe Benefits",
+                    "Local Government",
+                    "District Attorneys",
+                    "Frauds and Swindling"
+                ],
+                "org_facet": [
+                    "Trump National Golf Club (Westchester, NY)"
+                ],
+                "per_facet": [
+                    "Trump, Donald J",
+                    "Vance, Cyrus R Jr",
+                    "Weisselberg, Allen",
+                    "Rocah, Mimi E"
+                ],
+                "geo_facet": [
+                    "Ossining (NY)",
+                    "Westchester County (NY)"
+                ],
+                "short_news_url": "https://nyti.ms/2Z3McwO"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-21T22.00.02E1634846402.2289577.json",
+            "en_title": "Trump Organization, Already Under Indictment, Faces New Criminal Inquiry",
+            "en_content": "The investigation, by the Westchester County district attorneyâs office, increases the legal scrutiny of the former president and his family business.",
+            "concepts": [
+                {
+                    "word": "Trump",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Organization",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Indictment",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "New",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Criminal",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Inquiry",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Vikings Were in the Americas Exactly 1,000 Years Ago",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
+            "content": "By studying tree rings and using a dash of astrophysics, researchers have pinned down a precise year that settlers from Europe were on land that would come to be known as Newfoundland.",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1634846402.2289293,
+            "more_info": {
+                "section": "science",
+                "subsection": "",
+                "uri": "nyt://article/8a7f36fd-f760-5aab-9b1d-b1c67c048e72",
+                "byline": "By Katherine Kornei",
+                "item_type": "Article",
+                "updated_date": "2021-10-20T13:46:43-04:00",
+                "created_date": "2021-10-20T11:00:09-04:00",
+                "material_type_facet": "",
+                "kicker": "Trilobites",
+                "des_facet": [
+                    "Vikings",
+                    "Wood and Wood Products",
+                    "Carbon Dating",
+                    "Archaeology and Anthropology",
+                    "Space and Astronomy",
+                    "Research",
+                    "your-feed-science"
+                ],
+                "org_facet": [
+                    "Nature (Journal)"
+                ],
+                "per_facet": [],
+                "geo_facet": [
+                    "Newfoundland (Canada)",
+                    "Canada"
+                ],
+                "short_news_url": "https://nyti.ms/3jkQrey"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-21T22.00.02E1634846402.2289577.json",
+            "en_title": "Vikings Were in the Americas Exactly 1,000 Years Ago",
+            "en_content": "By studying tree rings and using a dash of astrophysics, researchers have pinned down a precise year that settlers from Europe were on land that would come to be known as Newfoundland.",
+            "concepts": [
+                {
+                    "word": "Vikings",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Americas",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Years",
+                    "meaning": "npadvmod",
+                    "pos": "ADV"
+                }
+            ]
+        }
+    ]
+}

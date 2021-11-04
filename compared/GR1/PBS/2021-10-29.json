@@ -1,0 +1,628 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Manovra della crescita.",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "content": " Via libera alla legge di bilancio.  Draghi : ÃÂ¨ espansiva, accompagna la ripresa del Paese stimolando gli investimenti. ÃÂ . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1635541222.2693071,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "Growth maneuver.",
+            "en_content": "Go ahead to the budget law.Dragons: It is expansive, accompanies the resumption of the country by stimulating investments.TO .",
+            "concepts": [
+                {
+                    "word": "Growth",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "maneuver",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "12 miliardi per il taglio delle tasse.",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "content": " Attenzione a giovani e donne.  Pensioni, quota 102 solo per un anno.  Poi torna il contributivo.  Governo: confronto aperto con sindacati. . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1635541222.2693114,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "12 billion for tax cutting.",
+            "en_content": "Attention to young people and women.Pensions, share 102 only for a year.Then the contribution returns.Government: Open comparison with trade unions..",
+            "concepts": [
+                {
+                    "word": "tax",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "cutting",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "G-20.",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "content": " I leader mondiali accolti in una Roma blindata.  Oggi Biden incontra il Papa, Mattarella e il presidente del Consiglio.  Su Radio1 staffetta tra Gr e programmi. . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1635541222.2693136,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "G-20.",
+            "en_content": "The world leaders welcomed in an armored rome.Today Biden meets the Pope, Mattarella and the President of the Council.On Radio1 relay between grams and programs..",
+            "concepts": []
+        },
+        {
+            "title": "Covid, vaccini.",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "content": " In calo le somministrazioni delle prime dosi.  Via libera ai richiami con Moderna. . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1635541222.2693152,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "Covid, vaccines.",
+            "en_content": "The administrations of the first doses is decreasing.Line away to calls with modern..",
+            "concepts": [
+                {
+                    "word": "Covid",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "vaccines",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "L'uragano fa paura.",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "content": " Allerta rossa nella Sicilia orientale per l'arrivo di piogge intense e forti venti. . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1635541222.269317,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "The hurricane fears.",
+            "en_content": "Red alert in eastern Sicily for the arrival of intense rains and strong winds..",
+            "concepts": [
+                {
+                    "word": "hurricane",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Bocciatura del ddl Zan: si mobilita la societÃÂ  civile, pronta la raccolta firme per legge popolare.",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "content": " manistestazioni a Milano Roma e Brescia. . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1635541222.2693198,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "Rejection of the DDL ZAN: the civil society is mobilized, the collection of signatures by popular law is ready.",
+            "en_content": "Manistections in Milan Rome and Brescia..",
+            "concepts": [
+                {
+                    "word": "Rejection",
+                    "meaning": "advcl",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "DDL",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ZAN",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "society",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "collection",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "signatures",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "law",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Zuckerberg volta pagina.",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "content": " Facebook cambia nome e simbolo.  Si chiamerÃÂ  Meta. . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1635541222.2693214,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "Zuckerberg time page.",
+            "en_content": "Facebook changes name and symbol.It will be called a destination..",
+            "concepts": [
+                {
+                    "word": "Zuckerberg",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "time",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "page",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Calcio.",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-82964985-c63f-4241-b78f-c7b801506ac6.html",
+            "content": " Il Napoli supera 3-0 il Bologna e raggiunge il Milan in testa alla classifica. . ",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1635541222.2693226,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "Football.",
+            "en_content": "The Naples exceeds Bologna 3-0 and reach the Milan at the top of the ranking..",
+            "concepts": [
+                {
+                    "word": "Football",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Biden admits to Ã¢ÂÂclumsyÃ¢ÂÂ handling of nuclear submarine deal in meeting with Macron",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.pbs.org/newshour/show/october-29-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/biden-admits-to-clumsy-handling-of-nuclear-submarine-deal-in-meeting-with-macron",
+            "duration": "2 min",
+            "ranked": 0,
+            "epoch": 1635627612.5517485,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "Biden admits to Ã¢ÂÂclumsyÃ¢ÂÂ handling of nuclear submarine deal in meeting with Macron",
+            "concepts": [
+                {
+                    "word": "Biden",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Ã¢ÂÂclumsyÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "submarine",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "deal",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "meeting",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Macron",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "News Wrap: U.S. inflation hits 30-year high, prices rise 4.5% in a year",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.pbs.org/newshour/show/october-29-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-u-s-inflation-hits-30-year-high-prices-rise-4-5-in-a-year",
+            "duration": "6 min",
+            "ranked": 1,
+            "epoch": 1635627612.5517519,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "News Wrap: U.S. inflation hits 30-year high, prices rise 4.5% in a year",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "U.S.",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "inflation",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "year",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "high",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "prices",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "%",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "year",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "What we know about Taliban rule in Afghanistan, classified documents about the U.S. war",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.pbs.org/newshour/show/october-29-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/what-we-know-about-taliban-rule-in-afghanistan-classified-documents-about-the-u-s-war",
+            "duration": "6 min",
+            "ranked": 2,
+            "epoch": 1635627612.5517538,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "What we know about Taliban rule in Afghanistan, classified documents about the U.S. war",
+            "concepts": [
+                {
+                    "word": "Taliban",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rule",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "documents",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "U.S.",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "war",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Why police, firefighters are fighting vaccine mandates and what that means for their jobs",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.pbs.org/newshour/show/october-29-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/why-police-firefighters-are-fighting-vaccine-mandates-and-what-that-means-for-their-jobs",
+            "duration": "5 min",
+            "ranked": 3,
+            "epoch": 1635627612.551755,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "Why police, firefighters are fighting vaccine mandates and what that means for their jobs",
+            "concepts": [
+                {
+                    "word": "police",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "firefighters",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "mandates",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "jobs",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Minneapolis residents split on reducing police role, establishing public safety department",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.pbs.org/newshour/show/october-29-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/minneapolis-residents-split-on-reducing-police-role-establishing-public-safety-department",
+            "duration": "9 min",
+            "ranked": 4,
+            "epoch": 1635627612.5517564,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "Minneapolis residents split on reducing police role, establishing public safety department",
+            "concepts": [
+                {
+                    "word": "Minneapolis",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "residents",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "police",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "role",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "safety",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "department",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Brooks and Capehart on Build Back Better plan, Biden overseas trip, VA Gov. race and more",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.pbs.org/newshour/show/october-29-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-build-back-better-plan-biden-overseas-trip-va-gov-race-and-more",
+            "duration": "13 min",
+            "ranked": 5,
+            "epoch": 1635627612.5517578,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "Brooks and Capehart on Build Back Better plan, Biden overseas trip, VA Gov. race and more",
+            "concepts": [
+                {
+                    "word": "Brooks",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Capehart",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Build",
+                    "meaning": "npadvmod",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "plan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Biden",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "trip",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "VA",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gov.",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "race",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "New Netflix series on Kaepernick is a Ã¢ÂÂspringboardÃ¢ÂÂ to conversations on race, privilege",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.pbs.org/newshour/show/october-29-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/new-netflix-series-on-kaepernick-is-a-springboard-to-conversations-on-race-privilege",
+            "duration": "8 min",
+            "ranked": 6,
+            "epoch": 1635627612.551759,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "New Netflix series on Kaepernick is a Ã¢ÂÂspringboardÃ¢ÂÂ to conversations on race, privilege",
+            "concepts": [
+                {
+                    "word": "New",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Netflix",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "series",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Kaepernick",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ã¢ÂÂspringboardÃ¢ÂÂ",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "conversations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "race",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "TikTokÃ¢ÂÂs Ã¢ÂÂdevious licksÃ¢ÂÂ challenge countered by new Ã¢ÂÂangelic yieldsÃ¢ÂÂ trend",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.pbs.org/newshour/show/october-29-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/tiktoks-devious-licks-challenge-countered-by-new-angelic-yields-trend",
+            "duration": "2 min",
+            "ranked": 7,
+            "epoch": 1635627612.5517602,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-29.json",
+            "en_title": "TikTokÃ¢ÂÂs Ã¢ÂÂdevious licksÃ¢ÂÂ challenge countered by new Ã¢ÂÂangelic yieldsÃ¢ÂÂ trend",
+            "concepts": [
+                {
+                    "word": "licksÃ¢ÂÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "challenge",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "yieldsÃ¢ÂÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "trend",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

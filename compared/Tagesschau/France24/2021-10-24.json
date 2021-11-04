@@ -1,0 +1,998 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "AuÃÂenpolitiker warnen tÃÂ¼rkische Regierung vor Konsequenzen im Falle einer mÃÂ¶glichen Ausweisung westlicher Botschafter",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45425.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1635109218.4477692,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Outdoor politician warns Turkish government before consequences in case of possible expulsion western ambassador",
+            "concepts": [
+                {
+                    "word": "politician",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "consequences",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "case",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "expulsion",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ambassador",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Polizei geht gegen Patrouillen von deutschen Rechtsextremen an Grenze zu Polen vor",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45425.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1635109218.4477935,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Police go against patrol from German right-wing extremists to the border with Poland",
+            "concepts": [
+                {
+                    "word": "Police",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "patrol",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "wing",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "extremists",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "border",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Poland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Tsitsi Dangarembga mit Friedenspreis des Deutschen Buchhandels ausgezeichnet",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45425.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1635109218.4478095,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Tsitsi Dangarembga awarded a Peace Prize of the German Book Trade",
+            "concepts": [
+                {
+                    "word": "Tsitsi",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Dangarembga",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Peace",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Prize",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "German",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Book",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Trade",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Internationale Gesundheitskonferenz \"World Health Summit\" in Berlin thematisiert weltweite Coronastrategie",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45425.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1635109218.447823,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "International Health Conference \"World Health Summit\" in Berlin addresses worldwide coronas strategy",
+            "concepts": [
+                {
+                    "word": "International",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Health",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Conference",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Health",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Summit",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Berlin",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "addresses",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "coronas",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "strategy",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " 1979 gestohlene und 2018 wieder aufgetauchte GemÃÂ¤lde in Gotha ausgestellt",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45425.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1635109218.4478357,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "1979 stolen and 2018 re-inspired vegetables in Gotha issued",
+            "concepts": [
+                {
+                    "word": "vegetables",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Gotha",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Ergebnisse der FuÃÂball-Bundesliga",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45425.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1635109218.447848,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Results of the Football Bundesliga",
+            "concepts": [
+                {
+                    "word": "Results",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Football",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bundesliga",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " VfL Wolfsburg trennt sich nach acht sieglosen Spielen von Trainer",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45425.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1635109218.4478598,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "VfL Wolfsburg separates after eight winless games of coach",
+            "concepts": [
+                {
+                    "word": "VfL",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wolfsburg",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "winless",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "games",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "coach",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Gold fÃÂ¼r Lea Sophie Friedrich bei Bahnrad-WM im Keirin",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45425.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1635109218.4478714,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Gold for Lea Sophie Friedrich near Bahnrad-WM in the Keirin",
+            "concepts": [
+                {
+                    "word": "Gold",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Lea",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Sophie",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Friedrich",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Bahnrad",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "WM",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                },
+                {
+                    "word": "Keirin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45425.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1635109218.4478827,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "The weather",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "ColombiaÃ¢ÂÂs most wanted drug trafficker Ã¢ÂÂOtonielÃ¢ÂÂ nabbed from jungle hideout",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/americas/20211024-columbia-s-most-wanted-drug-trafficker-otoniel-nabbed-from-jungle-hideout",
+            "content": "",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1635109214.8820417,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "ColombiaÃ¢ÂÂs most wanted drug trafficker Ã¢ÂÂOtonielÃ¢ÂÂ nabbed from jungle hideout",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "ColombiaÃ¢ÂÂs",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "drug",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "trafficker",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Ã¢ÂÂOtonielÃ¢ÂÂ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "jungle",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "hideout",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Myanmar junta rules out talks with dissidents, including Suu Kyi's ousted government",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/asia-pacific/20211024-myanmar-junta-rules-out-talks-with-dissidents-including-suu-kyi-s-ousted-government",
+            "content": "",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1635109214.882044,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Myanmar junta rules out talks with dissidents, including Suu Kyi's ousted government",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Myanmar",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "junta",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "talks",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "dissidents",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Suu",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kyi",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "France successfully launches cutting-edge military communications satellite",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/europe/20211024-france-successfully-launches-cutting-edge-military-communications-satellite",
+            "content": "",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1635109214.8820455,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "France successfully launches cutting-edge military communications satellite",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "France",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "edge",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "communications",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "satellite",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Paris Mayor Anne Hidalgo kick-starts presidential campaign at Lille rally",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/video/20211024-paris-mayor-anne-hidalgo-kickstarts-her-presidential-campaign",
+            "content": "",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1635109214.8820462,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Paris Mayor Anne Hidalgo kick-starts presidential campaign at Lille rally",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Paris",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Mayor",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Anne",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hidalgo",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "kick",
+                    "meaning": "compound",
+                    "pos": "X"
+                },
+                {
+                    "word": "campaign",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lille",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rally",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "HungaryÃ¢ÂÂs Orban, opposition rival hold rallies as election race heats up",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/africa/20211024-hungary-s-orban-opposition-rival-hold-rallies-as-election-race-heats-up",
+            "content": "",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1635109214.882047,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "HungaryÃ¢ÂÂs Orban, opposition rival hold rallies as election race heats up",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "HungaryÃ¢ÂÂs",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Orban",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "opposition",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rival",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "rallies",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "election",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "race",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "BaldwinÃ¢ÂÂs film crew raised safety concerns before fatal on-set shooting",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/americas/20211024-baldwin-s-film-crew-raised-safety-concerns-hours-before-fatal-on-set-shooting",
+            "content": "",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1635109214.882048,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "BaldwinÃ¢ÂÂs film crew raised safety concerns before fatal on-set shooting",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "BaldwinÃ¢ÂÂs",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "film",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "crew",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "safety",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "concerns",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "set",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "shooting",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "More than 260 Yemeni rebels killed in Saudi-led strikes near Marib, coalition says",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/middle-east/20211024-more-than-260-yemeni-rebels-killed-in-saudi-led-strikes-near-marib-coalition-says",
+            "content": "",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1635109214.8820486,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "More than 260 Yemeni rebels killed in Saudi-led strikes near Marib, coalition says",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "rebels",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Saudi",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "strikes",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Marib",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                },
+                {
+                    "word": "coalition",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Picasso works fetch more than $100 million at SothebyÃ¢ÂÂs Las Vegas auction",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/americas/20211024-picasso-works-fetch-more-than-100-million-at-sotheby-s-las-vegas-auction",
+            "content": "",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1635109214.8820493,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Picasso works fetch more than $100 million at SothebyÃ¢ÂÂs Las Vegas auction",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Picasso",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "SothebyÃ¢ÂÂs",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Las",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vegas",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "auction",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Israel announces plans to build 1,300 new West Bank settlement homes",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/middle-east/20211024-israel-announces-plans-to-build-1-300-new-west-bank-settlement-homes",
+            "content": "",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1635109214.8820498,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Israel announces plans to build 1,300 new West Bank settlement homes",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Israel",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "plans",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "West",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bank",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "settlement",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "homes",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Deputy White House press secretary: Ã¢ÂÂWe want to make sure immigration policy represents who we areÃ¢ÂÂ",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/americas/20211024-deputy-white-house-press-secretary-we-want-to-make-sure-immigration-policy-represents-who-we-are",
+            "content": "",
+            "ranked": 9,
+            "placed": "First_Page",
+            "epoch": 1635109214.8820503,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Deputy White House press secretary: Ã¢ÂÂWe want to make sure immigration policy represents who we areÃ¢ÂÂ",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Deputy",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "White",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "House",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "press",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "secretary",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "immigration",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "policy",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Real Madrid wins 2-1 at struggling rivals Barcelona in first post-Messi Ã¢ÂÂClassicoÃ¢ÂÂ",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/sport/20211024-real-madrid-wins-2-1-at-struggling-rivals-barcelona-in-first-post-messi-classico",
+            "content": "",
+            "ranked": 10,
+            "placed": "First_Page",
+            "epoch": 1635109214.8820508,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Real Madrid wins 2-1 at struggling rivals Barcelona in first post-Messi Ã¢ÂÂClassicoÃ¢ÂÂ",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Real",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Madrid",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "rivals",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Barcelona",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Ã¢ÂÂClassicoÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Polling in single digits, Paris Mayor Anne Hidalgo kick-starts presidential campaign",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/europe/20211024-polling-in-single-digits-paris-mayor-anne-hidalgo-kick-starts-presidential-campaign",
+            "content": "",
+            "ranked": 11,
+            "placed": "First_Page",
+            "epoch": 1635109214.8820515,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Polling in single digits, Paris Mayor Anne Hidalgo kick-starts presidential campaign",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Polling",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "digits",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Mayor",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Anne",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hidalgo",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "kick",
+                    "meaning": "compound",
+                    "pos": "X"
+                },
+                {
+                    "word": "campaign",
+                    "meaning": "dobj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Security Council delegation in Mali to push for civilian government",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.france24.com/en/video/20211024-security-council-delegation-in-mali-to-push-for-civilian-government",
+            "content": "",
+            "ranked": 12,
+            "placed": "First_Page",
+            "epoch": 1635109214.8820522,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-24.json",
+            "en_title": "Security Council delegation in Mali to push for civilian government",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Security",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "delegation",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Mali",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

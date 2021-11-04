@@ -1,0 +1,580 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Greta Thunberg est montÃÂ©e sur scÃÂ¨ne pour le climat",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/greta-thunberg-est-montee-sur-scene-pour-le-climat-25771018.html",
+            "duration": "01:40",
+            "ranked": 0,
+            "epoch": 1635022808.6932003,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "Greta Thunberg is climbed on a climate",
+            "concepts": [
+                {
+                    "word": "Greta",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Thunberg",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La revue de presse alÃÂ©manique",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-revue-de-presse-alemanique-25771019.html",
+            "duration": "02:39",
+            "ranked": 1,
+            "epoch": 1635022808.6932027,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "The rally press review",
+            "concepts": [
+                {
+                    "word": "rally",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "press",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "review",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Sion affronte le FC Bale pour le retour de Paolo Tramezzani sur le banc sÃÂ©dunois",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/sion-affronte-le-fc-bale-pour-le-retour-de-paolo-tramezzani-sur-le-banc-sedunois-25771022.html",
+            "duration": "01:52",
+            "ranked": 2,
+            "epoch": 1635022808.6932034,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "Sion confronts the FC Bale for the return of Paolo Tramezzani on the DuNois bench",
+            "concepts": [
+                {
+                    "word": "Sion",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "FC",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bale",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "return",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paolo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Tramezzani",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "DuNois",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "bench",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le Fespaco, le plus grand festival de cinÃÂ©ma dÃ¢ÂÂAfrique, a ouvert ses portes ce week-end",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-fespaco-le-plus-grand-festival-de-cinema-d-afrique-a-ouvert-ses-portes-ce-week-end-25771029.html",
+            "duration": "01:45",
+            "ranked": 3,
+            "epoch": 1635022808.6932042,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "The Fespaco, the largest film festival of Africa, opened this weekend",
+            "concepts": [
+                {
+                    "word": "Fespaco",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "film",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "festival",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Africa",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "weekend",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Une ÃÂ©tude hollandaise sÃ¢ÂÂest intÃÂ©ressÃÂ©e aux empreintes prÃÂ©sentes dans lÃ¢ÂÂADN des vrais jumeaux",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-etude-hollandaise-s-est-interessee-aux-empreintes-presentes-dans-l-adn-des-vrais-jumeaux-25771024.html",
+            "duration": "02:12",
+            "ranked": 4,
+            "epoch": 1635022808.6932046,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "A Dutch student is entreprenered in the present in the DNA of the True Twins",
+            "concepts": [
+                {
+                    "word": "student",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "present",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "DNA",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Twins",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "A voix haute - Marylin Maeso, philosophe, prÃÂ©sente son ouvrage \"La petite fabrique de l'inhumain\"",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/a-voix-haute-marylin-maeso-philosophe-presente-son-ouvrage-la-petite-fabrique-de-l-inhumain-25771038.html",
+            "duration": "15:09",
+            "ranked": 5,
+            "epoch": 1635022808.6932056,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "Aloud - Marylin Maeso, philosopher, presents his book \"The little inhuman factory\"",
+            "concepts": [
+                {
+                    "word": "Aloud",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Marylin",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Maeso",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "philosopher",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "book",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "factory",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "GrÃÂ¼ne stimmen mehrheitlich fÃÂ¼r Koalitionsverhandlungen mit SPD und FDP",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45335.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1634562797.186044,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "A majority of the Greens vote in favor of coalition negotiations with the SPD and FDP",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "majority",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Greens",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vote",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "favor",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "coalition",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "negotiations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "SPD",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "FDP",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": " Fraktionschef Brinkhaus und andere Union-Spitzenpolitiker rufen sich fÃÂ¼r starke Rolle in der Opposition aus",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45335.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1634562797.1860707,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "Group leader Brinkhaus and other Union leaders call for a strong role in the opposition",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Group",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "leader",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Brinkhaus",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Union",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "leaders",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "role",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "opposition",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Zahl der AsylantrÃÂ¤ge um gut 35 Prozent gestiegen",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45335.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1634562797.186086,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "Number of asylum applications increased by a good 35 percent",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Number",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "asylum",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "applications",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "percent",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " JÃÂ¼dische Gemeinde in Amberg feiert RÃÂ¼ckkehr einer mehr als 200 Jahre alten Thora-Rolle",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45335.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1634562797.1860993,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "The Jewish community in Amberg celebrates the return of a more than 200 year old scroll of the Torah",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "community",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Amberg",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "return",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "year",
+                    "meaning": "npadvmod",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "scroll",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Torah",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Zahl von Corona-Toten binnen 24 Stunden in Russland steigt erstmals ÃÂ¼ber 1000",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45335.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1634562797.1861117,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "The number of corona deaths within 24 hours in Russia rises above 1000 for the first time",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "number",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "deaths",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "hours",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Russia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "time",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Trauergottesdienst im norwegischen Kongsberg erinnert an Opfer des Angriffs eines mutmaÃÂlich psychisch kranken TÃÂ¤ters am vergangenen Mittwoch",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45335.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1634562797.1861243,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "Funeral service in Kongsberg, Norway, commemorates victims of the attack on a suspected mentally ill offender last Wednesday",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "service",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Kongsberg",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Norway",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "victims",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "attack",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "offender",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Wednesday",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Ergebnisse der FuÃÂball-Bundesliga",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45335.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1634562797.1861358,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "Results of the soccer Bundesliga",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Results",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "soccer",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Bundesliga",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45335.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1634562797.186147,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-17.json",
+            "en_title": "The weather",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

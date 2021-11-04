@@ -1,0 +1,1126 @@
+{
+    "simils_concepts": [
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 2,
+                "n_newA": 7,
+                "n_newB": 6,
+                "n_possible": 42,
+                "concepts_found": [
+                    {
+                        "word": "Anne",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Hidalgo",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": "Le Parti socialiste franÃÂ§ais intronise Anne Hidalgo pour lÃ¢ÂÂÃÂ©lection prÃÂ©sidentielle de 2022",
+                    "date_raw": "October 23, 2021",
+                    "date": "2021-10-23",
+                    "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-manuela-salvi-25772673.html",
+                    "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-parti-socialiste-francais-intronise-anne-hidalgo-pour-l-election-presidentielle-de-2022-25772675.html",
+                    "duration": "00:18",
+                    "ranked": 5,
+                    "epoch": 1635541209.2313306,
+                    "language": "fr",
+                    "source": "RTS",
+                    "filename": "conc_en_2021-10-23.json",
+                    "en_title": "The French Socialist Party Intronizes Anne Hidalgo for the speci-lection of 2022",
+                    "concepts": [
+                        {
+                            "word": "French",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Socialist",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Party",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "Anne",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Hidalgo",
+                            "meaning": "dobj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "speci",
+                            "meaning": "compound",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "lection",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                },
+                {
+                    "title": "Socialist presidential hopeful Anne Hidalgo pushes for Ã¢ÂÂ100% bikeableÃ¢ÂÂ Paris",
+                    "date_raw": "October 23, 2021",
+                    "date": "2021-10-23",
+                    "news_url": "https://www.france24.com/en/europe/20211023-socialist-presidential-hopeful-anne-hidalgo-pushes-for-100-bikeable-paris",
+                    "content": "",
+                    "ranked": 1,
+                    "placed": "First_Page",
+                    "epoch": 1635022815.8409007,
+                    "language": "en",
+                    "source": "France24",
+                    "filename": "conc_en_2021-10-23.json",
+                    "en_title": "Socialist presidential hopeful Anne Hidalgo pushes for Ã¢ÂÂ100% bikeableÃ¢ÂÂ Paris",
+                    "en_content": "",
+                    "concepts": [
+                        {
+                            "word": "Anne",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Hidalgo",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "Ã¢ÂÂ100",
+                            "meaning": "nummod",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "%",
+                            "meaning": "compound",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "bikeableÃ¢ÂÂ",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Paris",
+                            "meaning": "npadvmod",
+                            "pos": "VERB"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "edition_a": [
+        {
+            "title": "RÃÂ©unie ÃÂ  Montricher (VD), lÃ¢ÂÂassemblÃÂ©e de lÃ¢ÂÂUDC se prononce sur les votations du 28 novembre",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-manuela-salvi-25772673.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/reunie-a-montricher-vd-l-assemblee-de-l-udc-se-prononce-sur-les-votations-du-28-novembre-25772660.html",
+            "duration": "01:51",
+            "ranked": 0,
+            "epoch": 1635541209.2313247,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Region to Montricher (VD), the assembly of the UDC is pronounced on the votes of November 28",
+            "concepts": [
+                {
+                    "word": "Region",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Montricher",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "VD",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "assembly",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "UDC",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "votes",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "November",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "GenÃÂ¨ve: un nouveau code dÃÂ©ontologique aprÃÂ¨s la suspension de 6 policiers",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-manuela-salvi-25772673.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/geneve-un-nouveau-code-deontologique-apres-la-suspension-de-6-policiers-25772662.html",
+            "duration": "01:26",
+            "ranked": 1,
+            "epoch": 1635541209.2313268,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "GENEVE: a new dear code after the suspension of 6 policemen",
+            "concepts": [
+                {
+                    "word": "GENEVE",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "code",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "suspension",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "policemen",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Etats-Unis: les salariÃÂ©es et salariÃÂ©s dÃ¢ÂÂAmazon persistent pour obtenir un syndicat",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-manuela-salvi-25772673.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/etats-unis-les-salariees-et-salaries-d-amazon-persistent-pour-obtenir-un-syndicat-25772665.html",
+            "duration": "01:55",
+            "ranked": 2,
+            "epoch": 1635541209.231328,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "United States: Employees and salardes of Amazon persist for a union",
+            "concepts": [
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "States",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Employees",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "salardes",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Amazon",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "union",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Hockey sur glace: le HC Ajoie essaye dÃ¢ÂÂÃÂ©viter une 6e dÃÂ©faite consÃÂ©cutive en National League",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-manuela-salvi-25772673.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/hockey-sur-glace-le-hc-ajoie-essaye-d-eviter-une-6e-defaite-consecutive-en-national-league-25772669.html",
+            "duration": "01:30",
+            "ranked": 3,
+            "epoch": 1635541209.2313287,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Ice Hockey: HC Ajoie tries to avoid a 6th deactive in National League",
+            "concepts": [
+                {
+                    "word": "Ice",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hockey",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "HC",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ajoie",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "deactive",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "National",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "League",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Moscou propose un paiement par reconnaissance faciale dans le mÃÂ©tro",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-manuela-salvi-25772673.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/moscou-propose-un-paiement-par-reconnaissance-faciale-dans-le-metro-25772667.html",
+            "duration": "02:36",
+            "ranked": 4,
+            "epoch": 1635541209.2313297,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Moscow offers a payment by facial recognition in the merth",
+            "concepts": [
+                {
+                    "word": "Moscow",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "payment",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "recognition",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "merth",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le Parti socialiste franÃÂ§ais intronise Anne Hidalgo pour lÃ¢ÂÂÃÂ©lection prÃÂ©sidentielle de 2022",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-manuela-salvi-25772673.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-parti-socialiste-francais-intronise-anne-hidalgo-pour-l-election-presidentielle-de-2022-25772675.html",
+            "duration": "00:18",
+            "ranked": 5,
+            "epoch": 1635541209.2313306,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "The French Socialist Party Intronizes Anne Hidalgo for the speci-lection of 2022",
+            "concepts": [
+                {
+                    "word": "French",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Socialist",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Party",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Anne",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hidalgo",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "speci",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "lection",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Quinze Minutes - Sur les pas des loups du Jura vaudois",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-manuela-salvi-25772673.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/quinze-minutes-sur-les-pas-des-loups-du-jura-vaudois-25772676.html",
+            "duration": "15:17",
+            "ranked": 6,
+            "epoch": 1635541209.2313313,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Fifteen minutes - in the footsteps of Jura Vaudois",
+            "concepts": [
+                {
+                    "word": "minutes",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "footsteps",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Jura",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vaudois",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "New migrant caravan breaks through police blockade in Mexico, heads north",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/americas/20211023-new-migrant-caravan-breaks-through-police-blockade-in-mexico-heads-north",
+            "content": "",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1635022815.8408968,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "New migrant caravan breaks through police blockade in Mexico, heads north",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "caravan",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "police",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "blockade",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Mexico",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Socialist presidential hopeful Anne Hidalgo pushes for Ã¢ÂÂ100% bikeableÃ¢ÂÂ Paris",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/europe/20211023-socialist-presidential-hopeful-anne-hidalgo-pushes-for-100-bikeable-paris",
+            "content": "",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1635022815.8409007,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Socialist presidential hopeful Anne Hidalgo pushes for Ã¢ÂÂ100% bikeableÃ¢ÂÂ Paris",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Anne",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hidalgo",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Ã¢ÂÂ100",
+                    "meaning": "nummod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "%",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "bikeableÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Police say prop gun Baldwin fired on movie set contained live rounds",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/americas/20211023-police-say-prop-gun-baldwin-fired-on-movie-set-contained-live-rounds",
+            "content": "",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1635022815.8409019,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Police say prop gun Baldwin fired on movie set contained live rounds",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Police",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "prop",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "gun",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Baldwin",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "movie",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "set",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "rounds",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Security Council delegation in Mali to push for civilian government",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/africa/20211023-un-security-council-delegation-in-mali-to-push-for-civilian-government",
+            "content": "",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1635022815.8409033,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Security Council delegation in Mali to push for civilian government",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Security",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "delegation",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Mali",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "ItalyÃ¢ÂÂs former interior minister Salvini stands trial on migrant kidnapping charges",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/europe/20211023-italy-s-former-interior-minister-salvini-stands-trial-on-migrant-kidnapping-charges",
+            "content": "",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1635022815.8409042,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "ItalyÃ¢ÂÂs former interior minister Salvini stands trial on migrant kidnapping charges",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "minister",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Salvini",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "trial",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "kidnapping",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "charges",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Ã¢ÂÂSalviniÃ¢ÂÂs moment has passedÃ¢ÂÂ: Fading right-wing champion on trial for blocking migrants at sea",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/europe/20211023-salvini-s-moment-has-passed-fading-champion-of-italy-s-right-wing-on-trial-for-migrant-kidnapping",
+            "content": "",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1635022815.8409054,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Ã¢ÂÂSalviniÃ¢ÂÂs moment has passedÃ¢ÂÂ: Fading right-wing champion on trial for blocking migrants at sea",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Ã¢ÂÂSalviniÃ¢ÂÂs",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "moment",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "passedÃ¢ÂÂ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "wing",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "champion",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "migrants",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sea",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "UN suspends humanitarian flights to EthiopiaÃ¢ÂÂs Tigray after air strikes",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/africa/20211023-un-suspends-humanitarian-flights-to-ethiopia-s-tigray-after-air-strikes",
+            "content": "",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1635022815.8409064,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "UN suspends humanitarian flights to EthiopiaÃ¢ÂÂs Tigray after air strikes",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "UN",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "flights",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "EthiopiaÃ¢ÂÂs",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Tigray",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "air",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "strikes",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "TurkeyÃ¢ÂÂs Erdogan wants US, French ambassadors declared Ã¢ÂÂpersona non grataÃ¢ÂÂ",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/europe/20211023-turkey-declares-us-french-ambassadors-persona-non-grata",
+            "content": "",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1635022815.8409073,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "TurkeyÃ¢ÂÂs Erdogan wants US, French ambassadors declared Ã¢ÂÂpersona non grataÃ¢ÂÂ",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "TurkeyÃ¢ÂÂs",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Erdogan",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "US",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ambassadors",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Ã¢ÂÂpersona",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "grataÃ¢ÂÂ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "US efforts to free missionaries kidnapped in Haiti continue Ã¢ÂÂaround the clockÃ¢ÂÂ",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/video/20211023-gang-boss-in-haiti-threatens-to-kill-abducted-missionaries",
+            "content": "",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1635022815.840908,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "US efforts to free missionaries kidnapped in Haiti continue Ã¢ÂÂaround the clockÃ¢ÂÂ",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "US",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "efforts",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "missionaries",
+                    "meaning": "pobj",
+                    "pos": "PART"
+                },
+                {
+                    "word": "Haiti",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "clockÃ¢ÂÂ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Mourners, athletes demand justice for Kenyan star runner Agnes Tirop at funeral",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/sport/20211023-mourners-athletes-demand-justice-for-kenyan-star-runner-agnes-tirop-at-funeral",
+            "content": "",
+            "ranked": 9,
+            "placed": "First_Page",
+            "epoch": 1635022815.840909,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Mourners, athletes demand justice for Kenyan star runner Agnes Tirop at funeral",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Mourners",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "athletes",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "justice",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "star",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "runner",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Agnes",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Tirop",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "funeral",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Human rights catastrophe feared in Myanmar as troops mass in restive regions",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/asia-pacific/20211023-un-fears-human-rights-catastrophe-in-myanmar-as-troops-mass-in-restive-regions",
+            "content": "",
+            "ranked": 10,
+            "placed": "First_Page",
+            "epoch": 1635022815.8409097,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Human rights catastrophe feared in Myanmar as troops mass in restive regions",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "rights",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "catastrophe",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Myanmar",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "troops",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "regions",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "New whistleblower says Facebook put profit above fighting misinformation",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/technology/20211023-new-whistleblower-says-facebook-put-profit-above-fighting-misinformation",
+            "content": "",
+            "ranked": 11,
+            "placed": "First_Page",
+            "epoch": 1635022815.8409111,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "New whistleblower says Facebook put profit above fighting misinformation",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "New",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "whistleblower",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Facebook",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "profit",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "misinformation",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Russia places former inmate who exposed prison abuse on wanted list",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/europe/20211023-russia-places-whistleblower-who-exposed-prison-abuse-on-wanted-list",
+            "content": "",
+            "ranked": 12,
+            "placed": "First_Page",
+            "epoch": 1635022815.8409214,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Russia places former inmate who exposed prison abuse on wanted list",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Russia",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "inmate",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "abuse",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "list",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "US military announces killing of senior al-Qaeda leader in drone strike",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/middle-east/20211023-us-military-announces-killing-of-senior-al-qaeda-leader-in-drone-strike",
+            "content": "",
+            "ranked": 13,
+            "placed": "First_Page",
+            "epoch": 1635022815.8409224,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "US military announces killing of senior al-Qaeda leader in drone strike",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "US",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "military",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "al",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Qaeda",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "leader",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "drone",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "strike",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "French football star Patrice Evra says he was sexually abused as a teen",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.france24.com/en/sport/20211023-french-football-star-patrice-evra-says-he-was-sexually-abused-as-a-teen",
+            "content": "",
+            "ranked": 14,
+            "placed": "First_Page",
+            "epoch": 1635022815.840923,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "French football star Patrice Evra says he was sexually abused as a teen",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "football",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "star",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Patrice",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Evra",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "teen",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

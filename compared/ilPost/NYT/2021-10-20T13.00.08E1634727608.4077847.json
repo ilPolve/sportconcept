@@ -1,0 +1,1864 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Il governo vuole ridurre il costo degli assorbenti",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/costo-assorbenti-taglio-iva/",
+            "content": " Nel documento che prepara la legge di bilancio ha proposto di abbassare l'IVA dal 22 al 10%, avvicinandosi ad altri paesi europei ",
+            "ranked": 0,
+            "placed": "Politics",
+            "epoch": 1634727608.4077454,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Il governo vuole ridurre il costo degli assorbenti",
+            "en_content": " Nel documento che prepara la legge di bilancio ha proposto di abbassare l'IVA dal 22 al 10%, avvicinandosi ad altri paesi europei ",
+            "concepts": [
+                {
+                    "word": "Il",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "governo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "vuole",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ridurre",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "il",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "degli",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "assorbenti",
+                    "meaning": "punct",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Il governo ha approvato il documento che prepara la legge di bilancio",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/documento-programmatico-di-bilancio-2022/",
+            "content": " Parla di una possibile riduzione delle tasse e, tra le altre cose, rinvia al 2023 la plastic tax e la sugar tax\t",
+            "ranked": 1,
+            "placed": "Politics",
+            "epoch": 1634727608.407748,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Il governo ha approvato il documento che prepara la legge di bilancio",
+            "en_content": " Parla di una possibile riduzione delle tasse e, tra le altre cose, rinvia al 2023 la plastic tax e la sugar tax\t",
+            "concepts": [
+                {
+                    "word": "Il",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "governo",
+                    "meaning": "npadvmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "approvato",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "il",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "documento",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "che",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "prepara",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "la",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "legge",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "bilancio",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Gli altri risultati delle elezioni comunali",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/gli-altri-risultati-delle-elezioni-comunali/",
+            "content": " Dagli omonimi di Cosenza alle sorprese di Varese e Latina, come sono andate nei sette capoluoghi di provincia e in altre cittÃÂ  rilevanti\t",
+            "ranked": 2,
+            "placed": "Politics",
+            "epoch": 1634727608.4077494,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Gli altri risultati delle elezioni comunali",
+            "en_content": " Dagli omonimi di Cosenza alle sorprese di Varese e Latina, come sono andate nei sette capoluoghi di provincia e in altre cittÃÂ  rilevanti\t",
+            "concepts": [
+                {
+                    "word": "Gli",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "altri",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "risultati",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "delle",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "elezioni",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "I dilemmi della destra dopo le amministrative",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/destra-coalizione-amministrative-lega-meloni/",
+            "content": " Le tante sonore sconfitte non hanno un'unica spiegazione, e le decisioni dei prossimi mesi di Salvini e Meloni non saranno facili\t",
+            "ranked": 3,
+            "placed": "Politics",
+            "epoch": 1634727608.4077501,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "I dilemmi della destra dopo le amministrative",
+            "en_content": " Le tante sonore sconfitte non hanno un'unica spiegazione, e le decisioni dei prossimi mesi di Salvini e Meloni non saranno facili\t",
+            "concepts": [
+                {
+                    "word": "dilemmi",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "della",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "destra",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "dopo",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "le",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "amministrative",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Il centrosinistra ha vinto un poÃ¢ÂÂ ovunque",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/centrosinistra-vittoria-amministrative/",
+            "content": " ÃÂ arrivato nettamente primo in tutti i capoluoghi di regione tranne Trieste, ed ÃÂ¨ andato molto bene anche in quelli di provincia ",
+            "ranked": 4,
+            "placed": "Politics",
+            "epoch": 1634727608.407751,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Il centrosinistra ha vinto un poÃ¢ÂÂ ovunque",
+            "en_content": " ÃÂ arrivato nettamente primo in tutti i capoluoghi di regione tranne Trieste, ed ÃÂ¨ andato molto bene anche in quelli di provincia ",
+            "concepts": [
+                {
+                    "word": "Il",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "centrosinistra",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "un",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "poÃ¢ÂÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ovunque",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Roberto Gualtieri sarÃÂ  il prossimo sindaco di Roma",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggio-roma-elezioni-sindaco-risultati/",
+            "content": " Il candidato del centrosinistra ha ottenuto oltre venti punti di vantaggio su Enrico Michetti, del centrodestra\t",
+            "ranked": 5,
+            "placed": "Politics",
+            "epoch": 1634727608.407752,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Roberto Gualtieri sarÃÂ  il prossimo sindaco di Roma",
+            "en_content": " Il candidato del centrosinistra ha ottenuto oltre venti punti di vantaggio su Enrico Michetti, del centrodestra\t",
+            "concepts": [
+                {
+                    "word": "Roberto",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "il",
+                    "meaning": "prep",
+                    "pos": "SPACE"
+                },
+                {
+                    "word": "prossimo",
+                    "meaning": "dep",
+                    "pos": "SPACE"
+                },
+                {
+                    "word": "sindaco",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Roma",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Anche Roma e Torino al centrosinistra",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggi-amministrative-roma-torino/",
+            "content": " Le vittorie di Gualtieri e Lo Russo si aggiungono a quelle del primo turno di queste amministrative, in cui il centrodestra ha vinto solo a Trieste\t",
+            "ranked": 6,
+            "placed": "Politics",
+            "epoch": 1634727608.4077528,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Anche Roma e Torino al centrosinistra",
+            "en_content": " Le vittorie di Gualtieri e Lo Russo si aggiungono a quelle del primo turno di queste amministrative, in cui il centrodestra ha vinto solo a Trieste\t",
+            "concepts": [
+                {
+                    "word": "Anche",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Roma",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "e",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Torino",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "al",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "centrosinistra",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Stefano Lo Russo del centrosinistra ha vinto a Torino",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/torino-ballottaggio-elezione-sindaco-risultato/",
+            "content": " A scrutinio terminato ha superato il 59 per cento dei voti, molto avanti rispetto a Paolo Damilano del centrodestra\t",
+            "ranked": 7,
+            "placed": "Politics",
+            "epoch": 1634727608.4077535,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Stefano Lo Russo del centrosinistra ha vinto a Torino",
+            "en_content": " A scrutinio terminato ha superato il 59 per cento dei voti, molto avanti rispetto a Paolo Damilano del centrodestra\t",
+            "concepts": [
+                {
+                    "word": "Stefano",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Russo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "centrosinistra",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Torino",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂaffluenza ai ballottaggi ÃÂ¨ piuttosto bassa",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggi-affluenza-elezioni-roma-torino/",
+            "content": " Alle 23 di ieri aveva votato il 33% degli elettori, e a Roma ancora meno ",
+            "ranked": 8,
+            "placed": "Politics",
+            "epoch": 1634727608.407754,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "LÃ¢ÂÂaffluenza ai ballottaggi ÃÂ¨ piuttosto bassa",
+            "en_content": " Alle 23 di ieri aveva votato il 33% degli elettori, e a Roma ancora meno ",
+            "concepts": [
+                {
+                    "word": "LÃ¢ÂÂaffluenza",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ai",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ballottaggi",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ÃÂ¨",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "piuttosto",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "bassa",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Alle 12 lÃ¢ÂÂaffluenza ai ballottaggi delle elezioni amministrative era del 9,73 per cento",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/affluenza-ballottaggi/",
+            "content": " \t",
+            "ranked": 9,
+            "placed": "Politics",
+            "epoch": 1634727608.407755,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Alle 12 lÃ¢ÂÂaffluenza ai ballottaggi delle elezioni amministrative era del 9,73 per cento",
+            "en_content": " \t",
+            "concepts": [
+                {
+                    "word": "Alle",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "lÃ¢ÂÂaffluenza",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ai",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ballottaggi",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "delle",
+                    "meaning": "compound",
+                    "pos": "NUM"
+                },
+                {
+                    "word": "elezioni",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "era",
+                    "meaning": "compound",
+                    "pos": "NUM"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "NUM"
+                },
+                {
+                    "word": "cento",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Guida ai ballottaggi delle elezioni amministrative",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/ballottaggi-elezioni-amministrative-roma-torino/",
+            "content": " BisognerÃÂ  tenere d'occhio Roma, Torino e Trieste, oltre agli altri capoluoghi: un piccolo atlante per orientarsi\t",
+            "ranked": 10,
+            "placed": "Politics",
+            "epoch": 1634727608.407756,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Guida ai ballottaggi delle elezioni amministrative",
+            "en_content": " BisognerÃÂ  tenere d'occhio Roma, Torino e Trieste, oltre agli altri capoluoghi: un piccolo atlante per orientarsi\t",
+            "concepts": [
+                {
+                    "word": "Guida",
+                    "meaning": "nsubj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ai",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ballottaggi",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "delle",
+                    "meaning": "npadvmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "elezioni",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "amministrative",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Torino si prepara al ballottaggio",
+            "date_raw": "October 16, 2021",
+            "date": "2021-10-16",
+            "news_url": "https://www.ilpost.it/2021/10/16/torino-ballottaggio-lo-russo-damilano/",
+            "content": " DovrÃÂ  scegliere il suo prossimo sindaco tra Stefano Lo Russo del centrosinistra e Paolo Damilano del centrodestra, in una sfida considerata molto aperta\t",
+            "ranked": 11,
+            "placed": "Politics",
+            "epoch": 1634727608.4077568,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Torino si prepara al ballottaggio",
+            "en_content": " DovrÃÂ  scegliere il suo prossimo sindaco tra Stefano Lo Russo del centrosinistra e Paolo Damilano del centrodestra, in una sfida considerata molto aperta\t",
+            "concepts": [
+                {
+                    "word": "prepara",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "al",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ballottaggio",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Michetti e Gualtieri si contendono gli elettori di Calenda e Raggi",
+            "date_raw": "October 15, 2021",
+            "date": "2021-10-15",
+            "news_url": "https://www.ilpost.it/2021/10/15/ballottaggio-roma/",
+            "content": " I loro voti decideranno il ballottaggio a Roma, ma dopo le proteste contro il Green Pass le cose per la destra si sono complicate\t",
+            "ranked": 12,
+            "placed": "Politics",
+            "epoch": 1634727608.4077575,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Michetti e Gualtieri si contendono gli elettori di Calenda e Raggi",
+            "en_content": " I loro voti decideranno il ballottaggio a Roma, ma dopo le proteste contro il Green Pass le cose per la destra si sono complicate\t",
+            "concepts": [
+                {
+                    "word": "Michetti",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "e",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "contendono",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "di",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Calenda",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "e",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Raggi",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Una giornata complicata per il governo",
+            "date_raw": "October 15, 2021",
+            "date": "2021-10-15",
+            "news_url": "https://www.ilpost.it/2021/10/15/governo-draghi-venerdi-obbligo-green-pass/",
+            "content": " L'entrata in vigore dell'obbligo del Green Pass sui luoghi di lavoro ÃÂ¨ accompagnata da preoccupazioni per possibili problemi, disservizi e soprattutto proteste\t",
+            "ranked": 13,
+            "placed": "Politics",
+            "epoch": 1634727608.4077582,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Una giornata complicata per il governo",
+            "en_content": " L'entrata in vigore dell'obbligo del Green Pass sui luoghi di lavoro ÃÂ¨ accompagnata da preoccupazioni per possibili problemi, disservizi e soprattutto proteste\t",
+            "concepts": [
+                {
+                    "word": "Una",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "giornata",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "il",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "governo",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "ComÃ¢ÂÂÃÂ¨ fatta lÃ¢ÂÂestrema destra in Italia",
+            "date_raw": "October 14, 2021",
+            "date": "2021-10-14",
+            "news_url": "https://www.ilpost.it/2021/10/14/gruppi-partiti-organizzazioni-neofascisti-estrema-destra-italia/",
+            "content": " I gruppi neofascisti piÃÂ¹ forti sono tre e in competizione tra loro, ma ÃÂ¨ un mondo fatto di decine di organizzazioni piccole o piccolissime\t",
+            "ranked": 14,
+            "placed": "Politics",
+            "epoch": 1634727608.407759,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "ComÃ¢ÂÂÃÂ¨ fatta lÃ¢ÂÂestrema destra in Italia",
+            "en_content": " I gruppi neofascisti piÃÂ¹ forti sono tre e in competizione tra loro, ma ÃÂ¨ un mondo fatto di decine di organizzazioni piccole o piccolissime\t",
+            "concepts": [
+                {
+                    "word": "ComÃ¢ÂÂÃÂ¨",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "fatta",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "destra",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Italia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Alle elezioni comunali in Sardegna il centrosinistra ha vinto al primo turno a Carbonia, mentre il centrodestra a Olbia",
+            "date_raw": "October 12, 2021",
+            "date": "2021-10-12",
+            "news_url": "https://www.ilpost.it/2021/10/12/elezioni-comunali-sardegna-carbonia-olbia/",
+            "content": " \t",
+            "ranked": 15,
+            "placed": "Politics",
+            "epoch": 1634727608.4077597,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Alle elezioni comunali in Sardegna il centrosinistra ha vinto al primo turno a Carbonia, mentre il centrodestra a Olbia",
+            "en_content": " \t",
+            "concepts": [
+                {
+                    "word": "Alle",
+                    "meaning": "nsubj",
+                    "pos": "ADV"
+                },
+                {
+                    "word": "Sardegna",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "il",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "centrosinistra",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ha",
+                    "meaning": "intj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "vinto",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "al",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "turno",
+                    "meaning": "dative",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Carbonia",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "il",
+                    "meaning": "dative",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "centrodestra",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Olbia",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Come si scioglie Forza Nuova",
+            "date_raw": "October 12, 2021",
+            "date": "2021-10-12",
+            "news_url": "https://www.ilpost.it/2021/10/12/come-si-scioglie-forza-nuova/",
+            "content": " Cosa dicono Costituzione e codici, quali sono le proposte e le posizioni dei partiti\t",
+            "ranked": 16,
+            "placed": "Politics",
+            "epoch": 1634727608.4077604,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Come si scioglie Forza Nuova",
+            "en_content": " Cosa dicono Costituzione e codici, quali sono le proposte e le posizioni dei partiti\t",
+            "concepts": [
+                {
+                    "word": "si",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "scioglie",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Forza",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Nuova",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Enrico Michetti si ÃÂ¨ vantato di non essere mai stato a Bruxelles",
+            "date_raw": "October 12, 2021",
+            "date": "2021-10-12",
+            "news_url": "https://www.ilpost.it/2021/10/12/michetti-bruxelles/",
+            "content": " Il candidato sindaco del centrodestra a Roma lo ha detto in un recente comizio per provare la sua ÃÂ«indipendenzaÃÂ»\t",
+            "ranked": 17,
+            "placed": "Politics",
+            "epoch": 1634727608.407761,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Enrico Michetti si ÃÂ¨ vantato di non essere mai stato a Bruxelles",
+            "en_content": " Il candidato sindaco del centrodestra a Roma lo ha detto in un recente comizio per provare la sua ÃÂ«indipendenzaÃÂ»\t",
+            "concepts": [
+                {
+                    "word": "Enrico",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Michetti",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ÃÂ¨",
+                    "meaning": "nmod",
+                    "pos": "X"
+                },
+                {
+                    "word": "essere",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "mai",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Bruxelles",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Giorgia Meloni dice di non conoscere la matrice dellÃ¢ÂÂassalto alla sede romana della CGIL",
+            "date_raw": "October 11, 2021",
+            "date": "2021-10-11",
+            "news_url": "https://www.ilpost.it/2021/10/11/giorgia-meloni-matrice-assalto-sede-cgil/",
+            "content": " Nonostante durante gli scontri di Roma siano stati arrestati anche Roberto Fiore e Giuliano Castellini, di Forza Nuova\t",
+            "ranked": 18,
+            "placed": "Politics",
+            "epoch": 1634727608.4077618,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Giorgia Meloni dice di non conoscere la matrice dellÃ¢ÂÂassalto alla sede romana della CGIL",
+            "en_content": " Nonostante durante gli scontri di Roma siano stati arrestati anche Roberto Fiore e Giuliano Castellini, di Forza Nuova\t",
+            "concepts": [
+                {
+                    "word": "Giorgia",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Meloni",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "dice",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "matrice",
+                    "meaning": "pobj",
+                    "pos": "X"
+                },
+                {
+                    "word": "alla",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "romana",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "della",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "CGIL",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Chi sono Roberto Fiore e Giuliano Castellino",
+            "date_raw": "October 10, 2021",
+            "date": "2021-10-10",
+            "news_url": "https://www.ilpost.it/2021/10/10/roberto-fiore-giuliano-castellino/",
+            "content": " Il fondatore di Forza Nuova e il capo romano del partito sono tra le persone arrestate per gli scontri e l'assalto alla sede della CGIL a Roma\t",
+            "ranked": 19,
+            "placed": "Politics",
+            "epoch": 1634727608.4077625,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Chi sono Roberto Fiore e Giuliano Castellino",
+            "en_content": " Il fondatore di Forza Nuova e il capo romano del partito sono tra le persone arrestate per gli scontri e l'assalto alla sede della CGIL a Roma\t",
+            "concepts": [
+                {
+                    "word": "Chi",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sono",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Roberto",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Fiore",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "e",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Giuliano",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Castellino",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "ÃÂ«Salvini ÃÂ¨ un rumore di fondoÃÂ»",
+            "date_raw": "October 09, 2021",
+            "date": "2021-10-09",
+            "news_url": "https://www.ilpost.it/2021/10/09/salvini-rumore-di-fondo-speranza/",
+            "content": " Lo ha detto il ministro della Salute Roberto Speranza, parlando col Corriere della Sera\t",
+            "ranked": 20,
+            "placed": "Politics",
+            "epoch": 1634727608.4077632,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "ÃÂ«Salvini ÃÂ¨ un rumore di fondoÃÂ»",
+            "en_content": " Lo ha detto il ministro della Salute Roberto Speranza, parlando col Corriere della Sera\t",
+            "concepts": [
+                {
+                    "word": "ÃÂ«Salvini",
+                    "meaning": "punct",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ÃÂ¨",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "un",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "rumore",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "di",
+                    "meaning": "punct",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "fondoÃÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "»",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "La seconda parte dellÃ¢ÂÂinchiesta di Fanpage, sulla Lega",
+            "date_raw": "October 08, 2021",
+            "date": "2021-10-08",
+            "news_url": "https://www.ilpost.it/2021/10/08/inchiesta-fanpage-lega/",
+            "content": " Si parla dell'influenza dei neofascisti sul partito, e si vede anche la consegna di un trolley in cui avrebbero dovuto esserci contanti\t",
+            "ranked": 21,
+            "placed": "Politics",
+            "epoch": 1634727608.4077637,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "La seconda parte dellÃ¢ÂÂinchiesta di Fanpage, sulla Lega",
+            "en_content": " Si parla dell'influenza dei neofascisti sul partito, e si vede anche la consegna di un trolley in cui avrebbero dovuto esserci contanti\t",
+            "concepts": [
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "seconda",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "parte",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Fanpage",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sulla",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lega",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "La prima sconfitta del nuovo M5S",
+            "date_raw": "October 06, 2021",
+            "date": "2021-10-06",
+            "news_url": "https://www.ilpost.it/2021/10/06/sconfitta-m5s-amministrative/",
+            "content": " ÃÂ andato malissimo praticamente ovunque, ma Conte sembra insistere sul suo progetto di avvicinamento al centrosinistra\t",
+            "ranked": 22,
+            "placed": "Politics",
+            "epoch": 1634727608.4077644,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "La prima sconfitta del nuovo M5S",
+            "en_content": " ÃÂ andato malissimo praticamente ovunque, ma Conte sembra insistere sul suo progetto di avvicinamento al centrosinistra\t",
+            "concepts": [
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prima",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "nuovo",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "M5S",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Draghi tira dritto",
+            "date_raw": "October 06, 2021",
+            "date": "2021-10-06",
+            "news_url": "https://www.ilpost.it/2021/10/06/draghi-salvini-riforma-fiscale/",
+            "content": " Il governo ha approvato il disegno di legge per la riforma fiscale nonostante l'assenza polemica della Lega\t",
+            "ranked": 23,
+            "placed": "Politics",
+            "epoch": 1634727608.407765,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Draghi tira dritto",
+            "en_content": " Il governo ha approvato il disegno di legge per la riforma fiscale nonostante l'assenza polemica della Lega\t",
+            "concepts": [
+                {
+                    "word": "Draghi",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tira",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "dritto",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Chi ÃÂ¨ Roberto Occhiuto, nuovo presidente della Calabria",
+            "date_raw": "October 05, 2021",
+            "date": "2021-10-05",
+            "news_url": "https://www.ilpost.it/2021/10/05/roberto-occhiuto-presidente-calabria/",
+            "content": " Ha 52 anni ed ÃÂ¨ il capogruppo di Forza Italia alla Camera: in campagna elettorale ha parlato molto di sanitÃÂ , rifiuti e acqua\t",
+            "ranked": 24,
+            "placed": "Politics",
+            "epoch": 1634727608.4077659,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Chi ÃÂ¨ Roberto Occhiuto, nuovo presidente della Calabria",
+            "en_content": " Ha 52 anni ed ÃÂ¨ il capogruppo di Forza Italia alla Camera: in campagna elettorale ha parlato molto di sanitÃÂ , rifiuti e acqua\t",
+            "concepts": [
+                {
+                    "word": "Chi",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ÃÂ¨",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Roberto",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Occhiuto",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "presidente",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "della",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Calabria",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Il giorno dopo il primo turno delle amministrative",
+            "date_raw": "October 05, 2021",
+            "date": "2021-10-05",
+            "news_url": "https://www.ilpost.it/2021/10/05/primo-turno-amministrative-bilancio/",
+            "content": " ÃÂ pessimo per Salvini e in generale per il centrodestra, mentre il centrosinistra ora punta a vincere i ballottaggi a Roma e Torino\t",
+            "ranked": 25,
+            "placed": "Politics",
+            "epoch": 1634727608.4077666,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.00.08E1634727608.4077847.json",
+            "en_title": "Il giorno dopo il primo turno delle amministrative",
+            "en_content": " ÃÂ pessimo per Salvini e in generale per il centrodestra, mentre il centrosinistra ora punta a vincere i ballottaggi a Roma e Torino\t",
+            "concepts": [
+                {
+                    "word": "Il",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "giorno",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "dopo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "il",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "turno",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "delle",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "amministrative",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Female Judges in Afghanistan, Now Jobless and in Hiding",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html",
+            "content": "They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. âWe have lost everything â our jobs, our homes, the way we lived.â",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1634727602.4170005,
+            "more_info": {
+                "section": "world",
+                "subsection": "asia",
+                "uri": "nyt://article/fd6d0761-b46a-566c-8bfb-22e985b95751",
+                "byline": "By David Zucchino",
+                "item_type": "Article",
+                "updated_date": "2021-10-20T06:21:38-04:00",
+                "created_date": "2021-10-20T05:00:35-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Women and Girls",
+                    "Women's Rights",
+                    "Afghanistan War (2001- )"
+                ],
+                "org_facet": [
+                    "Taliban"
+                ],
+                "per_facet": [],
+                "geo_facet": [
+                    "Afghanistan"
+                ],
+                "short_news_url": "https://nyti.ms/3BY1ykQ"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-20T13.00.02E1634727602.4172077.json",
+            "en_title": "Female Judges in Afghanistan, Now Jobless and in Hiding",
+            "en_content": "They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. âWe have lost everything â our jobs, our homes, the way we lived.â",
+            "concepts": [
+                {
+                    "word": "Female",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Judges",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Hiding",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "In Minneapolis, a Thriving Center for Indigenous Art",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.nytimes.com/2021/10/20/arts/minneapolis-native-american-culture.html",
+            "content": "The eight-block American Indian Cultural Corridor celebrates Native American art and commerce.",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1634727602.4170325,
+            "more_info": {
+                "section": "arts",
+                "subsection": "",
+                "uri": "nyt://article/898b8795-8e10-5ac6-ad0b-01d2f1417c75",
+                "byline": "By Alex V. Cipolle",
+                "item_type": "Article",
+                "updated_date": "2021-10-20T05:00:32-04:00",
+                "created_date": "2021-10-20T05:00:32-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Native Americans",
+                    "Art",
+                    "Indigenous People"
+                ],
+                "org_facet": [
+                    "American Indian Movement",
+                    "Walker Art Center"
+                ],
+                "per_facet": [],
+                "geo_facet": [
+                    "Minneapolis (Minn)"
+                ],
+                "short_news_url": "https://nyti.ms/3AW91zt"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-20T13.00.02E1634727602.4172077.json",
+            "en_title": "In Minneapolis, a Thriving Center for Indigenous Art",
+            "en_content": "The eight-block American Indian Cultural Corridor celebrates Native American art and commerce.",
+            "concepts": [
+                {
+                    "word": "Minneapolis",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Thriving",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Center",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Indigenous",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Art",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "The Strange Appeal of Shelter TikTok",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.nytimes.com/2021/10/20/magazine/tiktok-home-design.html",
+            "content": "TikTok has developed its own approach to home-design content: Skip over the home to obsess over the objects inside.",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1634727602.4170525,
+            "more_info": {
+                "section": "magazine",
+                "subsection": "",
+                "uri": "nyt://article/7c425ae7-65ca-50ab-9d25-4380b8e96d8d",
+                "byline": "By Daisy Alioto",
+                "item_type": "Article",
+                "updated_date": "2021-10-20T05:00:12-04:00",
+                "created_date": "2021-10-20T05:00:12-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Social Media",
+                    "Interior Design and Furnishings",
+                    "Millennial Generation",
+                    "Generation Z",
+                    "Architecture"
+                ],
+                "org_facet": [
+                    "Architectural Digest",
+                    "House Beautiful"
+                ],
+                "per_facet": [
+                    "Johnson, Dakota"
+                ],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3aSRkpU"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-20T13.00.02E1634727602.4172077.json",
+            "en_title": "The Strange Appeal of Shelter TikTok",
+            "en_content": "TikTok has developed its own approach to home-design content: Skip over the home to obsess over the objects inside.",
+            "concepts": [
+                {
+                    "word": "Strange",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Appeal",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Shelter",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "TikTok",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Pablo Picassoâs Life Under Surveillance",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.nytimes.com/2021/10/20/arts/pablo-picasso-france.html",
+            "content": "A museum show in Paris explores the Spanish artistâs time in France, where his connections and celebrity made him a suspect in the eyes of officials.",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1634727602.417069,
+            "more_info": {
+                "section": "arts",
+                "subsection": "",
+                "uri": "nyt://article/265bfbd1-69f7-5b39-b55d-8ced3ac3c1ca",
+                "byline": "By Nazanin Lankarani",
+                "item_type": "Article",
+                "updated_date": "2021-10-20T05:00:17-04:00",
+                "created_date": "2021-10-20T05:00:17-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Art",
+                    "Politics and Government",
+                    "Immigration and Emigration"
+                ],
+                "org_facet": [
+                    "Palais de la Porte Doree (Paris, France)"
+                ],
+                "per_facet": [
+                    "Picasso, Pablo",
+                    "Cohen-Solal, Annie"
+                ],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/2Xz2cXe"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-20T13.00.02E1634727602.4172077.json",
+            "en_title": "Pablo Picassoâs Life Under Surveillance",
+            "en_content": "A museum show in Paris explores the Spanish artistâs time in France, where his connections and celebrity made him a suspect in the eyes of officials.",
+            "concepts": [
+                {
+                    "word": "Pablo",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Picassoâs",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Life",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Surveillance",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Waiting on U.S. Mandate, Some Nursing Homes Are Slow to Vaccinate Staff",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.nytimes.com/2021/10/20/health/nursing-homes-covid-vaccine-mandate.html",
+            "content": "Less than half of workers are still not immunized at facilities in several states. âI just feel like a sitting duck,â one resident said.",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1634727602.4170847,
+            "more_info": {
+                "section": "health",
+                "subsection": "",
+                "uri": "nyt://article/f0889f26-2579-5883-91dd-efef59ffe268",
+                "byline": "By Reed Abelson",
+                "item_type": "Article",
+                "updated_date": "2021-10-20T06:13:21-04:00",
+                "created_date": "2021-10-20T05:00:26-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Nursing Homes",
+                    "Vaccination and Immunization",
+                    "Elderly",
+                    "Coronavirus (2019-nCoV)",
+                    "Regulation and Deregulation of Industry",
+                    "your-feed-healthcare"
+                ],
+                "org_facet": [
+                    "Centers for Medicare and Medicaid Services"
+                ],
+                "per_facet": [
+                    "Biden, Joseph R Jr"
+                ],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3ATj1cN"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-20T13.00.02E1634727602.4172077.json",
+            "en_title": "Waiting on U.S. Mandate, Some Nursing Homes Are Slow to Vaccinate Staff",
+            "en_content": "Less than half of workers are still not immunized at facilities in several states. âI just feel like a sitting duck,â one resident said.",
+            "concepts": [
+                {
+                    "word": "U.S.",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Mandate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Nursing",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Homes",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Vaccinate",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Staff",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "The Economic Rebound Is Still Waiting for Workers",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
+            "content": "Despite school reopenings and the end of some federal aid, many people are in no rush to land a job. Savings and health concerns are playing a role.",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1634727602.4171002,
+            "more_info": {
+                "section": "business",
+                "subsection": "economy",
+                "uri": "nyt://article/26b95b3b-7416-5f4b-8197-51e919bf36da",
+                "byline": "By Ben Casselman",
+                "item_type": "Article",
+                "updated_date": "2021-10-19T23:52:49-04:00",
+                "created_date": "2021-10-19T10:57:31-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Labor and Jobs",
+                    "Shortages",
+                    "Coronavirus (2019-nCoV)",
+                    "United States Economy",
+                    "Unemployment",
+                    "Wages and Salaries",
+                    "Coronavirus Reopenings",
+                    "Unemployment Insurance",
+                    "Savings",
+                    "Work-Life Balance",
+                    "Careers and Professions"
+                ],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3C47g4Y"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-20T13.00.02E1634727602.4172077.json",
+            "en_title": "The Economic Rebound Is Still Waiting for Workers",
+            "en_content": "Despite school reopenings and the end of some federal aid, many people are in no rush to land a job. Savings and health concerns are playing a role.",
+            "concepts": [
+                {
+                    "word": "Economic",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rebound",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Workers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Couple in Submarine Spy Case Stewed Over Money and Politics",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
+            "content": "Jonathan and Diana Toebbe, charged with trying to sell classified nuclear secrets to a foreign power, struggled with finances, family and the state of America.",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1634727602.4171143,
+            "more_info": {
+                "section": "us",
+                "subsection": "politics",
+                "uri": "nyt://article/adc6b2c0-3706-55e9-81d1-6cf7eba9f59f",
+                "byline": "By Julian E. Barnes and JoAnna Daemmrich",
+                "item_type": "Article",
+                "updated_date": "2021-10-20T00:10:04-04:00",
+                "created_date": "2021-10-19T18:28:37-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Content Type: Personal Profile",
+                    "United States Defense and Military Forces",
+                    "Laboratories and Scientific Equipment",
+                    "Computer Security",
+                    "Submarines and Submersibles",
+                    "Nuclear Energy",
+                    "Espionage and Intelligence Services"
+                ],
+                "org_facet": [
+                    "Federal Bureau of Investigation"
+                ],
+                "per_facet": [
+                    "Toebbe, Diana",
+                    "Toebbe, Jonathan"
+                ],
+                "geo_facet": [
+                    "Washington Navy Yard (Washington, DC)"
+                ],
+                "short_news_url": "https://nyti.ms/3vtZEGd"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-20T13.00.02E1634727602.4172077.json",
+            "en_title": "Couple in Submarine Spy Case Stewed Over Money and Politics",
+            "en_content": "Jonathan and Diana Toebbe, charged with trying to sell classified nuclear secrets to a foreign power, struggled with finances, family and the state of America.",
+            "concepts": [
+                {
+                    "word": "Couple",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Submarine",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Spy",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Case",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Money",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Politics",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "In a First, Surgeons Attached a Pig Kidney to a Human â and It Worked",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html",
+            "content": "A kidney grown in a genetically altered pig seemed to function normally, potentially a new source for desperately needed transplant organs.",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1634727602.417128,
+            "more_info": {
+                "section": "health",
+                "subsection": "",
+                "uri": "nyt://article/c89a4951-4cc5-5c52-8e2f-ae5ad9e5feb7",
+                "byline": "By Roni Caryn Rabin",
+                "item_type": "Article",
+                "updated_date": "2021-10-20T06:19:10-04:00",
+                "created_date": "2021-10-19T22:48:07-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "your-feed-science",
+                    "Kidneys",
+                    "Transplants",
+                    "Pigs",
+                    "Genetic Engineering",
+                    "Surgery and Surgeons",
+                    "Organ Donation",
+                    "Research"
+                ],
+                "org_facet": [
+                    "New York University Langone Health"
+                ],
+                "per_facet": [],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3jl5jtl"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-20T13.00.02E1634727602.4172077.json",
+            "en_title": "In a First, Surgeons Attached a Pig Kidney to a Human â and It Worked",
+            "en_content": "A kidney grown in a genetically altered pig seemed to function normally, potentially a new source for desperately needed transplant organs.",
+            "concepts": [
+                {
+                    "word": "Surgeons",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Pig",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kidney",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Human",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "â",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Trump Interviewed for 4.5 Hours in Protestersâ Lawsuit",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.nytimes.com/2021/10/19/nyregion/trump-protest-lawsuit-testimony.html",
+            "content": "The former president was deposed as part of a lawsuit accusing his security guards of roughing up protesters in 2015.",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1634727602.4171414,
+            "more_info": {
+                "section": "nyregion",
+                "subsection": "",
+                "uri": "nyt://article/4c670a54-0b0f-5a36-90f3-0baf904ccad8",
+                "byline": "By Jonah E. Bromwich",
+                "item_type": "Article",
+                "updated_date": "2021-10-20T05:53:13-04:00",
+                "created_date": "2021-10-19T21:49:17-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Suits and Litigation (Civil)",
+                    "Demonstrations, Protests and Riots",
+                    "United States Politics and Government"
+                ],
+                "org_facet": [
+                    "Trump Tower (Manhattan, NY)"
+                ],
+                "per_facet": [
+                    "Calamari, Matthew F (1956- )",
+                    "Trump, Donald J",
+                    "Schiller, Keith"
+                ],
+                "geo_facet": [
+                    "Manhattan (NYC)"
+                ],
+                "short_news_url": "https://nyti.ms/3piZqRh"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-20T13.00.02E1634727602.4172077.json",
+            "en_title": "Trump Interviewed for 4.5 Hours in Protestersâ Lawsuit",
+            "en_content": "The former president was deposed as part of a lawsuit accusing his security guards of roughing up protesters in 2015.",
+            "concepts": [
+                {
+                    "word": "Trump",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Hours",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Protestersâ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Lawsuit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

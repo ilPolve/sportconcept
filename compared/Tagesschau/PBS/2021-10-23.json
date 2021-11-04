@@ -1,0 +1,402 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "TÃÂ¼rkei erklÃÂ¤rt mehrere Botschafter zur unerwÃÂ¼nschten Personen",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45417.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1635022817.6288767,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "TÃ¼rkei explains several ambassadors to the unquestioned persons",
+            "concepts": [
+                {
+                    "word": "TÃ¼rkei",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ambassadors",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "persons",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " NRW-CDU wÃÂ¤hlt Hendrik WÃÂ¼st zum neuen Parteichef",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45417.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1635022817.6289191,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "NRW-CDU choose Hendrik WÃ¼rt to the new party feet",
+            "concepts": [
+                {
+                    "word": "NRW",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "CDU",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Hendrik",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "WÃ¼rt",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "party",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "feet",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Spahn verteidigt VorstoÃÂ zur Beendigung der epidemischen Lage",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45417.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1635022817.628948,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Spahn defends prerequisite for the end of the epidemic situation",
+            "concepts": [
+                {
+                    "word": "Spahn",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "prerequisite",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "end",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "epidemic",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "situation",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Im Notfall AusgangsbeschrÃÂ¤nkungen fÃÂ¼r Corona-Ungeimpfte in ÃÂsterreich",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45417.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1635022817.6289725,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "In case of emergency, starting restrictions for Corona unvaccinated in estrang",
+            "concepts": [
+                {
+                    "word": "case",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "emergency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "restrictions",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "estrang",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Protest in Polen gegen Umgang mit Migranten",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45417.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1635022817.628996,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Protest in Poland against handling migrants",
+            "concepts": [
+                {
+                    "word": "Protest",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Poland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "migrants",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Kreuzfahrtschiff Aidacosma absolviert erste Fahrt",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45417.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1635022817.6290188,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Cruise ship Aidacosma graduates first ride",
+            "concepts": [
+                {
+                    "word": "Cruise",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ship",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Aidacosma",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " FuÃÂball-Bundesliga",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45417.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1635022817.6290407,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Football Bundesliga",
+            "concepts": [
+                {
+                    "word": "Football",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bundesliga",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": " Die Lottozahlen",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45417.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1635022817.629063,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "The lottery numbers",
+            "concepts": [
+                {
+                    "word": "lottery",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "numbers",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45417.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1635022817.629084,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "The weather",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "A cooperative effort to bridge the digital divide with low-cost WiFi",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.pbs.org/newshour/show/a-cooperative-effort-to-bridge-the-digital-divide-with-low-cost-wifi",
+            "duration": "7 min",
+            "ranked": 0,
+            "epoch": 1635109212.3641589,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "A cooperative effort to bridge the digital divide with low-cost WiFi",
+            "concepts": [
+                {
+                    "word": "effort",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "divide",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cost",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "WiFi",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "After an early forced adoption, an Indigenous man rediscovers his identity",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.pbs.org/newshour/show/after-an-early-forced-adoption-an-indigenous-man-rediscovers-his-identity",
+            "duration": "6 min",
+            "ranked": 1,
+            "epoch": 1635109212.364161,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "After an early forced adoption, an Indigenous man rediscovers his identity",
+            "concepts": [
+                {
+                    "word": "adoption",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "man",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "identity",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Voting protection bill blocked in Senate as several states restrict voting rights",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.pbs.org/newshour/show/voting-protection-bill-blocked-in-senate-as-several-states-restrict-voting-rights",
+            "duration": "5 min",
+            "ranked": 2,
+            "epoch": 1635109212.3641617,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-23.json",
+            "en_title": "Voting protection bill blocked in Senate as several states restrict voting rights",
+            "concepts": [
+                {
+                    "word": "protection",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "bill",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Senate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "states",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "voting",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rights",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ]
+}

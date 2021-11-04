@@ -1,0 +1,853 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Une ÃÂ©tude montre que les conditions de travail des femmes se sont dÃÂ©gradÃÂ©es pendant le Covid",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-etude-montre-que-les-conditions-de-travail-des-femmes-se-sont-degradees-pendant-le-covid-25773327.html",
+            "duration": "01:32",
+            "ranked": 0,
+            "epoch": 1635627609.2089424,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "A study shows that women's working conditions have decreed during COVID",
+            "concepts": [
+                {
+                    "word": "study",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "women",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "working",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "conditions",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "COVID",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Une nouvelle formation pour les infirmiers et infirmiÃÂ¨res qui ont quittÃÂ© le mÃÂ©tier est proposÃÂ©e ÃÂ  DelÃÂ©mont et NeuchÃÂ¢tel",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-nouvelle-formation-pour-les-infirmiers-et-infirmieres-qui-ont-quitte-le-metier-est-proposee-a-delemont-et-neuchatel-25773328.html",
+            "duration": "01:11",
+            "ranked": 1,
+            "epoch": 1635627609.2089455,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "A new training for nurses and nurses that have left the measurement is offered to be delete and neuchÃ Â¢ tel",
+            "concepts": [
+                {
+                    "word": "training",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "nurses",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "nurses",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "measurement",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "neuchÃ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Â¢",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tel",
+                    "meaning": "punct",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Une formation pour ceux qui ont quittÃÂ© le corps infirmier: interview d'Anne-FranÃÂ§oise Loup",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-formation-pour-ceux-qui-ont-quitte-le-corps-infirmier-interview-d-anne-francoise-loup-25773329.html",
+            "duration": "03:51",
+            "ranked": 2,
+            "epoch": 1635627609.2089472,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Training for those who left the nursing body: Anne-FranÃÂ§oise interview Loup",
+            "concepts": [
+                {
+                    "word": "nursing",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "body",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Anne",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "FranÃÂ§oise",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "interview",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Loup",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Le petit Eitan, seul survivant du crash du tÃÂ©lÃÂ©phÃÂ©rique du Mottarone, devra retourner vivre en Italie",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-petit-eitan-seul-survivant-du-crash-du-telepherique-du-mottarone-devra-retourner-vivre-en-italie-25773333.html",
+            "duration": "01:54",
+            "ranked": 3,
+            "epoch": 1635627609.2089484,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "The small Eitan, the only survivor of the Mottarone Telest Crash, will have to return to live in Italy",
+            "concepts": [
+                {
+                    "word": "Eitan",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "survivor",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Mottarone",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Telest",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Crash",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Pas de retour ÃÂ  la normale en vue pour le tourisme avant l'ÃÂ©tÃÂ© prochain, selon le KOF",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/pas-de-retour-a-la-normale-en-vue-pour-le-tourisme-avant-l-ete-prochain-selon-le-kof-25773330.html",
+            "duration": "01:22",
+            "ranked": 4,
+            "epoch": 1635627609.20895,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "No return to normal for sightseeing before the next, according to the Kof",
+            "concepts": [
+                {
+                    "word": "return",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sightseeing",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Kof",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le canton de Berne cherche un nouvel emplacement pour une prison",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-canton-de-berne-cherche-un-nouvel-emplacement-pour-une-prison-25773335.html",
+            "duration": "01:46",
+            "ranked": 5,
+            "epoch": 1635627609.208952,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "The canton of Bern is looking for a new location for a prison",
+            "concepts": [
+                {
+                    "word": "canton",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Bern",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "location",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Plusieurs personnes sont mortes lors dÃ¢ÂÂune manifestation contre le coup dÃ¢ÂÂEtat militaire au Soudan",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/plusieurs-personnes-sont-mortes-lors-d-une-manifestation-contre-le-coup-d-etat-militaire-au-soudan-25773344.html",
+            "duration": "01:36",
+            "ranked": 6,
+            "epoch": 1635627609.2089534,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Several people died on a demonstration against the military state in Sudan",
+            "concepts": [
+                {
+                    "word": "people",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "demonstration",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "state",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sudan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le procÃÂ¨s de deux hommes accusÃÂ©s du meurtre antisÃÂ©mite de Mireille Knoll s'est ouvert ÃÂ  Paris",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-proces-de-deux-hommes-accuses-du-meurtre-antisemite-de-mireille-knoll-s-est-ouvert-a-paris-25773348.html",
+            "duration": "01:35",
+            "ranked": 7,
+            "epoch": 1635627609.2089546,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "The processes of two men accused of the murder of Mireille Knoll opened in Paris",
+            "concepts": [
+                {
+                    "word": "processes",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "men",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "murder",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Mireille",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Knoll",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Un trÃÂ©sor archÃÂ©ologique de CrimÃÂ©e est devenu un enjeu gÃÂ©opolitique ÃÂ  Amsterdam",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/un-tresor-archeologique-de-crimee-est-devenu-un-enjeu-geopolitique-a-amsterdam-25773345.html",
+            "duration": "01:32",
+            "ranked": 8,
+            "epoch": 1635627609.208956,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "An arch-Â©ological trolley of crime has become a geek issue in Amsterdam",
+            "concepts": [
+                {
+                    "word": "Â",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "trolley",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "crime",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "geek",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "issue",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Amsterdam",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La Suisse affronte la Croatie pour les qualifications de la Coupe du monde 2023 de football fÃÂ©minin",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suisse-affronte-la-croatie-pour-les-qualifications-de-la-coupe-du-monde-2023-de-football-feminin-25773346.html",
+            "duration": "01:29",
+            "ranked": 9,
+            "epoch": 1635627609.2089572,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Switzerland faces Croatia for the qualifications of the 2023 World Football World Cup",
+            "concepts": [
+                {
+                    "word": "Switzerland",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Croatia",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "qualifications",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Football",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cup",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂinvitÃÂ© du 12h30 - Geoffroy Delorme, lÃ¢ÂÂhomme-chevreuil, en rediffusion",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-geoffroy-delorme-l-homme-chevreuil-en-rediffusion-25773353.html",
+            "duration": "09:05",
+            "ranked": 10,
+            "epoch": 1635627609.2089584,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "The guest of 12:30 - Geoffroy Delorme, the man-deer, in rebroadcast",
+            "concepts": [
+                {
+                    "word": "guest",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Geoffroy",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Delorme",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "man",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "deer",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "rebroadcast",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Dems make progress in Biden agenda talks, but agreement may still take time",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/dems-make-progress-in-biden-agenda-talks-but-agreement-may-still-take-time",
+            "duration": "6 min",
+            "ranked": 0,
+            "epoch": 1635368411.9844718,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Dems make progress in Biden agenda talks, but agreement may still take time",
+            "concepts": [
+                {
+                    "word": "Dems",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "progress",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Biden",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "agenda",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "talks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "agreement",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "time",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "News Wrap: FDA advisers back Pfizer vaccine for kids 5 to 11",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-fda-advisers-back-pfizer-vaccine-for-kids-5-to-11",
+            "duration": "6 min",
+            "ranked": 1,
+            "epoch": 1635368411.9844744,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "News Wrap: FDA advisers back Pfizer vaccine for kids 5 to 11",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "FDA",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "advisers",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Pfizer",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "kids",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "U.S. Northeast, Midwest hit by big storms; West Coast recovers from Ã¢ÂÂbomb cyclonesÃ¢ÂÂ",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/u-s-northeast-midwest-hit-by-big-storms-west-coast-recovers-from-bomb-cyclones",
+            "duration": "2 min",
+            "ranked": 2,
+            "epoch": 1635368411.9844754,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "U.S. Northeast, Midwest hit by big storms; West Coast recovers from Ã¢ÂÂbomb cyclonesÃ¢ÂÂ",
+            "concepts": [
+                {
+                    "word": "U.S.",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Northeast",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Midwest",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "storms",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "West",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Coast",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cyclonesÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Why cuts to proposed federal paid leave policy could be a Ã¢ÂÂhuge lossÃ¢ÂÂ to Americans",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/why-cuts-to-proposed-federal-paid-leave-policy-could-be-a-huge-loss-to-americans",
+            "duration": "8 min",
+            "ranked": 3,
+            "epoch": 1635368411.9844759,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Why cuts to proposed federal paid leave policy could be a Ã¢ÂÂhuge lossÃ¢ÂÂ to Americans",
+            "concepts": [
+                {
+                    "word": "leave",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "policy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "lossÃ¢ÂÂ",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Americans",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "KidsÃ¢ÂÂ mental health, safety in the spotlight as social media execs face Congress",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/kids-mental-healthy-safety-in-the-spotlight-as-social-media-execs-face-congress",
+            "duration": "9 min",
+            "ranked": 4,
+            "epoch": 1635368411.9844763,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "KidsÃ¢ÂÂ mental health, safety in the spotlight as social media execs face Congress",
+            "concepts": [
+                {
+                    "word": "health",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "safety",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "spotlight",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "media",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "execs",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Congress",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "One Afghan refugee on her Ã¢ÂÂdesperate hopeÃ¢ÂÂ for her homeland, life in the U.S.",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/one-afghan-refugee-on-her-desperate-hope-for-her-homeland-life-in-the-u-s",
+            "duration": "8 min",
+            "ranked": 5,
+            "epoch": 1635368411.984477,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "One Afghan refugee on her Ã¢ÂÂdesperate hopeÃ¢ÂÂ for her homeland, life in the U.S.",
+            "concepts": [
+                {
+                    "word": "refugee",
+                    "meaning": "dep",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hopeÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "homeland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "life",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "U.S.",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Jobs requiring college degrees disqualify most U.S. workers Ã¢ÂÂ especially workers of color",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/jobs-requiring-college-degrees-disqualify-most-u-s-workers-especially-workers-of-color",
+            "duration": "9 min",
+            "ranked": 6,
+            "epoch": 1635368411.9844775,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Jobs requiring college degrees disqualify most U.S. workers Ã¢ÂÂ especially workers of color",
+            "concepts": [
+                {
+                    "word": "Jobs",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "college",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "degrees",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "U.S.",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "workers",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "workers",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "color",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Drought-stricken California faces rise in water theft by illegal marijuana farms",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.pbs.org/newshour/show/drought-stricken-california-faces-rise-in-water-theft-by-illegal-marijuana-farms",
+            "duration": "5 min",
+            "ranked": 7,
+            "epoch": 1635368411.984478,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Drought-stricken California faces rise in water theft by illegal marijuana farms",
+            "concepts": [
+                {
+                    "word": "Drought",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "California",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "rise",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "water",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "theft",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "marijuana",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "farms",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

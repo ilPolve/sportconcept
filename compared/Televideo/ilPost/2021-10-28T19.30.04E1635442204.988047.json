@@ -1,0 +1,981 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "SOTTO MILLE EURO 5,3 MILIONI PENSIONATI Un terzo totale, donne maggioranza",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+            "content": "",
+            "ranked": 0,
+            "placed": "Economics",
+            "epoch": 1635442204.988006,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-28T19.30.04E1635442204.988047.json",
+            "en_title": "Under a thousand euros 5.3 million pensioners a third total, majority women",
+            "concepts": [
+                {
+                    "word": "euros",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "pensioners",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "total",
+                    "meaning": "npadvmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "majority",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "women",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "PONTE 1ÃÂ°NOVEMBRE, 10 MILIONI IN VIAGGIO Il 90,5 per cento resterÃÂ  in Italia",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+            "content": "",
+            "ranked": 1,
+            "placed": "Economics",
+            "epoch": 1635442204.9880242,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-28T19.30.04E1635442204.988047.json",
+            "en_title": "Bridge 1st of November, 10 million traveling 90.5 percent will remain in Italy",
+            "concepts": [
+                {
+                    "word": "Bridge",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "1st",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "November",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "percent",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Nota su indici di Borsa Televideo",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+            "content": "",
+            "ranked": 2,
+            "placed": "Economics",
+            "epoch": 1635442204.9880362,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-28T19.30.04E1635442204.988047.json",
+            "en_title": "Note on Teletext stock exchange indexes",
+            "concepts": [
+                {
+                    "word": "Teletext",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "stock",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "exchange",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "indexes",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Cosa ha deciso il governo sulla legge di bilancio",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/legge-di-bilancio-2021-approvata-governo-pensioni/",
+            "content": " Ha previsto una riforma delle pensioni e ha rifinanziato il reddito di cittadinanza, con alcune correzioni: ora il testo passa in parlamento\t",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1635453008.093581,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "What decided the government on the budget law",
+            "en_content": "He provided a reform of pensions and refinanced citizenship income, with some corrections: now the text passes to Parliament",
+            "concepts": [
+                {
+                    "word": "government",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "budget",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "law",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Cosa sappiamo sulla variante Ã¢ÂÂdelta plusÃ¢ÂÂ",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/variante-delta-plus-ay-4-2-coronavirus/",
+            "content": " AY.4.2 ÃÂ¨ sempre piÃÂ¹ presente nel Regno Unito ed ÃÂ¨ studiata per capire se sia piÃÂ¹ rischiosa dalla variante delta\t",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1635453008.093583,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "What we know about the Ã¢ â¬ ÅDelta PlusÃ¢ â¬ variant",
+            "en_content": "AY.4.2 is increasingly present in the UK and is designed to understand if it is risky by the delta variant",
+            "concepts": [
+                {
+                    "word": "Ã¢",
+                    "meaning": "nummod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ÅDelta",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "PlusÃ¢",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "variant",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Galline, uova, niente",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.wittgenstein.it/2021/10/28/galline-uova-niente/",
+            "content": "A margine della pessima conclusione della vicenda Ã¢ÂÂlegge ZanÃ¢ÂÂ, ma ÃÂ¨ una cosa che vale un poÃ¢ÂÂ per tutto [Continua]",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935845,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Hens, eggs, nothing",
+            "en_content": "On the sidelines of the bad conclusion of the affair Ã¢ â¬ ÅGlge ZanÃ¢ â¬, but it is something that is worth a while for everything [continue]",
+            "concepts": [
+                {
+                    "word": "Hens",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "eggs",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Lo sport femminile comincia a essere interessante anche per gli investitori",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/investimenti-sport-femminile/",
+            "content": " I campionati non sono ancora redditizi, ma sono giudicati sempre piÃÂ¹ attraenti per le ottime prospettive di crescita\t",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935857,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Women's sport begins to be interesting even for investors",
+            "en_content": "The championships are not yet profitable, but are judged more and more attractive for the excellent growth prospects",
+            "concepts": [
+                {
+                    "word": "Women",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sport",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "investors",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Come i criteri di Netflix influenzano i nostri gusti",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/netflix-gusti-streaming/",
+            "content": " Categorie e algoritmi condizionano le scelte degli utenti e ridefiniscono costantemente generi tradizionali e pratiche culturali\t",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935862,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "How Netflix criteria affect our tastes",
+            "en_content": "Categories and Algorithms condition users' choices and constantly redefine traditional genres and cultural practices",
+            "concepts": [
+                {
+                    "word": "Netflix",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "criteria",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "tastes",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "ComÃ¢ÂÂÃÂ¨ finito il ddl Zan",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/ddl-zan-fine-bocciato-senato/",
+            "content": " Quali sono le spiegazioni sullo sgretolamento al Senato della maggioranza che sosteneva la legge contro l'omotransfobia\t",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935879,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "What the DDL ZAN has been finished",
+            "en_content": "What are the explanations on the crumbling to the senate of the majority who supported the law against homotransfobia",
+            "concepts": [
+                {
+                    "word": "DDL",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ZAN",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Richman e i Velvet Underground",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/?blog_post=richman-e-i-velvet-underground",
+            "content": "Quella di Richman ÃÂ¨ una vera e propria eulogia, cioÃÂ¨ unÃ¢ÂÂacclamazione entusiasta dei Velvet Underground [Continua]",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935888,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Richman and Velvet Underground",
+            "en_content": "That of Richman is a real Eulogy, that is a thrilling cheer of Velvet Underground [continue]",
+            "concepts": [
+                {
+                    "word": "Richman",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Velvet",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Underground",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Le riforme di Biden saranno meno ambiziose di quanto sperasse",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/biden-riforme-manchin/",
+            "content": " DovrÃÂ  accontentarsi soprattutto per quelle sociali e sul clima, perchÃÂ© due senatori Democratici si sono messi di traverso\t",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935895,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Biden reforms will be less ambitious than hoped",
+            "en_content": "It will have to be satisfied above all for social and climate ones, because two democratic senators have passed away",
+            "concepts": [
+                {
+                    "word": "Biden",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "reforms",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂenorme micronazione di Westarctica",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/westarctica/",
+            "content": " Vent'anni fa fu fondata in un'area remota, per gioco e per l'ego del suo fondatore che non ci ÃÂ¨ nemmeno mai stato: da un po' di tempo cerca di fare del bene\t",
+            "ranked": 9,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935903,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "The enormous Micronation of Westarctica",
+            "en_content": "Twenty years ago it was founded in a remote area, for play and for the ego of its founder who has never ever been: for some time tries to do good",
+            "concepts": [
+                {
+                    "word": "Micronation",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Westarctica",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Come i bambini rifugiati al confine con la Siria vedono ciÃÂ² che li circonda",
+            "date_raw": "October 14, 2021",
+            "date": "2021-10-14",
+            "news_url": "https://www.ilpost.it/2021/10/14/sirkhane-darkroom-i-saw-the-air-fly/",
+            "content": null,
+            "ranked": 10,
+            "placed": "First_Page",
+            "epoch": 1635453008.093591,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Like refugee children on the border with Syria see what surrounds them",
+            "concepts": [
+                {
+                    "word": "refugee",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "children",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "border",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Syria",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La Calabria ha fatto qualche guaio con i fondi europei",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/calabria-fondi-europei-contestazione/",
+            "content": " La Commissione Europea ha bloccato i pagamenti dopo aver contestato due spese fatte con i finanziamenti comunitari\t",
+            "ranked": 11,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935922,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Calabria has made some trouble with European funds",
+            "en_content": "The European Commission has blocked payments after disputed two fees made with Community funding",
+            "concepts": [
+                {
+                    "word": "Calabria",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "trouble",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "funds",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Che cosÃ¢ÂÂÃÂ¨ un Ã¢ÂÂmedicaneÃ¢ÂÂ",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/medicane-sicilia-calabria/",
+            "content": " Una grande perturbazione si sta formando nel Mediterraneo e secondo le previsioni nelle prossime ore potrebbe raggiungere Sicilia e Calabria\t",
+            "ranked": 12,
+            "placed": "First_Page",
+            "epoch": 1635453008.093593,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "What is a ÅMedicaneÃ¢ â¬ Ã¢ â¬ â¢",
+            "en_content": "A great disturbance is forming in the Mediterranean and according to forecasts in the coming hours could reach Sicily and Calabria",
+            "concepts": [
+                {
+                    "word": "ÅMedicaneÃ¢",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "â¢",
+                    "meaning": "punct",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Cosa si intende per cucina italiana?",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/?blog_post=dobbiamo-metterci-daccordo-su-cosa-si-intende-per-cucina-italiana",
+            "content": " Un'intervista ad Alberto Grandi che insegna Storia delle imprese e Storia dellÃ¢ÂÂintegrazione europea allÃ¢ÂÂUniversitÃÂ  di Parma [Continua]",
+            "ranked": 13,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935938,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "What is meant by Italian cuisine?",
+            "en_content": "An interview with Alberto Grandi who teaches the history of businesses and history of European integration to the University of Parma [continue]",
+            "concepts": [
+                {
+                    "word": "cuisine",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "I dati della settimana su coronavirus e vaccinazioni in Italia",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/coronavirus-vaccini-dati-settimana-27-ottobre/",
+            "content": " C'ÃÂ¨ stato un significativo aumento dei contagi, soprattutto nella provincia di Trieste, mentre il numero dei decessi ÃÂ¨ rimasto stabile\t",
+            "ranked": 14,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935946,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "The data of the week on Coronavirus and vaccinations in Italy",
+            "en_content": "There was a significant increase in contagations, especially in the province of Trieste, while the number of deaths remained stable",
+            "concepts": [
+                {
+                    "word": "data",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "week",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Coronavirus",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "vaccinations",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Da oggi ÃÂ¨ piÃÂ¹ facile prendere in prestito gli ebook",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/ebook-prestito-biblioteche/",
+            "content": " MLOL, la piattaforma usata dalle biblioteche, ha semplificato la procedura per scaricarli\t",
+            "ranked": 15,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935957,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "From today it is easier to borrow ebooks",
+            "en_content": "MLOL, the platform used by libraries, has simplified the procedure to download them",
+            "concepts": [
+                {
+                    "word": "today",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "ebooks",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La Russia sta ricattando la Moldavia?",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/russia-moldavia/",
+            "content": " Ha tagliato le forniture di gas naturale: per tornare alla normalitÃÂ  chiede che il governo moldavo si allontani dall'Unione Europea\t",
+            "ranked": 16,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935965,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Is Russia by blackmailing Moldova?",
+            "en_content": "He cut the supplies of natural gas: to return to normality he asks that the Moldavian government moves away from the European Union",
+            "concepts": [
+                {
+                    "word": "Russia",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Moldova",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Cosa sono state le Ã¢ÂÂbaby pensioniÃ¢ÂÂ",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.ilpost.it/2021/10/27/baby-pensioni/",
+            "content": " Dal 1973 al 1992 permisero a piÃÂ¹ di 400mila dipendenti pubblici di andare in pensione dopo meno di 20 anni di lavoro\t",
+            "ranked": 17,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935977,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "What were the Ã¢ â¬ ÅBaby pensionsÃ¢ â¬",
+            "en_content": "From 1973 to 1992 they allowed more than 400 thousand public employees to retire after less than 20 years of work",
+            "concepts": [
+                {
+                    "word": "â¬",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ÅBaby",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "pensionsÃ¢",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Anche le lumache nel loro piccolo si allevano",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.ilpost.it/2021/10/27/lumache-allevamento/",
+            "content": " E poi si raccolgono per mangiarle o per sfruttarne la bava: ÃÂ¨ un settore di nicchia, ma ha dentro approcci diversi e perfino delle rivalitÃÂ \t",
+            "ranked": 18,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935984,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Even the snails in their little they breed",
+            "en_content": "And then they collect to eat them or to exploit the burr: it's a niche sector, but has different approaches and even the rivalts",
+            "concepts": [
+                {
+                    "word": "snails",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La Polonia dovrÃÂ  pagare una multa di un milione di euro al giorno allÃ¢ÂÂUnione Europea",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.ilpost.it/2021/10/27/polonia-multa-un-milione-euro-ue/",
+            "content": " Per non avere voluto sospendere l'organo che oggi limita l'imparzialitÃÂ  dei giudici: lo ha stabilito la Corte di giustizia europea\t",
+            "ranked": 19,
+            "placed": "First_Page",
+            "epoch": 1635453008.0935993,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Poland will have to pay a fine of one million euros a day at the European Union",
+            "en_content": "In order not to have wanted to suspend the organ that today limits the impartiality of the judges: the European Court of Justice established it",
+            "concepts": [
+                {
+                    "word": "Poland",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "fine",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "euros",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "day",
+                    "meaning": "npadvmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "European",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Union",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le prove comuni in una classe della Sicilia orientale",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/?blog_post=le-prove-comuni-in-una-classe-della-sicilia-orientale-quando-e-ottobre",
+            "content": "Le caldarroste, per esempio, sono una grande fonte di distrazione [Continua]",
+            "ranked": 20,
+            "placed": "First_Page",
+            "epoch": 1635453008.0936,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Common tests in a class of eastern Sicily",
+            "en_content": "Caldarroste, for example, are a great source of distraction [continue]",
+            "concepts": [
+                {
+                    "word": "tests",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "class",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sicily",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Ora ci sono anche gli influencer Ã¢ÂÂfintiÃ¢ÂÂ",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.ilpost.it/2021/10/27/tik-tok-influencer-finti-attori-four-front/",
+            "content": " Sono attori e attrici che interpretano personaggi fittizi creati da agenzie specializzate, occupando uno spazio un po' ambiguo\t",
+            "ranked": 21,
+            "placed": "First_Page",
+            "epoch": 1635453008.0936007,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Now there are also influencers Ã¢ â¬ ÅFintÃ¢ â¬",
+            "en_content": "They are actors and actresses who play fictitious characters created by specialized agencies, occupying a space a bit ambiguous",
+            "concepts": [
+                {
+                    "word": "influencers",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ÅFintÃ¢",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "UnÃ¢ÂÂaltra canzone dei Van der Graaf generator",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/unaltra-canzone-dei-van-der-graaf-generator/",
+            "content": " Da mercoledÃÂ¬ e battagliera\t",
+            "ranked": 22,
+            "placed": "First_Page",
+            "epoch": 1635453008.0936015,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Another song by Van der Graaf Generator",
+            "en_content": "From Wednesday and Battage",
+            "concepts": [
+                {
+                    "word": "song",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Van",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "der",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Graaf",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Generator",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "PerchÃÂ© il Green Pass di Adolf Hitler puÃÂ² essere un problema",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.ilpost.it/2021/10/27/green-pass-adolf-hitler/",
+            "content": " Sta circolando un certificato evidentemente falso ma funzionante, e potrebbe indicare una violazione al sistema europeo\t",
+            "ranked": 23,
+            "placed": "First_Page",
+            "epoch": 1635453008.0936024,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "Because the Green Pass of Adolf Hitler can be a problem",
+            "en_content": "An obviously false but functioning certificate is circulating, and could indicate a violation to the European system",
+            "concepts": [
+                {
+                    "word": "Green",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Pass",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Adolf",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hitler",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "problem",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Le accuse contro Bolsonaro per la sua gestione della pandemia",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.ilpost.it/2021/10/27/accuse-bolsonaro-pandemia-incriminazione/",
+            "content": " Una commissione del Senato ha chiesto che il presidente brasiliano venga incriminato per nove reati, tra cui \"crimini contro l'umanitÃÂ \"\t",
+            "ranked": 24,
+            "placed": "First_Page",
+            "epoch": 1635453008.0936031,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "The accusations against Bolsonaro for his pandemic management",
+            "en_content": "A senate commission asked that the Brazilian President is incrimited for nine crimes, including \"crimes against humanity\"",
+            "concepts": [
+                {
+                    "word": "accusations",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Bolsonaro",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "management",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le prime pagine di oggi",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "news_url": "https://www.ilpost.it/2021/10/28/le-prime-pagine-di-oggi-2985/",
+            "content": " Il Senato accantona il ddl Zan, la riforma delle pensioni, e la riunione del G20 a Roma\t",
+            "ranked": 25,
+            "placed": "First_Page",
+            "epoch": 1635453008.0936038,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "The first pages of today",
+            "en_content": "The Senate shall set up the DDL Zan, the pension reform, and the G20 meeting in Rome",
+            "concepts": [
+                {
+                    "word": "pages",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "today",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il Senato ha accantonato il ddl Zan",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.ilpost.it/2021/10/27/ddl-zan-passaggio-esame-senato/",
+            "content": " Ha approvato una proposta di Lega e Fratelli d'Italia che era stata definita Ã¢ÂÂtagliolaÃ¢ÂÂ dal PD, e che potrebbe aver affossato la legge\t",
+            "ranked": 26,
+            "placed": "First_Page",
+            "epoch": 1635453008.0936046,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-28T22.30.08E1635453008.093623.json",
+            "en_title": "The Senate lay down the ddl zan",
+            "en_content": "Has approved a proposal for league and brothers of Italy that had been defined Ã¢ â¬ ÅtagliolaÃ¢ â¬ from the Democratic Party, and which could have seen the law",
+            "concepts": [
+                {
+                    "word": "Senate",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ddl",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "zan",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ]
+}

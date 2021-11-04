@@ -1,0 +1,379 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Mit folgenden Themen: Ampel: 22 Arbeitsgruppen gebildet, Sturmtief: Heftige SchÃÂ¤den im Bahnverkehr, EU-Gipfel: Merkel versucht zu schlichten, weiteren Themen, dem Sport und dem Wetter.",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211021-heute-sendung-19-uhr-100.html",
+            "content": "Gipfel: Merkel versucht zu schlichten, weiteren Themen, dem Sport und dem Wetter.            ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1634850004.161449,
+            "language": "de",
+            "source": "Zdf",
+            "filename": "conc_en_2021-10-21.json",
+            "en_title": "With the following topics: traffic light: 22 working groups formed, storm low: fierce damages in rail traffic, EU summit: Merkel tries to simply, other topics, sports and weather.",
+            "en_content": "Summit: Merkel tries to simplify other topics, sports and weather.",
+            "concepts": [
+                {
+                    "word": "topics",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "traffic",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "light",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "groups",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "storm",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "damages",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rail",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "traffic",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "EU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "summit",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Merkel",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "topics",
+                    "meaning": "pobj",
+                    "pos": "PART"
+                },
+                {
+                    "word": "sports",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "weather",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "News Wrap: Haitian gang threatens to kill captive U.S. missionaries unless ransom is paid",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-haitian-gang-threatens-to-kill-captive-u-s-missionaries-unless-ransom-is-paid",
+            "duration": "5 min",
+            "ranked": 0,
+            "epoch": 1634936412.8255608,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-21.json",
+            "en_title": "News Wrap: Haitian gang threatens to kill captive U.S. missionaries unless ransom is paid",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "gang",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "U.S.",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "missionaries",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ransom",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "HereÃ¢ÂÂs what to expect after House vote holding Bannon in contempt",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.pbs.org/newshour/show/heres-what-to-expect-after-house-vote-holding-bannon-in-contempt",
+            "duration": "7 min",
+            "ranked": 1,
+            "epoch": 1634936412.8255632,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-21.json",
+            "en_title": "HereÃ¢ÂÂs what to expect after House vote holding Bannon in contempt",
+            "concepts": [
+                {
+                    "word": "House",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vote",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Bannon",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "contempt",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "How Dem debate over Biden climate agenda could affect U.S. economy",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.pbs.org/newshour/show/how-climate-change-could-be-affected-by-dem-stalemate-over-biden-agenda",
+            "duration": "10 min",
+            "ranked": 2,
+            "epoch": 1634936412.825564,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-21.json",
+            "en_title": "How Dem debate over Biden climate agenda could affect U.S. economy",
+            "concepts": [
+                {
+                    "word": "debate",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Biden",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "agenda",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "U.S.",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "economy",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Group aims to reintroduce Jaguars Ã¢ÂÂ once nearly hunted to extinction Ã¢ÂÂ to Argentina",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.pbs.org/newshour/show/group-aims-to-reintroduce-jaguars-once-nearly-hunted-to-extinction-to-argentina",
+            "duration": "8 min",
+            "ranked": 3,
+            "epoch": 1634936412.8255646,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-21.json",
+            "en_title": "Group aims to reintroduce Jaguars Ã¢ÂÂ once nearly hunted to extinction Ã¢ÂÂ to Argentina",
+            "concepts": [
+                {
+                    "word": "Group",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Jaguars",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "extinction",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Argentina",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "How this Ã¢ÂÂvultureÃ¢ÂÂ hedge fundÃ¢ÂÂs gutting of local newsrooms could hurt Americans",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.pbs.org/newshour/show/how-this-vulture-hedge-funds-gutting-of-local-newsrooms-could-hurt-americans",
+            "duration": "7 min",
+            "ranked": 4,
+            "epoch": 1634936412.825565,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-21.json",
+            "en_title": "How this Ã¢ÂÂvultureÃ¢ÂÂ hedge fundÃ¢ÂÂs gutting of local newsrooms could hurt Americans",
+            "concepts": [
+                {
+                    "word": "Ã¢ÂÂvultureÃ¢ÂÂ",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hedge",
+                    "meaning": "csubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "gutting",
+                    "meaning": "dobj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "newsrooms",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Americans",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "UgandaÃ¢ÂÂs Batwa tribe, considered conservation refugees, see little government support",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.pbs.org/newshour/show/ugandas-batwa-tribe-considered-conservation-refugees-see-little-government-support",
+            "duration": "8 min",
+            "ranked": 5,
+            "epoch": 1634936412.8255658,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-21.json",
+            "en_title": "UgandaÃ¢ÂÂs Batwa tribe, considered conservation refugees, see little government support",
+            "concepts": [
+                {
+                    "word": "UgandaÃ¢ÂÂs",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Batwa",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tribe",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "conservation",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "refugees",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "support",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "A Brief But Spectacular take on the disability rights movement",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.pbs.org/newshour/show/a-brief-but-spectacular-take-on-the-disability-rights-movement",
+            "duration": "4 min",
+            "ranked": 6,
+            "epoch": 1634936412.8255665,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-21.json",
+            "en_title": "A Brief But Spectacular take on the disability rights movement",
+            "concepts": [
+                {
+                    "word": "Spectacular",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "disability",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rights",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "movement",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ]
+}

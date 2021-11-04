@@ -1,0 +1,1053 @@
+{
+    "simils_concepts": [
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 3,
+                "n_newA": 7,
+                "n_newB": 6,
+                "n_possible": 42,
+                "concepts_found": [
+                    {
+                        "word": "World",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "World",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Cup",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": "La Suisse affronte la Croatie pour les qualifications de la Coupe du monde 2023 de football fÃÂ©minin",
+                    "date_raw": "October 26, 2021",
+                    "date": "2021-10-26",
+                    "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+                    "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suisse-affronte-la-croatie-pour-les-qualifications-de-la-coupe-du-monde-2023-de-football-feminin-25773346.html",
+                    "duration": "01:29",
+                    "ranked": 9,
+                    "epoch": 1635627609.2089572,
+                    "language": "fr",
+                    "source": "RTS",
+                    "filename": "conc_en_2021-10-26.json",
+                    "en_title": "Switzerland faces Croatia for the qualifications of the 2023 World Football World Cup",
+                    "concepts": [
+                        {
+                            "word": "Switzerland",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "Croatia",
+                            "meaning": "dobj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "qualifications",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "World",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Football",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "World",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Cup",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                },
+                {
+                    "title": " WM-Qualifikation der Frauen: Deutschland gegen Israel",
+                    "date_raw": "October 26, 2021",
+                    "date": "2021-10-26",
+                    "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+                    "content": "",
+                    "ranked": "8",
+                    "epoch": 1635324290.628154,
+                    "language": "de",
+                    "source": "Tagesschau",
+                    "filename": "conc_en_2021-10-26.json",
+                    "en_title": "World Cup qualification of women: Germany against Israel",
+                    "concepts": [
+                        {
+                            "word": "World",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Cup",
+                            "meaning": "compound",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "qualification",
+                            "meaning": "ROOT",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "women",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Germany",
+                            "meaning": "appos",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "Israel",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "edition_a": [
+        {
+            "title": "Une ÃÂ©tude montre que les conditions de travail des femmes se sont dÃÂ©gradÃÂ©es pendant le Covid",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-etude-montre-que-les-conditions-de-travail-des-femmes-se-sont-degradees-pendant-le-covid-25773327.html",
+            "duration": "01:32",
+            "ranked": 0,
+            "epoch": 1635627609.2089424,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "A study shows that women's working conditions have decreed during COVID",
+            "concepts": [
+                {
+                    "word": "study",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "women",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "working",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "conditions",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "COVID",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Une nouvelle formation pour les infirmiers et infirmiÃÂ¨res qui ont quittÃÂ© le mÃÂ©tier est proposÃÂ©e ÃÂ  DelÃÂ©mont et NeuchÃÂ¢tel",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-nouvelle-formation-pour-les-infirmiers-et-infirmieres-qui-ont-quitte-le-metier-est-proposee-a-delemont-et-neuchatel-25773328.html",
+            "duration": "01:11",
+            "ranked": 1,
+            "epoch": 1635627609.2089455,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "A new training for nurses and nurses that have left the measurement is offered to be delete and neuchÃ Â¢ tel",
+            "concepts": [
+                {
+                    "word": "training",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "nurses",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "nurses",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "measurement",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "neuchÃ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Â¢",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tel",
+                    "meaning": "punct",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Une formation pour ceux qui ont quittÃÂ© le corps infirmier: interview d'Anne-FranÃÂ§oise Loup",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-formation-pour-ceux-qui-ont-quitte-le-corps-infirmier-interview-d-anne-francoise-loup-25773329.html",
+            "duration": "03:51",
+            "ranked": 2,
+            "epoch": 1635627609.2089472,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Training for those who left the nursing body: Anne-FranÃÂ§oise interview Loup",
+            "concepts": [
+                {
+                    "word": "nursing",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "body",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Anne",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "FranÃÂ§oise",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "interview",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Loup",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Le petit Eitan, seul survivant du crash du tÃÂ©lÃÂ©phÃÂ©rique du Mottarone, devra retourner vivre en Italie",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-petit-eitan-seul-survivant-du-crash-du-telepherique-du-mottarone-devra-retourner-vivre-en-italie-25773333.html",
+            "duration": "01:54",
+            "ranked": 3,
+            "epoch": 1635627609.2089484,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "The small Eitan, the only survivor of the Mottarone Telest Crash, will have to return to live in Italy",
+            "concepts": [
+                {
+                    "word": "Eitan",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "survivor",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Mottarone",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Telest",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Crash",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Pas de retour ÃÂ  la normale en vue pour le tourisme avant l'ÃÂ©tÃÂ© prochain, selon le KOF",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/pas-de-retour-a-la-normale-en-vue-pour-le-tourisme-avant-l-ete-prochain-selon-le-kof-25773330.html",
+            "duration": "01:22",
+            "ranked": 4,
+            "epoch": 1635627609.20895,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "No return to normal for sightseeing before the next, according to the Kof",
+            "concepts": [
+                {
+                    "word": "return",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sightseeing",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Kof",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le canton de Berne cherche un nouvel emplacement pour une prison",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-canton-de-berne-cherche-un-nouvel-emplacement-pour-une-prison-25773335.html",
+            "duration": "01:46",
+            "ranked": 5,
+            "epoch": 1635627609.208952,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "The canton of Bern is looking for a new location for a prison",
+            "concepts": [
+                {
+                    "word": "canton",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Bern",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "location",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Plusieurs personnes sont mortes lors dÃ¢ÂÂune manifestation contre le coup dÃ¢ÂÂEtat militaire au Soudan",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/plusieurs-personnes-sont-mortes-lors-d-une-manifestation-contre-le-coup-d-etat-militaire-au-soudan-25773344.html",
+            "duration": "01:36",
+            "ranked": 6,
+            "epoch": 1635627609.2089534,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Several people died on a demonstration against the military state in Sudan",
+            "concepts": [
+                {
+                    "word": "people",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "demonstration",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "state",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sudan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le procÃÂ¨s de deux hommes accusÃÂ©s du meurtre antisÃÂ©mite de Mireille Knoll s'est ouvert ÃÂ  Paris",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-proces-de-deux-hommes-accuses-du-meurtre-antisemite-de-mireille-knoll-s-est-ouvert-a-paris-25773348.html",
+            "duration": "01:35",
+            "ranked": 7,
+            "epoch": 1635627609.2089546,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "The processes of two men accused of the murder of Mireille Knoll opened in Paris",
+            "concepts": [
+                {
+                    "word": "processes",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "men",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "murder",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Mireille",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Knoll",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Un trÃÂ©sor archÃÂ©ologique de CrimÃÂ©e est devenu un enjeu gÃÂ©opolitique ÃÂ  Amsterdam",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/un-tresor-archeologique-de-crimee-est-devenu-un-enjeu-geopolitique-a-amsterdam-25773345.html",
+            "duration": "01:32",
+            "ranked": 8,
+            "epoch": 1635627609.208956,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "An arch-Â©ological trolley of crime has become a geek issue in Amsterdam",
+            "concepts": [
+                {
+                    "word": "Â",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "trolley",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "crime",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "geek",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "issue",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Amsterdam",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La Suisse affronte la Croatie pour les qualifications de la Coupe du monde 2023 de football fÃÂ©minin",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suisse-affronte-la-croatie-pour-les-qualifications-de-la-coupe-du-monde-2023-de-football-feminin-25773346.html",
+            "duration": "01:29",
+            "ranked": 9,
+            "epoch": 1635627609.2089572,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Switzerland faces Croatia for the qualifications of the 2023 World Football World Cup",
+            "concepts": [
+                {
+                    "word": "Switzerland",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Croatia",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "qualifications",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Football",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cup",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂinvitÃÂ© du 12h30 - Geoffroy Delorme, lÃ¢ÂÂhomme-chevreuil, en rediffusion",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-christine-matthey-25773352.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-geoffroy-delorme-l-homme-chevreuil-en-rediffusion-25773353.html",
+            "duration": "09:05",
+            "ranked": 10,
+            "epoch": 1635627609.2089584,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "The guest of 12:30 - Geoffroy Delorme, the man-deer, in rebroadcast",
+            "concepts": [
+                {
+                    "word": "guest",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Geoffroy",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Delorme",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "man",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "deer",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "rebroadcast",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Erste Sitzung des neuen Bundestags und Wahl des PrÃÂ¤sidiums",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1635324290.628036,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "First meeting of the new Bundestag and choice of the Presidium",
+            "concepts": [
+                {
+                    "word": "meeting",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Bundestag",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "choice",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Presidium",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " BundesprÃÂ¤sident Steinmeier ÃÂ¼berreicht Entlassungs-Urkunden an Regierung der vergangenen Wahlperiode",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1635324290.628062,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Federal President Steinmeier passes dismissal documents to the government of the past electoral period",
+            "concepts": [
+                {
+                    "word": "President",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Steinmeier",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "dismissal",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "documents",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "period",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Konstituierende Sitzung des Landtags von Mecklenburg-Vorpommern",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1635324290.6280777,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Constituent meeting of the state parliament of Mecklenburg-Vorpommern",
+            "concepts": [
+                {
+                    "word": "meeting",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "state",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "parliament",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Mecklenburg",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vorpommern",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Reform soll Arbeit des Bundesnachrichtendienstes effektiver machen",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1635324290.6280925,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Reform should make work of the Federal Court of First Instance",
+            "concepts": [
+                {
+                    "word": "Reform",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "work",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Federal",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Court",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "First",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Instance",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " EU-Energieminister finden kein einheitliches Vorgehen gegen Anstieg der Energiepreise",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1635324290.628105,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "EU energy ministers find no consistent approach to increase in energy prices",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "energy",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ministers",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "approach",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "energy",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prices",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " UN-Sicherheitsrat berÃÂ¤t ÃÂ¼ber Lage im Sudan nach MilitÃÂ¤rputsch",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1635324290.6281178,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "UN Security Council Board at Sudan to Military Cut",
+            "concepts": [
+                {
+                    "word": "UN",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Security",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Board",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Sudan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Military",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cut",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Laut Bitcom-Umfrage kritisiert die Mehrheit der BevÃÂ¶lkerung mangelnde Digitalisierung der Verwaltungen",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1635324290.6281302,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "According to Bitcom survey, the majority of population criticizes lack of digitization of administrations",
+            "concepts": [
+                {
+                    "word": "Bitcom",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "survey",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "majority",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "population",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "lack",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "digitization",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "administrations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Neuer Trainer beim VfL Wolfsburg wird Florian Kohfeldt",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1635324290.6281424,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "New coach at VfL Wolfsburg is Florian Kohfeldt",
+            "concepts": [
+                {
+                    "word": "coach",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "VfL",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wolfsburg",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Florian",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kohfeldt",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": " WM-Qualifikation der Frauen: Deutschland gegen Israel",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1635324290.628154,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "World Cup qualification of women: Germany against Israel",
+            "concepts": [
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cup",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "qualification",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "women",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Israel",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Schauspieler Arved Birnbaum gestorben",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1635324290.6281662,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "Actor Arved Birnbaum died",
+            "concepts": [
+                {
+                    "word": "Actor",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Arved",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Birnbaum",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45467.html",
+            "content": "",
+            "ranked": "10",
+            "epoch": 1635324290.628183,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-26.json",
+            "en_title": "The weather",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

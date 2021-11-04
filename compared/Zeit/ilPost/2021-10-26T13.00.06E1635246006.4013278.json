@@ -1,0 +1,1487 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "\"Jede Mutter hÃ¤lt ihr Kind fÃ¼r ein unschuldiges Lamm\"",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/sinn/2021-10/ayelet-gundar-goshen-elternliebe-kinder-opfer-taeter-interview",
+            "content": "Eltern sehen ihre Kinder in besonderem Licht. Das bedeutet, dass sie fÃ¼r manche Seiten blind sind, sagt die Autorin Ayelet Gundar-Goshen. Weil es ihr Selbstbild stÃ¶rt.",
+            "ranked": 0,
+            "epoch": 1635246006.4012666,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "\"Every mother keeps her child for an innocent lamb\"",
+            "en_content": "Parents see their children in special light.This means that you are blind for some pages, says the author Ayelet Gundar Goshen.Because it bothers your self-image.",
+            "concepts": [
+                {
+                    "word": "mother",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "child",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "lamb",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "SchÃ¤uble mahnt rasche Ãnderung des Wahlrechts an",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/politik/deutschland/2021-10/bundestagssitzung-wolfgang-schaeuble-wahlrechtsreform-bundestagspraesident-rede",
+            "content": "Zum letzten Mal hat Wolfgang SchÃ¤uble eine Parlamentssitzung erÃ¶ffnet. Dabei forderte er Reformen, um eine weitere AufblÃ¤hung des Bundestags zu verhindern.",
+            "ranked": 1,
+            "epoch": 1635246006.4012697,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "SchÃ¤uble warns rapid change in election",
+            "en_content": "For the last time, Wolfgang Schauele opened a parliamentary meeting.He demanded reforms to prevent further population of the Bundestag.",
+            "concepts": [
+                {
+                    "word": "SchÃ¤uble",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "change",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "election",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Die Schnelltest-Flatrate gibtâs fÃ¼r 119 Euro im Monat",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/wirtschaft/2021-10/corona-testzentren-geschaeftsmodell-schnelltest-flatrate-kosten",
+            "content": "Seit Corona-Tests nicht mehr gratis sind, sinkt die Nachfrage. Viele Testzentren schlieÃen, andere werben mit Flatrates um Kunden. Lohnt sich das GeschÃ¤ft noch?",
+            "ranked": 2,
+            "epoch": 1635246006.4012716,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "The quick test flatrate is available for 119 euros a month",
+            "en_content": "Since Corona tests are no longer free, the demand decreases.Many test centers close, other advertising with flatrates around customers.Is the business worthwhile?",
+            "concepts": [
+                {
+                    "word": "test",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "flatrate",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "euros",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "month",
+                    "meaning": "npadvmod",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "\"Ich musste die Sau rauslassen\"",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/sport/2021-10/franz-klammer-skifahrer-oesterreich-goldmedaille-innsbruck-1976-kinofilm",
+            "content": "Franz Klammer ist in Ãsterreich ein Sportidol. Der Skifahrer gewann 1976 Gold in Innsbruck. Ein Rennen, so legendÃ¤r, dass es darÃ¼ber nun sogar einen Kinofilm gibt.",
+            "ranked": 3,
+            "epoch": 1635246006.4012725,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "\"I had to let out the pig\"",
+            "en_content": "Franz Klammer is a Sportidol in Austria.The skier won 1976 gold in Innsbruck.A race, so legendary that there is now even a movie.",
+            "concepts": [
+                {
+                    "word": "pig",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "GrÃ¼n, ja grÃ¼n ist auch der Herbst",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-10/herbst-gemuese-salat-safran-dressing-warm",
+            "content": "Salat gehÃ¶rt zum Sommer? KÃ¼rbis, Pastinake und Pfifferlinge ergÃ¤nzen frisches GrÃ¼n zu einem herrlichen Herbstgericht. Dank Safrandressing bleibt eine sommerliche Note.",
+            "ranked": 4,
+            "epoch": 1635246006.4012735,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "Green, yes green is also autumn",
+            "en_content": "Salad belongs to the summer?Pumpkin, Pastinake and chanterelles complement fresh green to a magnificent autumn court.Thanks to Saffrandressing, a summery note remains.",
+            "concepts": [
+                {
+                    "word": "Green",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "autumn",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Falsche Gewinner",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/politik/deutschland/2021-10/bundestag-736-mitglieder-aufgeblaeht-erststimme-zweitstimme",
+            "content": "Der neue Bundestag ist auch deshalb unnÃ¶tig groÃ, weil in den Wahlkreisen oft die Falschen gewinnen. Das System der Erst- und Zweitstimmen muss reformiert werden.",
+            "ranked": 5,
+            "epoch": 1635246006.4012747,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "False winner",
+            "en_content": "The new Bundestag is also unnecessarily large, because in the constituencies often the wrong win.The system of first and second votes must be reformed.",
+            "concepts": [
+                {
+                    "word": "winner",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Die Abgeordenten wÃ¤hlen eine neue BundestagsprÃ¤sidentin",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/politik/deutschland/2021-10/livestream-baerbel-bas-wolfgang-schaeuble-bundestag-erste-sitzung-bundestagswahl",
+            "content": "Vier Wochen nach der Wahl kommen die Abgeordneten des Bundestags erstmals zusammen. Verfolgen Sie die Sitzung mit der Wahl der BundestagsprÃ¤sidentin im Livestream.",
+            "ranked": 6,
+            "epoch": 1635246006.4012754,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "Members choose a new Bundestag President",
+            "en_content": "Four weeks after the election, the members of the Bundestag come together for the first time.Follow the meeting with the choice of the Bundestag President in the LiveStream.",
+            "concepts": [
+                {
+                    "word": "Members",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Bundestag",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "President",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Amazon schlieÃt offenbar Deal mit britischem Geheimdienst",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/wirtschaft/unternehmen/2021-10/aws-amazon-geheimdienst-spionage-kuenstliche-intelligenz-datenanalyse-grossbritannien",
+            "content": "Der Clouddienst AWS soll laut einem Bericht vertrauliche Daten fÃ¼r den britischen Geheimdienst verarbeiten. Ziel sei es, kÃ¼nstliche Intelligenz in der Spionage zu nutzen.",
+            "ranked": 7,
+            "epoch": 1635246006.401276,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "Amazon apparently closes Deal with British intelligence service",
+            "en_content": "According to a report, Clouddienst AWS is designed to process confidential data for the British intelligence service.The aim is to use artificial intelligence in espionage.",
+            "concepts": [
+                {
+                    "word": "Amazon",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Deal",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "intelligence",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "service",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "\"Ich mag es nicht, Communitys zu verbieten\"",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/digital/internet/2021-10/steve-huffman-reddit-gruender-deutschland-social-media-community",
+            "content": "Reddit expandiert nach Deutschland. GeschÃ¤ftsfÃ¼hrer Steve Huffman erzÃ¤hlt im Interview, warum. Und wie die Plattform mit toxischen Inhalten umgeht.",
+            "ranked": 8,
+            "epoch": 1635246006.4012768,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "\"I do not like to ban Communities\"",
+            "en_content": "Reddit expands to Germany.Managing Director Steve Huffman tells in an interview, why.And how the platform deals with toxic content.",
+            "concepts": [
+                {
+                    "word": "Communities",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Er boxte fÃ¼r Deutschland bei Olympia",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/hamburg/2021-10/elbvertiefung-26-10-2021",
+            "content": "Jetzt soll seine Familie abgeschoben werden. AuÃerdem: 151 Neuinfektionen, Inzidenz bei 105,3, Polizeigewerkschaft kritisiert Pimmelgate-EinsÃ¤tze",
+            "ranked": 9,
+            "epoch": 1635246006.401278,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "He punched for Germany at Olympia",
+            "en_content": "Now his family should be deported.In addition: 151 new infections, incidence at 105.3, policous union criticizes Pimmgate inserts",
+            "concepts": [
+                {
+                    "word": "Germany",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Olympia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Regieassistent wurde 2019 nach Schusswaffenunfall entlassen",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/gesellschaft/2021-10/rust-regieassistent-dave-halls-2019-alec-baldwin-film-unfall-requisite",
+            "content": "Der Regieassistent des Baldwin-Films \"Rust\" steht nach dem tÃ¶dlichen Schuss im Fokus der Ermittler. Er wurde bereits 2019 von einem Set gefeuert â Grund war eine Waffe.",
+            "ranked": 10,
+            "epoch": 1635246006.4012787,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "Shared assistant was released in 2019 for firearm accident",
+            "en_content": "The director's assistant of the Baldwin film \"Rust\" is the focus of the investigator after the deadly shot.He was fired in 2019 by a set - reason was a weapon.",
+            "concepts": [
+                {
+                    "word": "assistant",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "firearm",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "accident",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "\"Als Schwarze Frau bin ich auch beruflich nie vor Rassismus geschÃ¼tzt\"",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/arbeit/2021-10/olaolu-fajembola-rassismus-arbeit-podcast",
+            "content": "Olaolu Fajembola verkauft online Spielzeug. Im Podcast erzÃ¤hlt sie, warum die Hautfarbe von Puppen wichtig ist und man mit Kindern Ã¼ber Rassismus sprechen sollte.",
+            "ranked": 11,
+            "epoch": 1635246006.4012794,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "\"As a black woman, I'm never protected by racism professionally\"",
+            "en_content": "Olaolu Fajembola sells online toys.In the podcast she tells why the skin color of dolls is important and one should talk to children about racism.",
+            "concepts": [
+                {
+                    "word": "woman",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "racism",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "\"Besser eine lebendige Mutter in Belgien als eine tote in Brasilien\"",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/wissen/umwelt/2021-10/larissa-bombardi-forscherin-exil-brasilien-pestizide-wissenschaft",
+            "content": "Neugeborene ohne Arme. Babys, denen BrÃ¼ste wachsen. Larissa Bombardi deckt die Folgen von Pestiziden auf und musste deshalb mit ihren SÃ¶hnen fliehen. Ein Besuch im Exil",
+            "ranked": 12,
+            "epoch": 1635246006.4012802,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "\"Better a lively mother in Belgium as a dead in Brazil\"",
+            "en_content": "Newborn without arms.Babies whose breasts grow.Larissa Bombardi covers the consequences of pesticides and therefore had to flee with their sons.A visit to exile",
+            "concepts": [
+                {
+                    "word": "mother",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Belgium",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "dead",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Brazil",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Al-Sissi hebt Ausnahmezustand auf",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/aegypten-abd-al-fattah-al-sisi-ausnahmezustand-aufgehoben",
+            "content": "Der jahrelange Ausnahmezustand in Ãgypten ist beendet. Er hatte 2017 nach IS-AnschlÃ¤gen begonnen. Die Armee bekam dadurch mehr Macht, Grundrechte wurden eingeschrÃ¤nkt.",
+            "ranked": 13,
+            "epoch": 1635246006.401281,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "Al-Sissi raises exception condition",
+            "en_content": "The years of exception in Egypt is finished.He had started IS-attacks in 2017.The army got more power, fundamental rights were restricted.",
+            "concepts": [
+                {
+                    "word": "Al",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Sissi",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "exception",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "condition",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "EU gab vier Milliarden Euro falsch aus",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/europaeischer-rechnungshof-eu-budget-fehler-ausgabe-betrug",
+            "content": "Im Jahr 2020 sind laut EuropÃ¤ischem Rechnungshof fast vier Milliarden Euro fehlerhaft ausgegeben worden. In den meisten FÃ¤llen handelt es sich aber nicht um Betrug.",
+            "ranked": 14,
+            "epoch": 1635246006.4012818,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "EU gave four billion euros wrong",
+            "en_content": "According to the European Court of Auditors, almost four billion euros have been spent incorrectly in 2020.In most cases, it is not about fraud.",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "euros",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Parlament mit 736 Abgeordneten tagt erstmals und wÃ¤hlt neues PrÃ¤sidium",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/politik/deutschland/2021-10/bundestag-erste-sitzung-wolfgang-schaeuble-baerbel-bas-bundestagspraesident",
+            "content": "BundestagsprÃ¤sident Wolfgang SchÃ¤uble wird die erste Sitzung nach der Wahl erÃ¶ffnen, dann wird seine Nachfolge bestimmt. Die Mehrheit fÃ¼r BÃ¤rbel Bas gilt als gesichert.",
+            "ranked": 15,
+            "epoch": 1635246006.4012825,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "Parliament with 736 MPs meet for the first time and chooses new Bureau",
+            "en_content": "Bundestag President Wolfgang SchÃ¤uble will open the first session after the election, then his succession is determined.The majority for BÃ¤rbel BAS is considered secured.",
+            "concepts": [
+                {
+                    "word": "Parliament",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "MPs",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "time",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Bureau",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Mindestens 18 Menschen bei Angriff auf Moschee getÃ¶tet",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/nigeria-angriff-moschee-tote-verletzte",
+            "content": "Bewaffnete haben wÃ¤hrend des Morgengebetes das Feuer auf GlÃ¤ubige erÃ¶ffnet. Mehrere Personen seien entfÃ¼hrt worden, berichten Augenzeugen.",
+            "ranked": 16,
+            "epoch": 1635246006.4012833,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "At least 18 people killed when attacking mosque",
+            "en_content": "Armed for the morning prayer opened the fire on believers.Several persons were abducted, report eyewitnesses.",
+            "concepts": [
+                {
+                    "word": "people",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "mosque",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Neuer Bundestag, ErdoÄans Verzicht, SchuldgefÃ¼hle loswerden",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/newsletter/was-jetzt/bundestag-erdogan-schuldgefuehle-2021-10-26",
+            "content": "Der neu gewÃ¤hlte Bundestag kommt heute erstmals zusammen, der Eklat mit der TÃ¼rkei ist abgewendet und wir beantworten Fragen zur Grippeimpfung. Der MorgenÃ¼berblick",
+            "ranked": 17,
+            "epoch": 1635246006.4012885,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "New Bundestag, ErdoÄan's abandonment, guilty feeling",
+            "en_content": "The newly chosen Bundestag today comes together for the first time, the eclat with Turkey is averted and we answer questions about flu vaccine.The morning overview",
+            "concepts": [
+                {
+                    "word": "New",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bundestag",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ErdoÄan",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "abandonment",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "feeling",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Welche Versicherungen wirklich wichtig sind",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/wirtschaft/2021-09/versicherung-schaeden-hochwasser-unfall-schaden-absicherung",
+            "content": "BerufsunfÃ¤higkeit? Hausrat? Unfall? Manche Versicherungen sind unverzichtbar, andere braucht man eher selten. Wir zeigen, was elementar ist â und wo man Geld sparen kann.",
+            "ranked": 18,
+            "epoch": 1635246006.401292,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "Which insurance companies are really important",
+            "en_content": "Occupational disability?Household goods?Accident?Some insurance companies are indispensable, others are rarely.We show what elemental is - and where you can save money.",
+            "concepts": [
+                {
+                    "word": "insurance",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "companies",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Ein Bundestagsvize von HÃ¶ckes Gnaden?",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.zeit.de/politik/deutschland/2021-10/bundestagspraesident-afd-kandidat-michael-kaufmann-thueringer-landtag",
+            "content": "Der AfD-Kandidat fÃ¼r das BundestagsprÃ¤sidium ist bereits Parlamentsvize â im ThÃ¼ringer Landtag. MitgewÃ¤hlt wurde Michael Kaufmann dort auch aus der Linksfraktion.",
+            "ranked": 19,
+            "epoch": 1635246006.401293,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-26T13.00.06E1635246006.4013278.json",
+            "en_title": "A Bundestag Vice of HÃ¶ckes Grace?",
+            "en_content": "The AFD candidate for the Bundestag Presidium is already a parliamentary vide - in the Thuringian state parliament.Michael Kaufmann was also selected there from the left-wing group.",
+            "concepts": [
+                {
+                    "word": "Bundestag",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vice",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "HÃ¶ckes",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Grace",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Ora il PD ÃÂ¨ disposto a cambiare il ddl Zan",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.ilpost.it/2021/10/26/ddl-zan-senato/",
+            "content": " Dopo aver sostenuto per mesi la necessitÃÂ  di mantenere il testo originale, ora proverÃÂ  a trattare un compromesso con i partiti critici sulla legge contro l'omotransfobia ",
+            "ranked": 0,
+            "placed": "Politics",
+            "epoch": 1635237005.9058292,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Now the PD is willing to change the DDL ZAN",
+            "en_content": "After supporting for months the need to maintain the original text, it will now try to treat a compromise with critical parties on law against homotransfobia",
+            "concepts": [
+                {
+                    "word": "PD",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "DDL",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ZAN",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Salvini dice che Meloni mette ÃÂ«scientementeÃÂ» in difficoltÃÂ  il centrodestra al governo",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/salvini-meloni-opposizione-rotture-coglioni/",
+            "content": " In un audio pubblicato dal Foglio, il leader della Lega dice che Fratelli d'Italia dovrebbe invece rivolgere a PD e M5S le sue ÃÂ«rotture di coglioniÃÂ»\t",
+            "ranked": 1,
+            "placed": "Politics",
+            "epoch": 1635237005.905832,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Salvini says that melons puts the center-right to the government in difficulty",
+            "en_content": "In an audio published by the sheet, the leader of the League says that Fratelli d'Italia should instead turn to PD and M5S its Ã Â«Coglioni BreaksÂ»",
+            "concepts": [
+                {
+                    "word": "Salvini",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "melons",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "center",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "right",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "difficulty",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il governo discute di come cambiare le pensioni",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/riforma-pensioni-quota-102-legge-di-bilancio/",
+            "content": " A gennaio scadrÃÂ  \"Quota 100\", e i partiti vogliono evitare che si torni immediatamente alla legge Fornero\t",
+            "ranked": 2,
+            "placed": "Politics",
+            "epoch": 1635237005.905833,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The government discusses how to change pensions",
+            "en_content": "In January, \"Quota 100\", and the parties want to prevent us from returning to Law Fornero immediately",
+            "concepts": [
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "pensions",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Lamorgese ÃÂ¨ in difficoltÃÂ  sullÃ¢ÂÂassalto alla CGIL",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/lamorgese-assalto-cgil/",
+            "content": " Mentre la destra continua ad accusarla e a chiederne le dimissioni, la ministra dell'Interno ha ammesso che le forze dell'ordine dispiegate a Roma non erano abbastanza\t",
+            "ranked": 3,
+            "placed": "Politics",
+            "epoch": 1635237005.905834,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Lamorgese is in trouble on the assault on the CGIL",
+            "en_content": "While the right continues to accuse it and ask for resignation, the Interior minister admitted that the police unfolded in Rome were not enough",
+            "concepts": [
+                {
+                    "word": "Lamorgese",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "trouble",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "assault",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "CGIL",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Che sindaco vorrebbe essere Gualtieri",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/gualtieri-sindaco-roma/",
+            "content": " Governare Roma ÃÂ¨ un compito difficilissimo secondo chiunque (e impossibile secondo qualcuno), ma dalla sua ci sono i soldi del PNRR e il rapporto con Zingaretti\t",
+            "ranked": 4,
+            "placed": "Politics",
+            "epoch": 1635237005.9058347,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "What mayor would like to be Gualtieri",
+            "en_content": "Governing Rome is a very difficult task according to anyone (and impossible according to someone), but from its own there are the PNRR money and the relationship with zingaretti",
+            "concepts": [
+                {
+                    "word": "mayor",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Il governo vuole ridurre il costo degli assorbenti",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/costo-assorbenti-taglio-iva/",
+            "content": " Nel documento che prepara la legge di bilancio ha proposto di abbassare l'IVA dal 22 al 10%, avvicinandosi ad altri paesi europei\t",
+            "ranked": 5,
+            "placed": "Politics",
+            "epoch": 1635237005.9058356,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The government wants to reduce the cost of absorbents",
+            "en_content": "In the document preparing the budgetary law proposed to lower VAT from 22 to 10%, approaching other European countries",
+            "concepts": [
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cost",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "absorbents",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il governo ha approvato il documento che prepara la legge di bilancio",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/documento-programmatico-di-bilancio-2022/",
+            "content": " Parla di una possibile riduzione delle tasse e, tra le altre cose, rinvia al 2023 la plastic tax e la sugar tax\t",
+            "ranked": 6,
+            "placed": "Politics",
+            "epoch": 1635237005.9058363,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The government has approved the document preparing the budgetary law",
+            "en_content": "Speaks of a possible reduction of taxes and, among other things, refer to the Plastic Tax and the Sugar Tax to 2023",
+            "concepts": [
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "document",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "law",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Gli altri risultati delle elezioni comunali",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/gli-altri-risultati-delle-elezioni-comunali/",
+            "content": " Dagli omonimi di Cosenza alle sorprese di Varese e Latina, come sono andate nei sette capoluoghi di provincia e in altre cittÃÂ  rilevanti\t",
+            "ranked": 7,
+            "placed": "Politics",
+            "epoch": 1635237005.9058373,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The other results of the municipal elections",
+            "en_content": "From the homonyms of Cosenza to the surprises of Varese and Latina, as they went to the seven provincial capitals and in other relevant cities",
+            "concepts": [
+                {
+                    "word": "results",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "elections",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "I dilemmi della destra dopo le amministrative",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/destra-coalizione-amministrative-lega-meloni/",
+            "content": " Le tante sonore sconfitte non hanno un'unica spiegazione, e le decisioni dei prossimi mesi di Salvini e Meloni non saranno facili\t",
+            "ranked": 8,
+            "placed": "Politics",
+            "epoch": 1635237005.905838,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The dilemmas of the right after the administrative",
+            "en_content": "The many sound defeats do not have a single explanation, and the decisions of the coming months of Salvini and melons will not be easy",
+            "concepts": [
+                {
+                    "word": "dilemmas",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "right",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il centrosinistra ha vinto un poÃ¢ÂÂ ovunque",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/centrosinistra-vittoria-amministrative/",
+            "content": " ÃÂ arrivato nettamente primo in tutti i capoluoghi di regione tranne Trieste, ed ÃÂ¨ andato molto bene anche in quelli di provincia ",
+            "ranked": 9,
+            "placed": "Politics",
+            "epoch": 1635237005.905839,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The center-left won a little everywhere",
+            "en_content": "It came sharply in all the leaders in the Region except Trieste, and it went very well in the province of",
+            "concepts": [
+                {
+                    "word": "center",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "left",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Roberto Gualtieri sarÃÂ  il prossimo sindaco di Roma",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggio-roma-elezioni-sindaco-risultati/",
+            "content": " Il candidato del centrosinistra ha ottenuto oltre venti punti di vantaggio su Enrico Michetti, del centrodestra\t",
+            "ranked": 10,
+            "placed": "Politics",
+            "epoch": 1635237005.90584,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Roberto Gualtieri will be the next mayor of Rome",
+            "en_content": "The center-left candidate has obtained over twenty points ahead of Enrico Michetti, of the center-right",
+            "concepts": [
+                {
+                    "word": "Roberto",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "mayor",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Rome",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Anche Roma e Torino al centrosinistra",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggi-amministrative-roma-torino/",
+            "content": " Le vittorie di Gualtieri e Lo Russo si aggiungono a quelle del primo turno di queste amministrative, in cui il centrodestra ha vinto solo a Trieste\t",
+            "ranked": 11,
+            "placed": "Politics",
+            "epoch": 1635237005.9058404,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Also Rome and Turin at the center-left",
+            "en_content": "The victories of Gualtieri and the Russian are added to those of the first round of these administrative, in which the center-right won only in Trieste",
+            "concepts": [
+                {
+                    "word": "Rome",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Turin",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "center",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Stefano Lo Russo del centrosinistra ha vinto a Torino",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/torino-ballottaggio-elezione-sindaco-risultato/",
+            "content": " A scrutinio terminato ha superato il 59 per cento dei voti, molto avanti rispetto a Paolo Damilano del centrodestra\t",
+            "ranked": 12,
+            "placed": "Politics",
+            "epoch": 1635237005.905841,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Stefano Lo Russo del Centrosinista won in Turin",
+            "en_content": "At the finished ballot has passed 59 percent of the votes, very ahead compared to Paolo Damilano del Centrestra",
+            "concepts": [
+                {
+                    "word": "Stefano",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Russo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Centrosinista",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Turin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂaffluenza ai ballottaggi ÃÂ¨ piuttosto bassa",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggi-affluenza-elezioni-roma-torino/",
+            "content": " Alle 23 di ieri aveva votato il 33% degli elettori, e a Roma ancora meno ",
+            "ranked": 13,
+            "placed": "Politics",
+            "epoch": 1635237005.9058418,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The turnout at the ballots is rather low",
+            "en_content": "At 11 pm yesterday he voted 33% of voters, and in Rome even less",
+            "concepts": [
+                {
+                    "word": "turnout",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "ballots",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Alle 12 lÃ¢ÂÂaffluenza ai ballottaggi delle elezioni amministrative era del 9,73 per cento",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/affluenza-ballottaggi/",
+            "content": " \t",
+            "ranked": 14,
+            "placed": "Politics",
+            "epoch": 1635237005.9058428,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "At 12.00 the turnout of the administrative election ballots was 9.73 percent",
+            "concepts": [
+                {
+                    "word": "turnout",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "election",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ballots",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "percent",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Guida ai ballottaggi delle elezioni amministrative",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/ballottaggi-elezioni-amministrative-roma-torino/",
+            "content": " BisognerÃÂ  tenere d'occhio Roma, Torino e Trieste, oltre agli altri capoluoghi: un piccolo atlante per orientarsi\t",
+            "ranked": 15,
+            "placed": "Politics",
+            "epoch": 1635237005.9058437,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Guide to the ballot of the administrative elections",
+            "en_content": "We must keep an eye on Rome, Turin and Trieste, in addition to the other capitals: a small atlas to orientate",
+            "concepts": [
+                {
+                    "word": "ballot",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "elections",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Torino si prepara al ballottaggio",
+            "date_raw": "October 16, 2021",
+            "date": "2021-10-16",
+            "news_url": "https://www.ilpost.it/2021/10/16/torino-ballottaggio-lo-russo-damilano/",
+            "content": " DovrÃÂ  scegliere il suo prossimo sindaco tra Stefano Lo Russo del centrosinistra e Paolo Damilano del centrodestra, in una sfida considerata molto aperta\t",
+            "ranked": 16,
+            "placed": "Politics",
+            "epoch": 1635237005.9058444,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Turin is preparing for ballot",
+            "en_content": "You will have to choose your next mayor between Stefano Lo Russian of the center-left and Paolo Damilano del Centrestra, in a challenge considered very open",
+            "concepts": [
+                {
+                    "word": "Turin",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ballot",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Michetti e Gualtieri si contendono gli elettori di Calenda e Raggi",
+            "date_raw": "October 15, 2021",
+            "date": "2021-10-15",
+            "news_url": "https://www.ilpost.it/2021/10/15/ballottaggio-roma/",
+            "content": " I loro voti decideranno il ballottaggio a Roma, ma dopo le proteste contro il Green Pass le cose per la destra si sono complicate\t",
+            "ranked": 17,
+            "placed": "Politics",
+            "epoch": 1635237005.9058454,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Michetti and Gualtieri contains the voters of Calenda and rays",
+            "en_content": "Their vows will decide the ballot in Rome, but after the protests against the green pass things for the right have complicated",
+            "concepts": [
+                {
+                    "word": "Michetti",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "voters",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Calenda",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "rays",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Una giornata complicata per il governo",
+            "date_raw": "October 15, 2021",
+            "date": "2021-10-15",
+            "news_url": "https://www.ilpost.it/2021/10/15/governo-draghi-venerdi-obbligo-green-pass/",
+            "content": " L'entrata in vigore dell'obbligo del Green Pass sui luoghi di lavoro ÃÂ¨ accompagnata da preoccupazioni per possibili problemi, disservizi e soprattutto proteste\t",
+            "ranked": 18,
+            "placed": "Politics",
+            "epoch": 1635237005.9058464,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "A complicated day for the government",
+            "en_content": "The entry into force of the Green Pass obligation on workplaces is accompanied by concerns for possible problems, disservices and above all protests",
+            "concepts": [
+                {
+                    "word": "day",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "ComÃ¢ÂÂÃÂ¨ fatta lÃ¢ÂÂestrema destra in Italia",
+            "date_raw": "October 14, 2021",
+            "date": "2021-10-14",
+            "news_url": "https://www.ilpost.it/2021/10/14/gruppi-partiti-organizzazioni-neofascisti-estrema-destra-italia/",
+            "content": " I gruppi neofascisti piÃÂ¹ forti sono tre e in competizione tra loro, ma ÃÂ¨ un mondo fatto di decine di organizzazioni piccole o piccolissime\t",
+            "ranked": 19,
+            "placed": "Politics",
+            "epoch": 1635237005.9058473,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "As the extreme right is made in Italy",
+            "en_content": "The strongest neo-fascist groups are three and competing with each other, but it is a world made of dozens of small or very small organizations",
+            "concepts": [
+                {
+                    "word": "right",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Alle elezioni comunali in Sardegna il centrosinistra ha vinto al primo turno a Carbonia, mentre il centrodestra a Olbia",
+            "date_raw": "October 12, 2021",
+            "date": "2021-10-12",
+            "news_url": "https://www.ilpost.it/2021/10/12/elezioni-comunali-sardegna-carbonia-olbia/",
+            "content": " \t",
+            "ranked": 20,
+            "placed": "Politics",
+            "epoch": 1635237005.9058483,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "In the municipal elections in Sardinia the center-left won in the first round in Carbonia, while the center-right in Olbia",
+            "concepts": [
+                {
+                    "word": "elections",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sardinia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "center",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "round",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Carbonia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "center",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "right",
+                    "meaning": "advcl",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Olbia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Come si scioglie Forza Nuova",
+            "date_raw": "October 12, 2021",
+            "date": "2021-10-12",
+            "news_url": "https://www.ilpost.it/2021/10/12/come-si-scioglie-forza-nuova/",
+            "content": " Cosa dicono Costituzione e codici, quali sono le proposte e le posizioni dei partiti\t",
+            "ranked": 21,
+            "placed": "Politics",
+            "epoch": 1635237005.9058495,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "How to dissolve new strength",
+            "en_content": "What to say constitution and codes, what are the proposals and positions of the parties",
+            "concepts": [
+                {
+                    "word": "strength",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Enrico Michetti si ÃÂ¨ vantato di non essere mai stato a Bruxelles",
+            "date_raw": "October 12, 2021",
+            "date": "2021-10-12",
+            "news_url": "https://www.ilpost.it/2021/10/12/michetti-bruxelles/",
+            "content": " Il candidato sindaco del centrodestra a Roma lo ha detto in un recente comizio per provare la sua ÃÂ«indipendenzaÃÂ»\t",
+            "ranked": 22,
+            "placed": "Politics",
+            "epoch": 1635237005.9058502,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Enrico Michetti has spotted not ever been to Brussels",
+            "en_content": "The candidate mayor of the center-right in Rome told him in a recent rally to try his Ã Â«IndependenceÂ»",
+            "concepts": [
+                {
+                    "word": "Enrico",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Michetti",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Brussels",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Giorgia Meloni dice di non conoscere la matrice dellÃ¢ÂÂassalto alla sede romana della CGIL",
+            "date_raw": "October 11, 2021",
+            "date": "2021-10-11",
+            "news_url": "https://www.ilpost.it/2021/10/11/giorgia-meloni-matrice-assalto-sede-cgil/",
+            "content": " Nonostante durante gli scontri di Roma siano stati arrestati anche Roberto Fiore e Giuliano Castellini, di Forza Nuova\t",
+            "ranked": 23,
+            "placed": "Politics",
+            "epoch": 1635237005.905851,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Giorgia Meloni says he does not know the matrix of the assault at the Roman office of the CGIL",
+            "en_content": "Although Roberto Fiore and Giuliano Castellini, Di Forza Nuova were also arrested during the clashes of Rome",
+            "concepts": [
+                {
+                    "word": "Giorgia",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Meloni",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "matrix",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "assault",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "office",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "CGIL",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Chi sono Roberto Fiore e Giuliano Castellino",
+            "date_raw": "October 10, 2021",
+            "date": "2021-10-10",
+            "news_url": "https://www.ilpost.it/2021/10/10/roberto-fiore-giuliano-castellino/",
+            "content": " Il fondatore di Forza Nuova e il capo romano del partito sono tra le persone arrestate per gli scontri e l'assalto alla sede della CGIL a Roma\t",
+            "ranked": 24,
+            "placed": "Politics",
+            "epoch": 1635237005.9058518,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Who are Roberto Fiore and Giuliano Castellino",
+            "en_content": "The Founder of New Forza and the Roman Chief of the Party are among the people arrested for the clashes and the assault at the headquarters of the CGIL in Rome",
+            "concepts": [
+                {
+                    "word": "Roberto",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Fiore",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Giuliano",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Castellino",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "ÃÂ«Salvini ÃÂ¨ un rumore di fondoÃÂ»",
+            "date_raw": "October 09, 2021",
+            "date": "2021-10-09",
+            "news_url": "https://www.ilpost.it/2021/10/09/salvini-rumore-di-fondo-speranza/",
+            "content": " Lo ha detto il ministro della Salute Roberto Speranza, parlando col Corriere della Sera\t",
+            "ranked": 25,
+            "placed": "Politics",
+            "epoch": 1635237005.9058526,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Ã Â«Salvini is a background noiseÃÂ»",
+            "en_content": "The Minister of Health said Roberto hope, speaking with the Corriere della Sera",
+            "concepts": [
+                {
+                    "word": "Ã",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Â«Salvini",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "background",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "noiseÃÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "»",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        }
+    ]
+}

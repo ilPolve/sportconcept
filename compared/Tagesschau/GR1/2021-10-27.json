@@ -1,0 +1,753 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Ampel-Parteien wollen Corona-Notstand im November auslaufen lassen",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1635368418.446181,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Traffic light parties want to leak Corona emergency in November",
+            "concepts": [
+                {
+                    "word": "Traffic",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "light",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "parties",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "emergency",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "November",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " MÃÂ¶gliche Ampel-KoalitionÃÂ¤re werben auf Kongress der Industriegewerkschaft IG BCE fÃÂ¼r ihre Klimapolitik",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1635368418.446211,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Possible traffic light coalitions advertise on Congress of industrial union IG BCE for your climate policy",
+            "concepts": [
+                {
+                    "word": "traffic",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "light",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "coalitions",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Congress",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "union",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "IG",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "BCE",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "policy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Wirtschaftswachstum in Deutschland geringer als erwartet",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1635368418.4462283,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Economic growth in Germany less than expected",
+            "concepts": [
+                {
+                    "word": "growth",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Geheimdienstchefs stellen sich Fragen von Bundestagsabgeordneten",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1635368418.4462461,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Intelligence chiefs face questions from Bundestag deputies",
+            "concepts": [
+                {
+                    "word": "Intelligence",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "chiefs",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "questions",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Bundestag",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "deputies",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " CDU-Politiker Hendrik WÃÂ¼st ist neuer MinisterprÃÂ¤sident in Nordrhein-Westfalen",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1635368418.4462593,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "CDU politician Hendrik WÃ¼rt is new Prime Minister in North Rhine-Westphalia",
+            "concepts": [
+                {
+                    "word": "CDU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "politician",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hendrik",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "WÃ¼rt",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Prime",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Minister",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "North",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rhine",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Westphalia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Umstrittene Justizreform: EuGH verhÃÂ¤ngt tÃÂ¤gliches Millionen-Zwangsgeld gegen Polen",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1635368418.446272,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Controversial justice reform: ECJ promotes daily million-forced benefit against Poland",
+            "concepts": [
+                {
+                    "word": "justice",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "reform",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ECJ",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "benefit",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Poland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Erneuter Prozess um die Auslieferung von WikiLeaks-GrÃÂ¼nder Assange an die USA",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1635368418.4462838,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Renewed process for the delivery of Wikileaks-GrÃ¼nder Assange to the USA",
+            "concepts": [
+                {
+                    "word": "process",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "delivery",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Wikileaks",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "GrÃ¼nder",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Assange",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "USA",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Schwere Unwetter in SÃÂ¼ditalien",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1635368418.4462957,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Heavy storm in southern Italy",
+            "concepts": [
+                {
+                    "word": "storm",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Projekt \"Reporter/Refugee\" gewinnt ARD-Dokumentarfilm-Wettbewerb",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1635368418.446308,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Project \"Reporter / Refugee\" wins ARD documentary competition",
+            "concepts": [
+                {
+                    "word": "Project",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Reporter",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Refugee",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ARD",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "documentary",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "competition",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Die Lottozahlen",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1635368418.4463217,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "The lottery numbers",
+            "concepts": [
+                {
+                    "word": "lottery",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "numbers",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "10",
+            "epoch": 1635368418.4463387,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "The weather",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Pensioni, per ora non c'ÃÂ¨ l'intesa, ÃÂ¨ braccio di ferro governo/sindacati.",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-fc23f8ee-8690-4a83-9e75-95bb59cba22d.html",
+            "content": " Cgil, Cisl, Uil: proposte \"largamente insufficienti\", pronti alla moblitazione.  Draghi: \"Non si torna indietro\". . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1635368425.1546788,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Pensions, for now there is no understanding, it is governing iron arm / trade unions.",
+            "en_content": "CGIL, CISL, UIL: \"largely insufficient\" proposals, ready to moblitation.Dragons: \"You don't go back\"..",
+            "concepts": [
+                {
+                    "word": "Pensions",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "understanding",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "iron",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "arm",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "trade",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "unions",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Questa mattina in Senato il ddl Zan contro l'omotransfobia.",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-fc23f8ee-8690-4a83-9e75-95bb59cba22d.html",
+            "content": " Falliti gli ultimi tentativi di mediazione, si va alla conta. ÃÂ . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1635368425.1546853,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "This morning in the Senated Ddl Zan against homotransfobia.",
+            "en_content": "Falliti The last attempts of mediation, go to the count.TO .",
+            "concepts": [
+                {
+                    "word": "morning",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Ddl",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Zan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "homotransfobia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Maltempo, Catania in ginocchio.",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-fc23f8ee-8690-4a83-9e75-95bb59cba22d.html",
+            "content": " Un morto, danni incalcolabili.  Il sindaco: \"Mai vista tanta pioggia\".  Palazzo Chigi in contatto con la Protezione Civile.  Oggi Curcio sull'isola. ÃÂ . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1635368425.154687,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Bad weather, Catania on your knees.",
+            "en_content": "One dead man, incalculable damage.The mayor: \"Never seen a lot of rain\".Chigi palace in contact with civil protection.Today Curcio on the island.TO .",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Catania",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "knees",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Covid e immunizzazione.",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-fc23f8ee-8690-4a83-9e75-95bb59cba22d.html",
+            "content": " Contagi in lieve ripresa.  Da gennaio probabile la terza dose per tutti.  ÃÂ Ancora preoccupazione per Regno Unito ed Europa dell'Est. . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1635368425.1546884,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Covid and immunization.",
+            "en_content": "Contagi slight shooting.From January probable the third dose for everyone.Ã still concern for the United Kingdom and Eastern Europe..",
+            "concepts": [
+                {
+                    "word": "Covid",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "immunization",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Vaccini, non prevalgano gli atteggiamenti antiscientifici.",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-fc23f8ee-8690-4a83-9e75-95bb59cba22d.html",
+            "content": " Monito del presidente della repubblica.  Da Mattarella l'esortazione alla politica: lavoro e sicurezza tra i primi punti in agenda. ÃÂ . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1635368425.1546898,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Vaccines, anti-slip attitudes do not prevail.",
+            "en_content": "Monitor of the President of the Republic.From Mattarella the exhortation to politics: work and safety among the first points on the agenda.TO .",
+            "concepts": [
+                {
+                    "word": "Vaccines",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "attitudes",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "ParitÃÂ  salariale, arriva il bollino di qualitÃÂ  per le aziende \"virtuose\".",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-fc23f8ee-8690-4a83-9e75-95bb59cba22d.html",
+            "content": " Approvata in via definitica all'unanimitÃÂ  la legge contro le differenze uomo/donna. . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1635368425.1546931,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Wage parity, the quality sticker arrives for \"virtuous\" companies.",
+            "en_content": "The law against man / woman differences is approved in unanimous..",
+            "concepts": [
+                {
+                    "word": "Wage",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "parity",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "quality",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sticker",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "companies",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Tutti a Sanremo, con il Green Pass: nell'edizione 2022 torna il pubblico, carta verde alla mano.",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-fc23f8ee-8690-4a83-9e75-95bb59cba22d.html",
+            "content": " 24 artisti, tre giurie.  Ancora incerta la presenza di Fiorello, accanto ad Amadeus. ÃÂ . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1635368425.1546953,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Everyone in Sanremo, with the green pass: in the 2022 edition the public returns, green paper to the hand.",
+            "en_content": "24 artists, three juries.The presence of Fiorello still uncertain, next to Amadeus.TO .",
+            "concepts": [
+                {
+                    "word": "Sanremo",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "pass",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "edition",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "returns",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "paper",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hand",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Calcio, il Milan batte il Torino e torna da solo in testa alla Serie A, in attesa - domani - del Napoli.",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-fc23f8ee-8690-4a83-9e75-95bb59cba22d.html",
+            "content": " Oggi, tra l'altro, Juventus-Sassuolo, Lazio-Fiorentina, Empoli-Inter.  Tutto sempre in diretta su Radio1. . ",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1635368425.1546972,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Football, Milan beats the Turin and returns from itself to head to Serie A, waiting - tomorrow - of Naples.",
+            "en_content": "Today, among other things, Juventus-Sassuolo, Lazio-Fiorentina, Empoli-Inter.Everything always live on Radio1..",
+            "concepts": [
+                {
+                    "word": "Football",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Milan",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Turin",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "returns",
+                    "meaning": "conj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Serie",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "A",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "tomorrow",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Naples",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

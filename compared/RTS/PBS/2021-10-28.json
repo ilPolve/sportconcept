@@ -1,0 +1,784 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Le groupe bÃÂ¢lois MCH est touchÃÂ© par une cyberattaque",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773905.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-groupe-balois-mch-est-touche-par-une-cyberattaque-25773889.html",
+            "duration": "01:46",
+            "ranked": 0,
+            "epoch": 1635627609.2972622,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "The BÃ Â¢ Lois Group MCH is touched by a cyber attack",
+            "concepts": [
+                {
+                    "word": "BÃ",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Â¢",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Lois",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Group",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "MCH",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "attack",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Point sur la situation de l'industrie horlogÃÂ¨re suisse: interview de Marco Gabella",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773905.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/point-sur-la-situation-de-l-industrie-horlogere-suisse-interview-de-marco-gabella-25773895.html",
+            "duration": "04:06",
+            "ranked": 1,
+            "epoch": 1635627609.297265,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "Point of the situation of the Swiss watch industry: Interview with Marco Gabella",
+            "concepts": [
+                {
+                    "word": "Point",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "situation",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "watch",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "industry",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Interview",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Marco",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gabella",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Onze nouveaux militants d'Extinction Rebellion condamnÃÂ©s par la justice lausannoise",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773905.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/onze-nouveaux-militants-d-extinction-rebellion-condamnes-par-la-justice-lausannoise-25773894.html",
+            "duration": "02:20",
+            "ranked": 2,
+            "epoch": 1635627609.2972782,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "Eleven new rebellion extinction activists sentenced by Justice Lausanne",
+            "concepts": [
+                {
+                    "word": "rebellion",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "extinction",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "activists",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Justice",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lausanne",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La Suisse ne protÃÂ¨ge pas assez les travailleurs indÃÂ©pendants, estime une professeure de la HES Fribourg",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773905.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suisse-ne-protege-pas-assez-les-travailleurs-independants-estime-une-professeure-de-la-hes-fribourg-25773891.html",
+            "duration": "01:49",
+            "ranked": 3,
+            "epoch": 1635627609.29728,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "Switzerland does not protect independent workers enough, considers a professor of Hees Friborg",
+            "concepts": [
+                {
+                    "word": "Switzerland",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "workers",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "professor",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Hees",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Friborg",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le bureau suisse dÃÂ©diÃÂ© ÃÂ  l'aide aux palestiniens pourrait quitter JÃÂ©rusalem-Est",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773905.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-bureau-suisse-dedie-a-l-aide-aux-palestiniens-pourrait-quitter-jerusalem-est-25773892.html",
+            "duration": "02:00",
+            "ranked": 4,
+            "epoch": 1635627609.2972815,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "The Swiss Office DÃ Â© DÃ Â© Â© Palestinians could leave JÃ¨ Â© Rusalem-East",
+            "concepts": [
+                {
+                    "word": "Swiss",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Office",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "DÃ",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Â",
+                    "meaning": "compound",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "DÃ",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Â",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "©",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Â",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "©",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Palestinians",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "JÃ¨",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Â",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "©",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rusalem",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "East",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La Chine a bien testÃÂ© un missile hypersonique ÃÂ  capacitÃÂ© nuclÃÂ©aire",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773905.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-chine-a-bien-teste-un-missile-hypersonique-a-capacite-nucleaire-25773906.html",
+            "duration": "01:27",
+            "ranked": 5,
+            "epoch": 1635627609.2972832,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "China has tested a hypersonic missile to capacitÃ© nuclear",
+            "concepts": [
+                {
+                    "word": "China",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "missile",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "capacitÃ",
+                    "meaning": "advcl",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "nuclear",
+                    "meaning": "acomp",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Le dÃÂ©bat sur les armes ÃÂ  feu dans les tournages prend de l'ampleur aux ÃÂtats-Unis",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773905.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-debat-sur-les-armes-a-feu-dans-les-tournages-prend-de-l-ampleur-aux-etats-unis-25773907.html",
+            "duration": "02:33",
+            "ranked": 6,
+            "epoch": 1635627609.2972844,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "The debate on firearms in filming is growing in the United States",
+            "concepts": [
+                {
+                    "word": "debate",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "firearms",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "filming",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "States",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "L'entraÃÂ®neur du FC Barcelone Ronald Koeman s'est fait destituer",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773905.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-entraineur-du-fc-barcelone-ronald-koeman-s-est-fait-destituer-25773910.html",
+            "duration": "01:13",
+            "ranked": 7,
+            "epoch": 1635627609.2972858,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "FC Barcelona Ronald Koeman's entry",
+            "concepts": [
+                {
+                    "word": "FC",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Barcelona",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ronald",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Koeman",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "entry",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Le festival MarionNEttes dÃÂ©bute aujourd'hui ÃÂ  NeuchÃÂ¢tel: interview de Corinne Grandjean",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773905.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-festival-marionnettes-debute-aujourd-hui-a-neuchatel-interview-de-corinne-grandjean-25773909.html",
+            "duration": "03:06",
+            "ranked": 8,
+            "epoch": 1635627609.2972877,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "The Puppet Festival today in NeuchÃ£ Â¢ Tel: Interview with Corinne Grandjean",
+            "concepts": [
+                {
+                    "word": "Puppet",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Festival",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "today",
+                    "meaning": "npadvmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "NeuchÃ£",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Tel",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Interview",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Corinne",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Grandjean",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂinvitÃÂ© du 12h30 - Les fils du facteur en tournÃÂ©e, en rediffusion",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25773905.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-les-fils-du-facteur-en-tournee-en-rediffusion-25773911.html",
+            "duration": "06:31",
+            "ranked": 9,
+            "epoch": 1635627609.2972894,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "The guest of 12:30 - the son of the factor by turning, in rebroadcast",
+            "concepts": [
+                {
+                    "word": "guest",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "son",
+                    "meaning": "appos",
+                    "pos": "NUM"
+                },
+                {
+                    "word": "factor",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "rebroadcast",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Biden lauds House Dem compromise on Build Back Better plan, but Senate approval uncertain",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.pbs.org/newshour/show/october-28-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/biden-lauds-house-dem-compromise-on-build-back-better-plan-but-senate-approval-uncertain",
+            "duration": "11 min",
+            "ranked": 0,
+            "epoch": 1635541212.1846097,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "Biden lauds House Dem compromise on Build Back Better plan, but Senate approval uncertain",
+            "concepts": [
+                {
+                    "word": "Biden",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "House",
+                    "meaning": "compound",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "compromise",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Build",
+                    "meaning": "npadvmod",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "plan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Senate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "approval",
+                    "meaning": "nsubj",
+                    "pos": "ADJ"
+                }
+            ]
+        },
+        {
+            "title": "News Wrap: Protesters demand climate action in Glasgow ahead of COP26",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.pbs.org/newshour/show/october-28-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-protesters-demand-climate-action-in-glasgow-ahead-of-cop26",
+            "duration": "6 min",
+            "ranked": 1,
+            "epoch": 1635541212.184612,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "News Wrap: Protesters demand climate action in Glasgow ahead of COP26",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Protesters",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "action",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Glasgow",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "COP26",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "CDC director on vaccinating children, booster guidance, vaccine hesitancy",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.pbs.org/newshour/show/october-28-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/cdc-director-on-vaccinating-children-booster-guidance-vaccine-hesitancy",
+            "duration": "9 min",
+            "ranked": 2,
+            "epoch": 1635541212.1846132,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "CDC director on vaccinating children, booster guidance, vaccine hesitancy",
+            "concepts": [
+                {
+                    "word": "CDC",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "director",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "children",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "booster",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "guidance",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hesitancy",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Oil giants deny spreading climate disinformation as they face Dem heat on Capitol Hill",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.pbs.org/newshour/show/october-28-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/oil-giants-deny-spreading-climate-disinformation-as-they-face-dem-heat-on-capitol-hill",
+            "duration": "6 min",
+            "ranked": 3,
+            "epoch": 1635541212.184614,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "Oil giants deny spreading climate disinformation as they face Dem heat on Capitol Hill",
+            "concepts": [
+                {
+                    "word": "Oil",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "giants",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "disinformation",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "heat",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Capitol",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hill",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "What we know about SudanÃ¢ÂÂs ongoing civil disobedience after military coup",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.pbs.org/newshour/show/october-28-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/what-we-know-about-sudans-ongoing-civil-disobedience-after-military-coup",
+            "duration": "10 min",
+            "ranked": 4,
+            "epoch": 1635541212.1846144,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "What we know about SudanÃ¢ÂÂs ongoing civil disobedience after military coup",
+            "concepts": [
+                {
+                    "word": "SudanÃ¢ÂÂs",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "disobedience",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "coup",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Honoring the federal employees who are solving AmericaÃ¢ÂÂs biggest problems",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.pbs.org/newshour/show/october-28-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/honoring-the-federal-employees-who-are-solving-americas-biggest-problems",
+            "duration": "7 min",
+            "ranked": 5,
+            "epoch": 1635541212.1846154,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "Honoring the federal employees who are solving AmericaÃ¢ÂÂs biggest problems",
+            "concepts": [
+                {
+                    "word": "employees",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "AmericaÃ¢ÂÂs",
+                    "meaning": "dative",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "problems",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "A Brief But Spectacular take on protecting Ã¢ÂÂBlack geniusÃ¢ÂÂ",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.pbs.org/newshour/show/october-28-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/a-brief-but-spectacular-take-on-protecting-black-genius",
+            "duration": "3 min",
+            "ranked": 6,
+            "epoch": 1635541212.1846159,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-28.json",
+            "en_title": "A Brief But Spectacular take on protecting Ã¢ÂÂBlack geniusÃ¢ÂÂ",
+            "concepts": [
+                {
+                    "word": "Spectacular",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Ã¢ÂÂBlack",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "geniusÃ¢ÂÂ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ]
+}

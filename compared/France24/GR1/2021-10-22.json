@@ -1,0 +1,3573 @@
+{
+    "simils_concepts": [
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 2,
+                "n_newA": 5,
+                "n_newB": 10,
+                "n_possible": 50,
+                "concepts_found": [
+                    {
+                        "word": "Alec",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Baldwin",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": "Alec Baldwin says 'heart is broken' after fatal film set shooting",
+                    "date_raw": "October 22, 2021",
+                    "date": "2021-10-22",
+                    "news_url": "https://www.france24.com/en/americas/20211022-prop-gun-fired-by-actor-alec-baldwin-kills-cinematographer-on-movie-set",
+                    "content": "",
+                    "ranked": 10,
+                    "placed": "First_Page",
+                    "epoch": 1634936415.5005023,
+                    "language": "en",
+                    "source": "France24",
+                    "filename": "conc_en_2021-10-22.json",
+                    "en_title": "Alec Baldwin says 'heart is broken' after fatal film set shooting",
+                    "en_content": "",
+                    "concepts": [
+                        {
+                            "word": "Alec",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Baldwin",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "heart",
+                            "meaning": "nsubjpass",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "film",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "shooting",
+                            "meaning": "dobj",
+                            "pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stati Uniti, tragedia sul set del western Rust: Alec Baldwin spara, muore la direttrice della fotografia.",
+                    "date_raw": "October 22, 2021",
+                    "date": "2021-10-22",
+                    "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+                    "content": " Ferito gravemente il regista. ÃÂ . ",
+                    "ranked": 4,
+                    "placed": "First_Page",
+                    "epoch": 1634936428.963228,
+                    "language": "it",
+                    "source": "GR1",
+                    "filename": "conc_en_2021-10-22.json",
+                    "en_title": "United States, tragedy on the set of the Western Rust: Alec Baldwin shoots, the director of photography dies.",
+                    "en_content": "The director seriously injured.TO .",
+                    "concepts": [
+                        {
+                            "word": "United",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "States",
+                            "meaning": "nsubj",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "tragedy",
+                            "meaning": "dep",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "set",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Western",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Rust",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Alec",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Baldwin",
+                            "meaning": "compound",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "director",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "photography",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 2,
+                "n_newA": 6,
+                "n_newB": 10,
+                "n_possible": 60,
+                "concepts_found": [
+                    {
+                        "word": "Alec",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Baldwin",
+                        "meaning": "compound",
+                        "pos": "VERB"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": "Alec Baldwin fires prop gun on movie set, killing cinematographer",
+                    "date_raw": "October 22, 2021",
+                    "date": "2021-10-22",
+                    "news_url": "https://www.france24.com/en/video/20211022-alec-baldwin-fires-prop-gun-on-movie-set-killing-cinematographer-1",
+                    "content": "",
+                    "ranked": 15,
+                    "placed": "First_Page",
+                    "epoch": 1634936415.500505,
+                    "language": "en",
+                    "source": "France24",
+                    "filename": "conc_en_2021-10-22.json",
+                    "en_title": "Alec Baldwin fires prop gun on movie set, killing cinematographer",
+                    "en_content": "",
+                    "concepts": [
+                        {
+                            "word": "Alec",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Baldwin",
+                            "meaning": "compound",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "prop",
+                            "meaning": "compound",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "gun",
+                            "meaning": "dobj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "movie",
+                            "meaning": "compound",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "cinematographer",
+                            "meaning": "dobj",
+                            "pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stati Uniti, tragedia sul set del western Rust: Alec Baldwin spara, muore la direttrice della fotografia.",
+                    "date_raw": "October 22, 2021",
+                    "date": "2021-10-22",
+                    "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+                    "content": " Ferito gravemente il regista. ÃÂ . ",
+                    "ranked": 4,
+                    "placed": "First_Page",
+                    "epoch": 1634936428.963228,
+                    "language": "it",
+                    "source": "GR1",
+                    "filename": "conc_en_2021-10-22.json",
+                    "en_title": "United States, tragedy on the set of the Western Rust: Alec Baldwin shoots, the director of photography dies.",
+                    "en_content": "The director seriously injured.TO .",
+                    "concepts": [
+                        {
+                            "word": "United",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "States",
+                            "meaning": "nsubj",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "tragedy",
+                            "meaning": "dep",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "set",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Western",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Rust",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Alec",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Baldwin",
+                            "meaning": "compound",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "director",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "photography",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 3,
+                "n_newA": 8,
+                "n_newB": 8,
+                "n_possible": 64,
+                "concepts_found": [
+                    {
+                        "word": "II",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "night",
+                        "meaning": "npadvmod",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "hospital",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": "Queen Elizabeth II spent night in hospital after cancelling Northern Ireland visit",
+                    "date_raw": "October 22, 2021",
+                    "date": "2021-10-22",
+                    "news_url": "https://www.france24.com/en/europe/20211022-queen-elizabeth-ii-spent-night-in-hospital-after-cancelling-northern-ireland-visit",
+                    "content": "",
+                    "ranked": 24,
+                    "placed": "First_Page",
+                    "epoch": 1634936415.5005105,
+                    "language": "en",
+                    "source": "France24",
+                    "filename": "conc_en_2021-10-22.json",
+                    "en_title": "Queen Elizabeth II spent night in hospital after cancelling Northern Ireland visit",
+                    "en_content": "",
+                    "concepts": [
+                        {
+                            "word": "Queen",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Elizabeth",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "II",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "night",
+                            "meaning": "npadvmod",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "hospital",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Northern",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Ireland",
+                            "meaning": "compound",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "visit",
+                            "meaning": "dobj",
+                            "pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "title": "A Windsor, e in \"buono spirito\": notte in ospedale - tra mercoledÃÂ¬ e giovedÃÂ¬ - per Elisabetta II.",
+                    "date_raw": "October 22, 2021",
+                    "date": "2021-10-22",
+                    "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+                    "content": " Buckingham Palace frena le preoccupazioni: solo accertamenti, giÃÂ  dimessa. ÃÂ . ",
+                    "ranked": 5,
+                    "placed": "First_Page",
+                    "epoch": 1634936428.9632304,
+                    "language": "it",
+                    "source": "GR1",
+                    "filename": "conc_en_2021-10-22.json",
+                    "en_title": "In Windsor, and in \"good spirit\": night in the hospital - between Wednesday and Thursday - for Elisabetta II.",
+                    "en_content": "Buckingham Palace brakes worries: only checks, already dismissed.TO .",
+                    "concepts": [
+                        {
+                            "word": "Windsor",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "spirit",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "night",
+                            "meaning": "appos",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "hospital",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Wednesday",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Thursday",
+                            "meaning": "conj",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Elisabetta",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "II",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 3,
+                "n_newA": 5,
+                "n_newB": 10,
+                "n_possible": 50,
+                "concepts_found": [
+                    {
+                        "word": "Alec",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Baldwin",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "set",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": "Prop gun fired by Alec Baldwin kills woman on set",
+                    "date_raw": "October 22, 2021",
+                    "date": "2021-10-22",
+                    "news_url": "https://www.france24.com/en/video/20211022-prop-gun-fired-by-alec-baldwin-kills-woman-on-set",
+                    "content": "",
+                    "ranked": 28,
+                    "placed": "First_Page",
+                    "epoch": 1634936415.5005164,
+                    "language": "en",
+                    "source": "France24",
+                    "filename": "conc_en_2021-10-22.json",
+                    "en_title": "Prop gun fired by Alec Baldwin kills woman on set",
+                    "en_content": "",
+                    "concepts": [
+                        {
+                            "word": "gun",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "Alec",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Baldwin",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "woman",
+                            "meaning": "dobj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "set",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stati Uniti, tragedia sul set del western Rust: Alec Baldwin spara, muore la direttrice della fotografia.",
+                    "date_raw": "October 22, 2021",
+                    "date": "2021-10-22",
+                    "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+                    "content": " Ferito gravemente il regista. ÃÂ . ",
+                    "ranked": 4,
+                    "placed": "First_Page",
+                    "epoch": 1634936428.963228,
+                    "language": "it",
+                    "source": "GR1",
+                    "filename": "conc_en_2021-10-22.json",
+                    "en_title": "United States, tragedy on the set of the Western Rust: Alec Baldwin shoots, the director of photography dies.",
+                    "en_content": "The director seriously injured.TO .",
+                    "concepts": [
+                        {
+                            "word": "United",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "States",
+                            "meaning": "nsubj",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "tragedy",
+                            "meaning": "dep",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "set",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Western",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Rust",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Alec",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Baldwin",
+                            "meaning": "compound",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "director",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "photography",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 2,
+                "n_newA": 5,
+                "n_newB": 8,
+                "n_possible": 40,
+                "concepts_found": [
+                    {
+                        "word": "night",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "hospital",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": "Queen Elizabeth resting after first night in hospital in years",
+                    "date_raw": "October 22, 2021",
+                    "date": "2021-10-22",
+                    "news_url": "https://www.france24.com/en/video/20211022-queen-elizabeth-resting-after-first-night-in-hospital-in-years",
+                    "content": "",
+                    "ranked": 32,
+                    "placed": "First_Page",
+                    "epoch": 1634936415.5005188,
+                    "language": "en",
+                    "source": "France24",
+                    "filename": "conc_en_2021-10-22.json",
+                    "en_title": "Queen Elizabeth resting after first night in hospital in years",
+                    "en_content": "",
+                    "concepts": [
+                        {
+                            "word": "Queen",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Elizabeth",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "night",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "hospital",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "years",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                },
+                {
+                    "title": "A Windsor, e in \"buono spirito\": notte in ospedale - tra mercoledÃÂ¬ e giovedÃÂ¬ - per Elisabetta II.",
+                    "date_raw": "October 22, 2021",
+                    "date": "2021-10-22",
+                    "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+                    "content": " Buckingham Palace frena le preoccupazioni: solo accertamenti, giÃÂ  dimessa. ÃÂ . ",
+                    "ranked": 5,
+                    "placed": "First_Page",
+                    "epoch": 1634936428.9632304,
+                    "language": "it",
+                    "source": "GR1",
+                    "filename": "conc_en_2021-10-22.json",
+                    "en_title": "In Windsor, and in \"good spirit\": night in the hospital - between Wednesday and Thursday - for Elisabetta II.",
+                    "en_content": "Buckingham Palace brakes worries: only checks, already dismissed.TO .",
+                    "concepts": [
+                        {
+                            "word": "Windsor",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "spirit",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "night",
+                            "meaning": "appos",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "hospital",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Wednesday",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Thursday",
+                            "meaning": "conj",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Elisabetta",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "II",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "edition_a": [
+        {
+            "title": "Ã¢ÂÂItÃ¢ÂÂs a chance to discover another side of African creativityÃ¢ÂÂ: Share Africa opens in Paris",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/fashion/20211022-it-s-a-chance-to-discover-another-side-of-african-creativity-share-africa-opens-in-paris",
+            "content": "",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1634936415.5004928,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Ã¢ÂÂItÃ¢ÂÂs a chance to discover another side of African creativityÃ¢ÂÂ: Share Africa opens in Paris",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Ã¢ÂÂItÃ¢ÂÂs",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "chance",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "side",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "creativityÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Share",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Africa",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Divisions over EUÃ¢ÂÂs legal order, energy remain unresolved at bloc summit",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/europe/20211022-divisions-over-eu-s-legal-order-energy-remain-unresolved-at-bloc-summit",
+            "content": "",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1634936415.5004954,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Divisions over EUÃ¢ÂÂs legal order, energy remain unresolved at bloc summit",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Divisions",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "EUÃ¢ÂÂs",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "order",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "energy",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "bloc",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "summit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Ethiopia launches air strikes on TigrayÃ¢ÂÂs capital for fourth day this week",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/africa/20211022-ethiopia-air-strikes-target-tigray-capital-for-fourth-day-this-week",
+            "content": "",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1634936415.5004969,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Ethiopia launches air strikes on TigrayÃ¢ÂÂs capital for fourth day this week",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Ethiopia",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "air",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "strikes",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "TigrayÃ¢ÂÂs",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "capital",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "day",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "week",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "UN cancels humanitarian flight after Tigray airstrikes",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/eye-on-africa/20211022-un-cancels-humanitarian-flight-after-tigray-airstrikes-i-eye-on-africa-%E2%80%93-france-24-english",
+            "content": "",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1634936415.5004976,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "UN cancels humanitarian flight after Tigray airstrikes",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "UN",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "flight",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Tigray",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "airstrikes",
+                    "meaning": "advcl",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "AngolaÃ¢ÂÂs dark history: How fearful rulers have governed in the shadows",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/perspective/20211022-angola-s-dark-history-how-fearful-rulers-have-governed-in-the-shadows",
+            "content": "",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1634936415.5004983,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "AngolaÃ¢ÂÂs dark history: How fearful rulers have governed in the shadows",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "AngolaÃ¢ÂÂs",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "history",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rulers",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "shadows",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Covid-19 may have killed more than 100,000 health care workers, says WHO",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/europe/20211022-covid-may-have-killed-over-180-thousand-health-workers-says-who",
+            "content": "",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1634936415.5004992,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Covid-19 may have killed more than 100,000 health care workers, says WHO",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Covid-19",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "health",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "care",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "workers",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "UN launches $670 million trust fund to combat Afghanistan's Ã¢ÂÂeconomic implosionÃ¢ÂÂ",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/business-daily/20211022-un-launches-670-million-trust-fund-to-combat-afghanistan-s-economic-implosion",
+            "content": "",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1634936415.5004997,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "UN launches $670 million trust fund to combat Afghanistan's Ã¢ÂÂeconomic implosionÃ¢ÂÂ",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "UN",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "trust",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "fund",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Afghanistan",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "implosionÃ¢ÂÂ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Several killed in clash at Rohingya refugee camp in Bangladesh",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/asia-pacific/20211022-several-killed-in-clash-at-rohingya-refugee-camp-in-bangladesh",
+            "content": "",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005004,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Several killed in clash at Rohingya refugee camp in Bangladesh",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "clash",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Rohingya",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "refugee",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "camp",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Bangladesh",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Ã¢ÂÂKnow My NameÃ¢ÂÂ: Sexual assault survivor recounts her tale of the healing process",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/the-51/20211022-know-my-name-sexual-assault-survivor-recounts-her-tale-of-the-healing-process",
+            "content": "",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1634936415.500501,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Ã¢ÂÂKnow My NameÃ¢ÂÂ: Sexual assault survivor recounts her tale of the healing process",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Ã¢ÂÂKnow",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "NameÃ¢ÂÂ",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "assault",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "survivor",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "tale",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "healing",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "process",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Business or Ã¢ÂÂPleasureÃ¢ÂÂ? LAÃ¢ÂÂs porn industry seen by a female filmmaker",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/encore/20211022-business-or-pleasure-la-s-porn-industry-seen-by-a-female-filmmaker",
+            "content": "",
+            "ranked": 9,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005014,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Business or Ã¢ÂÂPleasureÃ¢ÂÂ? LAÃ¢ÂÂs porn industry seen by a female filmmaker",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Business",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Ã¢ÂÂPleasureÃ¢ÂÂ",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "LAÃ¢ÂÂs",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "porn",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "industry",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "filmmaker",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Alec Baldwin says 'heart is broken' after fatal film set shooting",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/americas/20211022-prop-gun-fired-by-actor-alec-baldwin-kills-cinematographer-on-movie-set",
+            "content": "",
+            "ranked": 10,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005023,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Alec Baldwin says 'heart is broken' after fatal film set shooting",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Alec",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Baldwin",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "heart",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "film",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "shooting",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "EU unconvinced by Polish arguments on judicial changes at end of summit",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/europe/20211022-eu-unconvinced-by-polish-arguments-on-judicial-changes-at-end-of-summit",
+            "content": "",
+            "ranked": 11,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005028,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "EU unconvinced by Polish arguments on judicial changes at end of summit",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "arguments",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "changes",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "end",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "summit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "After Brexit, Polexit? Cartoonist depicts possible result of EU-Poland legal row",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/europe/20211022-after-brexit-polexit-cartoonist-depicts-possible-result-of-eu-poland-legal-row",
+            "content": "",
+            "ranked": 12,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005033,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "After Brexit, Polexit? Cartoonist depicts possible result of EU-Poland legal row",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Brexit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Polexit",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cartoonist",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "result",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "EU",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Poland",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "row",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Oslo opens museum to \"The Scream\" painter Munch",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-oslo-opens-museum-to-the-scream-painter-munch",
+            "content": "",
+            "ranked": 13,
+            "placed": "First_Page",
+            "epoch": 1634936415.500504,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Oslo opens museum to \"The Scream\" painter Munch",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Oslo",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "museum",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "The",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Scream",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "painter",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Munch",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "West Africa's Benin votes to legalise abortion",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-west-africa-s-benin-votes-to-legalise-abortion",
+            "content": "",
+            "ranked": 14,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005045,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "West Africa's Benin votes to legalise abortion",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "West",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Africa",
+                    "meaning": "poss",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Benin",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "votes",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "abortion",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Alec Baldwin fires prop gun on movie set, killing cinematographer",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-alec-baldwin-fires-prop-gun-on-movie-set-killing-cinematographer-1",
+            "content": "",
+            "ranked": 15,
+            "placed": "First_Page",
+            "epoch": 1634936415.500505,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Alec Baldwin fires prop gun on movie set, killing cinematographer",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Alec",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Baldwin",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "prop",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "gun",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "movie",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cinematographer",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "US House holds Trump ally Bannon in criminal contempt, seeks prosecution",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/americas/20211021-us-house-holds-trump-ally-bannon-in-criminal-contempt-seeks-prosecution",
+            "content": "",
+            "ranked": 16,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005057,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "US House holds Trump ally Bannon in criminal contempt, seeks prosecution",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "US",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "House",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Trump",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ally",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Bannon",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "contempt",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "prosecution",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "France announces more aid for low-income families to deal with energy prices",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-france-announces-more-aid-for-low-income-families-to-deal-with-energy-prices",
+            "content": "",
+            "ranked": 17,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005064,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "France announces more aid for low-income families to deal with energy prices",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "France",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "aid",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "income",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "families",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "energy",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prices",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Climate change will cause global tensions, say US intelligence services",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/americas/20211021-climate-change-will-cause-global-tensions-say-us-intelligence-services",
+            "content": "",
+            "ranked": 18,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005069,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Climate change will cause global tensions, say US intelligence services",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "change",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "tensions",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "US",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "intelligence",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "services",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Exploring Slovenia, 30 years after independence (Part 2)",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/europe-now/20211022-exploring-slovenia-30-years-after-independence-part-2",
+            "content": "",
+            "ranked": 19,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005074,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Exploring Slovenia, 30 years after independence (Part 2)",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Slovenia",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "years",
+                    "meaning": "npadvmod",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "independence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Part",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Swedish rapper shot dead, stoking outrage over gang violence",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-swedish-rapper-shot-dead-stoking-outrage-over-gang-violence",
+            "content": "",
+            "ranked": 20,
+            "placed": "First_Page",
+            "epoch": 1634936415.500508,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Swedish rapper shot dead, stoking outrage over gang violence",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "rapper",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "outrage",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "gang",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "UK PM says sticking with current plan for Covid-19 despite high case numbers",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-uk-pm-says-sticking-with-current-plan-for-covid-19-despite-high-case-numbers",
+            "content": "",
+            "ranked": 21,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005088,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "UK PM says sticking with current plan for Covid-19 despite high case numbers",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "UK",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "PM",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "plan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Covid-19",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "case",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "numbers",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                }
+            ]
+        },
+        {
+            "title": "Capitol riots: US House to hold Steve Bannon in contempt of Congress",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-capitol-riots-us-house-to-hold-steve-bannon-in-contempt-of-congress",
+            "content": "",
+            "ranked": 22,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005093,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Capitol riots: US House to hold Steve Bannon in contempt of Congress",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Capitol",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "riots",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "US",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "House",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Steve",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bannon",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "contempt",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Congress",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "EU summit: Leaders set to discuss migration on second day of talks",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-eu-summit-leaders-set-to-discuss-migration-on-second-day-of-talks",
+            "content": "",
+            "ranked": 23,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005097,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "EU summit: Leaders set to discuss migration on second day of talks",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "summit",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Leaders",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "migration",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "day",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "talks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Queen Elizabeth II spent night in hospital after cancelling Northern Ireland visit",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/europe/20211022-queen-elizabeth-ii-spent-night-in-hospital-after-cancelling-northern-ireland-visit",
+            "content": "",
+            "ranked": 24,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005105,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Queen Elizabeth II spent night in hospital after cancelling Northern Ireland visit",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Queen",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Elizabeth",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "II",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "night",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "hospital",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Northern",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ireland",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "visit",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Swedish teen rapper killed in Stockholm, intensifying concern over gang violence",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/europe/20211022-swedish-teen-rapper-killed-in-stockholm-intensifying-concern-over-gang-violence",
+            "content": "",
+            "ranked": 25,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005143,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Swedish teen rapper killed in Stockholm, intensifying concern over gang violence",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "teen",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rapper",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Stockholm",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "concern",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "gang",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "SudanÃ¢ÂÂs fragile transition to democracy at stake as rival camps flex muscles",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-sudan-s-fragile-transition-to-democracy-at-stake-as-rival-camps-flex-muscles-1",
+            "content": "",
+            "ranked": 26,
+            "placed": "First_Page",
+            "epoch": 1634936415.500515,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "SudanÃ¢ÂÂs fragile transition to democracy at stake as rival camps flex muscles",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "SudanÃ¢ÂÂs",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "transition",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "democracy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "stake",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "camps",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "muscles",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Biden says US would defend Taiwan against China invasion",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-biden-says-us-would-defend-taiwan-against-china-invasion",
+            "content": "",
+            "ranked": 27,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005157,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Biden says US would defend Taiwan against China invasion",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Biden",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "US",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Taiwan",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "China",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "invasion",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Prop gun fired by Alec Baldwin kills woman on set",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-prop-gun-fired-by-alec-baldwin-kills-woman-on-set",
+            "content": "",
+            "ranked": 28,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005164,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Prop gun fired by Alec Baldwin kills woman on set",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "gun",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Alec",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Baldwin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "woman",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "set",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Myanmar junta re-arrests over 100 anti-coup protesters released in amnesty",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/asia-pacific/20211022-myanmar-junta-re-arrests-over-100-anti-coup-protesters-released-in-amnesty",
+            "content": "",
+            "ranked": 29,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005171,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Myanmar junta re-arrests over 100 anti-coup protesters released in amnesty",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Myanmar",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "junta",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "re",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "-",
+                    "meaning": "punct",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "arrests",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "protesters",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "amnesty",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "French prosecutors seek suspended sentence for Benzema in sex tape trial",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-french-prosecutors-seek-suspended-sentence-for-benzema-in-sex-tape-trial",
+            "content": "",
+            "ranked": 30,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005176,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "French prosecutors seek suspended sentence for Benzema in sex tape trial",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "prosecutors",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sentence",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Benzema",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "sex",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tape",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "trial",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Behind the screen: the dangers of excessive exposure for the youth",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/france-in-focus/20211022-behind-the-screen-the-dangers-of-excessive-exposure-for-the-youth",
+            "content": "",
+            "ranked": 31,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005183,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Behind the screen: the dangers of excessive exposure for the youth",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "screen",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "dangers",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "exposure",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "youth",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Queen Elizabeth resting after first night in hospital in years",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-queen-elizabeth-resting-after-first-night-in-hospital-in-years",
+            "content": "",
+            "ranked": 32,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005188,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Queen Elizabeth resting after first night in hospital in years",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Queen",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Elizabeth",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "night",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "hospital",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "years",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "China vows no concessions on Taiwan after Biden comments",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-china-vows-no-concessions-on-taiwan-after-biden-comments",
+            "content": "",
+            "ranked": 33,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005195,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "China vows no concessions on Taiwan after Biden comments",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "China",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "concessions",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Taiwan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Biden",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "UK scientists investigate Delta subvariant as Covid cases soar",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/europe/20211022-uk-scientists-investigate-delta-subvariant-as-covid-cases-soar",
+            "content": "",
+            "ranked": 34,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005205,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "UK scientists investigate Delta subvariant as Covid cases soar",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "UK",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "scientists",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Delta",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Covid",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "cases",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Melbourne toasts end of long Covid-19 lockdown",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-melbourne-toasts-end-of-long-covid-19-lockdown",
+            "content": "",
+            "ranked": 35,
+            "placed": "First_Page",
+            "epoch": 1634936415.500521,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Melbourne toasts end of long Covid-19 lockdown",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "toasts",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Covid-19",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "lockdown",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Japan rediscovers Minamata ecological disaster through new film",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/revisited/20211022-japan-rediscovers-minamata-ecological-disaster",
+            "content": "",
+            "ranked": 36,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005217,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Japan rediscovers Minamata ecological disaster through new film",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Japan",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Minamata",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "disaster",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "film",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Immigration: BidenÃ¢ÂÂs challenge at the border",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/reporters/20211022-immigration-biden-s-challenge-at-the-border",
+            "content": "",
+            "ranked": 37,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005221,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Immigration: BidenÃ¢ÂÂs challenge at the border",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Immigration",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "BidenÃ¢ÂÂs",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "challenge",
+                    "meaning": "acl",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "border",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Moscow to shut non-essential services as Covid-19 cases spike",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-moscow-to-shut-non-essential-services-as-covid-19-cases-spike",
+            "content": "",
+            "ranked": 38,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005255,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Moscow to shut non-essential services as Covid-19 cases spike",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Moscow",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "services",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Covid-19",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "cases",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "EU summit leaves law row with Poland unresolved",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-eu-summit-leaves-law-row-with-poland-unresolved",
+            "content": "",
+            "ranked": 39,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005264,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "EU summit leaves law row with Poland unresolved",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "summit",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "law",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "row",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Poland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "'A never-ending tragedy': Seven dead after gang attack in Rohingya refugee camp",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-a-never-ending-tragedy-seven-dead-after-gang-attack-in-rohingya-refugee-camp",
+            "content": "",
+            "ranked": 40,
+            "placed": "First_Page",
+            "epoch": 1634936415.500527,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "'A never-ending tragedy': Seven dead after gang attack in Rohingya refugee camp",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "tragedy",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "gang",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "attack",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Rohingya",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "refugee",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "camp",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Milipol Paris 2021: Leading law enforcement, defence trade fair underway",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-milipol-paris-2021-leading-law-enforcement-defence-trade-fair-underway",
+            "content": "",
+            "ranked": 41,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005305,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Milipol Paris 2021: Leading law enforcement, defence trade fair underway",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Milipol",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "law",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "enforcement",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "defence",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "trade",
+                    "meaning": "npadvmod",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "underway",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Renault to cut output by 500,000 cars due to global semiconductor shortage",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/business-daily/20211022-renault-to-cut-output-by-500-000-cars-due-to-global-semiconductor-shortage",
+            "content": "",
+            "ranked": 42,
+            "placed": "First_Page",
+            "epoch": 1634936415.500531,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Renault to cut output by 500,000 cars due to global semiconductor shortage",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Renault",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "output",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cars",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "semiconductor",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "shortage",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Mass protests held in Sudan against prospect of military rule",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-mass-protests-held-in-sudan-against-prospect-of-military-rule",
+            "content": "",
+            "ranked": 43,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005317,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Mass protests held in Sudan against prospect of military rule",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Mass",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "protests",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Sudan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "prospect",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "rule",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "'I'm afraid': Growing needs for thousands of displaced Ethiopians in Sudan",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-i-m-afraid-growing-needs-for-thousands-of-displaced-ethiopians-in-sudan",
+            "content": "",
+            "ranked": 44,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005324,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "'I'm afraid': Growing needs for thousands of displaced Ethiopians in Sudan",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "needs",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "thousands",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ethiopians",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sudan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "EU summit split by rows over bloc's legal order, energy",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-eu-summit-split-by-rows-over-bloc-s-legal-order-energy",
+            "content": "",
+            "ranked": 45,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005333,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "EU summit split by rows over bloc's legal order, energy",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "summit",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rows",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "bloc",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "order",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "energy",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Macron, Biden discuss 'stronger' European defence after submarine row",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/europe/20211022-macron-biden-discuss-stronger-european-defence-after-submarine-row",
+            "content": "",
+            "ranked": 46,
+            "placed": "First_Page",
+            "epoch": 1634936415.500534,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Macron, Biden discuss 'stronger' European defence after submarine row",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Macron",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Biden",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "defence",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "submarine",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "row",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "China says Ã¢ÂÂno roomÃ¢ÂÂ for concessions over Taiwan after Biden commits to defend island",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/americas/20211022-biden-says-yes-us-would-defend-taiwan-against-china",
+            "content": "",
+            "ranked": 47,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005348,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "China says Ã¢ÂÂno roomÃ¢ÂÂ for concessions over Taiwan after Biden commits to defend island",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "China",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Ã¢ÂÂno",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "roomÃ¢ÂÂ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "concessions",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Taiwan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Biden",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "island",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Exploring Slovenia, 30 years after independence (Part 1)",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/europe-now/20211022-exploring-slovenia-30-years-after-independence-part-1",
+            "content": "",
+            "ranked": 48,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005352,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Exploring Slovenia, 30 years after independence (Part 1)",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Slovenia",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "years",
+                    "meaning": "npadvmod",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "independence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Part",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "In the Alps, climate change is turning glaciers into lakes",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/down-to-earth/20211022-in-the-alps-climate-change-is-turning-glaciers-into-lakes",
+            "content": "",
+            "ranked": 49,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005357,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "In the Alps, climate change is turning glaciers into lakes",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Alps",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "change",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "glaciers",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "lakes",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Betrayal and grief: Young people suffering from climate anxiety demand action",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/environment/20211022-grief-and-hopelessness-young-people-suffering-from-climate-eco-anxiety-demand-action",
+            "content": "",
+            "ranked": 50,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005362,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Betrayal and grief: Young people suffering from climate anxiety demand action",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Betrayal",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "grief",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "people",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "anxiety",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "demand",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "action",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Fuel from olives: SyriaÃ¢ÂÂs answer to rising diesel prices",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-fuel-from-olives-syria-s-answer-to-rising-diesel-prices",
+            "content": "",
+            "ranked": 51,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005395,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Fuel from olives: SyriaÃ¢ÂÂs answer to rising diesel prices",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Fuel",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "olives",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "SyriaÃ¢ÂÂs",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "answer",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "diesel",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prices",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "EU Poland tensions, Belarus migration, Covid surge in Europe, Colin Powell's legacy",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/tv-shows/the-world-this-week/20211022-eu-poland-tensions-belarus-migration-covid-surge-in-europe-colin-powell-s-legacy",
+            "content": "",
+            "ranked": 52,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005403,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "EU Poland tensions, Belarus migration, Covid surge in Europe, Colin Powell's legacy",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Poland",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tensions",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Belarus",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "migration",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Covid",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Europe",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Colin",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Powell",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "legacy",
+                    "meaning": "conj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "In Sudan, protesters mass to save 'revolution'",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-in-sudan-protesters-mass-to-save-revolution",
+            "content": "",
+            "ranked": 53,
+            "placed": "First_Page",
+            "epoch": 1634936415.500541,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "In Sudan, protesters mass to save 'revolution'",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Sudan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "protesters",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "revolution",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Killed on set: Famous Hollywood tragedies",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/video/20211022-killed-on-set-famous-hollywood-tragedies",
+            "content": "",
+            "ranked": 54,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005414,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Killed on set: Famous Hollywood tragedies",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "set",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Famous",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hollywood",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Beleaguered property giant Evergrande makes key offshore interest payment",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.france24.com/en/asia-pacific/20211022-beleaguered-property-giant-evergrande-makes-key-offshore-interest-payment",
+            "content": "",
+            "ranked": 55,
+            "placed": "First_Page",
+            "epoch": 1634936415.5005422,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Beleaguered property giant Evergrande makes key offshore interest payment",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "property",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "giant",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Evergrande",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "interest",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "payment",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Europa in campo contro il caro-bollette: ÃÂ accordo al Consiglio europeo per fermare gli aumenti.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Draghi: tutelare la ripresa, proteggere gli stati membri dalle pressioni del mercato. ÃÂ . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632137,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Europe in the field against the expensive bills: Ã AGREEMENT to the European Council to stop the increases.",
+            "en_content": "Dragons: protect recovery, protect Member States from market pressures.TO .",
+            "concepts": [
+                {
+                    "word": "Europe",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "field",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "bills",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ã",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "AGREEMENT",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "European",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "increases",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Berlusconi assolto a Siena per il Ruby Ter.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Sul premier dice: meglio che resti a Palazzo Chigi.  Tensione tra Salvini e Meloni, dopo un audio del leader della Lega, che minimizza: non litighiamo. ÃÂ . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632213,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Berlusconi acquitted in Siena for Ruby Ter.",
+            "en_content": "On the premier he says: better than stays at Palazzo Chigi.Voltage between Salvini and Meloni, after an audio of the Leader of the League, which minimizes: do not fight.TO .",
+            "concepts": [
+                {
+                    "word": "Berlusconi",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Siena",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ruby",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ter",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Conte vara la nuova segreteria 5 stelle.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Alla Camera passa la mozione congiunta del centro-sinistra sullo scioglimento di Forza Nuova.  ÃÂ . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632235,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Conte Vara The new 5-star secretariat.",
+            "en_content": "The chamber passes the joint mid-left motion on the new strength dissolution.TO .",
+            "concepts": [
+                {
+                    "word": "Conte",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vara",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "star",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "secretariat",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Vaccini, video denuncia di Emergency e altre decine di organizzazioni: una gara dei 100 metri, corrono i Paesi ricchi, quelli poveri restano fuori.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": "ÃÂ . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632258,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Vaccines, video denunciation of Emergency and other dozens of organizations: a 100 meter race, rich countries run out.",
+            "en_content": "ÃÂ .",
+            "concepts": [
+                {
+                    "word": "Vaccines",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "video",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "denunciation",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Emergency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "dozens",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "organizations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "meter",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "race",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Stati Uniti, tragedia sul set del western Rust: Alec Baldwin spara, muore la direttrice della fotografia.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Ferito gravemente il regista. ÃÂ . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1634936428.963228,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "United States, tragedy on the set of the Western Rust: Alec Baldwin shoots, the director of photography dies.",
+            "en_content": "The director seriously injured.TO .",
+            "concepts": [
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "States",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tragedy",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "set",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Western",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rust",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Alec",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Baldwin",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "director",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "photography",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "A Windsor, e in \"buono spirito\": notte in ospedale - tra mercoledÃÂ¬ e giovedÃÂ¬ - per Elisabetta II.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Buckingham Palace frena le preoccupazioni: solo accertamenti, giÃÂ  dimessa. ÃÂ . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632304,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "In Windsor, and in \"good spirit\": night in the hospital - between Wednesday and Thursday - for Elisabetta II.",
+            "en_content": "Buckingham Palace brakes worries: only checks, already dismissed.TO .",
+            "concepts": [
+                {
+                    "word": "Windsor",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "spirit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "night",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hospital",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Wednesday",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Thursday",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Elisabetta",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "II",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Simonetta Cheli nominata direttrice dei programmi Terra dell'Agenzia Spaziale Europea.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " E al Gr1 racconta: sempre di piÃÂ¹ le donne in ruoli apicali. ÃÂ . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632325,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Simonetta Cheli named Director of Earth Programs of the European Space Agency.",
+            "en_content": "And at GR1 tells: more and more women in apical roles.TO .",
+            "concepts": [
+                {
+                    "word": "Simonetta",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cheli",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Director",
+                    "meaning": "oprd",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Earth",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Programs",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "European",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Space",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Agency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Sport.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Ciclismo su pista.  Ai Mondiali ÃÂ¨ trionfo azzurro, con i complimenti di Palazzo Chigi.  Oro per Letizia Paternoster e per l'inseguimento a squadre maschile, argento per la squadra femminile. . ",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632342,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Sport.",
+            "en_content": "Track cycling.The World Cup is a blue triumph, with the compliments of Palazzo Chigi.Gold for paternoster letizia and male team tracking, silver for the female team..",
+            "concepts": [
+                {
+                    "word": "Sport",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Calcio.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " In Europa League vince il Napoli, pari per la Lazio.  In \"Conference\" figuraccia storica per la Roma, travolta 6 a 1 dai norvegesi del Bodo Glimt. . ",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1634936428.963236,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Football.",
+            "en_content": "In the Europa League wins Napoli, equal to Lazio.In \"Conference\" historical figurate for Roma, 6 to 1 from the Norwegians of the Bodo Glimt..",
+            "concepts": [
+                {
+                    "word": "Football",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

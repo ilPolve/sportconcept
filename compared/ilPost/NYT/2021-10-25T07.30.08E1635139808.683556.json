@@ -1,0 +1,3225 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Le prime pagine di oggi",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/2021/10/25/le-prime-pagine-di-oggi-2982/",
+            "content": " La manovra economica del governo, il fallimento della trattativa per la cessione di MPS a Unicredit, e il pareggio fra Inter e Juventus\t",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835186,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "The first pages of today",
+            "en_content": "The government's economic maneuver, the failure of the negotiation for the sale of MPS to UniCredit, and the draw between Inter and Juventus",
+            "concepts": [
+                {
+                    "word": "pages",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "today",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "I numeri dei podcast in Italia",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/podcast-italia-numeri/",
+            "content": " Quanti sono, in quanti li ascoltano e quanti ascolti fanno, per quello che possiamo dirne\t",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1635139808.683521,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "The numbers of the podcasts in Italy",
+            "en_content": "How many are, how many listen to them and how many listenings do, for what we can say",
+            "concepts": [
+                {
+                    "word": "numbers",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "podcasts",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Cosa si intende per cucina italiana?",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/?blog_post=dobbiamo-metterci-daccordo-su-cosa-si-intende-per-cucina-italiana",
+            "content": " Un'intervista ad Alberto Grandi che insegna Storia delle imprese e Storia dellÃ¢ÂÂintegrazione europea allÃ¢ÂÂUniversitÃÂ  di Parma [Continua]",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835222,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "What is meant by Italian cuisine?",
+            "en_content": "An interview with Alberto Grandi who teaches the history of businesses and history of European integration to the University of Parma [continue]",
+            "concepts": [
+                {
+                    "word": "cuisine",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "3783, il numero bugiardo sui decessi per COVID-19",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/3783-morti-covid-iss/",
+            "content": " Viene usato sui social e nei cortei \"No Green Pass\" per sminuire gli effetti della pandemia, ma non ha nessuna base scientifica\t",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835234,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "3783, the liar number on deaths for Covid-19",
+            "en_content": "It is used on social media and parades \"no green pass\" to diminish the effects of pandemic, but has no scientific basis",
+            "concepts": [
+                {
+                    "word": "liar",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "number",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "deaths",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Covid-19",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La Colombia ha arrestato uno dei narcotrafficanti piÃÂ¹ ricercati al mondo",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/arresto-otoniel-colombia/",
+            "content": " Il presidente colombiano ha paragonato la cattura di Otoniel, il capo del Clan del Golfo, alla caduta di Pablo Escobar negli anni Novanta\t",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835246,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "Colombia arrested one of the most sought after drug traffickers in the world",
+            "en_content": "The Colombian President compared the capture of Otoniel, the head of the Gulf clan, at the fall of Pablo Escobar in the nineties",
+            "concepts": [
+                {
+                    "word": "Colombia",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "drug",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "traffickers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "world",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Questo orologio cambierÃÂ  lÃ¢ÂÂesplorazione dello Spazio profondo?",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/orologio-atomico-spazio-profondo-nasa/",
+            "content": " La NASA sta risolvendo uno dei piÃÂ¹ grandi problemi per sonde e astronavi: sapere dove si trovano\t",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835265,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "This watch will change the exploration of deep space?",
+            "en_content": "NASA is solving one of the largest problems for probes and spaceships: know where they are",
+            "concepts": [
+                {
+                    "word": "watch",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "exploration",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "space",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le prove comuni in una classe della Sicilia orientale",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/?blog_post=le-prove-comuni-in-una-classe-della-sicilia-orientale-quando-e-ottobre",
+            "content": "Le caldarroste, per esempio, sono una grande fonte di distrazione [Continua]",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835272,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "Common tests in a class of eastern Sicily",
+            "en_content": "Caldarroste, for example, are a great source of distraction [continue]",
+            "concepts": [
+                {
+                    "word": "tests",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "class",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sicily",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂultramaratona cinese in cui morirono 21 persone",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/cina-ultramaratona-21-morti-storia/",
+            "content": " Lo scorso maggio 172 corridori partirono per una gara di 100 km nelle montagne del Gansu: poi arrivÃÂ² la pioggia, il vento e il freddo\t",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1635139808.683528,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "The Chinese ultramaraton in which 21 people died",
+            "en_content": "Last May 172 riders left for a 100 km race in the mountains of Gansu: then the rain arrived, the wind and the cold",
+            "concepts": [
+                {
+                    "word": "ultramaraton",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "people",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La destra francese gira sempre di piÃÂ¹ attorno a Eric Zemmour",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/destra-francese-eric-zemmour-elezioni/",
+            "content": " Mancano sei mesi alle elezioni presidenziali e il popolare giornalista di estrema destra sta scombinando i piani di parecchi politici\t",
+            "ranked": 9,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835284,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "The French right turns more and more around Eric Zemmour",
+            "en_content": "There are six months to the presidential elections and the popular extreme right journalist is removing the plans of several politicians",
+            "concepts": [
+                {
+                    "word": "French",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "right",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Eric",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Zemmour",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Come i bambini rifugiati al confine con la Siria vedono ciÃÂ² che li circonda",
+            "date_raw": "October 14, 2021",
+            "date": "2021-10-14",
+            "news_url": "https://www.ilpost.it/2021/10/14/sirkhane-darkroom-i-saw-the-air-fly/",
+            "content": null,
+            "ranked": 10,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835294,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "Like refugee children on the border with Syria see what surrounds them",
+            "concepts": [
+                {
+                    "word": "refugee",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "children",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "border",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Syria",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Dieci lezioni sul giornalismo",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/dieci-lezioni-sul-giornalismo-2/",
+            "content": " Un nuovo corso, per capire come cambia il giornalismo e capire meglio il mondo: in diretta streaming, o in differita\t",
+            "ranked": 11,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835303,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "Ten lessons on journalism",
+            "en_content": "A new course, to understand how journalism changes and better understand the world: live streaming, or deferred",
+            "concepts": [
+                {
+                    "word": "lessons",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "journalism",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂeterna questione delle ricariche dÃ¢ÂÂinchiostro nelle stampanti",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/stampanti-ricariche-causa/",
+            "content": " Un uomo di New York ha fatto causa a una nota azienda che lo costringeva a comprare nuove ricariche: molti fanno il tifo per lui\t",
+            "ranked": 12,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835308,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "The eternal issue of ink recharges in printers",
+            "en_content": "A New York man made a well-known company that forced him to buy new top-ups: many are cheering for him",
+            "concepts": [
+                {
+                    "word": "issue",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ink",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "recharges",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "printers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Monty Hall e Covid",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/?blog_post=monty-hall-e-covid",
+            "content": "Una variante del paradosso di Monty Hall che potrebbe essere piÃÂ¹ comprensibile [Continua]",
+            "ranked": 13,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835315,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "Monty Hall and Covid",
+            "en_content": "A variant of the Monty Hall paradox that could be more understandable [continue]",
+            "concepts": [
+                {
+                    "word": "Monty",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hall",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Covid",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "CÃ¢ÂÂera stato un altro incidente con le armi sul set di Baldwin",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/altri-incidenti-armi-set-baldwin/",
+            "content": " Pochi giorni prima di quello che ha portato alla morte di Halyna Hutchins, e con una dinamica piuttosto simile\t",
+            "ranked": 14,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835322,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "There had been another accident with weapons on the Baldwin set",
+            "en_content": "A few days before what led to the death of Halyna Hutchins, and with a rather similar dynamic",
+            "concepts": [
+                {
+                    "word": "accident",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "weapons",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Baldwin",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "set",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "I medici non vogliono piÃÂ¹ lavorare al pronto soccorso",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.ilpost.it/2021/10/23/medici-pronto-soccorso-carenza/",
+            "content": " Gli orari sono estenuanti e affiancare la libera professione ÃÂ¨ difficile: ne mancano duemila, e gli ospedali faticano a coprire i turni\t",
+            "ranked": 15,
+            "placed": "First_Page",
+            "epoch": 1635139808.683533,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "Doctors don't want to work in the emergency room anymore",
+            "en_content": "The times are exhausting and support the free profession is difficult: two thousand are missing, and the hospitals are struggling to cover the shifts",
+            "concepts": [
+                {
+                    "word": "Doctors",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "emergency",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "room",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La logistica in Emilia-Romagna si regge sullo sfruttamento dei lavoratori",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.ilpost.it/2021/10/22/sfruttamento-logistica-emilia-romagna/",
+            "content": " I pacchi consegnati in mezza Italia passano per un sistema di contratti irregolari, licenziamenti improvvisi e cooperative losche\t",
+            "ranked": 16,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835341,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "Logistics in Emilia-Romagna stands on the exploitation of workers",
+            "en_content": "The packages delivered in half Italy pass through a system of irregular contracts, sudden dismissals and Losche cooperatives",
+            "concepts": [
+                {
+                    "word": "Logistics",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Emilia",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Romagna",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "exploitation",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "workers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂalto prezzo dellÃ¢ÂÂenergia mette a rischio un sistema per inquinare meno",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.ilpost.it/2021/10/23/adblue-crisi-energia-yara-ferrara/",
+            "content": " C'ÃÂ¨ una carenza di AdBlue, la sostanza che rende i camion meno inquinanti e senza la quale 1,5 milioni di veicoli non possono circolare\t",
+            "ranked": 17,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835349,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "The high price of energy puts a system to pollute less",
+            "en_content": "There is a shortage of AdBlue, the substance that makes trucks less polluting and without which 1.5 million vehicles cannot circulate",
+            "concepts": [
+                {
+                    "word": "price",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "energy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "system",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "FIFA contro la FIFA",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.ilpost.it/2021/10/23/fifa-ea-sports/",
+            "content": " Il piÃÂ¹ famoso videogioco di calcio potrebbe cambiare nome dopo quasi trent'anni, per una questione di soldi e di convenienza\t",
+            "ranked": 18,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835356,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "FIFA against FIFA",
+            "en_content": "The most famous football video game could change the name after almost thirty years, for a matter of money and convenience",
+            "concepts": [
+                {
+                    "word": "FIFA",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "FIFA",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La rivincita dei QR code",
+            "date_raw": "August 14, 2021",
+            "date": "2021-08-14",
+            "news_url": "https://www.ilpost.it/2021/08/14/qr-ritorno/",
+            "content": " Utilizzati pigramente per anni, per un periodo snobbati e derisi, con la pandemia si sono rivelati utilissimi e probabilmente rimarranno tra noi\t",
+            "ranked": 19,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835363,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "The revenge of the QR Code",
+            "en_content": "Used lazily for years, for a period snubbed and mocked, with the pandemic they turned out to be very useful and will probably remain among us",
+            "concepts": [
+                {
+                    "word": "revenge",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "QR",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Code",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Illazione",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/?blog_post=illazione",
+            "content": "Chi fa unÃ¢ÂÂillazione, piÃÂ¹ che formulare unÃ¢ÂÂipotesi o fare una supposizione, trae piuttosto, da quel ragionamento o argomento, conseguenze ingiustificate, indebite o affrettate [Continua]",
+            "ranked": 20,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835372,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "Inference",
+            "en_content": "Those who make a ulteration, more than formulating a hypothesis or a guess, draws rather, from that reasoning or argument, unjustified consequences, undue or hasty [continue]",
+            "concepts": [
+                {
+                    "word": "Inference",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Il Barbiere di Siviglia alla fine del 2021",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.ilpost.it/2021/10/22/barbiere-di-siviglia-baricco-scala/",
+            "content": " Una sera alla Scala passando da una manifestazione anti Green pass\t",
+            "ranked": 21,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835382,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "The Barber of Seville at the end of 2021",
+            "en_content": "One evening at the ladder passing from an anti green pass man",
+            "concepts": [
+                {
+                    "word": "Barber",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Seville",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "end",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Weekly Beasts",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.ilpost.it/2021/10/23/weekly-beasts-378/",
+            "content": " Cani che viaggiano sui bus e pipistrelli che si vedono di giorno, tra gli animali fotogenici della settimana\t",
+            "ranked": 22,
+            "placed": "First_Page",
+            "epoch": 1635139808.683539,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "Weekly Beasts",
+            "en_content": "Dogs traveling on buses and bats seeing day, among the photogenic animals of the week",
+            "concepts": [
+                {
+                    "word": "Weekly",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Beasts",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "In Romania le terapie intensive sono piene",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.ilpost.it/2021/10/23/romania-covid/",
+            "content": " Il paese sta affrontando la peggiore ondata da coronavirus dall'inizio della pandemia, soprattutto a causa della bassa percentuale di vaccinati\t",
+            "ranked": 23,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835399,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "In Romania intensive therapies are full",
+            "en_content": "The village is facing the worst wave from Coronavirus from the beginning of the pandemic, especially due to the low percentage of vaccinated",
+            "concepts": [
+                {
+                    "word": "Romania",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "therapies",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Lo Ã¢ÂÂStato di dirittoÃ¢ÂÂ che cÃ¢ÂÂÃÂ¨ sempre meno, in Polonia",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.ilpost.it/2021/10/23/stato-di-diritto-unione-europea-giustizia/",
+            "content": " L'erosione del principio secondo cui anche il potere politico deve rispettare le leggi ÃÂ¨ un grosso problema per tutta l'Unione Europea\t",
+            "ranked": 24,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835408,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "The Ã¢ â¬ Ã¢ â¬ ÅThate of law â¬ It is less and less, in Poland",
+            "en_content": "The erosion of the principle according to which the political power must also respect the laws is a big problem throughout the European Union",
+            "concepts": [
+                {
+                    "word": "â¬",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ÅThate",
+                    "meaning": "dobj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "law",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Poland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂimportanza dei riti, e dei ghiri, per la Ã¢ÂÂndrangheta",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.ilpost.it/2021/10/22/ndrangheta-ghiri-riti-tradizioni/",
+            "content": " Le iniziazioni sono seguite da grandi mangiate di roditori, in una delle tante tradizioni bizzarre ma centrali dell'organizzazione\t",
+            "ranked": 25,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835418,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "The importance of rituals, and ghiri, for the Ã¢ â¬ Åndrangheta",
+            "en_content": "The initiations are followed by large eaten by rodents, in one of the many bizarre but powerful traditions of the organization",
+            "concepts": [
+                {
+                    "word": "importance",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rituals",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "ghiri",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Ã¢",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Åndrangheta",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Le conseguenze di Brexit, finora",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.ilpost.it/2021/10/22/impatto-brexit-economia-britannica/",
+            "content": " ÃÂ passato meno di un anno dall'uscita del Regno Unito dall'Unione Europea, e ne abbiamo visto soltanto un piccolo pezzo\t",
+            "ranked": 26,
+            "placed": "First_Page",
+            "epoch": 1635139808.6835427,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T07.30.08E1635139808.683556.json",
+            "en_title": "The consequences of Brexit, so far",
+            "en_content": "It was lost less than a year from the United Kingdom exit from the European Union, and we only saw a small piece",
+            "concepts": [
+                {
+                    "word": "consequences",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Brexit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Sudanâs Military Seizes Power, Casting Democratic Transition Into Chaos",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html",
+            "content": "Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister.",
+            "ranked": 0,
+            "placed": "Abroad",
+            "epoch": 1635235203.4939017,
+            "more_info": {
+                "section": "world",
+                "subsection": "africa",
+                "uri": "nyt://article/75ee97e5-8173-5480-8531-8148f74a243e",
+                "byline": "By Declan Walsh, Abdi Latif Dahir and Simon Marks",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T23:30:38-04:00",
+                "created_date": "2021-10-25T18:42:14-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Coups D'Etat and Attempted Coups D'Etat",
+                    "Demonstrations, Protests and Riots",
+                    "Defense and Military Forces"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "al-Burhan, Abdel Fattah",
+                    "Hamdok, Abdalla",
+                    "Bashir, Omar Hassan Al-"
+                ],
+                "geo_facet": [
+                    "Sudan"
+                ],
+                "short_news_url": "https://nyti.ms/3vLkq4v"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Sudanâs Military Seizes Power, Casting Democratic Transition Into Chaos",
+            "en_content": "Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister.",
+            "concepts": [
+                {
+                    "word": "Sudanâs",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Military",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Seizes",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Power",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Democratic",
+                    "meaning": "amod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Transition",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Chaos",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Whose Promised Land?A Journey Into a Divided Israel",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html",
+            "content": "Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it.",
+            "ranked": 1,
+            "placed": "Abroad",
+            "epoch": 1635235203.4939275,
+            "more_info": {
+                "section": "world",
+                "subsection": "middleeast",
+                "uri": "nyt://article/c4b71ed8-6d2b-5e9a-a7ae-1f982881e4ae",
+                "byline": "",
+                "item_type": "Article",
+                "updated_date": "2021-10-26T01:28:22-04:00",
+                "created_date": "2021-10-25T05:00:34-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Politics and Government",
+                    "Israeli Settlements",
+                    "Palestinians",
+                    "Jews and Judaism",
+                    "Religion-State Relations",
+                    "Race and Ethnicity",
+                    "Anti-Semitism",
+                    "Arabs",
+                    "Kibbutz Movement",
+                    "Discrimination",
+                    "Bedouins",
+                    "Zionism"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Ben-Gurion, David"
+                ],
+                "geo_facet": [
+                    "Bethlehem (West Bank)",
+                    "East Jerusalem",
+                    "Eilat (Israel)",
+                    "Haifa (Israel)",
+                    "Israel",
+                    "Jerusalem (Israel)",
+                    "Middle East",
+                    "Red Sea",
+                    "Sea of Galilee (Israel)",
+                    "Tel Aviv (Israel)"
+                ],
+                "short_news_url": "https://nyti.ms/3jywCAz"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Whose Promised Land?A Journey Into a Divided Israel",
+            "en_content": "Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it.",
+            "concepts": [
+                {
+                    "word": "Land?A",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Journey",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Israel",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "At Last, a Royal Wedding. But No Trumpets, Just a News Conference.",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
+            "content": "The torturous path to marriage for Princess Mako of Japan leads to a registry office in Tokyo and most likely a life abroad.",
+            "ranked": 2,
+            "placed": "Abroad",
+            "epoch": 1635235203.4939451,
+            "more_info": {
+                "section": "world",
+                "subsection": "asia",
+                "uri": "nyt://article/7382d4af-e412-5267-976d-1c013fd2a778",
+                "byline": "By Motoko Rich and Makiko Inoue",
+                "item_type": "Article",
+                "updated_date": "2021-10-26T02:36:14-04:00",
+                "created_date": "2021-10-25T23:13:48-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Royal Families",
+                    "Marriages",
+                    "Women and Girls"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Komuro, Kei",
+                    "Mako, Princess of Japan"
+                ],
+                "geo_facet": [
+                    "Japan"
+                ],
+                "short_news_url": "https://nyti.ms/3jygTRR"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "At Last, a Royal Wedding. But No Trumpets, Just a News Conference.",
+            "en_content": "The torturous path to marriage for Princess Mako of Japan leads to a registry office in Tokyo and most likely a life abroad.",
+            "concepts": [
+                {
+                    "word": "Royal",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Wedding",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Trumpets",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Conference",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Australia Pledges âNet Zeroâ Emissions by 2050. Its Plan Makes That Hard to Believe.",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html",
+            "content": "The countryâs last-minute commitment before next weekâs climate summit is built on hope for new technology, and little else.",
+            "ranked": 3,
+            "placed": "Abroad",
+            "epoch": 1635235203.4939604,
+            "more_info": {
+                "section": "world",
+                "subsection": "australia",
+                "uri": "nyt://article/dd4f2d2a-2c4b-5eba-a208-af4247c8a9ac",
+                "byline": "By Damien Cave",
+                "item_type": "Article",
+                "updated_date": "2021-10-26T03:02:05-04:00",
+                "created_date": "2021-10-26T01:57:30-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Greenhouse Gas Emissions",
+                    "Politics and Government",
+                    "Global Warming"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Morrison, Scott (1968- )"
+                ],
+                "geo_facet": [
+                    "Australia"
+                ],
+                "short_news_url": "https://nyti.ms/3E7UkLU"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Australia Pledges âNet Zeroâ Emissions by 2050. Its Plan Makes That Hard to Believe.",
+            "en_content": "The countryâs last-minute commitment before next weekâs climate summit is built on hope for new technology, and little else.",
+            "concepts": [
+                {
+                    "word": "Australia",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Pledges",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "âNet",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Zeroâ",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Emissions",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Plan",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Roh Tae-Woo, South Korean Leader as It Moved Toward Democracy, Dies at 88",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dead.html",
+            "content": "Mr. Roh, who played a role in a bloody crackdown on pro-democracy protesters in 1980 but also oversaw its winning 1988 Olympics bid, left a mixed legacy and was mired in legal trouble in his later years.",
+            "ranked": 4,
+            "placed": "Abroad",
+            "epoch": 1635235203.4939744,
+            "more_info": {
+                "section": "world",
+                "subsection": "asia",
+                "uri": "nyt://article/38b2bee0-f354-5dbe-a20a-b6031ae8b2bd",
+                "byline": "By Choe Sang-Hun",
+                "item_type": "Article",
+                "updated_date": "2021-10-26T03:02:30-04:00",
+                "created_date": "2021-10-26T02:16:33-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Deaths (Obituaries)",
+                    "Olympic Games (1988)",
+                    "Human Rights and Human Rights Violations",
+                    "Corruption (Institutional)",
+                    "Police Brutality, Misconduct and Shootings",
+                    "Cold War Era"
+                ],
+                "org_facet": [
+                    "Seoul National University"
+                ],
+                "per_facet": [
+                    "Roh Tae-woo"
+                ],
+                "geo_facet": [
+                    "Daegu (South Korea)",
+                    "South Korea"
+                ],
+                "short_news_url": "https://nyti.ms/3bcg4K0"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Roh Tae-Woo, South Korean Leader as It Moved Toward Democracy, Dies at 88",
+            "en_content": "Mr. Roh, who played a role in a bloody crackdown on pro-democracy protesters in 1980 but also oversaw its winning 1988 Olympics bid, left a mixed legacy and was mired in legal trouble in his later years.",
+            "concepts": [
+                {
+                    "word": "Roh",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Tae",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Woo",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Leader",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Toward",
+                    "meaning": "prep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Democracy",
+                    "meaning": "pobj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html",
+            "content": "The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015.",
+            "ranked": 5,
+            "placed": "Abroad",
+            "epoch": 1635235203.4939888,
+            "more_info": {
+                "section": "world",
+                "subsection": "europe",
+                "uri": "nyt://article/6c366097-d23a-5198-88ee-16b1e0339488",
+                "byline": "By Melissa Eddy",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T23:42:43-04:00",
+                "created_date": "2021-10-25T12:42:28-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Yazidi (Religious Sect)",
+                    "Terrorism",
+                    "War Crimes, Genocide and Crimes Against Humanity",
+                    "Women and Girls",
+                    "Muslims and Islam"
+                ],
+                "org_facet": [
+                    "Islamic State in Iraq and Syria (ISIS)"
+                ],
+                "per_facet": [
+                    "Clooney, Amal"
+                ],
+                "geo_facet": [
+                    "Germany",
+                    "Falluja (Iraq)"
+                ],
+                "short_news_url": "https://nyti.ms/2Zkl39n"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child",
+            "en_content": "The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015.",
+            "concepts": [
+                {
+                    "word": "Woman",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Crime",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Humanity",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Death",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Yazidi",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Child",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Egyptâs Leader Ends State of Emergency, Says Itâs No Longer Needed",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html",
+            "content": "The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change.",
+            "ranked": 6,
+            "placed": "Abroad",
+            "epoch": 1635235203.494002,
+            "more_info": {
+                "section": "world",
+                "subsection": "middleeast",
+                "uri": "nyt://article/2e57579a-011f-50be-914c-1bfdf2f143b7",
+                "byline": "By Vivian Yee",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T23:39:42-04:00",
+                "created_date": "2021-10-25T18:17:15-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Human Rights and Human Rights Violations",
+                    "Politics and Government",
+                    "Political Prisoners",
+                    "Foreign Aid"
+                ],
+                "org_facet": [
+                    "Egyptian Initiative for Personal Rights"
+                ],
+                "per_facet": [
+                    "Bahgat, Hossam",
+                    "Sisi, Abdel Fattah el-"
+                ],
+                "geo_facet": [
+                    "Egypt"
+                ],
+                "short_news_url": "https://nyti.ms/3EfPts5"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Egyptâs Leader Ends State of Emergency, Says Itâs No Longer Needed",
+            "en_content": "The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change.",
+            "concepts": [
+                {
+                    "word": "Egyptâs",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Leader",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "State",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Emergency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Itâs",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html",
+            "content": "Ãric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations.",
+            "ranked": 7,
+            "placed": "Abroad",
+            "epoch": 1635235203.4940155,
+            "more_info": {
+                "section": "world",
+                "subsection": "europe",
+                "uri": "nyt://article/0e618078-6b24-5607-a062-b3c29c469a6f",
+                "byline": "By Roger Cohen",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T23:42:09-04:00",
+                "created_date": "2021-10-25T12:01:10-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Jews and Judaism",
+                    "Politics and Government",
+                    "Anti-Semitism",
+                    "Discrimination",
+                    "Terrorism",
+                    "World War II (1939-45)",
+                    "Holocaust and the Nazi Era"
+                ],
+                "org_facet": [
+                    "National Front (France)",
+                    "National Rally (France)"
+                ],
+                "per_facet": [
+                    "Levy, Bernard-Henri",
+                    "Petain, Philippe",
+                    "Le Pen, Jean-Marie",
+                    "Le Pen, Marine",
+                    "Zemmour, Eric"
+                ],
+                "geo_facet": [
+                    "France"
+                ],
+                "short_news_url": "https://nyti.ms/3EbyQh6"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises",
+            "en_content": "Ãric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations.",
+            "concepts": [
+                {
+                    "word": "Right",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Pundit",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Splits",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Community",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/article/hong-kong-security-law-speech.html",
+            "content": "An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law.",
+            "ranked": 8,
+            "placed": "Abroad",
+            "epoch": 1635235203.4940286,
+            "more_info": {
+                "section": "world",
+                "subsection": "asia",
+                "uri": "nyt://article/f4a19b68-50dd-5bc7-926d-a808d9559d9d",
+                "byline": "By Austin Ramzy",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T23:37:28-04:00",
+                "created_date": "2021-10-25T04:16:45-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Hong Kong Protests (2019)",
+                    "Secession and Independence Movements",
+                    "Demonstrations, Protests and Riots",
+                    "Treason and Sedition"
+                ],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [
+                    "Hong Kong",
+                    "China"
+                ],
+                "short_news_url": "https://nyti.ms/3mblc7n"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech",
+            "en_content": "An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law.",
+            "concepts": [
+                {
+                    "word": "New",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Conviction",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Hong",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kong",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Security",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Law",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Clamp",
+                    "meaning": "xcomp",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Speech",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Turkish President Steps Back From Expulsions of 10 Western Diplomats",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html",
+            "content": "The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization.",
+            "ranked": 9,
+            "placed": "Abroad",
+            "epoch": 1635235203.4940426,
+            "more_info": {
+                "section": "world",
+                "subsection": "europe",
+                "uri": "nyt://article/6a9b23df-de74-5f86-bbb9-0a683a25a8fe",
+                "byline": "By Carlotta Gall",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T23:37:53-04:00",
+                "created_date": "2021-10-25T13:24:22-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Politics and Government"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Biden, Joseph R Jr",
+                    "Erdogan, Recep Tayyip",
+                    "Kavala, Osman"
+                ],
+                "geo_facet": [
+                    "Turkey"
+                ],
+                "short_news_url": "https://nyti.ms/3nqAIMc"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Turkish President Steps Back From Expulsions of 10 Western Diplomats",
+            "en_content": "The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization.",
+            "concepts": [
+                {
+                    "word": "President",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Expulsions",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Diplomats",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Child Who Survived Gondola Crash Should Live in Italy, Israel Court Rules",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html",
+            "content": "Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv.",
+            "ranked": 10,
+            "placed": "Abroad",
+            "epoch": 1635235203.4940565,
+            "more_info": {
+                "section": "world",
+                "subsection": "middleeast",
+                "uri": "nyt://article/f99e639c-e567-552d-9cdf-67a71860d29b",
+                "byline": "By Ronen Bergman",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T20:08:07-04:00",
+                "created_date": "2021-10-25T19:57:09-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Decisions and Verdicts",
+                    "Cable Cars and Trams",
+                    "Deaths (Fatalities)",
+                    "Child Custody and Support"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Biran, Eitan"
+                ],
+                "geo_facet": [
+                    "Israel",
+                    "Italy",
+                    "Pavia (Italy)"
+                ],
+                "short_news_url": "https://nyti.ms/3Eh0WaY"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Child Who Survived Gondola Crash Should Live in Italy, Israel Court Rules",
+            "en_content": "Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv.",
+            "concepts": [
+                {
+                    "word": "Child",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Gondola",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Crash",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Israel",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Court",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rules",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "An Italian Politicianâs Quest for Attention Gets a Boost From Richard Gere",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html",
+            "content": "The actor may testify against Matteo Salvini, Italyâs former interior minister, in a case involving the treatment of migrants.",
+            "ranked": 11,
+            "placed": "Abroad",
+            "epoch": 1635235203.4940698,
+            "more_info": {
+                "section": "world",
+                "subsection": "europe",
+                "uri": "nyt://article/06d8c1d4-0c2f-57fd-9fcb-241170289697",
+                "byline": "By Emma Bubola",
+                "item_type": "Article",
+                "updated_date": "2021-10-26T03:22:22-04:00",
+                "created_date": "2021-10-25T15:07:02-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Immigration and Emigration",
+                    "Nationalism (Theory and Philosophy)"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Salvini, Matteo",
+                    "Gere, Richard",
+                    "Draghi, Mario"
+                ],
+                "geo_facet": [
+                    "Italy",
+                    "Europe"
+                ],
+                "short_news_url": "https://nyti.ms/2ZrMu0U"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "An Italian Politicianâs Quest for Attention Gets a Boost From Richard Gere",
+            "en_content": "The actor may testify against Matteo Salvini, Italyâs former interior minister, in a case involving the treatment of migrants.",
+            "concepts": [
+                {
+                    "word": "Politicianâs",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Quest",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Attention",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Boost",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Richard",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gere",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html",
+            "content": "The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world.",
+            "ranked": 12,
+            "placed": "Abroad",
+            "epoch": 1635235203.4940836,
+            "more_info": {
+                "section": "us",
+                "subsection": "politics",
+                "uri": "nyt://article/f299e661-7701-5621-bcda-9e5869127433",
+                "byline": "By David E. Sanger",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T09:38:06-04:00",
+                "created_date": "2021-10-25T03:00:09-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Cyberwarfare and Defense",
+                    "Espionage and Intelligence Services",
+                    "Embargoes and Sanctions",
+                    "United States International Relations",
+                    "United States Politics and Government",
+                    "US Federal Government Data Breach (2020)"
+                ],
+                "org_facet": [
+                    "Foreign Intelligence Service (Russia)",
+                    "Microsoft Corp",
+                    "SolarWinds"
+                ],
+                "per_facet": [
+                    "Biden, Joseph R Jr"
+                ],
+                "geo_facet": [
+                    "Russia"
+                ],
+                "short_news_url": "https://nyti.ms/3B9GuH2"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation",
+            "en_content": "The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world.",
+            "concepts": [
+                {
+                    "word": "Sanctions",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Russia",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Renews",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Broad",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cybersurveillance",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Operation",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Who is Abdalla Hamdok, the Sudanese prime minister detained in a military coup?",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html",
+            "content": "Sudanâs  prime minister spent much of his career at international institutions before joining his countryâs government. Now he has been forced out.",
+            "ranked": 13,
+            "placed": "Abroad",
+            "epoch": 1635235203.4940975,
+            "more_info": {
+                "section": "world",
+                "subsection": "africa",
+                "uri": "nyt://article/8e8f0598-5afa-56d3-9d9a-165954869b10",
+                "byline": "By Isabella Kwai",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T20:56:00-04:00",
+                "created_date": "2021-10-25T13:56:30-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Coups D'Etat and Attempted Coups D'Etat"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Hamdok, Abdalla"
+                ],
+                "geo_facet": [
+                    "Sudan"
+                ],
+                "short_news_url": "https://nyti.ms/3pw0od4"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Who is Abdalla Hamdok, the Sudanese prime minister detained in a military coup?",
+            "en_content": "Sudanâs  prime minister spent much of his career at international institutions before joining his countryâs government. Now he has been forced out.",
+            "concepts": [
+                {
+                    "word": "Abdalla",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hamdok",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "minister",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "coup",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "How to Map a Fly Brain in 20 Million Easy Steps",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html",
+            "content": "An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, scientists say.",
+            "ranked": 14,
+            "placed": "Abroad",
+            "epoch": 1635235203.494111,
+            "more_info": {
+                "section": "science",
+                "subsection": "",
+                "uri": "nyt://article/5c544de1-d16d-5fa7-aefb-957d143ed0be",
+                "byline": "By Emily Anthes",
+                "item_type": "Article",
+                "updated_date": "2021-10-26T03:00:13-04:00",
+                "created_date": "2021-10-26T03:00:13-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "your-feed-science",
+                    "Animal Cognition",
+                    "Animal Behavior",
+                    "Brain",
+                    "Computers and the Internet",
+                    "your-feed-health",
+                    "your-feed-animals"
+                ],
+                "org_facet": [
+                    "eLife (Journal)",
+                    "Janelia Farm Research Campus (Howard Hughes Medical Institute)"
+                ],
+                "per_facet": [
+                    "Bargmann, Cornelia I",
+                    "Jayaraman, Vivek (1971- )"
+                ],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3vL2fMa"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "How to Map a Fly Brain in 20 Million Easy Steps",
+            "en_content": "An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, scientists say.",
+            "concepts": [
+                {
+                    "word": "Fly",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Brain",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Easy",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Steps",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "As Gangsâ Power Grows, Haitiâs Police Are Outgunned and Underpaid",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html",
+            "content": "The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents.",
+            "ranked": 15,
+            "placed": "Abroad",
+            "epoch": 1635235203.494124,
+            "more_info": {
+                "section": "world",
+                "subsection": "americas",
+                "uri": "nyt://article/ee4f42f9-0925-5a7b-829f-51734bbdd284",
+                "byline": "By Maria Abi-Habib",
+                "item_type": "Article",
+                "updated_date": "2021-10-26T03:02:33-04:00",
+                "created_date": "2021-10-26T03:00:12-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Gangs",
+                    "Politics and Government",
+                    "Police"
+                ],
+                "org_facet": [
+                    "400 Mawozo (Gang)",
+                    "Christian Aid Ministries"
+                ],
+                "per_facet": [
+                    "Moise, Jovenel (1968- )"
+                ],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3BgyQL0"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "As Gangsâ Power Grows, Haitiâs Police Are Outgunned and Underpaid",
+            "en_content": "The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents.",
+            "concepts": [
+                {
+                    "word": "Gangsâ",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Power",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Haitiâs",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Police",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Underpaid",
+                    "meaning": "conj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Your Tuesday Briefing",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html",
+            "content": "The military seizes power in Sudan.",
+            "ranked": 16,
+            "placed": "Abroad",
+            "epoch": 1635235203.494137,
+            "more_info": {
+                "section": "briefing",
+                "subsection": "",
+                "uri": "nyt://article/d2b6a453-4af5-57d0-b51f-f0f512bb748b",
+                "byline": "By Natasha Frost",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T23:23:38-04:00",
+                "created_date": "2021-10-25T22:46:36-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3Edq428"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Your Tuesday Briefing",
+            "en_content": "The military seizes power in Sudan.",
+            "concepts": [
+                {
+                    "word": "Tuesday",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Briefing",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Your Tuesday Briefing",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html",
+            "content": "Sudanâs military seizes power.",
+            "ranked": 17,
+            "placed": "Abroad",
+            "epoch": 1635235203.4941506,
+            "more_info": {
+                "section": "briefing",
+                "subsection": "",
+                "uri": "nyt://article/7daaf153-b7b5-5054-9d4a-575b8fa3f45d",
+                "byline": "By Melina Delkic",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T20:55:50-04:00",
+                "created_date": "2021-10-25T16:38:30-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3vI5i7V"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Your Tuesday Briefing",
+            "en_content": "Sudanâs military seizes power.",
+            "concepts": [
+                {
+                    "word": "Tuesday",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Briefing",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "The U.S. cut off aid to the Sudanese government after the coup.",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html",
+            "content": "The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid.",
+            "ranked": 18,
+            "placed": "Abroad",
+            "epoch": 1635235203.494164,
+            "more_info": {
+                "section": "world",
+                "subsection": "africa",
+                "uri": "nyt://article/e232c05d-a7e3-59b9-b81e-3b5454e49c8d",
+                "byline": "By Lara Jakes",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T20:55:33-04:00",
+                "created_date": "2021-10-25T16:01:22-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Coups D'Etat and Attempted Coups D'Etat",
+                    "United States International Relations",
+                    "Embargoes and Sanctions"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Hamdok, Abdalla"
+                ],
+                "geo_facet": [
+                    "Sudan"
+                ],
+                "short_news_url": "https://nyti.ms/3BeUoaA"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "The U.S. cut off aid to the Sudanese government after the coup.",
+            "en_content": "The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid.",
+            "concepts": [
+                {
+                    "word": "U.S.",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "aid",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "coup",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "The Rich Worldâs Promise of $100 Billion in Climate Aid Inches Forward",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html",
+            "content": "Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks.",
+            "ranked": 19,
+            "placed": "Abroad",
+            "epoch": 1635235203.4941769,
+            "more_info": {
+                "section": "climate",
+                "subsection": "",
+                "uri": "nyt://article/b7266015-48c8-59b9-9430-798f147a96d6",
+                "byline": "By Somini Sengupta",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T23:40:06-04:00",
+                "created_date": "2021-10-25T13:33:26-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Global Warming",
+                    "Greenhouse Gas Emissions",
+                    "Foreign Aid",
+                    "Third World and Developing Countries",
+                    "United Nations Framework Convention on Climate Change"
+                ],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [
+                    "Glasgow (Scotland)"
+                ],
+                "short_news_url": "https://nyti.ms/3Glgzjm"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "The Rich Worldâs Promise of $100 Billion in Climate Aid Inches Forward",
+            "en_content": "Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks.",
+            "concepts": [
+                {
+                    "word": "Rich",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Worldâs",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Promise",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Climate",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Aid",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Inches",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Forward",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Behold, the Worm Blob and Its Computerized Twin",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/science/worm-blobs.html",
+            "content": "It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear.",
+            "ranked": 20,
+            "placed": "Abroad",
+            "epoch": 1635235203.4941893,
+            "more_info": {
+                "section": "science",
+                "subsection": "",
+                "uri": "nyt://article/1d653f0b-f774-527a-b567-61354fb13e02",
+                "byline": "By Sabrina Imbler",
+                "item_type": "Article",
+                "updated_date": "2021-10-26T00:29:02-04:00",
+                "created_date": "2021-10-25T10:05:49-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "your-feed-science",
+                    "Worms",
+                    "Physics",
+                    "your-feed-animals"
+                ],
+                "org_facet": [
+                    "Georgia Institute of Technology",
+                    "Proceedings of the National Academy of Sciences",
+                    "Santa Fe Institute",
+                    "University of Colorado"
+                ],
+                "per_facet": [
+                    "Peleg, Orit"
+                ],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3b5L6TS"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Behold, the Worm Blob and Its Computerized Twin",
+            "en_content": "It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear.",
+            "concepts": [
+                {
+                    "word": "Behold",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Worm",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Blob",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Computerized",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Twin",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Tensions between Sudanâs military and politicians grew in the past few months.",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html",
+            "content": "Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power.",
+            "ranked": 21,
+            "placed": "Abroad",
+            "epoch": 1635235203.4942024,
+            "more_info": {
+                "section": "world",
+                "subsection": "africa",
+                "uri": "nyt://article/b909e747-5590-5235-ba28-e8968f63ac8b",
+                "byline": "By Simon Marks",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T16:16:34-04:00",
+                "created_date": "2021-10-25T07:01:10-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Coups D'Etat and Attempted Coups D'Etat",
+                    "Politics and Government"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Hamdok, Abdalla"
+                ],
+                "geo_facet": [
+                    "Khartoum (Sudan)",
+                    "Sudan"
+                ],
+                "short_news_url": "https://nyti.ms/3EfqdlA"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Tensions between Sudanâs military and politicians grew in the past few months.",
+            "en_content": "Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power.",
+            "concepts": [
+                {
+                    "word": "Tensions",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Sudanâs",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "military",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "politicians",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "months",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Picking Their Fights",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html",
+            "content": "Creating temporary government programs could have big political benefits for Democrats.",
+            "ranked": 22,
+            "placed": "Abroad",
+            "epoch": 1635235203.4942155,
+            "more_info": {
+                "section": "briefing",
+                "subsection": "",
+                "uri": "nyt://article/577f7caf-9b8d-5fe1-a350-e7dd71f0a00c",
+                "byline": "By David Leonhardt",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T06:44:23-04:00",
+                "created_date": "2021-10-25T06:44:23-04:00",
+                "material_type_facet": "",
+                "kicker": "The Morning Newsletter",
+                "des_facet": [],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3jBzMDB"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Picking Their Fights",
+            "en_content": "Creating temporary government programs could have big political benefits for Democrats.",
+            "concepts": [
+                {
+                    "word": "Fights",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Troops opened fire on pro-democracy protesters who flooded the streets, with at least two reported killed.",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/world/africa/pro-democracy-protesters-flood-the-streets-of-sudans-capital.html",
+            "content": "Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters.",
+            "ranked": 23,
+            "placed": "Abroad",
+            "epoch": 1635235203.4942281,
+            "more_info": {
+                "section": "world",
+                "subsection": "africa",
+                "uri": "nyt://article/b4d7483a-f7c9-50ab-9324-a72a9cd4219c",
+                "byline": "By Abdi Latif Dahir",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T16:51:49-04:00",
+                "created_date": "2021-10-25T06:37:43-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Demonstrations, Protests and Riots",
+                    "Coups D'Etat and Attempted Coups D'Etat",
+                    "Defense and Military Forces",
+                    "Deaths (Fatalities)"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "al-Burhan, Abdel Fattah"
+                ],
+                "geo_facet": [
+                    "Khartoum (Sudan)",
+                    "Sudan"
+                ],
+                "short_news_url": "https://nyti.ms/3pxeYkw"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Troops opened fire on pro-democracy protesters who flooded the streets, with at least two reported killed.",
+            "en_content": "Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters.",
+            "concepts": [
+                {
+                    "word": "Troops",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "fire",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "protesters",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "streets",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "The World âHas Found a Way to Do Thisâ: The U.S. Lags on Paid Leave",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html",
+            "content": "The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier.",
+            "ranked": 24,
+            "placed": "Abroad",
+            "epoch": 1635235203.4942415,
+            "more_info": {
+                "section": "upshot",
+                "subsection": "",
+                "uri": "nyt://article/940d7502-befe-5002-9cab-f2be46b85c87",
+                "byline": "By Claire Cain Miller",
+                "item_type": "Article",
+                "updated_date": "2021-10-26T00:19:32-04:00",
+                "created_date": "2021-10-25T05:00:14-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Family Leaves",
+                    "Paid Time Off",
+                    "Women and Girls",
+                    "United States Politics and Government",
+                    "Parenting",
+                    "Disability Insurance",
+                    "Law and Legislation"
+                ],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/30XORci"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "The World âHas Found a Way to Do Thisâ: The U.S. Lags on Paid Leave",
+            "en_content": "The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier.",
+            "concepts": [
+                {
+                    "word": "World",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Way",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Thisâ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "U.S.",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lags",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Paid",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Leave",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Inside the Thai Temple Where Tattoos Come to Life",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html",
+            "content": "Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers.",
+            "ranked": 25,
+            "placed": "Abroad",
+            "epoch": 1635235203.4942544,
+            "more_info": {
+                "section": "travel",
+                "subsection": "",
+                "uri": "nyt://article/35126f81-7721-56c5-9124-fe25ca6eaf83",
+                "byline": "By Francesco Lastrucci",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T12:46:53-04:00",
+                "created_date": "2021-10-25T05:00:13-04:00",
+                "material_type_facet": "",
+                "kicker": "The World Through a Lens",
+                "des_facet": [
+                    "Tattoos",
+                    "Monasteries and Monks",
+                    "Travel and Vacations",
+                    "Buddhism"
+                ],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [
+                    "Thailand",
+                    "Southeast Asia"
+                ],
+                "short_news_url": "https://nyti.ms/3jBbaLd"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Inside the Thai Temple Where Tattoos Come to Life",
+            "en_content": "Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers.",
+            "concepts": [
+                {
+                    "word": "Thai",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Temple",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Tattoos",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Life",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Your Monday Briefing",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html",
+            "content": "A failed playbook in Somalia.",
+            "ranked": 26,
+            "placed": "Abroad",
+            "epoch": 1635235203.4942672,
+            "more_info": {
+                "section": "briefing",
+                "subsection": "",
+                "uri": "nyt://article/2cba77de-4aa8-554c-aba9-67fb9402480b",
+                "byline": "By Natasha Frost and Lynsey Chutel",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T00:44:28-04:00",
+                "created_date": "2021-10-24T22:46:57-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/2ZkQ7FD"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Your Monday Briefing",
+            "en_content": "A failed playbook in Somalia.",
+            "concepts": [
+                {
+                    "word": "Monday",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Briefing",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Your Monday Briefing",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html",
+            "content": "Facebook spreads misinformation in India.",
+            "ranked": 27,
+            "placed": "Abroad",
+            "epoch": 1635235203.4942799,
+            "more_info": {
+                "section": "briefing",
+                "subsection": "",
+                "uri": "nyt://article/7fff97d2-c05f-58ce-bf14-89c7f2d7954e",
+                "byline": "By Amelia Nierenberg",
+                "item_type": "Article",
+                "updated_date": "2021-10-24T17:04:28-04:00",
+                "created_date": "2021-10-24T17:04:28-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3m7uS2Y"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Your Monday Briefing",
+            "en_content": "Facebook spreads misinformation in India.",
+            "concepts": [
+                {
+                    "word": "Monday",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Briefing",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "The singer Ed Sheeran announces he has tested positive for the coronavirus.",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html",
+            "content": "Mr. Sheeran said he would cancel upcoming public appearances while he is âself-isolating and following government guidelines.â",
+            "ranked": 28,
+            "placed": "Abroad",
+            "epoch": 1635235203.494293,
+            "more_info": {
+                "section": "arts",
+                "subsection": "music",
+                "uri": "nyt://article/ecf13659-fdc7-5d87-9961-7100a394be2a",
+                "byline": "By Traci Carl",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T18:15:41-04:00",
+                "created_date": "2021-10-24T16:32:00-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Coronavirus (2019-nCoV)",
+                    "Grammy Awards"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Sheeran, Ed"
+                ],
+                "geo_facet": [],
+                "short_news_url": "https://nyti.ms/3CeIr6k"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "The singer Ed Sheeran announces he has tested positive for the coronavirus.",
+            "en_content": "Mr. Sheeran said he would cancel upcoming public appearances while he is âself-isolating and following government guidelines.â",
+            "concepts": [
+                {
+                    "word": "singer",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Ed",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Sheeran",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "coronavirus",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Kenyan Olympianâs Killing Exposes Surge of Violence Against Women",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html",
+            "content": "Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested.",
+            "ranked": 29,
+            "placed": "Abroad",
+            "epoch": 1635235203.4943066,
+            "more_info": {
+                "section": "world",
+                "subsection": "africa",
+                "uri": "nyt://article/ca31393a-997f-5493-be2f-7412bfabb028",
+                "byline": "By Abdi Latif Dahir",
+                "item_type": "Article",
+                "updated_date": "2021-10-24T23:41:28-04:00",
+                "created_date": "2021-10-24T13:12:35-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Running",
+                    "Domestic Violence",
+                    "Murders, Attempted Murders and Homicides"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Tirop, Agnes Jebet (1995-2001)"
+                ],
+                "geo_facet": [
+                    "Kenya",
+                    "Nairobi (Kenya)"
+                ],
+                "short_news_url": "https://nyti.ms/2ZhDUkK"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Kenyan Olympianâs Killing Exposes Surge of Violence Against Women",
+            "en_content": "Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested.",
+            "concepts": [
+                {
+                    "word": "Olympianâs",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Exposes",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Surge",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Women",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Cases grow in Germany, as a national state of emergency is set to expire next month.",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.nytimes.com/2021/10/24/world/germany-covid-surge.html",
+            "content": "Infections have increased by 57 percent in the past two weeks, while deaths on average in the same period have increased by 11 percent.",
+            "ranked": 30,
+            "placed": "Abroad",
+            "epoch": 1635235203.4943194,
+            "more_info": {
+                "section": "world",
+                "subsection": "",
+                "uri": "nyt://article/354f1bb1-013e-5449-bb41-a09198573cfb",
+                "byline": "By Isabella Kwai",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T08:07:57-04:00",
+                "created_date": "2021-10-24T11:00:05-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Coronavirus (2019-nCoV)",
+                    "Vaccination Proof and Immunization Records"
+                ],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [
+                    "Germany"
+                ],
+                "short_news_url": "https://nyti.ms/3jxw9OV"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Cases grow in Germany, as a national state of emergency is set to expire next month.",
+            "en_content": "Infections have increased by 57 percent in the past two weeks, while deaths on average in the same period have increased by 11 percent.",
+            "concepts": [
+                {
+                    "word": "Cases",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "state",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "emergency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "month",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "The U.S. and Israel were early world leaders on vaccinations. Now they are trailing.",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.nytimes.com/2021/10/24/world/united-states-israel-vaccination-rates.html",
+            "content": "The big barrier to higher rates in both countries is stiff resistance among specific groups.",
+            "ranked": 31,
+            "placed": "Abroad",
+            "epoch": 1635235203.4943323,
+            "more_info": {
+                "section": "world",
+                "subsection": "",
+                "uri": "nyt://article/1af1da16-f3de-595e-8b22-f9c12e78a8f5",
+                "byline": "By Azi Paybarah, Vimal Patel and Andrea Kannapell",
+                "item_type": "Article",
+                "updated_date": "2021-10-24T14:12:59-04:00",
+                "created_date": "2021-10-24T09:59:51-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Vaccination and Immunization",
+                    "Coronavirus (2019-nCoV)"
+                ],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [
+                    "United States",
+                    "Israel"
+                ],
+                "short_news_url": "https://nyti.ms/3b80wXU"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "The U.S. and Israel were early world leaders on vaccinations. Now they are trailing.",
+            "en_content": "The big barrier to higher rates in both countries is stiff resistance among specific groups.",
+            "concepts": [
+                {
+                    "word": "U.S.",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Israel",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "world",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "leaders",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "vaccinations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html",
+            "content": "The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years.",
+            "ranked": 32,
+            "placed": "Abroad",
+            "epoch": 1635235203.4943454,
+            "more_info": {
+                "section": "world",
+                "subsection": "africa",
+                "uri": "nyt://article/3ec8ed23-f94a-5056-989c-b13aed080b3a",
+                "byline": "By Declan Walsh, Eric Schmitt, Julian E. Barnes and Tyler Hicks",
+                "item_type": "Article",
+                "updated_date": "2021-10-25T06:30:19-04:00",
+                "created_date": "2021-10-24T05:00:23-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "United States Defense and Military Forces",
+                    "Mercenaries and Private Military Contractors",
+                    "Terrorism",
+                    "Civilian Casualties"
+                ],
+                "org_facet": [
+                    "Shabab",
+                    "Central Intelligence Agency",
+                    "Bancroft Global Development",
+                    "Navy Seals",
+                    "United States Special Operations Command"
+                ],
+                "per_facet": [
+                    "Goodboe, Michael (1966-2020)",
+                    "Biden, Joseph R Jr",
+                    "Mohamed, Abdullahi Osman"
+                ],
+                "geo_facet": [
+                    "Somalia",
+                    "Mogadishu (Somalia)"
+                ],
+                "short_news_url": "https://nyti.ms/3npsu7a"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War",
+            "en_content": "The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years.",
+            "concepts": [
+                {
+                    "word": "C.I.A.",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Fighter",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Somali",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bomb",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Maker",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Faltering",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Shadow",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "War",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Heavy Is the Burden on Japanâs Royal Women",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html",
+            "content": "A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles.",
+            "ranked": 33,
+            "placed": "Abroad",
+            "epoch": 1635235203.4943583,
+            "more_info": {
+                "section": "world",
+                "subsection": "asia",
+                "uri": "nyt://article/d2202b0d-aeee-5fa9-9185-f855a891990b",
+                "byline": "By Motoko Rich and Hikari Hida",
+                "item_type": "Article",
+                "updated_date": "2021-10-26T00:11:53-04:00",
+                "created_date": "2021-10-24T05:00:20-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Women and Girls",
+                    "Royal Families",
+                    "Mental Health and Disorders",
+                    "Depression (Mental)"
+                ],
+                "org_facet": [],
+                "per_facet": [
+                    "Mako, Princess of Japan",
+                    "Komuro, Kei",
+                    "Masako, Empress of Japan",
+                    "Michiko, Empress of Japan"
+                ],
+                "geo_facet": [
+                    "Japan"
+                ],
+                "short_news_url": "https://nyti.ms/3nhVu0w"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "Heavy Is the Burden on Japanâs Royal Women",
+            "en_content": "A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles.",
+            "concepts": [
+                {
+                    "word": "Heavy",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Burden",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Royal",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Women",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "A World-Class World Expo",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.nytimes.com/2021/10/24/world/world-expo-dubai.html",
+            "content": "The event in Dubai dazzles with extraordinary architectural achievements and a focus on the future of the planet.",
+            "ranked": 34,
+            "placed": "Abroad",
+            "epoch": 1635235203.4943714,
+            "more_info": {
+                "section": "world",
+                "subsection": "",
+                "uri": "nyt://article/ffeab596-23b7-5d5b-b07d-e323c7c9a89f",
+                "byline": "By Sam Lubell",
+                "item_type": "Article",
+                "updated_date": "2021-10-24T11:31:45-04:00",
+                "created_date": "2021-10-24T05:00:20-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "World's Fairs",
+                    "Conventions, Fairs and Trade Shows",
+                    "Sustainable Living",
+                    "Alternative and Renewable Energy"
+                ],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [
+                    "Dubai (United Arab Emirates)"
+                ],
+                "short_news_url": "https://nyti.ms/3jswEK3"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "A World-Class World Expo",
+            "en_content": "The event in Dubai dazzles with extraordinary architectural achievements and a focus on the future of the planet.",
+            "concepts": [
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Class",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Expo",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "At the World Expo Pavilions, Future Visions Combine Past and Present",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html",
+            "content": "Conversations with three figures integral to the conception of the expo.",
+            "ranked": 35,
+            "placed": "Abroad",
+            "epoch": 1635235203.494384,
+            "more_info": {
+                "section": "world",
+                "subsection": "",
+                "uri": "nyt://article/666bbb0c-b345-5e5d-95e9-28d1d225f8ef",
+                "byline": "By Shivani Vora",
+                "item_type": "Article",
+                "updated_date": "2021-10-24T11:38:37-04:00",
+                "created_date": "2021-10-24T05:00:19-04:00",
+                "material_type_facet": "",
+                "kicker": "",
+                "des_facet": [
+                    "Conventions, Fairs and Trade Shows",
+                    "World's Fairs",
+                    "Sustainable Living",
+                    "Architecture",
+                    "Innovation"
+                ],
+                "org_facet": [],
+                "per_facet": [],
+                "geo_facet": [
+                    "Dubai (United Arab Emirates)"
+                ],
+                "short_news_url": "https://nyti.ms/2ZjlxN0"
+            },
+            "language": "en",
+            "source": "NYT",
+            "filename": "conc_en_2021-10-26T10.00.03E1635235203.4943984.json",
+            "en_title": "At the World Expo Pavilions, Future Visions Combine Past and Present",
+            "en_content": "Conversations with three figures integral to the conception of the expo.",
+            "concepts": [
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Expo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Pavilions",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Future",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Visions",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Past",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Present",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        }
+    ]
+}

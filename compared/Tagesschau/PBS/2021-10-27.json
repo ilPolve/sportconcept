@@ -1,0 +1,762 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Ampel-Parteien wollen Corona-Notstand im November auslaufen lassen",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1635368418.446181,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Traffic light parties want to leak Corona emergency in November",
+            "concepts": [
+                {
+                    "word": "Traffic",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "light",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "parties",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "emergency",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "November",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " MÃÂ¶gliche Ampel-KoalitionÃÂ¤re werben auf Kongress der Industriegewerkschaft IG BCE fÃÂ¼r ihre Klimapolitik",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1635368418.446211,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Possible traffic light coalitions advertise on Congress of industrial union IG BCE for your climate policy",
+            "concepts": [
+                {
+                    "word": "traffic",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "light",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "coalitions",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Congress",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "union",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "IG",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "BCE",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "policy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Wirtschaftswachstum in Deutschland geringer als erwartet",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1635368418.4462283,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Economic growth in Germany less than expected",
+            "concepts": [
+                {
+                    "word": "growth",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Geheimdienstchefs stellen sich Fragen von Bundestagsabgeordneten",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1635368418.4462461,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Intelligence chiefs face questions from Bundestag deputies",
+            "concepts": [
+                {
+                    "word": "Intelligence",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "chiefs",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "questions",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Bundestag",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "deputies",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " CDU-Politiker Hendrik WÃÂ¼st ist neuer MinisterprÃÂ¤sident in Nordrhein-Westfalen",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1635368418.4462593,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "CDU politician Hendrik WÃ¼rt is new Prime Minister in North Rhine-Westphalia",
+            "concepts": [
+                {
+                    "word": "CDU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "politician",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hendrik",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "WÃ¼rt",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Prime",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Minister",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "North",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rhine",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Westphalia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Umstrittene Justizreform: EuGH verhÃÂ¤ngt tÃÂ¤gliches Millionen-Zwangsgeld gegen Polen",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1635368418.446272,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Controversial justice reform: ECJ promotes daily million-forced benefit against Poland",
+            "concepts": [
+                {
+                    "word": "justice",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "reform",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ECJ",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "benefit",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Poland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Erneuter Prozess um die Auslieferung von WikiLeaks-GrÃÂ¼nder Assange an die USA",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1635368418.4462838,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Renewed process for the delivery of Wikileaks-GrÃ¼nder Assange to the USA",
+            "concepts": [
+                {
+                    "word": "process",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "delivery",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Wikileaks",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "GrÃ¼nder",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Assange",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "USA",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Schwere Unwetter in SÃÂ¼ditalien",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1635368418.4462957,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Heavy storm in southern Italy",
+            "concepts": [
+                {
+                    "word": "storm",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Projekt \"Reporter/Refugee\" gewinnt ARD-Dokumentarfilm-Wettbewerb",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1635368418.446308,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Project \"Reporter / Refugee\" wins ARD documentary competition",
+            "concepts": [
+                {
+                    "word": "Project",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Reporter",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Refugee",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ARD",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "documentary",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "competition",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Die Lottozahlen",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1635368418.4463217,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "The lottery numbers",
+            "concepts": [
+                {
+                    "word": "lottery",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "numbers",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45487.html",
+            "content": "",
+            "ranked": "10",
+            "epoch": 1635368418.4463387,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "The weather",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Paid family leave, billionaire tax likely cut from spending bill over Manchin opposition",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/paid-family-leave-billionaire-tax-likely-cut-from-spending-bill-over-manchin-opposition",
+            "duration": "5 min",
+            "ranked": 0,
+            "epoch": 1635454819.362047,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Paid family leave, billionaire tax likely cut from spending bill over Manchin opposition",
+            "concepts": [
+                {
+                    "word": "family",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "billionaire",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tax",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "spending",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "bill",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "opposition",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "A billionaire tax is unlikely. HereÃ¢ÂÂs other ways Dems want to pay for their spending bill",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/a-billionaire-tax-is-unlikely-heres-other-ways-dems-want-to-pay-for-their-spending-bill",
+            "duration": "7 min",
+            "ranked": 1,
+            "epoch": 1635454819.3620486,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "A billionaire tax is unlikely. HereÃ¢ÂÂs other ways Dems want to pay for their spending bill",
+            "concepts": [
+                {
+                    "word": "billionaire",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tax",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "ways",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Dems",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "spending",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "bill",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "News Wrap: Immigration arrests inside the U.S. hit decade low under Biden",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-immigration-arrests-inside-the-u-s-hit-decade-low-under-biden",
+            "duration": "5 min",
+            "ranked": 2,
+            "epoch": 1635454819.3620496,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "News Wrap: Immigration arrests inside the U.S. hit decade low under Biden",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Immigration",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "arrests",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "U.S.",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "decade",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Biden",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Politics of masks, critical race theory fueling heated school board elections",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/politics-of-masks-critical-race-theory-fueling-heated-school-board-elections",
+            "duration": "11 min",
+            "ranked": 3,
+            "epoch": 1635454819.36205,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Politics of masks, critical race theory fueling heated school board elections",
+            "concepts": [
+                {
+                    "word": "Politics",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "masks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "race",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "theory",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "school",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "board",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "elections",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "How MinnesotaÃ¢ÂÂs lack of teachers of color hurts students, and what reform could look like",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/how-minnesotas-lack-of-teachers-of-color-hurts-students-and-what-reform-could-look-like",
+            "duration": "8 min",
+            "ranked": 4,
+            "epoch": 1635454819.3620508,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "How MinnesotaÃ¢ÂÂs lack of teachers of color hurts students, and what reform could look like",
+            "concepts": [
+                {
+                    "word": "MinnesotaÃ¢ÂÂs",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "teachers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "color",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "students",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "reform",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Bolsonaro may face criminal charges for botching COVID response over Ã¢ÂÂfalse dilemmaÃ¢ÂÂ",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/bolsonaro-may-face-criminal-charges-for-botching-covid-response-over-false-dilemma",
+            "duration": "8 min",
+            "ranked": 5,
+            "epoch": 1635454819.3620512,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "Bolsonaro may face criminal charges for botching COVID response over Ã¢ÂÂfalse dilemmaÃ¢ÂÂ",
+            "concepts": [
+                {
+                    "word": "Bolsonaro",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "charges",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "COVID",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "response",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "dilemmaÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "PhiladelphiaÃ¢ÂÂs Ã¢ÂÂLibertyÃ¢ÂÂ exhibit spotlights role of people of color in American Revolution",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "news_url": "https://www.pbs.org/newshour/show/philadelphias-liberty-exhibit-spotlights-role-of-people-of-color-in-american-revolution",
+            "duration": "7 min",
+            "ranked": 6,
+            "epoch": 1635454819.3620517,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-27.json",
+            "en_title": "PhiladelphiaÃ¢ÂÂs Ã¢ÂÂLibertyÃ¢ÂÂ exhibit spotlights role of people of color in American Revolution",
+            "concepts": [
+                {
+                    "word": "Ã¢ÂÂLibertyÃ¢ÂÂ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "exhibit",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "spotlights",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "role",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "people",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "color",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "American",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Revolution",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

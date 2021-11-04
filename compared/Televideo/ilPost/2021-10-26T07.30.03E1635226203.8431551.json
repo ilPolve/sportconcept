@@ -1,0 +1,1159 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "CORTE ISRAELE: \"EITAN TORNI IN ITALIA\"  Dalla zia paterna, nonno fa appello",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+            "content": "",
+            "ranked": 0,
+            "placed": "Abroad",
+            "epoch": 1635226203.84307,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-26T07.30.03E1635226203.8431551.json",
+            "en_title": "Court Israel: \"Eitan returns to Italy\" from aunt paternal, grandfather appeals",
+            "concepts": [
+                {
+                    "word": "Court",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Israel",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Eitan",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "aunt",
+                    "meaning": "compound",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "grandfather",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "appeals",
+                    "meaning": "conj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Pm minori Milano: \"Rientro rapido\"",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+            "content": "",
+            "ranked": 1,
+            "placed": "Abroad",
+            "epoch": 1635226203.843085,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-26T07.30.03E1635226203.8431551.json",
+            "en_title": "PM Minori Milan: \"Return\"",
+            "concepts": [
+                {
+                    "word": "PM",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Minori",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Milan",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "GOLPE SUDAN,MILITARI SPARANO SU PERSONE A Khartoum 7 morti e 140 feriti",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+            "content": "",
+            "ranked": 2,
+            "placed": "Abroad",
+            "epoch": 1635226203.843096,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-26T07.30.03E1635226203.8431551.json",
+            "en_title": "Sudan Golpe, military shoot on people at Khartoum 7 dead and 140 wounded",
+            "concepts": [
+                {
+                    "word": "Sudan",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Golpe",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "shoot",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "people",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Khartoum",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Onu,Ue,Farnesina e Usa preoccupati",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+            "content": "",
+            "ranked": 3,
+            "placed": "Abroad",
+            "epoch": 1635226203.8431067,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-26T07.30.03E1635226203.8431551.json",
+            "en_title": "UN, EU, Farnesina and USA worried",
+            "concepts": [
+                {
+                    "word": "UN",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "EU",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Farnesina",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "USA",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "UE,BUFERA SU MORAWIECKI. POLONIA SMORZA Parole su guerra? Era \"un'iperbole\"",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+            "content": "",
+            "ranked": 4,
+            "placed": "Abroad",
+            "epoch": 1635226203.8431182,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-26T07.30.03E1635226203.8431551.json",
+            "en_title": "EU, storm on Morawiecki.Poland Rumbled words about war?It was \"a hyperbole\"",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "storm",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Morawiecki",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Poland",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "words",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "war?It",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "hyperbole",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "ERDOGAN NON ESPELLE PIU' I DIPLOMATICI  \"Credo che ora saranno piÃÂ¹ saggi\"",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+            "content": "",
+            "ranked": 5,
+            "placed": "Abroad",
+            "epoch": 1635226203.843129,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-26T07.30.03E1635226203.8431551.json",
+            "en_title": "Erdogan no longer expels the diplomats \"I believe that will now be more essay\"",
+            "concepts": [
+                {
+                    "word": "Erdogan",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "diplomats",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "ZUCKERBERG: C'E' CAMPAGNA CONTRO FB   \"Per creare falsa immagine\"",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+            "content": "",
+            "ranked": 6,
+            "placed": "Abroad",
+            "epoch": 1635226203.8431396,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-26T07.30.03E1635226203.8431551.json",
+            "en_title": "Zuckerberg: there is a campaign against FB \"to create false image\"",
+            "concepts": [
+                {
+                    "word": "Zuckerberg",
+                    "meaning": "npadvmod",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "campaign",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "FB",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "image",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Ora il PD ÃÂ¨ disposto a cambiare il ddl Zan",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "news_url": "https://www.ilpost.it/2021/10/26/ddl-zan-senato/",
+            "content": " Dopo aver sostenuto per mesi la necessitÃÂ  di mantenere il testo originale, ora proverÃÂ  a trattare un compromesso con i partiti critici sulla legge contro l'omotransfobia ",
+            "ranked": 0,
+            "placed": "Politics",
+            "epoch": 1635237005.9058292,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Now the PD is willing to change the DDL ZAN",
+            "en_content": "After supporting for months the need to maintain the original text, it will now try to treat a compromise with critical parties on law against homotransfobia",
+            "concepts": [
+                {
+                    "word": "PD",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "DDL",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ZAN",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Salvini dice che Meloni mette ÃÂ«scientementeÃÂ» in difficoltÃÂ  il centrodestra al governo",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/salvini-meloni-opposizione-rotture-coglioni/",
+            "content": " In un audio pubblicato dal Foglio, il leader della Lega dice che Fratelli d'Italia dovrebbe invece rivolgere a PD e M5S le sue ÃÂ«rotture di coglioniÃÂ»\t",
+            "ranked": 1,
+            "placed": "Politics",
+            "epoch": 1635237005.905832,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Salvini says that melons puts the center-right to the government in difficulty",
+            "en_content": "In an audio published by the sheet, the leader of the League says that Fratelli d'Italia should instead turn to PD and M5S its Ã Â«Coglioni BreaksÂ»",
+            "concepts": [
+                {
+                    "word": "Salvini",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "melons",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "center",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "right",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "difficulty",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il governo discute di come cambiare le pensioni",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/riforma-pensioni-quota-102-legge-di-bilancio/",
+            "content": " A gennaio scadrÃÂ  \"Quota 100\", e i partiti vogliono evitare che si torni immediatamente alla legge Fornero\t",
+            "ranked": 2,
+            "placed": "Politics",
+            "epoch": 1635237005.905833,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The government discusses how to change pensions",
+            "en_content": "In January, \"Quota 100\", and the parties want to prevent us from returning to Law Fornero immediately",
+            "concepts": [
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "pensions",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Lamorgese ÃÂ¨ in difficoltÃÂ  sullÃ¢ÂÂassalto alla CGIL",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/lamorgese-assalto-cgil/",
+            "content": " Mentre la destra continua ad accusarla e a chiederne le dimissioni, la ministra dell'Interno ha ammesso che le forze dell'ordine dispiegate a Roma non erano abbastanza\t",
+            "ranked": 3,
+            "placed": "Politics",
+            "epoch": 1635237005.905834,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Lamorgese is in trouble on the assault on the CGIL",
+            "en_content": "While the right continues to accuse it and ask for resignation, the Interior minister admitted that the police unfolded in Rome were not enough",
+            "concepts": [
+                {
+                    "word": "Lamorgese",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "trouble",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "assault",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "CGIL",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Che sindaco vorrebbe essere Gualtieri",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/gualtieri-sindaco-roma/",
+            "content": " Governare Roma ÃÂ¨ un compito difficilissimo secondo chiunque (e impossibile secondo qualcuno), ma dalla sua ci sono i soldi del PNRR e il rapporto con Zingaretti\t",
+            "ranked": 4,
+            "placed": "Politics",
+            "epoch": 1635237005.9058347,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "What mayor would like to be Gualtieri",
+            "en_content": "Governing Rome is a very difficult task according to anyone (and impossible according to someone), but from its own there are the PNRR money and the relationship with zingaretti",
+            "concepts": [
+                {
+                    "word": "mayor",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Il governo vuole ridurre il costo degli assorbenti",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/costo-assorbenti-taglio-iva/",
+            "content": " Nel documento che prepara la legge di bilancio ha proposto di abbassare l'IVA dal 22 al 10%, avvicinandosi ad altri paesi europei\t",
+            "ranked": 5,
+            "placed": "Politics",
+            "epoch": 1635237005.9058356,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The government wants to reduce the cost of absorbents",
+            "en_content": "In the document preparing the budgetary law proposed to lower VAT from 22 to 10%, approaching other European countries",
+            "concepts": [
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cost",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "absorbents",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il governo ha approvato il documento che prepara la legge di bilancio",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/documento-programmatico-di-bilancio-2022/",
+            "content": " Parla di una possibile riduzione delle tasse e, tra le altre cose, rinvia al 2023 la plastic tax e la sugar tax\t",
+            "ranked": 6,
+            "placed": "Politics",
+            "epoch": 1635237005.9058363,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The government has approved the document preparing the budgetary law",
+            "en_content": "Speaks of a possible reduction of taxes and, among other things, refer to the Plastic Tax and the Sugar Tax to 2023",
+            "concepts": [
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "document",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "law",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Gli altri risultati delle elezioni comunali",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/gli-altri-risultati-delle-elezioni-comunali/",
+            "content": " Dagli omonimi di Cosenza alle sorprese di Varese e Latina, come sono andate nei sette capoluoghi di provincia e in altre cittÃÂ  rilevanti\t",
+            "ranked": 7,
+            "placed": "Politics",
+            "epoch": 1635237005.9058373,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The other results of the municipal elections",
+            "en_content": "From the homonyms of Cosenza to the surprises of Varese and Latina, as they went to the seven provincial capitals and in other relevant cities",
+            "concepts": [
+                {
+                    "word": "results",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "elections",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "I dilemmi della destra dopo le amministrative",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/destra-coalizione-amministrative-lega-meloni/",
+            "content": " Le tante sonore sconfitte non hanno un'unica spiegazione, e le decisioni dei prossimi mesi di Salvini e Meloni non saranno facili\t",
+            "ranked": 8,
+            "placed": "Politics",
+            "epoch": 1635237005.905838,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The dilemmas of the right after the administrative",
+            "en_content": "The many sound defeats do not have a single explanation, and the decisions of the coming months of Salvini and melons will not be easy",
+            "concepts": [
+                {
+                    "word": "dilemmas",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "right",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il centrosinistra ha vinto un poÃ¢ÂÂ ovunque",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/centrosinistra-vittoria-amministrative/",
+            "content": " ÃÂ arrivato nettamente primo in tutti i capoluoghi di regione tranne Trieste, ed ÃÂ¨ andato molto bene anche in quelli di provincia ",
+            "ranked": 9,
+            "placed": "Politics",
+            "epoch": 1635237005.905839,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The center-left won a little everywhere",
+            "en_content": "It came sharply in all the leaders in the Region except Trieste, and it went very well in the province of",
+            "concepts": [
+                {
+                    "word": "center",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "left",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Roberto Gualtieri sarÃÂ  il prossimo sindaco di Roma",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggio-roma-elezioni-sindaco-risultati/",
+            "content": " Il candidato del centrosinistra ha ottenuto oltre venti punti di vantaggio su Enrico Michetti, del centrodestra\t",
+            "ranked": 10,
+            "placed": "Politics",
+            "epoch": 1635237005.90584,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Roberto Gualtieri will be the next mayor of Rome",
+            "en_content": "The center-left candidate has obtained over twenty points ahead of Enrico Michetti, of the center-right",
+            "concepts": [
+                {
+                    "word": "Roberto",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "mayor",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Rome",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Anche Roma e Torino al centrosinistra",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggi-amministrative-roma-torino/",
+            "content": " Le vittorie di Gualtieri e Lo Russo si aggiungono a quelle del primo turno di queste amministrative, in cui il centrodestra ha vinto solo a Trieste\t",
+            "ranked": 11,
+            "placed": "Politics",
+            "epoch": 1635237005.9058404,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Also Rome and Turin at the center-left",
+            "en_content": "The victories of Gualtieri and the Russian are added to those of the first round of these administrative, in which the center-right won only in Trieste",
+            "concepts": [
+                {
+                    "word": "Rome",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Turin",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "center",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Stefano Lo Russo del centrosinistra ha vinto a Torino",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/torino-ballottaggio-elezione-sindaco-risultato/",
+            "content": " A scrutinio terminato ha superato il 59 per cento dei voti, molto avanti rispetto a Paolo Damilano del centrodestra\t",
+            "ranked": 12,
+            "placed": "Politics",
+            "epoch": 1635237005.905841,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Stefano Lo Russo del Centrosinista won in Turin",
+            "en_content": "At the finished ballot has passed 59 percent of the votes, very ahead compared to Paolo Damilano del Centrestra",
+            "concepts": [
+                {
+                    "word": "Stefano",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Russo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Centrosinista",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Turin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂaffluenza ai ballottaggi ÃÂ¨ piuttosto bassa",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggi-affluenza-elezioni-roma-torino/",
+            "content": " Alle 23 di ieri aveva votato il 33% degli elettori, e a Roma ancora meno ",
+            "ranked": 13,
+            "placed": "Politics",
+            "epoch": 1635237005.9058418,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "The turnout at the ballots is rather low",
+            "en_content": "At 11 pm yesterday he voted 33% of voters, and in Rome even less",
+            "concepts": [
+                {
+                    "word": "turnout",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "ballots",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Alle 12 lÃ¢ÂÂaffluenza ai ballottaggi delle elezioni amministrative era del 9,73 per cento",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/affluenza-ballottaggi/",
+            "content": " \t",
+            "ranked": 14,
+            "placed": "Politics",
+            "epoch": 1635237005.9058428,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "At 12.00 the turnout of the administrative election ballots was 9.73 percent",
+            "concepts": [
+                {
+                    "word": "turnout",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "election",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ballots",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "percent",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Guida ai ballottaggi delle elezioni amministrative",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/ballottaggi-elezioni-amministrative-roma-torino/",
+            "content": " BisognerÃÂ  tenere d'occhio Roma, Torino e Trieste, oltre agli altri capoluoghi: un piccolo atlante per orientarsi\t",
+            "ranked": 15,
+            "placed": "Politics",
+            "epoch": 1635237005.9058437,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Guide to the ballot of the administrative elections",
+            "en_content": "We must keep an eye on Rome, Turin and Trieste, in addition to the other capitals: a small atlas to orientate",
+            "concepts": [
+                {
+                    "word": "ballot",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "elections",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Torino si prepara al ballottaggio",
+            "date_raw": "October 16, 2021",
+            "date": "2021-10-16",
+            "news_url": "https://www.ilpost.it/2021/10/16/torino-ballottaggio-lo-russo-damilano/",
+            "content": " DovrÃÂ  scegliere il suo prossimo sindaco tra Stefano Lo Russo del centrosinistra e Paolo Damilano del centrodestra, in una sfida considerata molto aperta\t",
+            "ranked": 16,
+            "placed": "Politics",
+            "epoch": 1635237005.9058444,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Turin is preparing for ballot",
+            "en_content": "You will have to choose your next mayor between Stefano Lo Russian of the center-left and Paolo Damilano del Centrestra, in a challenge considered very open",
+            "concepts": [
+                {
+                    "word": "Turin",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ballot",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Michetti e Gualtieri si contendono gli elettori di Calenda e Raggi",
+            "date_raw": "October 15, 2021",
+            "date": "2021-10-15",
+            "news_url": "https://www.ilpost.it/2021/10/15/ballottaggio-roma/",
+            "content": " I loro voti decideranno il ballottaggio a Roma, ma dopo le proteste contro il Green Pass le cose per la destra si sono complicate\t",
+            "ranked": 17,
+            "placed": "Politics",
+            "epoch": 1635237005.9058454,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Michetti and Gualtieri contains the voters of Calenda and rays",
+            "en_content": "Their vows will decide the ballot in Rome, but after the protests against the green pass things for the right have complicated",
+            "concepts": [
+                {
+                    "word": "Michetti",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "voters",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Calenda",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "rays",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Una giornata complicata per il governo",
+            "date_raw": "October 15, 2021",
+            "date": "2021-10-15",
+            "news_url": "https://www.ilpost.it/2021/10/15/governo-draghi-venerdi-obbligo-green-pass/",
+            "content": " L'entrata in vigore dell'obbligo del Green Pass sui luoghi di lavoro ÃÂ¨ accompagnata da preoccupazioni per possibili problemi, disservizi e soprattutto proteste\t",
+            "ranked": 18,
+            "placed": "Politics",
+            "epoch": 1635237005.9058464,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "A complicated day for the government",
+            "en_content": "The entry into force of the Green Pass obligation on workplaces is accompanied by concerns for possible problems, disservices and above all protests",
+            "concepts": [
+                {
+                    "word": "day",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "ComÃ¢ÂÂÃÂ¨ fatta lÃ¢ÂÂestrema destra in Italia",
+            "date_raw": "October 14, 2021",
+            "date": "2021-10-14",
+            "news_url": "https://www.ilpost.it/2021/10/14/gruppi-partiti-organizzazioni-neofascisti-estrema-destra-italia/",
+            "content": " I gruppi neofascisti piÃÂ¹ forti sono tre e in competizione tra loro, ma ÃÂ¨ un mondo fatto di decine di organizzazioni piccole o piccolissime\t",
+            "ranked": 19,
+            "placed": "Politics",
+            "epoch": 1635237005.9058473,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "As the extreme right is made in Italy",
+            "en_content": "The strongest neo-fascist groups are three and competing with each other, but it is a world made of dozens of small or very small organizations",
+            "concepts": [
+                {
+                    "word": "right",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Alle elezioni comunali in Sardegna il centrosinistra ha vinto al primo turno a Carbonia, mentre il centrodestra a Olbia",
+            "date_raw": "October 12, 2021",
+            "date": "2021-10-12",
+            "news_url": "https://www.ilpost.it/2021/10/12/elezioni-comunali-sardegna-carbonia-olbia/",
+            "content": " \t",
+            "ranked": 20,
+            "placed": "Politics",
+            "epoch": 1635237005.9058483,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "In the municipal elections in Sardinia the center-left won in the first round in Carbonia, while the center-right in Olbia",
+            "concepts": [
+                {
+                    "word": "elections",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sardinia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "center",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "round",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Carbonia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "center",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "right",
+                    "meaning": "advcl",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Olbia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Come si scioglie Forza Nuova",
+            "date_raw": "October 12, 2021",
+            "date": "2021-10-12",
+            "news_url": "https://www.ilpost.it/2021/10/12/come-si-scioglie-forza-nuova/",
+            "content": " Cosa dicono Costituzione e codici, quali sono le proposte e le posizioni dei partiti\t",
+            "ranked": 21,
+            "placed": "Politics",
+            "epoch": 1635237005.9058495,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "How to dissolve new strength",
+            "en_content": "What to say constitution and codes, what are the proposals and positions of the parties",
+            "concepts": [
+                {
+                    "word": "strength",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Enrico Michetti si ÃÂ¨ vantato di non essere mai stato a Bruxelles",
+            "date_raw": "October 12, 2021",
+            "date": "2021-10-12",
+            "news_url": "https://www.ilpost.it/2021/10/12/michetti-bruxelles/",
+            "content": " Il candidato sindaco del centrodestra a Roma lo ha detto in un recente comizio per provare la sua ÃÂ«indipendenzaÃÂ»\t",
+            "ranked": 22,
+            "placed": "Politics",
+            "epoch": 1635237005.9058502,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Enrico Michetti has spotted not ever been to Brussels",
+            "en_content": "The candidate mayor of the center-right in Rome told him in a recent rally to try his Ã Â«IndependenceÂ»",
+            "concepts": [
+                {
+                    "word": "Enrico",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Michetti",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Brussels",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Giorgia Meloni dice di non conoscere la matrice dellÃ¢ÂÂassalto alla sede romana della CGIL",
+            "date_raw": "October 11, 2021",
+            "date": "2021-10-11",
+            "news_url": "https://www.ilpost.it/2021/10/11/giorgia-meloni-matrice-assalto-sede-cgil/",
+            "content": " Nonostante durante gli scontri di Roma siano stati arrestati anche Roberto Fiore e Giuliano Castellini, di Forza Nuova\t",
+            "ranked": 23,
+            "placed": "Politics",
+            "epoch": 1635237005.905851,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Giorgia Meloni says he does not know the matrix of the assault at the Roman office of the CGIL",
+            "en_content": "Although Roberto Fiore and Giuliano Castellini, Di Forza Nuova were also arrested during the clashes of Rome",
+            "concepts": [
+                {
+                    "word": "Giorgia",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Meloni",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "matrix",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "assault",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "office",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "CGIL",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Chi sono Roberto Fiore e Giuliano Castellino",
+            "date_raw": "October 10, 2021",
+            "date": "2021-10-10",
+            "news_url": "https://www.ilpost.it/2021/10/10/roberto-fiore-giuliano-castellino/",
+            "content": " Il fondatore di Forza Nuova e il capo romano del partito sono tra le persone arrestate per gli scontri e l'assalto alla sede della CGIL a Roma\t",
+            "ranked": 24,
+            "placed": "Politics",
+            "epoch": 1635237005.9058518,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Who are Roberto Fiore and Giuliano Castellino",
+            "en_content": "The Founder of New Forza and the Roman Chief of the Party are among the people arrested for the clashes and the assault at the headquarters of the CGIL in Rome",
+            "concepts": [
+                {
+                    "word": "Roberto",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Fiore",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Giuliano",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Castellino",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "ÃÂ«Salvini ÃÂ¨ un rumore di fondoÃÂ»",
+            "date_raw": "October 09, 2021",
+            "date": "2021-10-09",
+            "news_url": "https://www.ilpost.it/2021/10/09/salvini-rumore-di-fondo-speranza/",
+            "content": " Lo ha detto il ministro della Salute Roberto Speranza, parlando col Corriere della Sera\t",
+            "ranked": 25,
+            "placed": "Politics",
+            "epoch": 1635237005.9058526,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-26T10.30.05E1635237005.905871.json",
+            "en_title": "Ã Â«Salvini is a background noiseÃÂ»",
+            "en_content": "The Minister of Health said Roberto hope, speaking with the Corriere della Sera",
+            "concepts": [
+                {
+                    "word": "Ã",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Â«Salvini",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "background",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "noiseÃÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "»",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        }
+    ]
+}

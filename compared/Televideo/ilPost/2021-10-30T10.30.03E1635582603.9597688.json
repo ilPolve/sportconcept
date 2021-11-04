@@ -1,0 +1,1493 @@
+{
+    "simils_concepts": [
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 2,
+                "n_newA": 10,
+                "n_newB": 9,
+                "n_possible": 90,
+                "concepts_found": [
+                    {
+                        "word": "center",
+                        "meaning": "amod",
+                        "pos": "ADJ"
+                    },
+                    {
+                        "word": "Rome",
+                        "meaning": "nmod",
+                        "pos": "NOUN"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": "G20,AL CENTRO PANDEMIA,CLIMA E ECONOMIA Area massima sicurezza all'Eur, a Roma  Fitta agenda bilaterali per Draghi",
+                    "date_raw": "October 30, 2021",
+                    "date": "2021-10-30",
+                    "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+                    "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+                    "content": "",
+                    "ranked": 0,
+                    "placed": "First_Page",
+                    "epoch": 1635582603.959709,
+                    "language": "it",
+                    "source": "Televideo",
+                    "filename": "conc_en_2021-10-30T10.30.03E1635582603.9597688.json",
+                    "en_title": "G20, at the center pandemic, climate and economy maximum security area at the EUR, in Rome dense bilateral agenda for dragons",
+                    "concepts": [
+                        {
+                            "word": "G20",
+                            "meaning": "ROOT",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "center",
+                            "meaning": "amod",
+                            "pos": "ADJ"
+                        },
+                        {
+                            "word": "climate",
+                            "meaning": "conj",
+                            "pos": "ADJ"
+                        },
+                        {
+                            "word": "economy",
+                            "meaning": "conj",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "security",
+                            "meaning": "compound",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "area",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "EUR",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Rome",
+                            "meaning": "nmod",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "agenda",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "dragons",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                },
+                {
+                    "title": "Enrico Michetti, ex candidato sindaco del centrodestra a Roma, si dimetterÃÂ  dal consiglio comunale",
+                    "date_raw": "October 30, 2021",
+                    "date": "2021-10-30",
+                    "url": "https://www.ilpost.it/politica/",
+                    "news_url": "https://www.ilpost.it/2021/10/30/michetti-dimissioni-roma/",
+                    "content": " Enrico Michetti, ex candidato sindaco del centrodestra a Roma alle ultime elezioni amministrative, ha annunciato che si dimetterÃÂ  dal consiglio comunale, a cui era stato eletto in quanto candidato sindaco sconfitto al ballottaggio. Lo ha fatto sapere lo stesso Michetti ",
+                    "ranked": 0,
+                    "placed": "Politics",
+                    "epoch": 1635672606.1992364,
+                    "language": "it",
+                    "source": "ilPost",
+                    "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+                    "en_title": "Enrico Michetti, former candidate for Mayor of the center-right in Rome, resigns from the City Council",
+                    "en_content": "Enrico Michetti, a former candidate for Mayor of the center-right in Rome at the last administrative elections, announced that he resigns from the City Council, to which he had been elected as a candidate mayor defeated to the ballot.He said Michetti him know",
+                    "concepts": [
+                        {
+                            "word": "Enrico",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Michetti",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "candidate",
+                            "meaning": "appos",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Mayor",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "center",
+                            "meaning": "compound",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "right",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Rome",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "City",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Council",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 2,
+                "n_newA": 10,
+                "n_newB": 3,
+                "n_possible": 30,
+                "concepts_found": [
+                    {
+                        "word": "center",
+                        "meaning": "amod",
+                        "pos": "ADJ"
+                    },
+                    {
+                        "word": "Rome",
+                        "meaning": "nmod",
+                        "pos": "NOUN"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": "G20,AL CENTRO PANDEMIA,CLIMA E ECONOMIA Area massima sicurezza all'Eur, a Roma  Fitta agenda bilaterali per Draghi",
+                    "date_raw": "October 30, 2021",
+                    "date": "2021-10-30",
+                    "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+                    "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+                    "content": "",
+                    "ranked": 0,
+                    "placed": "First_Page",
+                    "epoch": 1635582603.959709,
+                    "language": "it",
+                    "source": "Televideo",
+                    "filename": "conc_en_2021-10-30T10.30.03E1635582603.9597688.json",
+                    "en_title": "G20, at the center pandemic, climate and economy maximum security area at the EUR, in Rome dense bilateral agenda for dragons",
+                    "concepts": [
+                        {
+                            "word": "G20",
+                            "meaning": "ROOT",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "center",
+                            "meaning": "amod",
+                            "pos": "ADJ"
+                        },
+                        {
+                            "word": "climate",
+                            "meaning": "conj",
+                            "pos": "ADJ"
+                        },
+                        {
+                            "word": "economy",
+                            "meaning": "conj",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "security",
+                            "meaning": "compound",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "area",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "EUR",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Rome",
+                            "meaning": "nmod",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "agenda",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "dragons",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                },
+                {
+                    "title": "Anche Roma e Torino al centrosinistra",
+                    "date_raw": "October 18, 2021",
+                    "date": "2021-10-18",
+                    "url": "https://www.ilpost.it/politica/",
+                    "news_url": "https://www.ilpost.it/2021/10/18/ballottaggi-amministrative-roma-torino/",
+                    "content": " Le vittorie di Gualtieri e Lo Russo si aggiungono a quelle del primo turno di queste amministrative, in cui il centrodestra ha vinto solo a Trieste\t",
+                    "ranked": 19,
+                    "placed": "Politics",
+                    "epoch": 1635672606.199257,
+                    "language": "it",
+                    "source": "ilPost",
+                    "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+                    "en_title": "Also Rome and Turin at the center-left",
+                    "en_content": "The victories of Gualtieri and the Russian are added to those of the first round of these administrative, in which the center-right won only in Trieste",
+                    "concepts": [
+                        {
+                            "word": "Rome",
+                            "meaning": "ROOT",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Turin",
+                            "meaning": "conj",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "center",
+                            "meaning": "npadvmod",
+                            "pos": "VERB"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "edition_a": [
+        {
+            "title": "G20,AL CENTRO PANDEMIA,CLIMA E ECONOMIA Area massima sicurezza all'Eur, a Roma  Fitta agenda bilaterali per Draghi",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+            "content": "",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1635582603.959709,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-30T10.30.03E1635582603.9597688.json",
+            "en_title": "G20, at the center pandemic, climate and economy maximum security area at the EUR, in Rome dense bilateral agenda for dragons",
+            "concepts": [
+                {
+                    "word": "G20",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "center",
+                    "meaning": "amod",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "conj",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "economy",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "security",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "area",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "EUR",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Rome",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "agenda",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "dragons",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "ISS: RISCHI DI RECRUDESCENZA EPIDEMICA  \"In aumento indice Rt e incidenza\"",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+            "content": "",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1635582603.9597206,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-30T10.30.03E1635582603.9597688.json",
+            "en_title": "ISS: risks of epidemic recrudescence \"on the rise RT index and incidence\"",
+            "concepts": [
+                {
+                    "word": "ISS",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "risks",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "epidemic",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "recrudescence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "rise",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "RT",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "index",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "incidence",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "ASSALTO A CGIL E SCONTRI,ALTRE 6 MISURE A militanti FN, anche capo veronese",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+            "content": "",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1635582603.9597287,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-30T10.30.03E1635582603.9597688.json",
+            "en_title": "Assault on CGIL and clashes, 6 other measures to militants FN, also Capo Veronese",
+            "concepts": [
+                {
+                    "word": "Assault",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "CGIL",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "clashes",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "measures",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "militants",
+                    "meaning": "relcl",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "FN",
+                    "meaning": "dobj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Capo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Veronese",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "MALTEMPO,IN SICILIA RESTA ALLERTA ROSSA Musumeci: state a casa se possibile",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+            "content": "",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1635582603.9597363,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-30T10.30.03E1635582603.9597688.json",
+            "en_title": "Bad weather, in Sicily remains red alert Musumeci: stay at home if possible",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Sicily",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "alert",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Musumeci",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "home",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "NAPOLI, 53ENNE SPARA E UCCIDE 2 GIOVANI Fermato per omicidio volontario",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+            "content": "",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1635582603.959744,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-30T10.30.03E1635582603.9597688.json",
+            "en_title": "Naples, 53-year-old shoots and kills 2 young people stopped for voluntary murder",
+            "concepts": [
+                {
+                    "word": "Naples",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "year",
+                    "meaning": "npadvmod",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "shoots",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "people",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "murder",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "STANOTTE LANCETTE INDIETRO DI 1 ORA",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+            "content": "",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1635582603.9597514,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-30T10.30.03E1635582603.9597688.json",
+            "en_title": "Tonight hands back 1 hour",
+            "concepts": [
+                {
+                    "word": "Tonight",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "hour",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Enrico Michetti, ex candidato sindaco del centrodestra a Roma, si dimetterÃÂ  dal consiglio comunale",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/30/michetti-dimissioni-roma/",
+            "content": " Enrico Michetti, ex candidato sindaco del centrodestra a Roma alle ultime elezioni amministrative, ha annunciato che si dimetterÃÂ  dal consiglio comunale, a cui era stato eletto in quanto candidato sindaco sconfitto al ballottaggio. Lo ha fatto sapere lo stesso Michetti ",
+            "ranked": 0,
+            "placed": "Politics",
+            "epoch": 1635672606.1992364,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "Enrico Michetti, former candidate for Mayor of the center-right in Rome, resigns from the City Council",
+            "en_content": "Enrico Michetti, a former candidate for Mayor of the center-right in Rome at the last administrative elections, announced that he resigns from the City Council, to which he had been elected as a candidate mayor defeated to the ballot.He said Michetti him know",
+            "concepts": [
+                {
+                    "word": "Enrico",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Michetti",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "candidate",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Mayor",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "center",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "right",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Rome",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "City",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Come cambiano le pensioni con Ã¢ÂÂQuota 102Ã¢ÂÂ",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/29/pensioni-quota-102/",
+            "content": " Nel 2022 si dovrebbe andare in pensioneÃÂ con 38 anni di contributi e 64 anni dÃ¢ÂÂetÃÂ , ma cosa succederÃÂ  dal 2023 ancora non si sa\t",
+            "ranked": 1,
+            "placed": "Politics",
+            "epoch": 1635672606.1992393,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "How pensions are changed with Ã¢ â¬ Åquota 102Ã¢ â¬",
+            "en_content": "In 2022 you should retire with 38 years of contributions and 64 years of age, but what will happen since 2023 you still don't know",
+            "concepts": [
+                {
+                    "word": "pensions",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "102Ã¢",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le foto della manifestazione per il ddl Zan a Milano",
+            "date_raw": "October 29, 2021",
+            "date": "2021-10-29",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/29/ddl-zan-foto-manifestazione-milano/",
+            "content": " Migliaia di persone si sono riunite allÃ¢ÂÂArco della Pace per protestare contro la bocciatura del disegno di legge contro lÃ¢ÂÂomotransfobia\t",
+            "ranked": 2,
+            "placed": "Politics",
+            "epoch": 1635672606.1992402,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "The photos of the event for Ddl Zan in Milan",
+            "en_content": "Thousands of people gathered at the arch of peace to protest against the rejection of the bill against homotransfobia",
+            "concepts": [
+                {
+                    "word": "photos",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "event",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ddl",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Zan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Milan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il governo ha approvato la legge di bilancio",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/28/legge-di-bilancio-2021-approvata-governo-pensioni/",
+            "content": " Ha previsto una riforma delle pensioni e ha rifinanziato il reddito di cittadinanza, con alcune correzioni: ora il testo passa in parlamento\t",
+            "ranked": 3,
+            "placed": "Politics",
+            "epoch": 1635672606.1992412,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "The government approved the budgetary law",
+            "en_content": "He provided a reform of pensions and refinanced citizenship income, with some corrections: now the text passes to Parliament",
+            "concepts": [
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "law",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "ComÃ¢ÂÂÃÂ¨ finito il ddl Zan",
+            "date_raw": "October 28, 2021",
+            "date": "2021-10-28",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/28/ddl-zan-fine-bocciato-senato/",
+            "content": " Quali sono le spiegazioni sullo sgretolamento al Senato della maggioranza che sosteneva la legge contro l'omotransfobia\t",
+            "ranked": 4,
+            "placed": "Politics",
+            "epoch": 1635672606.1992424,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "What the DDL ZAN has been finished",
+            "en_content": "What are the explanations on the crumbling to the senate of the majority who supported the law against homotransfobia",
+            "concepts": [
+                {
+                    "word": "DDL",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ZAN",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Cosa sono state le Ã¢ÂÂbaby pensioniÃ¢ÂÂ",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/27/baby-pensioni/",
+            "content": " Dal 1973 al 1992 permisero a piÃÂ¹ di 400mila dipendenti pubblici di andare in pensione dopo meno di 20 anni di lavoro\t",
+            "ranked": 5,
+            "placed": "Politics",
+            "epoch": 1635672606.1992433,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "What were the Ã¢ â¬ ÅBaby pensionsÃ¢ â¬",
+            "en_content": "From 1973 to 1992 they allowed more than 400 thousand public employees to retire after less than 20 years of work",
+            "concepts": [
+                {
+                    "word": "â¬",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ÅBaby",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "pensionsÃ¢",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Il Senato ha accantonato il ddl Zan",
+            "date_raw": "October 27, 2021",
+            "date": "2021-10-27",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/27/ddl-zan-passaggio-esame-senato/",
+            "content": " Ha approvato una proposta di Lega e Fratelli d'Italia che era stata definita Ã¢ÂÂtagliolaÃ¢ÂÂ dal PD, e che potrebbe aver affossato la legge\t",
+            "ranked": 6,
+            "placed": "Politics",
+            "epoch": 1635672606.199244,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "The Senate lay down the ddl zan",
+            "en_content": "Has approved a proposal for league and brothers of Italy that had been defined Ã¢ â¬ ÅtagliolaÃ¢ â¬ from the Democratic Party, and which could have seen the law",
+            "concepts": [
+                {
+                    "word": "Senate",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ddl",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "zan",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Quanto ÃÂ¨ seria la candidatura di Berlusconi a presidente della Repubblica",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/26/berlusconi-presidente-repubblica-candidatura-ipotesi/",
+            "content": " Lui probabilmente vorrebbe provarci, ma ÃÂ¨ complicatissimo e non si capisce quanto sia d'accordo il resto del centrodestra\t",
+            "ranked": 7,
+            "placed": "Politics",
+            "epoch": 1635672606.1992447,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "How serious is the candidacy of Berlusconi to President of the Republic",
+            "en_content": "He would probably try, but it is very complicated and you don't understand how much the rest of the center is agreed",
+            "concepts": [
+                {
+                    "word": "candidacy",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Berlusconi",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "President",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Republic",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Ora il PD ÃÂ¨ disposto a cambiare il ddl Zan",
+            "date_raw": "October 26, 2021",
+            "date": "2021-10-26",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/26/ddl-zan-senato/",
+            "content": " Dopo aver sostenuto per mesi la necessitÃÂ  di mantenere il testo originale, ora proverÃÂ  a trattare un compromesso con i partiti critici sulla legge contro l'omotransfobia\t",
+            "ranked": 8,
+            "placed": "Politics",
+            "epoch": 1635672606.1992455,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "Now the PD is willing to change the DDL ZAN",
+            "en_content": "After supporting for months the need to maintain the original text, it will now try to treat a compromise with critical parties on law against homotransfobia",
+            "concepts": [
+                {
+                    "word": "PD",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "DDL",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ZAN",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Salvini dice che Meloni mette ÃÂ«scientementeÃÂ» in difficoltÃÂ  il centrodestra al governo",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/21/salvini-meloni-opposizione-rotture-coglioni/",
+            "content": " In un audio pubblicato dal Foglio, il leader della Lega dice che Fratelli d'Italia dovrebbe invece rivolgere a PD e M5S le sue ÃÂ«rotture di coglioniÃÂ»\t",
+            "ranked": 9,
+            "placed": "Politics",
+            "epoch": 1635672606.1992466,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "Salvini says that melons puts the center-right to the government in difficulty",
+            "en_content": "In an audio published by the sheet, the leader of the League says that Fratelli d'Italia should instead turn to PD and M5S its Ã Â«Coglioni BreaksÂ»",
+            "concepts": [
+                {
+                    "word": "Salvini",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "melons",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "center",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "right",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "difficulty",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il governo discute di come cambiare le pensioni",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/21/riforma-pensioni-quota-102-legge-di-bilancio/",
+            "content": " A gennaio scadrÃÂ  \"Quota 100\", e i partiti vogliono evitare che si torni immediatamente alla legge Fornero\t",
+            "ranked": 10,
+            "placed": "Politics",
+            "epoch": 1635672606.1992476,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "The government discusses how to change pensions",
+            "en_content": "In January, \"Quota 100\", and the parties want to prevent us from returning to Law Fornero immediately",
+            "concepts": [
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "pensions",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Lamorgese ÃÂ¨ in difficoltÃÂ  sullÃ¢ÂÂassalto alla CGIL",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/20/lamorgese-assalto-cgil/",
+            "content": " Mentre la destra continua ad accusarla e a chiederne le dimissioni, la ministra dell'Interno ha ammesso che le forze dell'ordine dispiegate a Roma non erano abbastanza\t",
+            "ranked": 11,
+            "placed": "Politics",
+            "epoch": 1635672606.1992486,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "Lamorgese is in trouble on the assault on the CGIL",
+            "en_content": "While the right continues to accuse it and ask for resignation, the Interior minister admitted that the police unfolded in Rome were not enough",
+            "concepts": [
+                {
+                    "word": "Lamorgese",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "trouble",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "assault",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "CGIL",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Che sindaco vorrebbe essere Gualtieri",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/20/gualtieri-sindaco-roma/",
+            "content": " Governare Roma ÃÂ¨ un compito difficilissimo secondo chiunque (e impossibile secondo qualcuno), ma dalla sua ci sono i soldi del PNRR e il rapporto con Zingaretti\t",
+            "ranked": 12,
+            "placed": "Politics",
+            "epoch": 1635672606.1992497,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "What mayor would like to be Gualtieri",
+            "en_content": "Governing Rome is a very difficult task according to anyone (and impossible according to someone), but from its own there are the PNRR money and the relationship with zingaretti",
+            "concepts": [
+                {
+                    "word": "mayor",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Il governo vuole ridurre il costo degli assorbenti",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/20/costo-assorbenti-taglio-iva/",
+            "content": " Nel documento che prepara la legge di bilancio ha proposto di abbassare l'IVA dal 22 al 10%, avvicinandosi ad altri paesi europei\t",
+            "ranked": 13,
+            "placed": "Politics",
+            "epoch": 1635672606.199251,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "The government wants to reduce the cost of absorbents",
+            "en_content": "In the document preparing the budgetary law proposed to lower VAT from 22 to 10%, approaching other European countries",
+            "concepts": [
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cost",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "absorbents",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il governo ha approvato il documento che prepara la legge di bilancio",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/19/documento-programmatico-di-bilancio-2022/",
+            "content": " Parla di una possibile riduzione delle tasse e, tra le altre cose, rinvia al 2023 la plastic tax e la sugar tax\t",
+            "ranked": 14,
+            "placed": "Politics",
+            "epoch": 1635672606.199252,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "The government has approved the document preparing the budgetary law",
+            "en_content": "Speaks of a possible reduction of taxes and, among other things, refer to the Plastic Tax and the Sugar Tax to 2023",
+            "concepts": [
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "document",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "law",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Gli altri risultati delle elezioni comunali",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/19/gli-altri-risultati-delle-elezioni-comunali/",
+            "content": " Dagli omonimi di Cosenza alle sorprese di Varese e Latina, come sono andate nei sette capoluoghi di provincia e in altre cittÃÂ  rilevanti\t",
+            "ranked": 15,
+            "placed": "Politics",
+            "epoch": 1635672606.1992528,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "The other results of the municipal elections",
+            "en_content": "From the homonyms of Cosenza to the surprises of Varese and Latina, as they went to the seven provincial capitals and in other relevant cities",
+            "concepts": [
+                {
+                    "word": "results",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "elections",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "I dilemmi della destra dopo le amministrative",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/19/destra-coalizione-amministrative-lega-meloni/",
+            "content": " Le tante sonore sconfitte non hanno un'unica spiegazione, e le decisioni dei prossimi mesi di Salvini e Meloni non saranno facili\t",
+            "ranked": 16,
+            "placed": "Politics",
+            "epoch": 1635672606.199254,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "The dilemmas of the right after the administrative",
+            "en_content": "The many sound defeats do not have a single explanation, and the decisions of the coming months of Salvini and melons will not be easy",
+            "concepts": [
+                {
+                    "word": "dilemmas",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "right",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il centrosinistra ha vinto un poÃ¢ÂÂ ovunque",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/18/centrosinistra-vittoria-amministrative/",
+            "content": " ÃÂ arrivato nettamente primo in tutti i capoluoghi di regione tranne Trieste, ed ÃÂ¨ andato molto bene anche in quelli di provincia ",
+            "ranked": 17,
+            "placed": "Politics",
+            "epoch": 1635672606.199255,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "The center-left won a little everywhere",
+            "en_content": "It came sharply in all the leaders in the Region except Trieste, and it went very well in the province of",
+            "concepts": [
+                {
+                    "word": "center",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "left",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Roberto Gualtieri sarÃÂ  il prossimo sindaco di Roma",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggio-roma-elezioni-sindaco-risultati/",
+            "content": " Il candidato del centrosinistra ha ottenuto oltre venti punti di vantaggio su Enrico Michetti, del centrodestra\t",
+            "ranked": 18,
+            "placed": "Politics",
+            "epoch": 1635672606.1992562,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "Roberto Gualtieri will be the next mayor of Rome",
+            "en_content": "The center-left candidate has obtained over twenty points ahead of Enrico Michetti, of the center-right",
+            "concepts": [
+                {
+                    "word": "Roberto",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "mayor",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Rome",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Anche Roma e Torino al centrosinistra",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggi-amministrative-roma-torino/",
+            "content": " Le vittorie di Gualtieri e Lo Russo si aggiungono a quelle del primo turno di queste amministrative, in cui il centrodestra ha vinto solo a Trieste\t",
+            "ranked": 19,
+            "placed": "Politics",
+            "epoch": 1635672606.199257,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "Also Rome and Turin at the center-left",
+            "en_content": "The victories of Gualtieri and the Russian are added to those of the first round of these administrative, in which the center-right won only in Trieste",
+            "concepts": [
+                {
+                    "word": "Rome",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Turin",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "center",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Stefano Lo Russo del centrosinistra ha vinto a Torino",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/18/torino-ballottaggio-elezione-sindaco-risultato/",
+            "content": " A scrutinio terminato ha superato il 59 per cento dei voti, molto avanti rispetto a Paolo Damilano del centrodestra\t",
+            "ranked": 20,
+            "placed": "Politics",
+            "epoch": 1635672606.1992579,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "Stefano Lo Russo del Centrosinista won in Turin",
+            "en_content": "At the finished ballot has passed 59 percent of the votes, very ahead compared to Paolo Damilano del Centrestra",
+            "concepts": [
+                {
+                    "word": "Stefano",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Russo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Centrosinista",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Turin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂaffluenza ai ballottaggi ÃÂ¨ piuttosto bassa",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggi-affluenza-elezioni-roma-torino/",
+            "content": " Alle 23 di ieri aveva votato il 33% degli elettori, e a Roma ancora meno ",
+            "ranked": 21,
+            "placed": "Politics",
+            "epoch": 1635672606.1992586,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "The turnout at the ballots is rather low",
+            "en_content": "At 11 pm yesterday he voted 33% of voters, and in Rome even less",
+            "concepts": [
+                {
+                    "word": "turnout",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "ballots",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Alle 12 lÃ¢ÂÂaffluenza ai ballottaggi delle elezioni amministrative era del 9,73 per cento",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/17/affluenza-ballottaggi/",
+            "content": " \t",
+            "ranked": 22,
+            "placed": "Politics",
+            "epoch": 1635672606.1992598,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "At 12.00 the turnout of the administrative election ballots was 9.73 percent",
+            "concepts": [
+                {
+                    "word": "turnout",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "election",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ballots",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "percent",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Guida ai ballottaggi delle elezioni amministrative",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/17/ballottaggi-elezioni-amministrative-roma-torino/",
+            "content": " BisognerÃÂ  tenere d'occhio Roma, Torino e Trieste, oltre agli altri capoluoghi: un piccolo atlante per orientarsi\t",
+            "ranked": 23,
+            "placed": "Politics",
+            "epoch": 1635672606.1992605,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "Guide to the ballot of the administrative elections",
+            "en_content": "We must keep an eye on Rome, Turin and Trieste, in addition to the other capitals: a small atlas to orientate",
+            "concepts": [
+                {
+                    "word": "ballot",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "elections",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Torino si prepara al ballottaggio",
+            "date_raw": "October 16, 2021",
+            "date": "2021-10-16",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/16/torino-ballottaggio-lo-russo-damilano/",
+            "content": " DovrÃÂ  scegliere il suo prossimo sindaco tra Stefano Lo Russo del centrosinistra e Paolo Damilano del centrodestra, in una sfida considerata molto aperta\t",
+            "ranked": 24,
+            "placed": "Politics",
+            "epoch": 1635672606.1992612,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "Turin is preparing for ballot",
+            "en_content": "You will have to choose your next mayor between Stefano Lo Russian of the center-left and Paolo Damilano del Centrestra, in a challenge considered very open",
+            "concepts": [
+                {
+                    "word": "Turin",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ballot",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Michetti e Gualtieri si contendono gli elettori di Calenda e Raggi",
+            "date_raw": "October 15, 2021",
+            "date": "2021-10-15",
+            "url": "https://www.ilpost.it/politica/",
+            "news_url": "https://www.ilpost.it/2021/10/15/ballottaggio-roma/",
+            "content": " I loro voti decideranno il ballottaggio a Roma, ma dopo le proteste contro il Green Pass le cose per la destra si sono complicate\t",
+            "ranked": 25,
+            "placed": "Politics",
+            "epoch": 1635672606.1992621,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-31T10.30.06E1635672606.1992862.json",
+            "en_title": "Michetti and Gualtieri contains the voters of Calenda and rays",
+            "en_content": "Their vows will decide the ballot in Rome, but after the protests against the green pass things for the right have complicated",
+            "concepts": [
+                {
+                    "word": "Michetti",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "voters",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Calenda",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "rays",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,795 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Plusieurs policiers genevois sont soupÃÂ§onnÃÂ©s de corruption dans lÃ¢ÂÂaffaire des PÃÂ¢quis",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/plusieurs-policiers-genevois-sont-soupconnes-de-corruption-dans-l-affaire-des-paquis-25772424.html",
+            "duration": "02:40",
+            "ranked": 0,
+            "epoch": 1635454809.7831059,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Several Geneva police officers are defused with corruption in the case of poches",
+            "concepts": [
+                {
+                    "word": "Geneva",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "police",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "officers",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "corruption",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "case",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "poches",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les militants pour le climat se mobilisent avant la COP26",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-militants-pour-le-climat-se-mobilisent-avant-la-cop26-25772425.html",
+            "duration": "01:32",
+            "ranked": 1,
+            "epoch": 1635454809.7831075,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Climate activists mobilize before COP26",
+            "concepts": [
+                {
+                    "word": "Climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "activists",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "COP26",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le canton de Fribourg va aider les cafÃÂ©s-restaurants ÃÂ  hauteur de 3 millions de francs",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-canton-de-fribourg-va-aider-les-cafes-restaurants-a-hauteur-de-3-millions-de-francs-25772429.html",
+            "duration": "01:51",
+            "ranked": 2,
+            "epoch": 1635454809.7831087,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "The canton of Friborg will help coffares at 3 million francs",
+            "concepts": [
+                {
+                    "word": "canton",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Friborg",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "coffares",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "francs",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le Royaume-Uni fait face ÃÂ  une flambÃÂ©e des cas de coronavirus",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-royaume-uni-fait-face-a-une-flambee-des-cas-de-coronavirus-25772433.html",
+            "duration": "01:59",
+            "ranked": 3,
+            "epoch": 1635454809.7831092,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "The United Kingdom faces a flamboy of coronavirus cases",
+            "concepts": [
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kingdom",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "flamboy",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "coronavirus",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "cases",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les opposants ÃÂ  lÃ¢ÂÂinitiative sur les soins infirmiers ont lancÃÂ© leur campagne",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-opposants-a-l-initiative-sur-les-soins-infirmiers-ont-lance-leur-campagne-25772430.html",
+            "duration": "02:06",
+            "ranked": 4,
+            "epoch": 1635454809.7831228,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Opponents of nursing initiative have launched their campaign",
+            "concepts": [
+                {
+                    "word": "Opponents",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "nursing",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "initiative",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "campaign",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La Suisse nÃ¢ÂÂa pas signÃÂ© la dÃÂ©claration commune lue ÃÂ  lÃ¢ÂÂONU pour protÃÂ©ger les OuÃÂ¯ghours du Xinjiang",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suisse-n-a-pas-signe-la-declaration-commune-lue-a-l-onu-pour-proteger-les-ouighours-du-xinjiang-25772432.html",
+            "duration": "01:06",
+            "ranked": 5,
+            "epoch": 1635454809.7831235,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Switzerland has not signed the Joint Declaration read to the United Nations to protect the Xinjiang oriess",
+            "concepts": [
+                {
+                    "word": "Switzerland",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Joint",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Declaration",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Nations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Xinjiang",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "oriess",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Les ÃÂ®les BalÃÂ©ares sont au centre dÃ¢ÂÂune nouvelle route de migration",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-iles-baleares-sont-au-centre-d-une-nouvelle-route-de-migration-25772435.html",
+            "duration": "02:02",
+            "ranked": 6,
+            "epoch": 1635454809.783124,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "The Ballias are at the center of a new migration route",
+            "concepts": [
+                {
+                    "word": "Ballias",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "center",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "migration",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "route",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La biotech Debiopharm a reÃÂ§u une bourse pour ses recherches contre la gonorrhÃÂ©e",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-biotech-debiopharm-a-recu-une-bourse-pour-ses-recherches-contre-la-gonorrhee-25772441.html",
+            "duration": "02:17",
+            "ranked": 7,
+            "epoch": 1635454809.7831244,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "The Biotech Debiopharm received a scholarship for his research against gonorrheated",
+            "concepts": [
+                {
+                    "word": "Biotech",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Debiopharm",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "scholarship",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "research",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La piÃÂ¨ce \"Sleeping\" ÃÂ©voque la fin de vie dÃ¢ÂÂune personne ÃÂ¢gÃÂ©e au thÃÂ©ÃÂ¢tre du Crochetan ÃÂ  Monthey",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-piece-sleeping-evoque-la-fin-de-vie-d-une-personne-agee-au-theatre-du-crochetan-a-monthey-25772443.html",
+            "duration": "03:11",
+            "ranked": 8,
+            "epoch": 1635454809.783125,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "The \"Sleeping\" piece at the end of life of a person in the hook in Monthey",
+            "concepts": [
+                {
+                    "word": "piece",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "end",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "life",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "person",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "hook",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Monthey",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le point J - Faudrait-il se passer de dÃÂ©odorant?",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-point-j-faudrait-il-se-passer-de-deodorant-25772451.html",
+            "duration": "08:37",
+            "ranked": 9,
+            "epoch": 1635454809.7831254,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "The point I should do without defending?",
+            "concepts": [
+                {
+                    "word": "point",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Europa in campo contro il caro-bollette: ÃÂ accordo al Consiglio europeo per fermare gli aumenti.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Draghi: tutelare la ripresa, proteggere gli stati membri dalle pressioni del mercato. ÃÂ . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632137,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Europe in the field against the expensive bills: Ã AGREEMENT to the European Council to stop the increases.",
+            "en_content": "Dragons: protect recovery, protect Member States from market pressures.TO .",
+            "concepts": [
+                {
+                    "word": "Europe",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "field",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "bills",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ã",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "AGREEMENT",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "European",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "increases",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Berlusconi assolto a Siena per il Ruby Ter.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Sul premier dice: meglio che resti a Palazzo Chigi.  Tensione tra Salvini e Meloni, dopo un audio del leader della Lega, che minimizza: non litighiamo. ÃÂ . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632213,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Berlusconi acquitted in Siena for Ruby Ter.",
+            "en_content": "On the premier he says: better than stays at Palazzo Chigi.Voltage between Salvini and Meloni, after an audio of the Leader of the League, which minimizes: do not fight.TO .",
+            "concepts": [
+                {
+                    "word": "Berlusconi",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Siena",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ruby",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ter",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Conte vara la nuova segreteria 5 stelle.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Alla Camera passa la mozione congiunta del centro-sinistra sullo scioglimento di Forza Nuova.  ÃÂ . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632235,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Conte Vara The new 5-star secretariat.",
+            "en_content": "The chamber passes the joint mid-left motion on the new strength dissolution.TO .",
+            "concepts": [
+                {
+                    "word": "Conte",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vara",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "star",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "secretariat",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Vaccini, video denuncia di Emergency e altre decine di organizzazioni: una gara dei 100 metri, corrono i Paesi ricchi, quelli poveri restano fuori.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": "ÃÂ . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632258,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Vaccines, video denunciation of Emergency and other dozens of organizations: a 100 meter race, rich countries run out.",
+            "en_content": "ÃÂ .",
+            "concepts": [
+                {
+                    "word": "Vaccines",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "video",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "denunciation",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Emergency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "dozens",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "organizations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "meter",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "race",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Stati Uniti, tragedia sul set del western Rust: Alec Baldwin spara, muore la direttrice della fotografia.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Ferito gravemente il regista. ÃÂ . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1634936428.963228,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "United States, tragedy on the set of the Western Rust: Alec Baldwin shoots, the director of photography dies.",
+            "en_content": "The director seriously injured.TO .",
+            "concepts": [
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "States",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tragedy",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "set",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Western",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rust",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Alec",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Baldwin",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "director",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "photography",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "A Windsor, e in \"buono spirito\": notte in ospedale - tra mercoledÃÂ¬ e giovedÃÂ¬ - per Elisabetta II.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Buckingham Palace frena le preoccupazioni: solo accertamenti, giÃÂ  dimessa. ÃÂ . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632304,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "In Windsor, and in \"good spirit\": night in the hospital - between Wednesday and Thursday - for Elisabetta II.",
+            "en_content": "Buckingham Palace brakes worries: only checks, already dismissed.TO .",
+            "concepts": [
+                {
+                    "word": "Windsor",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "spirit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "night",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hospital",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Wednesday",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Thursday",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Elisabetta",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "II",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Simonetta Cheli nominata direttrice dei programmi Terra dell'Agenzia Spaziale Europea.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " E al Gr1 racconta: sempre di piÃÂ¹ le donne in ruoli apicali. ÃÂ . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632325,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Simonetta Cheli named Director of Earth Programs of the European Space Agency.",
+            "en_content": "And at GR1 tells: more and more women in apical roles.TO .",
+            "concepts": [
+                {
+                    "word": "Simonetta",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cheli",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Director",
+                    "meaning": "oprd",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Earth",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Programs",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "European",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Space",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Agency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Sport.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Ciclismo su pista.  Ai Mondiali ÃÂ¨ trionfo azzurro, con i complimenti di Palazzo Chigi.  Oro per Letizia Paternoster e per l'inseguimento a squadre maschile, argento per la squadra femminile. . ",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632342,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Sport.",
+            "en_content": "Track cycling.The World Cup is a blue triumph, with the compliments of Palazzo Chigi.Gold for paternoster letizia and male team tracking, silver for the female team..",
+            "concepts": [
+                {
+                    "word": "Sport",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Calcio.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " In Europa League vince il Napoli, pari per la Lazio.  In \"Conference\" figuraccia storica per la Roma, travolta 6 a 1 dai norvegesi del Bodo Glimt. . ",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1634936428.963236,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Football.",
+            "en_content": "In the Europa League wins Napoli, equal to Lazio.In \"Conference\" historical figurate for Roma, 6 to 1 from the Norwegians of the Bodo Glimt..",
+            "concepts": [
+                {
+                    "word": "Football",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

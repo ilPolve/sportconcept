@@ -1,0 +1,827 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Le Conseil fÃÂ©dÃÂ©ral prÃÂ©sente la mise en ÃÂuvre de l'initiative anti-burqa, acceptÃÂ©e le 7 mars dernier",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-conseil-federal-presente-la-mise-en-uvre-de-l-initiative-anti-burqa-acceptee-le-7-mars-dernier-25771850.html",
+            "duration": "01:47",
+            "ranked": 0,
+            "epoch": 1635324284.0971618,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "The Federal Council presents the implementation of the Anti-Burqa Initiative, accepted on March 7th",
+            "concepts": [
+                {
+                    "word": "Federal",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "implementation",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Anti",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "-",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Burqa",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Initiative",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "March",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "7th",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Une entreprise amÃÂ©ricaine de technologie mÃÂ©dicale compte supprimer entre 100 et 140 emplois ÃÂ  la Chaux-de-Fonds",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-entreprise-americaine-de-technologie-medicale-compte-supprimer-entre-100-et-140-emplois-a-la-chaux-de-fonds-25771851.html",
+            "duration": "01:30",
+            "ranked": 1,
+            "epoch": 1635324284.0971637,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "A raised medical technology company intends to remove between 100 and 140 Chaux-de-Fund jobs",
+            "concepts": [
+                {
+                    "word": "technology",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "company",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Chaux",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "de",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Fund",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "jobs",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Les publications scientifiques ÃÂ©crites par des femmes ont baissÃÂ© de 20% pendant la pandÃÂ©mie, selon une ÃÂ©tude genevoise",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-publications-scientifiques-ecrites-par-des-femmes-ont-baisse-de-20-pendant-la-pandemie-selon-une-etude-genevoise-25771853.html",
+            "duration": "02:09",
+            "ranked": 2,
+            "epoch": 1635324284.0971649,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "Scientific publications are criticized by women have fallen by 20% during the panded, according to a genevoise study",
+            "concepts": [
+                {
+                    "word": "publications",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "women",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "%",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "genevoise",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "study",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le tÃÂ©moignage dÃ¢ÂÂun architecte sur la situation en Libye",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-temoignage-d-un-architecte-sur-la-situation-en-libye-25771857.html",
+            "duration": "02:38",
+            "ranked": 3,
+            "epoch": 1635324284.0971656,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "The testimony of an architect on the situation in Libya",
+            "concepts": [
+                {
+                    "word": "testimony",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "architect",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "situation",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Libya",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Ouverture du procÃÂ¨s du footballeur Karim Benzema accusÃÂ© de chantage",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/ouverture-du-proces-du-footballeur-karim-benzema-accuse-de-chantage-25771859.html",
+            "duration": "01:36",
+            "ranked": 4,
+            "epoch": 1635324284.097166,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "OPENING THE PROCESS OF THE FOOTBALLER KARIM BENZEMA CHARGING CHAPTERS",
+            "concepts": [
+                {
+                    "word": "PROCESS",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "FOOTBALLER",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "KARIM",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "BENZEMA",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "CHARGING",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "CHAPTERS",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "IsraÃÂ«l va rÃÂ©gulariser le statut de 4000 Palestiniens en Cisjordanie",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/israel-va-regulariser-le-statut-de-4000-palestiniens-en-cisjordanie-25771863.html",
+            "duration": "01:18",
+            "ranked": 5,
+            "epoch": 1635324284.0971668,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "Israel will remember the status of 4000 Palestinians in the West Bank",
+            "concepts": [
+                {
+                    "word": "Israel",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "status",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Palestinians",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "West",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bank",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les constructeurs automobiles redoutent une pÃÂ©nurie de magnÃÂ©sium suite ÃÂ  des difficultÃÂ©s de production en Chine",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-constructeurs-automobiles-redoutent-une-penurie-de-magnesium-suite-a-des-difficultes-de-production-en-chine-25771860.html",
+            "duration": "01:45",
+            "ranked": 6,
+            "epoch": 1635324284.0971673,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "Automotive manufacturers fear a magnetic penetration following production difficulties in China",
+            "concepts": [
+                {
+                    "word": "manufacturers",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "penetration",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "production",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "difficulties",
+                    "meaning": "pobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "China",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Renaud CapuÃÂ§on jouera un concert de musique classique avec lÃ¢ÂÂOrchestre de chambre de Lausanne en prison",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/renaud-capucon-jouera-un-concert-de-musique-classique-avec-l-orchestre-de-chambre-de-lausanne-en-prison-25771861.html",
+            "duration": "02:41",
+            "ranked": 7,
+            "epoch": 1635324284.097168,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "Renaud CapuÃÂ§on will play a classical music concert with the Lausanne chamber orchestra in prison",
+            "concepts": [
+                {
+                    "word": "Renaud",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "CapuÃÂ§on",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "music",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "concert",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Lausanne",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "chamber",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "orchestra",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les Young Boys accueillent Villarreal en Ligue des champions",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-young-boys-accueillent-villarreal-en-ligue-des-champions-25771871.html",
+            "duration": "01:33",
+            "ranked": 8,
+            "epoch": 1635324284.0971687,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "The Young Boys welcome Villarreal in Champions League",
+            "concepts": [
+                {
+                    "word": "Young",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Boys",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Villarreal",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Champions",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "League",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂinvitÃÂ©e du 12h30 - Jocelyne Robert prÃÂ©sente son ouvrage \"Vieillir avec panache\", en rediffusion",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invitee-du-12h30-jocelyne-robert-presente-son-ouvrage-vieillir-avec-panache-en-rediffusion-25771869.html",
+            "duration": "09:32",
+            "ranked": 9,
+            "epoch": 1635324284.0971692,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "The guest of 12:30 - Jocelyne Robert presents his book \"Aging with panache\", in rebroadcast",
+            "concepts": [
+                {
+                    "word": "guest",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Jocelyne",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Robert",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "book",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Aging",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "panache",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "rebroadcast",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "News Wrap: NYC to mandate COVID vaccine for all public employees",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-nyc-to-mandate-covid-vaccine-for-all-public-employees",
+            "duration": "5 min",
+            "ranked": 0,
+            "epoch": 1634850012.7025278,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "News Wrap: NYC to mandate COVID vaccine for all public employees",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "NYC",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "COVID",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "employees",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "What parents need to know about vaccinating young children against COVID-19",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.pbs.org/newshour/show/what-parents-need-to-know-about-vaccinating-young-children-against-covid-19",
+            "duration": "7 min",
+            "ranked": 1,
+            "epoch": 1634850012.7025301,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "What parents need to know about vaccinating young children against COVID-19",
+            "concepts": [
+                {
+                    "word": "parents",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "children",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "COVID-19",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Sen. Kaine on next moves for voting reform after GOP blocked Dem measure",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.pbs.org/newshour/show/sen-kaine-on-next-moves-for-voting-reform-after-gop-blocked-dem-measure",
+            "duration": "7 min",
+            "ranked": 2,
+            "epoch": 1634850012.702531,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "Sen. Kaine on next moves for voting reform after GOP blocked Dem measure",
+            "concepts": [
+                {
+                    "word": "Sen.",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kaine",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "moves",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "reform",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "GOP",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "measure",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Why BidenÃ¢ÂÂs approval rating is sinking and how Americans view democracy, justice",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.pbs.org/newshour/show/why-bidens-approval-rating-is-tanking-and-how-americans-view-democracy-justice",
+            "duration": "7 min",
+            "ranked": 3,
+            "epoch": 1634850012.7025316,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "Why BidenÃ¢ÂÂs approval rating is sinking and how Americans view democracy, justice",
+            "concepts": [
+                {
+                    "word": "BidenÃ¢ÂÂs",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "approval",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rating",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Americans",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "democracy",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "justice",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Idlib, SyriaÃ¢ÂÂs final rebel stronghold, struggles to get lifesaving aid amid COVID spike",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.pbs.org/newshour/show/idlib-syrias-final-rebel-stronghold-struggles-to-get-lifesaving-aid-amid-covid-spike",
+            "duration": "6 min",
+            "ranked": 4,
+            "epoch": 1634850012.7025323,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "Idlib, SyriaÃ¢ÂÂs final rebel stronghold, struggles to get lifesaving aid amid COVID spike",
+            "concepts": [
+                {
+                    "word": "Idlib",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "SyriaÃ¢ÂÂs",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rebel",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "stronghold",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "aid",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "COVID",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "spike",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Chappelle Netflix special is Ã¢ÂÂhate speech disguised as jokes,Ã¢ÂÂ advocate says",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.pbs.org/newshour/show/chappelle-netflix-special-is-hate-speech-disguised-as-jokes-advocate-says",
+            "duration": "7 min",
+            "ranked": 5,
+            "epoch": 1634850012.7025328,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "Chappelle Netflix special is Ã¢ÂÂhate speech disguised as jokes,Ã¢ÂÂ advocate says",
+            "concepts": [
+                {
+                    "word": "Chappelle",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Netflix",
+                    "meaning": "compound",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "speech",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "jokes",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ã¢ÂÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "advocate",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Pilot oxygen backup system offers new hope for Ugandan hospitals plagued by power cuts",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.pbs.org/newshour/show/pilot-oxygen-backup-system-offers-new-hope-for-ugandan-hospitals-plagued-by-power-cuts",
+            "duration": "5 min",
+            "ranked": 6,
+            "epoch": 1634850012.7025337,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "Pilot oxygen backup system offers new hope for Ugandan hospitals plagued by power cuts",
+            "concepts": [
+                {
+                    "word": "Pilot",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "oxygen",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "system",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "hope",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Ugandan",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hospitals",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "power",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "cuts",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Tuba player Richard Antoine WhiteÃ¢ÂÂs journey from homelessness to Ã¢ÂÂbelongingÃ¢ÂÂ on stage",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.pbs.org/newshour/show/tuba-player-richard-antoine-whites-journey-from-homelessness-to-belonging-on-stage",
+            "duration": "6 min",
+            "ranked": 7,
+            "epoch": 1634850012.7025342,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-20.json",
+            "en_title": "Tuba player Richard Antoine WhiteÃ¢ÂÂs journey from homelessness to Ã¢ÂÂbelongingÃ¢ÂÂ on stage",
+            "concepts": [
+                {
+                    "word": "Tuba",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "player",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Richard",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Antoine",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "WhiteÃ¢ÂÂs",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "homelessness",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ã¢ÂÂbelongingÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "stage",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

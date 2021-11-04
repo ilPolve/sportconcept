@@ -1,0 +1,855 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Objectifs ambitieux en matiÃÂ¨re climatique pour l'administration fÃÂ©dÃÂ©rale et les ex-rÃÂ©gies",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/objectifs-ambitieux-en-matiere-climatique-pour-l-administration-federale-et-les-ex-regies-25771543.html",
+            "duration": "02:18",
+            "ranked": 0,
+            "epoch": 1635195608.0389519,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "Ambitious climatic objectives for the federal administration and ex-regions",
+            "concepts": [
+                {
+                    "word": "objectives",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "administration",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "ex",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "-",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "regions",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Une nouvelle ZAD, ou zone ÃÂ  dÃÂ©fendre, occupÃÂ©e au centre dÃ¢ÂÂYverdon",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-nouvelle-zad-ou-zone-a-defendre-occupee-au-centre-d-yverdon-25771572.html",
+            "duration": "01:06",
+            "ranked": 1,
+            "epoch": 1635195608.038954,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "A new ZAD, or zone to defend, occupied at the center of Yverdon",
+            "concepts": [
+                {
+                    "word": "ZAD",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "zone",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "center",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Yverdon",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "\"Clendy-Dessous, quartier vivant\", la nouvelle ZAD dÃ¢ÂÂYverdon: interview de Pierre Dessemontet",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/clendy-dessous-quartier-vivant-la-nouvelle-zad-d-yverdon-interview-de-pierre-dessemontet-25771569.html",
+            "duration": "03:09",
+            "ranked": 2,
+            "epoch": 1635195608.038955,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "\"Clendy below, live neighborhood\", the new ZAD of Yverdon: Interview with Pierre Desemontet",
+            "concepts": [
+                {
+                    "word": "Clendy",
+                    "meaning": "npadvmod",
+                    "pos": "ADV"
+                },
+                {
+                    "word": "neighborhood",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ZAD",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Yverdon",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Interview",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Pierre",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Desemontet",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Deux ans aprÃÂ¨s la faillite, les remontÃÂ©es mÃÂ©caniques de Charmey repartent sur de bonnes bases",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/deux-ans-apres-la-faillite-les-remontees-mecaniques-de-charmey-repartent-sur-de-bonnes-bases-25771568.html",
+            "duration": "01:30",
+            "ranked": 3,
+            "epoch": 1635195608.0389557,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "Two years after bankruptcy, the meatic reassembles of Charmey leave on a good basis",
+            "concepts": [
+                {
+                    "word": "years",
+                    "meaning": "npadvmod",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "bankruptcy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "reassembles",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Charmey",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "basis",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les exportations suisses atteignent des niveaux records",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-exportations-suisses-atteignent-des-niveaux-records-25771571.html",
+            "duration": "01:46",
+            "ranked": 4,
+            "epoch": 1635195608.0389564,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "Swiss exports reach record levels",
+            "concepts": [
+                {
+                    "word": "exports",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "record",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "levels",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "StÃÂ©phane Grodecki quitte son poste de premier procureur ÃÂ  GenÃÂ¨ve",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/stephane-grodecki-quitte-son-poste-de-premier-procureur-a-geneve-25771545.html",
+            "duration": "01:53",
+            "ranked": 5,
+            "epoch": 1635195608.0389574,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "STÃ Â© phane GRODECKI leaves its position as First Prosecutor in Geneva",
+            "concepts": [
+                {
+                    "word": "STÃ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Â",
+                    "meaning": "compound",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "phane",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "GRODECKI",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "position",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "First",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Prosecutor",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Geneva",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le Premier ministre polonais Mateusz Morawiecki dÃÂ©nonce \"le chantage\" de Bruxelles",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-premier-ministre-polonais-mateusz-morawiecki-denonce-le-chantage-de-bruxelles-25771561.html",
+            "duration": "02:37",
+            "ranked": 6,
+            "epoch": 1635195608.0389583,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "Polish Prime Minister Mateusz Morawiecki DÃ©neca \"Chairmanship\" from Brussels",
+            "concepts": [
+                {
+                    "word": "Prime",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Minister",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Mateusz",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Morawiecki",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "DÃ",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "©",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "neca",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Chairmanship",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Brussels",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Reprise du procÃÂ¨s d'une ancienne secrÃÂ©taire d'un camp de concentration nazi en Allemagne",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/reprise-du-proces-d-une-ancienne-secretaire-d-un-camp-de-concentration-nazi-en-allemagne-25771570.html",
+            "duration": "01:39",
+            "ranked": 7,
+            "epoch": 1635195608.0389588,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "Recovery of the proceeds of an old secret of a Nazi concentration camp in Germany",
+            "concepts": [
+                {
+                    "word": "Recovery",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "proceeds",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "secret",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "concentration",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "camp",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Non vaccinÃÂ©, Novak Djokovic ne pourra peut-ÃÂªtre pas dÃÂ©fendre son titre ÃÂ  lÃ¢ÂÂOpen dÃ¢ÂÂAustralie",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/non-vaccine-novak-djokovic-ne-pourra-peut-etre-pas-defendre-son-titre-a-l-open-d-australie-25771573.html",
+            "duration": "01:25",
+            "ranked": 8,
+            "epoch": 1635195608.0389595,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "No Vaccinated, Novak Djokovic can not be able to defend its title to the Open of Australia",
+            "concepts": [
+                {
+                    "word": "Vaccinated",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Novak",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Djokovic",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "title",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Open",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Australia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂinvitÃÂ©e du 12h30 - Maud Ventura prÃÂ©sente son ouvrage \"Mon mari\", en rediffusion",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invitee-du-12h30-maud-ventura-presente-son-ouvrage-mon-mari-en-rediffusion-25771577.html",
+            "duration": "09:05",
+            "ranked": 9,
+            "epoch": 1635195608.0389602,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "The guest of 12:30 - Maud Ventura presents his book \"My husband\", in rebroadcast",
+            "concepts": [
+                {
+                    "word": "guest",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Ventura",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "book",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "husband",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rebroadcast",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Amministrative, le cittÃÂ  al Centrosinistra.",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-2b1105fc-0a44-42ed-b199-6d1d060b0cd5.html",
+            "content": " Dopo Milano, Napoli e Bologna, ai ballottaggi il Pd conquista Roma e Torino, con Gualtieri e Lo Russo.  Al centrodestra resta Trieste, con Di Piazza.  Crolla l'affluenza. . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1634655713.4411073,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "Administrative, the city at the center.",
+            "en_content": "After Milan, Naples and Bologna, the Democratic Party conquer to the ballot, with Gualtieri and the Russian.At the center-right stay Trieste, with a square.The turnout collapses..",
+            "concepts": [
+                {
+                    "word": "Administrative",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "city",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "center",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Letta: \"Vince l'alleanza larga, il governo ora ÃÂ¨ piÃÂ¹ forte\".",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-2b1105fc-0a44-42ed-b199-6d1d060b0cd5.html",
+            "content": " Conte: \"Protagonista l'astensionismo, un dovere rispondere\". . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1634655713.4411118,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "Letta: \"Win the wide alliance, the government is stronger\".",
+            "en_content": "Count: \"protagonist of abstention, a duty to respond\"..",
+            "concepts": [
+                {
+                    "word": "Letta",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "alliance",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Salvini: \"E' il successo di una minoranza\".",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-2b1105fc-0a44-42ed-b199-6d1d060b0cd5.html",
+            "content": " Meloni: \"Sconfitta, non debacle\".  ÃÂ Berlusconi: \"Vincenti i nostri candidati\". . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1634655713.4411144,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "Salvini: \"It is the success of a minority\".",
+            "en_content": "Melons: \"Defeat, not Debacle\".Ã Berlusconi: \"Winning our candidates\"..",
+            "concepts": [
+                {
+                    "word": "Salvini",
+                    "meaning": "dep",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "success",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "minority",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Legge di bilancio, in mattinata per Draghi cabina di regia sul documento programmatico.",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-2b1105fc-0a44-42ed-b199-6d1d060b0cd5.html",
+            "content": " Poi il consiglio dei ministri. ÃÂ . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1634655713.4411163,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "Budgetary law, in the morning for dragons regia cabin on the programmatic document.",
+            "en_content": "Then the Council of Ministers.TO .",
+            "concepts": [
+                {
+                    "word": "law",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "morning",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "dragons",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "regia",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "cabin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "document",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "\"No alle derive antiscientifiche\": monito di Mattarella contro le proteste violente di no vax e no Green Pass: \"Iniziative che addolorano, ostacolano la ripresa del Paese\".",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-2b1105fc-0a44-42ed-b199-6d1d060b0cd5.html",
+            "content": ". ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1634655713.4411187,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "\"No to the anti-slip drives\": Mattarella monitor against the violent protests of No Vax and No Green Pass: \"Initiatives that sorrow, hinder the resumption of the country\".",
+            "en_content": ".",
+            "concepts": [
+                {
+                    "word": "drives",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Mattarella",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "protests",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "No",
+                    "meaning": "det",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vax",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Green",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Pass",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Initiatives",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sorrow",
+                    "meaning": "dobj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "resumption",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "country",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Assalto alla Cgil, altri due arresti.",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-2b1105fc-0a44-42ed-b199-6d1d060b0cd5.html",
+            "content": " E dopo le tensioni di ieri al porto di Trieste, gli aggiornamenti in diretta, con la nostra inviata. ÃÂ . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1634655713.4411206,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "Assault on the CGIL, two other arrests.",
+            "en_content": "And after yesterday's tensions at the port of Trieste, updates live, with our submitted.TO .",
+            "concepts": [
+                {
+                    "word": "Assault",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "CGIL",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "arrests",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "\"L'Afghanistan ÃÂ¨ l'unico paese al mondo che vieta l'istruzione alle ragazze, privandole del futuro\": lettera aperta di Malala ai talebani.",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-2b1105fc-0a44-42ed-b199-6d1d060b0cd5.html",
+            "content": "ÃÂ . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1634655713.4411232,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "\"Afghanistan is the only country in the world that prohibits education to girls, depriving them of the future\": open letter from Malala to the Taliban.",
+            "en_content": "ÃÂ .",
+            "concepts": [
+                {
+                    "word": "Afghanistan",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "country",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "world",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "education",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "girls",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "future",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "letter",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Malala",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Taliban",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Moro liberato dalle Br nella serie di Bellocchio per Rai1: in anteprima alla Festa del Cinema di Roma alcune sorprendenti sequenze di Esterno notte.",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-2b1105fc-0a44-42ed-b199-6d1d060b0cd5.html",
+            "content": "ÃÂ . ",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1634655713.4411254,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "Moro freed from the br in the Bellocchio series for Rai1: a preview of the Rome Film Festival some surprising night-end sequences.",
+            "en_content": "ÃÂ .",
+            "concepts": [
+                {
+                    "word": "Moro",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "br",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Bellocchio",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "series",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Rai1",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "preview",
+                    "meaning": "appos",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Rome",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Film",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Festival",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "night",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "end",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sequences",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Sport.",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-2b1105fc-0a44-42ed-b199-6d1d060b0cd5.html",
+            "content": " Calcio senza sosta.  Nel posticipo di serie A il Venezia batte la Fiorentina, e da stasera 3 giorni di coppe europee.  Si ricomincia dalla Champions, con Inter e Milan. . ",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1634655713.4411275,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-19.json",
+            "en_title": "Sport.",
+            "en_content": "Soccer football.In the postponement of Serie A Il Venice beat Fiorentina, and by tonight 3 days of European Cups.It starts again from the Champions champions, with Inter and Milan..",
+            "concepts": [
+                {
+                    "word": "Sport",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        }
+    ]
+}

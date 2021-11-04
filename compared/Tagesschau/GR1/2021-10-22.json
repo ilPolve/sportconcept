@@ -1,0 +1,936 @@
+{
+    "simils_concepts": [
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 2,
+                "n_newA": 6,
+                "n_newB": 10,
+                "n_possible": 60,
+                "concepts_found": [
+                    {
+                        "word": "Alec",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Baldwin",
+                        "meaning": "nsubjpass",
+                        "pos": "VERB"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": " TÃÂ¶dlicher Zwischenfall bei Dreharbeiten: Schauspieler Alec Baldwin erschieÃÂt Kamerafrau",
+                    "date_raw": "October 22, 2021",
+                    "date": "2021-10-22",
+                    "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45405.html",
+                    "content": "",
+                    "ranked": "5",
+                    "epoch": 1634936417.787675,
+                    "language": "de",
+                    "source": "Tagesschau",
+                    "filename": "conc_en_2021-10-22.json",
+                    "en_title": "Dead incident in filming: Actor Alec Baldwin is located camera",
+                    "concepts": [
+                        {
+                            "word": "incident",
+                            "meaning": "nsubjpass",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "filming",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Actor",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Alec",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Baldwin",
+                            "meaning": "nsubjpass",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "camera",
+                            "meaning": "oprd",
+                            "pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stati Uniti, tragedia sul set del western Rust: Alec Baldwin spara, muore la direttrice della fotografia.",
+                    "date_raw": "October 22, 2021",
+                    "date": "2021-10-22",
+                    "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+                    "content": " Ferito gravemente il regista. ÃÂ . ",
+                    "ranked": 4,
+                    "placed": "First_Page",
+                    "epoch": 1634936428.963228,
+                    "language": "it",
+                    "source": "GR1",
+                    "filename": "conc_en_2021-10-22.json",
+                    "en_title": "United States, tragedy on the set of the Western Rust: Alec Baldwin shoots, the director of photography dies.",
+                    "en_content": "The director seriously injured.TO .",
+                    "concepts": [
+                        {
+                            "word": "United",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "States",
+                            "meaning": "nsubj",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "tragedy",
+                            "meaning": "dep",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "set",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Western",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Rust",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Alec",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Baldwin",
+                            "meaning": "compound",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "director",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "photography",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "edition_a": [
+        {
+            "title": "Nach MinisterprÃÂ¤sidentenkonferenz dringen die LÃÂ¤nder auf einheitliche Corona-SchutzmaÃÂnahmen",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45405.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1634936417.7875962,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "According to Ministerial Presidential Conference, the countries penetrate to uniform corona protection measures",
+            "concepts": [
+                {
+                    "word": "Ministerial",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Presidential",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Conference",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "protection",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "measures",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Corona-Neuinfektionen liegen laut RKI bei 19.572",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45405.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1634936417.787619,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Corona new infections are located according to RKI at 19,572",
+            "concepts": [
+                {
+                    "word": "Corona",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "infections",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "RKI",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " \"Fridays for Future\"-Demonstration fÃÂ¼r mehr Klimaschutz in Berlin",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45405.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1634936417.787636,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "\"Fridays for Future\" demonstration for more climate protection in Berlin",
+            "concepts": [
+                {
+                    "word": "Fridays",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "demonstration",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "protection",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Berlin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " EU-Gipfel: Weitere Sanktionen gegen Belarus geplant",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45405.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1634936417.787649,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "EU summit: Further sanctions against Belarus planned",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "summit",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sanctions",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Belarus",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " NATO will ihre AbwehrfÃÂ¤higkeiten in Bezug auf Russland stÃÂ¤rken",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45405.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1634936417.787662,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "NATO wants to strengthen her defenses in relation to Russia",
+            "concepts": [
+                {
+                    "word": "NATO",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "defenses",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "relation",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Russia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " TÃÂ¶dlicher Zwischenfall bei Dreharbeiten: Schauspieler Alec Baldwin erschieÃÂt Kamerafrau",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45405.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1634936417.787675,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Dead incident in filming: Actor Alec Baldwin is located camera",
+            "concepts": [
+                {
+                    "word": "incident",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "filming",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Actor",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Alec",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Baldwin",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "camera",
+                    "meaning": "oprd",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " In Oslo erÃÂ¶ffnet das Munch-Museum",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45405.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1634936417.7876863,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "In Oslo, the Munch Museum opens",
+            "concepts": [
+                {
+                    "word": "Oslo",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Munch",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Museum",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Komponist Udo Zimmermann im Alter von 78 Jahren gestorben",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45405.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1634936417.787698,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Composer Udo Zimmermann died at the age of 78 years",
+            "concepts": [
+                {
+                    "word": "Composer",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Udo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Zimmermann",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "age",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "years",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Spanischer Asturien-Preis fÃÂ¼r an Biontech-GrÃÂ¼nder Sahin und TÃÂ¼reci",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45405.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1634936417.7877097,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Spanish Asturias Prize for BionTech GrÃ¼nder Sahin and Turkey",
+            "concepts": [
+                {
+                    "word": "Spanish",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Asturias",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Prize",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "BionTech",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "GrÃ¼nder",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Sahin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Turkey",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-45405.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1634936417.7877212,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "The weather",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Europa in campo contro il caro-bollette: ÃÂ accordo al Consiglio europeo per fermare gli aumenti.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Draghi: tutelare la ripresa, proteggere gli stati membri dalle pressioni del mercato. ÃÂ . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632137,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Europe in the field against the expensive bills: Ã AGREEMENT to the European Council to stop the increases.",
+            "en_content": "Dragons: protect recovery, protect Member States from market pressures.TO .",
+            "concepts": [
+                {
+                    "word": "Europe",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "field",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "bills",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ã",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "AGREEMENT",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "European",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "increases",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Berlusconi assolto a Siena per il Ruby Ter.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Sul premier dice: meglio che resti a Palazzo Chigi.  Tensione tra Salvini e Meloni, dopo un audio del leader della Lega, che minimizza: non litighiamo. ÃÂ . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632213,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Berlusconi acquitted in Siena for Ruby Ter.",
+            "en_content": "On the premier he says: better than stays at Palazzo Chigi.Voltage between Salvini and Meloni, after an audio of the Leader of the League, which minimizes: do not fight.TO .",
+            "concepts": [
+                {
+                    "word": "Berlusconi",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Siena",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ruby",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ter",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Conte vara la nuova segreteria 5 stelle.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Alla Camera passa la mozione congiunta del centro-sinistra sullo scioglimento di Forza Nuova.  ÃÂ . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632235,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Conte Vara The new 5-star secretariat.",
+            "en_content": "The chamber passes the joint mid-left motion on the new strength dissolution.TO .",
+            "concepts": [
+                {
+                    "word": "Conte",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vara",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "star",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "secretariat",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Vaccini, video denuncia di Emergency e altre decine di organizzazioni: una gara dei 100 metri, corrono i Paesi ricchi, quelli poveri restano fuori.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": "ÃÂ . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632258,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Vaccines, video denunciation of Emergency and other dozens of organizations: a 100 meter race, rich countries run out.",
+            "en_content": "ÃÂ .",
+            "concepts": [
+                {
+                    "word": "Vaccines",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "video",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "denunciation",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Emergency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "dozens",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "organizations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "meter",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "race",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Stati Uniti, tragedia sul set del western Rust: Alec Baldwin spara, muore la direttrice della fotografia.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Ferito gravemente il regista. ÃÂ . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1634936428.963228,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "United States, tragedy on the set of the Western Rust: Alec Baldwin shoots, the director of photography dies.",
+            "en_content": "The director seriously injured.TO .",
+            "concepts": [
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "States",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tragedy",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "set",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Western",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rust",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Alec",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Baldwin",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "director",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "photography",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "A Windsor, e in \"buono spirito\": notte in ospedale - tra mercoledÃÂ¬ e giovedÃÂ¬ - per Elisabetta II.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Buckingham Palace frena le preoccupazioni: solo accertamenti, giÃÂ  dimessa. ÃÂ . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632304,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "In Windsor, and in \"good spirit\": night in the hospital - between Wednesday and Thursday - for Elisabetta II.",
+            "en_content": "Buckingham Palace brakes worries: only checks, already dismissed.TO .",
+            "concepts": [
+                {
+                    "word": "Windsor",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "spirit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "night",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hospital",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Wednesday",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Thursday",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Elisabetta",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "II",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Simonetta Cheli nominata direttrice dei programmi Terra dell'Agenzia Spaziale Europea.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " E al Gr1 racconta: sempre di piÃÂ¹ le donne in ruoli apicali. ÃÂ . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632325,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Simonetta Cheli named Director of Earth Programs of the European Space Agency.",
+            "en_content": "And at GR1 tells: more and more women in apical roles.TO .",
+            "concepts": [
+                {
+                    "word": "Simonetta",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cheli",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Director",
+                    "meaning": "oprd",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Earth",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Programs",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "European",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Space",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Agency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Sport.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Ciclismo su pista.  Ai Mondiali ÃÂ¨ trionfo azzurro, con i complimenti di Palazzo Chigi.  Oro per Letizia Paternoster e per l'inseguimento a squadre maschile, argento per la squadra femminile. . ",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632342,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Sport.",
+            "en_content": "Track cycling.The World Cup is a blue triumph, with the compliments of Palazzo Chigi.Gold for paternoster letizia and male team tracking, silver for the female team..",
+            "concepts": [
+                {
+                    "word": "Sport",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Calcio.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " In Europa League vince il Napoli, pari per la Lazio.  In \"Conference\" figuraccia storica per la Roma, travolta 6 a 1 dai norvegesi del Bodo Glimt. . ",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1634936428.963236,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Football.",
+            "en_content": "In the Europa League wins Napoli, equal to Lazio.In \"Conference\" historical figurate for Roma, 6 to 1 from the Norwegians of the Bodo Glimt..",
+            "concepts": [
+                {
+                    "word": "Football",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

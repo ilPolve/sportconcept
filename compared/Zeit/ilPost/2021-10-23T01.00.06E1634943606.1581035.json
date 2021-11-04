@@ -1,0 +1,1597 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Mainz schieÃt sich gegen Augsburg in obere TabellenhÃ¤lfte",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/sport/2021-10/bundesliga-9-spieltag-spielberichte",
+            "content": "Der 1. FSV Mainz hat den FC Augsburg am neunten Spieltag der FuÃball-Bundesliga mit 4:1 geschlagen. Das Team mit Trainer Bo Svensson rÃ¼ckt auf Platz sechs vor.",
+            "ranked": 0,
+            "epoch": 1634943606.158039,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Mainz shoots against Augsburg in upper table half",
+            "en_content": "The 1st FSV Mainz has beaten the FC Augsburg on the ninth matchday of the Football Bundesliga with 4: 1.The team with coach Bo Svensson moves into six place.",
+            "concepts": [
+                {
+                    "word": "Mainz",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Augsburg",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "table",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Luxemburg erlaubt kÃ¼nftig Cannabisanbau fÃ¼r Eigenbedarf",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/cannabis-luxemburg-legalisierung-eigenbedarf-massnahmenpaket",
+            "content": "Schon lange hat Premierminister Bettel die Legalisierung versprochen. Nun legt sein Kabinett konkrete PlÃ¤ne vor, Anbau und Konsum von Cannabis zu Hause zu erlauben.",
+            "ranked": 1,
+            "epoch": 1634943606.158042,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Luxembourg in the future allows cannabis cultivation for own needs",
+            "en_content": "Prime Minister Bettel has long promised the legalization.Now his cabinet lays concrete plans to allow cultivation and consumption of cannabis at home.",
+            "concepts": [
+                {
+                    "word": "Luxembourg",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "future",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "cultivation",
+                    "meaning": "ccomp",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "needs",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Eurofighter verursachen Ãberschallknall im Rhein-Main-Gebiet",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/luftwaffe-eurofighter-knall-ueberschall",
+            "content": "Zwei Kampfjets der Bundeswehr haben die Schallmauer durchbrochen und damit vielen Menschen einen Schrecken eingejagt. Die Piloten mussten ein ziviles Flugzeug aufspÃ¼ren.",
+            "ranked": 2,
+            "epoch": 1634943606.1580434,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Eurofighter cause supersonic bang in the Rhine-Main area",
+            "en_content": "Two fighter jets of the Bundeswehr have broken the sound wall and hatched many people a horror.The pilots had to detect a civilian plane.",
+            "concepts": [
+                {
+                    "word": "Eurofighter",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "bang",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Rhine",
+                    "meaning": "compound",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "area",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Zahl neuer Infektionen steigt im Vorwochenvergleich um mehr als 5.000",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/wissen/2021-10/coronavirus-neuinfektionen-rki-gesundheitsaemter-zahlen-anstieg-vorwoche",
+            "content": "Unseren Daten zufolge haben die GesundheitsÃ¤mter zuletzt 16.862 neue Corona-Infektionen binnen 24 Stunden registriert. Zudem wurden 133 weitere TodesfÃ¤lle gemeldet.",
+            "ranked": 3,
+            "epoch": 1634943606.1580448,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Number of new infections rises by more than 5,000 in the pre-week comparison",
+            "en_content": "According to our data, the health offices last 16,862 new corona infections registered within 24 hours.In addition, 133 other deaths were reported.",
+            "concepts": [
+                {
+                    "word": "Number",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "infections",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "comparison",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Republik Moldau ruft wegen Gaskrise Notstand aus",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/moldau-gas-notstand-ausrufung-gas-krise-gazprom-russland",
+            "content": "Der frÃ¼heren Sowjetrepublik fehlt nach eigenen Angaben ein Drittel der Ã¼blichen Oktoberlieferung an Gas. Grund sind schwierige Vertragsverhandlungen mit Gazprom.",
+            "ranked": 4,
+            "epoch": 1634943606.158046,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Republic of Moldova calls emergencies due to gas crisis",
+            "en_content": "The former Soviet republic lacks a third of the usual October delivery to gas.Reason are difficult contract negotiations with Gazprom.",
+            "concepts": [
+                {
+                    "word": "Republic",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Moldova",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "emergencies",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "gas",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "crisis",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Ich muss mich vor Leuten verstecken, die nach mir suchen",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/kultur/2021-10/afghanistan-frauen-leben-kabul-taliban-erfahrungsbericht-10-nach-8",
+            "content": "Vor zwei Monaten hat der Westen Afghanistan verlassen. Wie sieht das Leben von Frauen dort nun aus? Unsere Autorin, deren IdentitÃ¤t wir schÃ¼tzen, lebt in Kabul.",
+            "ranked": 5,
+            "epoch": 1634943606.1580472,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "I have to hide my people looking for me",
+            "en_content": "Two months ago, the west left Afghanistan.What does the life of women look like there now?Our author, whose identity we protect, lives in Kabul.",
+            "concepts": [
+                {
+                    "word": "people",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Drachengame over?",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/digital/internet/2021-10/url-drachenlord-drachengame-rainer-winkler-altschauerberg-cybermobbing",
+            "content": "Rainer W. alias Drachenlord wird gemobbt, digital und analog. So sehr, dass er manchmal ausrastet. Nun muss er in Haft â das vorlÃ¤ufige Ende eines bÃ¶sen Spiels.",
+            "ranked": 6,
+            "epoch": 1634943606.1580482,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "DragonGame Over?",
+            "en_content": "Rainer W. Alias Drachenlord is bullied, digital and analog.So much that he sometimes rested.Now he has to be detained - the preliminary end of a bad game.",
+            "concepts": [
+                {
+                    "word": "DragonGame",
+                    "meaning": "dep",
+                    "pos": "ADV"
+                }
+            ]
+        },
+        {
+            "title": "Koalitionsverhandlungen von Rot-GrÃ¼n-Rot in Berlin begonnen",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/politik/deutschland/2021-10/berliner-abgeordnetenhaus-koalitionsverhandlungen-spd-gruene-linke-beginn",
+            "content": "Mehr Polizisten, mehr U-Bahn, weniger Miete: SPD, GrÃ¼ne und Linke haben sich viel vorgenommen fÃ¼r die Hauptstadt. Streit kÃ¶nnte es beim Thema Enteignungen geben.",
+            "ranked": 7,
+            "epoch": 1634943606.158049,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Coalition negotiations started by red-green-red in Berlin",
+            "en_content": "More policemen, more subway, less rent: SPD, Greens and Left have made a lot made for the capital.Dispute could give it to the subject of expropriations.",
+            "concepts": [
+                {
+                    "word": "Coalition",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "negotiations",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Berlin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Rechte Oase in Bayern",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/esoterik-rechtsextremismus-antisemitismus-anastasia-bewegung-bayern",
+            "content": "Esoteriker wollen im AllgÃ¤u ein Dorf errichten. Nun entpuppen sich die GrÃ¼nder als AnhÃ¤nger von VerschwÃ¶rungstheorien und Antisemitismus. Vor Ort dreht sich die Stimmung.",
+            "ranked": 8,
+            "epoch": 1634943606.1580498,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Right oasis in Bavaria",
+            "en_content": "Esoterists want to build a village in the AllgÃ¤u.Now the founders turn out to be a follower of conspiracy theories and anti-Semitism.On site, the mood turns.",
+            "concepts": [
+                {
+                    "word": "oasis",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Bavaria",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Sechs PalÃ¤stinensergruppen zu Terrororganisationen erklÃ¤rt",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/israel-palaestinensergruppen-terrororganisationen-ngos-benny-gantz-amnesty-international",
+            "content": "Israel stuft mehrere Gruppierungen wegen mutmaÃlichen Verbindungen zu Linksextremen als terroristisch ein. Mitglieder kÃ¶nnen nun strafrechtlich verfolgt werden.",
+            "ranked": 9,
+            "epoch": 1634943606.1580508,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Six Palestinian groups explained to terrorist organizations",
+            "en_content": "Israel classifies several groupings due to alleged links to left-sextremen as terrorist.Members can now be prosecuted.",
+            "concepts": [
+                {
+                    "word": "groups",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "organizations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Supreme Court lÃ¤sst Abtreibungsverbot in Texas vorlÃ¤ufig in Kraft",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/supreme-court-usa-texas-strenges-abtreibungsverbot-abtreibungsgesetz-in-kraft",
+            "content": "Ein texanisches Gesetz verbietet SchwangerschaftsabbrÃ¼che nach der sechsten Schwangerschaftswoche. Die Richter des Supreme Courts haben eine mÃ¼ndliche AnhÃ¶rung angesetzt.",
+            "ranked": 10,
+            "epoch": 1634943606.1580515,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Supreme Court allows abortion ban in Texas provisionally in force",
+            "en_content": "A Texan law prohibits pregnancy crashes after the sixth week of pregnancy.The judges of the Supreme Courts have set an oral hearing.",
+            "concepts": [
+                {
+                    "word": "Supreme",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Court",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "abortion",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ban",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Texas",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "force",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Abgang der Kompromissmeisterin",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/europaeische-union-eu-gipfel-bruessel-angela-merkel",
+            "content": "Ein EU-Gipfel, geprÃ¤gt von Krisen und Spaltung â und dem Abschied von seiner erfahrensten Verhandlerin. Welches Europa hinterlÃ¤sst Angela Merkel ihrem Nachfolger?",
+            "ranked": 11,
+            "epoch": 1634943606.1580527,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Departure of the compromise master",
+            "en_content": "An EU summit, shaped by crises and cleavage - and farewell to its most experienced negotiator.Which Europe Leaves Angela Merkel her successor?",
+            "concepts": [
+                {
+                    "word": "Departure",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "compromise",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "master",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "\"Jede und jeder Einzelne kann tonnenweise COâ einsparen\"",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/wissen/2021-10/michael-bilharz-co-fussabdruck-senken-umweltbundesamt-klimakrise-klimaneutralitaet-nachhaltigkeit",
+            "content": "Monatelang ist der Klimaaktivist Michael Bilharz durch Deutschland geradelt. Seine Botschaft: Wenn wir auf die Politik warten, kommen wir mit dem Klimaschutz zu spÃ¤t.",
+            "ranked": 12,
+            "epoch": 1634943606.1580534,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "\"Each and each one can save tons of COâ\"",
+            "en_content": "Monthly, the climate activist Michael Bilharz is brightened by Germany.His message: When we wait for politics, we come too late with climate protection.",
+            "concepts": [
+                {
+                    "word": "one",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "tons",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "COâ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "EU-Regierungschefs werfen Belarus \"hybride Angriffe\" vor",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/eu-gipfeltreffen-bruessel-belarus-polen-gefluechtete-migration-debatte-regierungschefs",
+            "content": "Die EU-Staaten haben bei ihrem Gipfel weitere Sanktionen gegen das Regime von Alexander Lukaschenko angekÃ¼ndigt. Manche forderten mehr GrenzschutzzÃ¤une.",
+            "ranked": 13,
+            "epoch": 1634943606.158054,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "EU heads of government throw Belarus \"hybrid attacks\"",
+            "en_content": "The EU states have announced further sanctions against the regime of Alexander Lukashenko at their summit.Some demanded more border control fences.",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "heads",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Belarus",
+                    "meaning": "dative",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "attacks",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Nur Baerbock sieht klar",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/politik/deutschland/2021-10/deutsch-russische-beziehung-angela-merkel-nato-wladimir-putin",
+            "content": "Russland erpresst Europa, die GrÃ¼nenchefin macht Nord Stream 2 verantwortlich. Diese Klarheit fehlt den Ampel-Partnern, die GrÃ¼nen sollten das AuswÃ¤rtige Amt Ã¼bernehmen.",
+            "ranked": 14,
+            "epoch": 1634943606.1580548,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Only Baerbock sees clear",
+            "en_content": "Russia erupts Europe, the green chef makes Nord Stream 2 responsible.This clarity lacks the traffic light partners, the Greens should take over the Foreign Office.",
+            "concepts": [
+                {
+                    "word": "Baerbock",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Nato sortiert sich nach Verteidigungsministertreffen neu",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/nato-militaerbuendnis-verteidigungsminister-treffen-technologien-strategie-neuausrichtung",
+            "content": "Die Nato-Partner haben sich auf mehr Kooperation und Investitionen in neue Technologien verstÃ¤ndigt. Auch der chaotische Abzug aus Afghanistan war Thema.",
+            "ranked": 15,
+            "epoch": 1634943606.1580558,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "NATO is sorted by Defense Ministerial Meeting New",
+            "en_content": "The NATO partners have agreed on more cooperation and investment in new technologies.The chaotic deduction from Afghanistan was topic.",
+            "concepts": [
+                {
+                    "word": "NATO",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Defense",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ministerial",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Meeting",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "New",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Bedroht, weil sie impfen",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/politik/2021-10/corona-regeln-durchsetzung-drohungen-maskenpflicht-nachrichtenpodcast",
+            "content": "Die Berliner Ãrztekammer warnt vor \"Aggressionen und TÃ¤tlichkeiten\" gegen Impfpersonal. Was tun? AuÃerdem im Podcast-Update: Merkels Abschied auf dem EU-Gipfel",
+            "ranked": 16,
+            "epoch": 1634943606.1580565,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Threatened because they vaccinate",
+            "en_content": "The Berlin Medical Association warns against \"aggression and diet\" against vaccination personnel.What to do?Also in the podcast update: Merkel's farewell to the EU summit",
+            "concepts": []
+        },
+        {
+            "title": "\"Meine Lehrer waren keine groÃe Hilfe\"",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/campus/2021-10/studentin-stipendium-bafoeg-reisen-auslandsjahr-gehaltsprotokoll",
+            "content": "Sie kommt aus einer Familie mit kaum Geld. Trotzdem wollte sie frÃ¼h ins Ausland. Das anonyme Gehaltsprotokoll einer Studentin, die einen Weg fand, ihre PlÃ¤ne zu erfÃ¼llen.",
+            "ranked": 17,
+            "epoch": 1634943606.1580575,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "\"My teachers were not a great help\"",
+            "en_content": "She comes from a family with hardly any money.Nevertheless, she wanted early abroad.The anonymous salary spy of a student who found a way to fulfill their plans.",
+            "concepts": [
+                {
+                    "word": "teachers",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "help",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Bundespolizei registriert mehr illegale Einreisen aus Belarus",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/migration-polen-belarus-grenze-route-bundespolizei-illegale-einreise-gefluechtete",
+            "content": "Der Autokrat Lukaschenko schickt offenbar immer mehr FlÃ¼chtlinge nach Westen. Der Bund will nun verhindern, dass die Menschen Ã¼berhaupt nach Belarus gelangen.",
+            "ranked": 18,
+            "epoch": 1634943606.1580684,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Federal Police Registers more illegal entry from Belarus",
+            "en_content": "The Autocrat Lukashenko obviously sends more and more refugees to the west.The federal government now wants to prevent people from getting to Belarus at all.",
+            "concepts": [
+                {
+                    "word": "Federal",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Police",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "entry",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Belarus",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Gutachter fordern dauerhaft Psychiatrie fÃ¼r mutmaÃlichen AttentÃ¤ter",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/wuerzburg-anschlag-messerangriff-attentaeter-schuldunfaehig-psychatrie-unterbringung-gutachten",
+            "content": "Ein Mann stach im Juni mit einem KÃ¼chenmesser in WÃ¼rzburg wahllos auf Menschen ein und tÃ¶tete drei Frauen. Zwei Gutachter stuften ihn nun als schuldunfÃ¤hig ein.",
+            "ranked": 19,
+            "epoch": 1634943606.1580696,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-23T01.00.06E1634943606.1581035.json",
+            "en_title": "Appraisers demand permanently psychiatry for alleged assassin",
+            "en_content": "A man stable in June with a kitchen knife in WÃ¼rzburg indiscriminately on people and killed three women.Two appraisers now streamled him as guilty.",
+            "concepts": [
+                {
+                    "word": "Appraisers",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "psychiatry",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "assassin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Le linea telefonica contro la violenza sulle donne, dove a chiamare sono gli uomini",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.ilpost.it/2021/10/22/linea-telefonica-violenza-donne-bogota/",
+            "content": " ÃÂ stata attivata lo scorso anno a BogotÃÂ , in Colombia, su iniziativa della sindaca Claudia LÃÂ³pez, e sembra funzionare abbastanza bene ",
+            "ranked": 0,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561067,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "The telephone line against violence against women, where to call are men",
+            "en_content": "Was activated last year in BogotÃ£, Colombia, on the initiative of the mayor Claudia LÃÂ³pez, and seems to work quite well",
+            "concepts": [
+                {
+                    "word": "telephone",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "line",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "women",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "men",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Le conseguenze di Brexit, finora",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.ilpost.it/2021/10/22/impatto-brexit-economia-britannica/",
+            "content": " ÃÂ passato meno di un anno dall'uscita del Regno Unito dall'Unione Europea, e ne abbiamo visto soltanto un piccolo pezzo\t",
+            "ranked": 1,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561122,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "The consequences of Brexit, so far",
+            "en_content": "It was lost less than a year from the United Kingdom exit from the European Union, and we only saw a small piece",
+            "concepts": [
+                {
+                    "word": "consequences",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Brexit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Sulla Polonia si ÃÂ¨ deciso di non decidere",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.ilpost.it/2021/10/22/polonia-consiglio-europeo/",
+            "content": " Dopo la controversa sentenza della Corte Costituzionale polacca, i leader europei hanno scartato le opzioni piÃÂ¹ dure, come la sospensione di altri fondi comunitari\t",
+            "ranked": 2,
+            "placed": "Abroad",
+            "epoch": 1634956206.656114,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "On Poland it was decided not to decide",
+            "en_content": "After the controversial sentence of the Polish Constitutional Court, European leaders have discarded the hardest options, such as the suspension of other Community funds",
+            "concepts": [
+                {
+                    "word": "Poland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "A Melbourne, in Australia, ÃÂ¨ finito il lockdown piÃÂ¹ lungo del mondo, durato quasi nove mesi",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.ilpost.it/2021/10/22/melbourne-australia-lockdown/",
+            "content": " \t",
+            "ranked": 3,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561155,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "In Melbourne, Australia, the longest Lockdown in the world is over, which lasted almost nine months",
+            "concepts": [
+                {
+                    "word": "Melbourne",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Australia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Lockdown",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "world",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "months",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "ÃÂ stato trovato il corpo di Brian Laundrie, il fidanzato della blogger americana Gabby Petito sospettato di averla uccisa",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.ilpost.it/2021/10/22/brian-laundry-trovato-gabby-petit/",
+            "content": " \t",
+            "ranked": 4,
+            "placed": "Abroad",
+            "epoch": 1634956206.656117,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "The Body of Brian Laundrie was found, the boyfriend of the American blogger Gabby Petito suspected of having killed her",
+            "concepts": [
+                {
+                    "word": "Body",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Brian",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Laundrie",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "boyfriend",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "blogger",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gabby",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Petito",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Alec Baldwin ha sparato con unÃ¢ÂÂarma di scena su un set e ha ucciso una donna",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.ilpost.it/2021/10/22/alec-baldwin-sparatoria-film-rust/",
+            "content": " Non si sa ancora cosa sia successo di preciso, ma la direttrice della fotografia del film che stava girando ÃÂ¨ morta\t",
+            "ranked": 5,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561186,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "Alec Baldwin shot with a weapon on a set and killed a woman",
+            "en_content": "You don't know what exactly happened, but the director of photography of the film that was turning is dead",
+            "concepts": [
+                {
+                    "word": "Alec",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Baldwin",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "weapon",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "set",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "woman",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La Camera statunitense ha votato per ritenere Steve Bannon penalmente responsabile per essersi rifiutato di testimoniare a unÃ¢ÂÂinchiesta sullÃ¢ÂÂattacco al Congresso",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/camera-rappresentati-usa-votato-ritenere-steve-bannon-penalmente-responsabile-reato-oltraggio/",
+            "content": " \t",
+            "ranked": 6,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561198,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "The US Chamber voted to consider Steve Bannon criminally responsible for refusing to testify to a congress attack inquiry",
+            "concepts": [
+                {
+                    "word": "US",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Chamber",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Steve",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bannon",
+                    "meaning": "nsubj",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "congress",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "attack",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "inquiry",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il governo del Benin ha legalizzato lÃ¢ÂÂaborto fino alla 12esima settimana",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/benin-legalizzato-aborto/",
+            "content": " \t",
+            "ranked": 7,
+            "placed": "Abroad",
+            "epoch": 1634956206.656122,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "The Benin government has legalized abortion until the 12th week",
+            "concepts": [
+                {
+                    "word": "Benin",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "abortion",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "week",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La complicata e confusa storia dellÃ¢ÂÂuccisione di una pallavolista da parte dei talebani",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/uccisione-pallavolista-talebani/",
+            "content": " ÃÂ stata ripresa da giornali e politici italiani, ma nelle ultime ore sono emersi diversi dubbi sulla versione dei fatti piÃÂ¹ diffusa\t",
+            "ranked": 8,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561232,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "The complicated and confused history of the killing of a volleyball player by the Taliban",
+            "en_content": "It was taken up by Italian newspapers and politicians, but in the last hours several doubts emerged on the version of the most widespread facts",
+            "concepts": [
+                {
+                    "word": "history",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "killing",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "volleyball",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "player",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Taliban",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Barbados ha eletto la prima presidente della sua storia, Sandra Mason",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/barbados-repubblica-prima-presidente/",
+            "content": " \t",
+            "ranked": 9,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561244,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "Barbados elected the first president of his story, Sandra Mason",
+            "concepts": [
+                {
+                    "word": "Barbados",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "president",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "story",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sandra",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Mason",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La volta che la svastica e la Union Jack sventolarono insieme nel Regno Unito",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/union-jack-svastica-foto/",
+            "content": " Successe a Nottingham nel 1936, e sembra sia stata l'unica volta che le due bandiere furono issate assieme su un edificio britannico\t",
+            "ranked": 10,
+            "placed": "Abroad",
+            "epoch": 1634956206.656126,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "The time the swastika and Union Jack waved together in the United Kingdom",
+            "en_content": "It happened to Nottingham in 1936, and it seems to have been the only time the two flags were hoisted together on a British building",
+            "concepts": [
+                {
+                    "word": "time",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "swastika",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Union",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Jack",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kingdom",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La Russia non si fida del suo vaccino",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/russia-sfiducia-vaccino-sputnik-v/",
+            "content": " Solo un terzo della popolazione ÃÂ¨ completamente vaccinato con Sputnik V, mentre nuovi casi e decessi continuano ad aumentare\t",
+            "ranked": 11,
+            "placed": "Abroad",
+            "epoch": 1634956206.656127,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "Russia does not trust its vaccine",
+            "en_content": "Only one third of the population is completely vaccinated with SPUTNIK V, while new cases and deaths continue to increase",
+            "concepts": [
+                {
+                    "word": "Russia",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Lo Sri Lanka vorrebbe passare allÃ¢ÂÂagricoltura biologica, ma ÃÂ¨ complicato",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/sri-lanka-agricoltura-biologica/",
+            "content": " ÃÂ iniziata una crisi alimentare, e il governo si ÃÂ¨ rimangiato alcune importanti decisioni prese negli ultimi mesi\t",
+            "ranked": 12,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561282,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "Sri Lanka would like to go through organic farming, but it is complicated",
+            "en_content": "A food crisis has begun, and the government has remained some important decisions taken in recent months",
+            "concepts": [
+                {
+                    "word": "Sri",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lanka",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "farming",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Trump ha annunciato la sua nuova piattaforma, TRUTH Social",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/donald-trump-social-truth/",
+            "content": " ArriverÃÂ  nel 2022: l'ex presidente statunitense ha detto di averla creata ÃÂ«per opporsi alla tirannia delle societÃÂ  Big TechÃÂ»\t",
+            "ranked": 13,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561294,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "Trump announced its new platform, Truth Social",
+            "en_content": "It will arrive in 2022: the former US President said he created her Â«to oppose the tyranny of the big tech companyÂ»",
+            "concepts": [
+                {
+                    "word": "Trump",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "platform",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Truth",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Social",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "QuestÃ¢ÂÂestate la Cina ha testato due armi ipersoniche, dice il Financial Times",
+            "date_raw": "October 21, 2021",
+            "date": "2021-10-21",
+            "news_url": "https://www.ilpost.it/2021/10/21/cina-armi-ipersoniche-test/",
+            "content": " \t",
+            "ranked": 14,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561306,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "This summer China has tested two hypersonic weapons, says the Financial Times",
+            "concepts": [
+                {
+                    "word": "summer",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "China",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "weapons",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Financial",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Times",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Il giorno in cui morÃÂ¬ Gheddafi",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/morte-gheddafi-10-anni/",
+            "content": " Il 20 ottobre 2011 l'ex presidente libico fu catturato dai ribelli e poi ucciso: fu uno dei momenti che cambiarono la storia della Libia ",
+            "ranked": 15,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561317,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "The day he died Gaddafi",
+            "en_content": "On 20 October 2011 the former Libyan president was captured by the rebels and then killed: it was one of the moments that changed the history of Libya",
+            "concepts": [
+                {
+                    "word": "day",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Gaddafi",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La fine dellÃ¢ÂÂETA, dieci anni fa",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/fine-eta-dieci-anni-fa/",
+            "content": " Il gruppo terroristico basco rinunciÃÂ² alla lotta armata il 20 ottobre del 2011, dopo un lungo conflitto per l'indipendenza dallo stato spagnolo e oltre 800 morti\t",
+            "ranked": 16,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561332,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "The end of age, ten years ago",
+            "en_content": "The Basque terrorist group gave up the armed struggle on October 20, 2011, after a long conflict for independence from the Spanish State and over 800 deaths",
+            "concepts": [
+                {
+                    "word": "end",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "age",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "years",
+                    "meaning": "npadvmod",
+                    "pos": "ADV"
+                }
+            ]
+        },
+        {
+            "title": "Alexei Navalny ha vinto il PremioÃÂ Sakharov per la libertÃÂ  di pensiero",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/alexei-navalny-premio-sakharov-per-la-liberta-di-pensiero/",
+            "content": " \t",
+            "ranked": 17,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561341,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "Alexei Navalny won the Sakharov award for freedom of thought",
+            "concepts": [
+                {
+                    "word": "Alexei",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Navalny",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Sakharov",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "award",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "freedom",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "thought",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Il presidente ceco ÃÂ¨ ÃÂ«incapace di svolgere le sue funzioniÃÂ»?",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/milos-zeman-repubblica-ceca/",
+            "content": " Sembra di sÃÂ¬: Milos Zeman ÃÂ¨ in terapia intensiva, i suoi collaboratori sono indagati per avere taciuto le sue condizioni di salute\t",
+            "ranked": 18,
+            "placed": "Abroad",
+            "epoch": 1634956206.656135,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "Is the Czech President Â«unable to carry out its functionsÃÂ»?",
+            "en_content": "It seems to yes: Milos Zeman is in intensive care, his collaborators are investigated to have kept his health conditions",
+            "concepts": [
+                {
+                    "word": "Czech",
+                    "meaning": "amod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "President",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "functionsÃÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "»",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Almeno 13 persone sono state uccise in un attentato a Damasco, in Siria",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/damasco-attacco-veicolo-militare/",
+            "content": " \t",
+            "ranked": 19,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561446,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "At least 13 people were killed in an attack in Damascus, in Syria",
+            "concepts": [
+                {
+                    "word": "people",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "attack",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Damascus",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Syria",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Steve Bannon potrebbe essere incriminato per oltraggio al Congresso",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/steva-bannon-oltraggio-congress/",
+            "content": " Lo ha chiesto la commissione che indaga sull'attacco al Campidoglio, a causa del rifiuto dell'ex stratega di Trump di testimoniare\t",
+            "ranked": 20,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561453,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "Steve Bannon could be indicted for outrage to the congress",
+            "en_content": "The Commission asked of the attack on the Capitol requested, due to the rejection of the former Trump strategist to testify",
+            "concepts": [
+                {
+                    "word": "Steve",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bannon",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "outrage",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "congress",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Almeno 46 persone sono morte per unÃ¢ÂÂalluvione nel nord dellÃ¢ÂÂIndia",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/india-alluvione-himalaya/",
+            "content": " \t",
+            "ranked": 21,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561463,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "At least 46 people died for a flood in the north of India",
+            "concepts": [
+                {
+                    "word": "people",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "flood",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "north",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "India",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La Corea del Nord dice di aver testato un nuovo tipo di missile balistico, lanciato da un sottomarino",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/corea-del-nord-missile-sottomarino/",
+            "content": " \t",
+            "ranked": 22,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561472,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "North Korea says he tested a new type of ballistic missile, launched by a submarine",
+            "concepts": [
+                {
+                    "word": "North",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Korea",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "type",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "missile",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "submarine",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Almeno 30 persone sono state uccise in Nigeria in un attacco di un gruppo armato locale",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/nigeria-attacco-goronyo-morti/",
+            "content": " \t",
+            "ranked": 23,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561477,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "At least 30 people were killed in Nigeria in an attack of a local armed group",
+            "concepts": [
+                {
+                    "word": "people",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Nigeria",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "attack",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "group",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂassassino per cui hanno fatto il tifo molti cinesi",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/ou-jinzhong-assassino-fuga-cina/",
+            "content": " Era stato accusato di aver ucciso due vicini per una disputa legata a una casa, e si sarebbe suicidato lunedÃÂ¬ dopo una settimana di fuga\t",
+            "ranked": 24,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561484,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "The killer for which many Chinese cheered",
+            "en_content": "He had been accused of killing two neighbors for a dispute tied to a house, and he would suicide Monday after a week of escape",
+            "concepts": [
+                {
+                    "word": "killer",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Chinese",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Cosa cÃ¢ÂÂÃÂ¨ dietro lÃ¢ÂÂaumento dei contagi nel Regno Unito",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/regno-unito-aumento-contagi-coronavirus/",
+            "content": " Limitazioni piÃÂ¹ blande o rimosse troppo presto sembrano essere le cause principali, per ora non c'ÃÂ¨ un'emergenza negli ospedali\t",
+            "ranked": 25,
+            "placed": "Abroad",
+            "epoch": 1634956206.6561491,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-23T04.30.06E1634956206.656171.json",
+            "en_title": "What is behind the increase in contagion in the United Kingdom",
+            "en_content": "More bland limitations or removed too soon seem to be the main causes, for now there is no emergency in hospitals",
+            "concepts": [
+                {
+                    "word": "increase",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "contagion",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kingdom",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

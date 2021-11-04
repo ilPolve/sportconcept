@@ -10,7 +10,7 @@ basedir = "../newScraping/collectedNews/"
 
 def main():
     for my_subdir in my_subdirs:
-        pos_tagger(getting_news(my_subdir), my_subdir)
+        pos_tagger(getting_news(my_subdir), my_subdir)  
 
 def create_concept(word, meaning, pos):
     concept= {'word': word, 'meaning': meaning, 'pos': pos}

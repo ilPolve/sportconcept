@@ -1,0 +1,1204 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "DRAGHI LODA LA CAMPAGNA VACCINALE    \"In Italia piÃÂ¹ spediti che nell'Ue\"   Consiglio Ue, il premier al Senato",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+            "content": "",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1634716808.038261,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-20T10.00.08E1634716808.038309.json",
+            "en_title": "Dragons praises the vaccination countryside \"in Italy more sent than in the EU\" EU Council, the Premier in the Senate",
+            "concepts": [
+                {
+                    "word": "Dragons",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "vaccination",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "countryside",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "EU",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "EU",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Premier",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Senate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "MANOVRA DA 23MLD,PER TAGLIO TASSE 8 MLD PiÃÂ¹ fondi per SanitÃÂ  e Istruzione    CdM approva il Dpb all'unanimitÃÂ ",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+            "content": "",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1634716808.0382702,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-20T10.00.08E1634716808.038309.json",
+            "en_title": "23md maneuver, for cutting fees 8 billion more funds for sanitas and CDM statement approves the unanimetable DPB",
+            "concepts": [
+                {
+                    "word": "maneuver",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "fees",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "funds",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sanitas",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "CDM",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "statement",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "DPB",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "COVID, RAPPORTO SENATO CONTRO BOLSONARO \"Crimini intenzionali\" in pandemia",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+            "content": "",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1634716808.0382774,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-20T10.00.08E1634716808.038309.json",
+            "en_title": "Covid, Senate report against Bolsonaro \"intentional crimes\" in pandemic",
+            "concepts": [
+                {
+                    "word": "Covid",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Senate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "report",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bolsonaro",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "crimes",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "ASSALTO A CONGRESSO,BANNON SOTTO ACCUSA Commissione a favore azione penale",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+            "content": "",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1634716808.0382843,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-20T10.00.08E1634716808.038309.json",
+            "en_title": "Congress Assault, Bannon under accuses Commission in favor of criminal action",
+            "concepts": [
+                {
+                    "word": "Congress",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Assault",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bannon",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "accuses",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Commission",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "favor",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "action",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "COVID,2.697 NUOVI CASI E 70 VITTIME",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+            "content": "",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1634716808.038291,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-20T10.00.08E1634716808.038309.json",
+            "en_title": "Covid, 2,697 new cases and 70 victims",
+            "concepts": [
+                {
+                    "word": "Covid",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "cases",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "victims",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "TV, SI PARTE PER IL NUOVO DIGITALE",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+            "content": "",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1634716808.038298,
+            "language": "it",
+            "source": "Televideo",
+            "filename": "conc_en_2021-10-20T10.00.08E1634716808.038309.json",
+            "en_title": "TV, we start for the new digital",
+            "concepts": [
+                {
+                    "word": "TV",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Il presidente ceco ÃÂ¨ ÃÂ«incapace di svolgere le sue funzioniÃÂ»?",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/milos-zeman-repubblica-ceca/",
+            "content": " Sembra di sÃÂ¬: Milos Zeman ÃÂ¨ in terapia intensiva e ora i suoi collaboratori sono indagati per avere taciuto le sue condizioni di salute ",
+            "ranked": 0,
+            "placed": "Abroad",
+            "epoch": 1634730373.5915978,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "Is the Czech President Â«unable to carry out its functionsÃÂ»?",
+            "en_content": "It seems to yes: Milos Zeman is in intensive care and now his collaborators are investigated to have kept his health conditions",
+            "concepts": [
+                {
+                    "word": "Czech",
+                    "meaning": "amod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "President",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "functionsÃÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "»",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Almeno 13 persone sono state uccise in un attentato a Damasco, in Siria",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/damasco-attacco-veicolo-militare/",
+            "content": " \t",
+            "ranked": 1,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916011,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "At least 13 people were killed in an attack in Damascus, in Syria",
+            "concepts": [
+                {
+                    "word": "people",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "attack",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Damascus",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Syria",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Steve Bannon potrebbe essere incriminato per oltraggio al Congresso",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/steva-bannon-oltraggio-congress/",
+            "content": " Lo ha chiesto la commissione che indaga sull'attacco al Campidoglio, a causa del rifiuto dell'ex stratega di Trump di testimoniare\t",
+            "ranked": 2,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916028,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "Steve Bannon could be indicted for outrage to the congress",
+            "en_content": "The Commission asked of the attack on the Capitol requested, due to the rejection of the former Trump strategist to testify",
+            "concepts": [
+                {
+                    "word": "Steve",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bannon",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "outrage",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "congress",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Almeno 46 persone sono morte per unÃ¢ÂÂalluvione nel nord dellÃ¢ÂÂIndia",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/india-alluvione-himalaya/",
+            "content": " \t",
+            "ranked": 3,
+            "placed": "Abroad",
+            "epoch": 1634730373.591604,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "At least 46 people died for a flood in the north of India",
+            "concepts": [
+                {
+                    "word": "people",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "flood",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "north",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "India",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La Corea del Nord dice di aver testato un nuovo tipo di missile balistico, lanciato da un sottomarino",
+            "date_raw": "October 20, 2021",
+            "date": "2021-10-20",
+            "news_url": "https://www.ilpost.it/2021/10/20/corea-del-nord-missile-sottomarino/",
+            "content": " \t",
+            "ranked": 4,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916052,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "North Korea says he tested a new type of ballistic missile, launched by a submarine",
+            "concepts": [
+                {
+                    "word": "North",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Korea",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "type",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "missile",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "submarine",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Almeno 30 persone sono state uccise in Nigeria in un attacco di un gruppo armato locale",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/nigeria-attacco-goronyo-morti/",
+            "content": " \t",
+            "ranked": 5,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916066,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "At least 30 people were killed in Nigeria in an attack of a local armed group",
+            "concepts": [
+                {
+                    "word": "people",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Nigeria",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "attack",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "group",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂassassino per cui hanno fatto il tifo molti cinesi",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/ou-jinzhong-assassino-fuga-cina/",
+            "content": " Era stato accusato di aver ucciso due vicini per una disputa legata a una casa, e si sarebbe suicidato lunedÃÂ¬ dopo una settimana di fuga\t",
+            "ranked": 6,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916078,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "The killer for which many Chinese cheered",
+            "en_content": "He had been accused of killing two neighbors for a dispute tied to a house, and he would suicide Monday after a week of escape",
+            "concepts": [
+                {
+                    "word": "killer",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Chinese",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Cosa cÃ¢ÂÂÃÂ¨ dietro lÃ¢ÂÂaumento dei contagi nel Regno Unito",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/regno-unito-aumento-contagi-coronavirus/",
+            "content": " Limitazioni piÃÂ¹ blande o rimosse troppo presto sembrano essere le cause principali, per ora non c'ÃÂ¨ un'emergenza negli ospedali\t",
+            "ranked": 7,
+            "placed": "Abroad",
+            "epoch": 1634730373.591609,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "What is behind the increase in contagion in the United Kingdom",
+            "en_content": "More bland limitations or removed too soon seem to be the main causes, for now there is no emergency in hospitals",
+            "concepts": [
+                {
+                    "word": "increase",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "contagion",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kingdom",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La Corea del Nord ha lanciato un altro missile balistico nel Mar del Giappone",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/corea-del-nord-missile-giappone/",
+            "content": " \t",
+            "ranked": 8,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916104,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "North Korea launched another ballistic missile in the Sea of Japan",
+            "concepts": [
+                {
+                    "word": "North",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Korea",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "missile",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Sea",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Japan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La parte vera di Ã¢ÂÂSquid GameÃ¢ÂÂ",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/squid-game-debiti-corea-del-sud/",
+            "content": " Quella che racconta il problema dell'indebitamento privato, che in Corea del Sud ÃÂ¨ sempre piÃÂ¹ grave e diffuso\t",
+            "ranked": 9,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916176,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "The real part of Ã¢ â¬ ÅSquid GameÃ¢ â¬",
+            "en_content": "The one that tells the problem of private debt, which in South Korea is increasingly serious and widespread",
+            "concepts": [
+                {
+                    "word": "part",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ÅSquid",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "GameÃ¢",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "ÃÂ morto Colin Powell",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/colin-powell-morto/",
+            "content": " Fu segretario di Stato americano durante l'amministrazione di George W. Bush: aveva 84 anni e si era ammalato di COVID-19\t",
+            "ranked": 10,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916188,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "It died Colin Powell",
+            "en_content": "It was a US Secretary of State during the administration of George W. Bush: he was 84 and he was sick of Covid-19",
+            "concepts": [
+                {
+                    "word": "Colin",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Powell",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Il governo spagnolo vuole ÃÂ«abolire la prostituzioneÃÂ»",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/pedro-sanchez-prostituzione/",
+            "content": " In Spagna se ne discute da tempo, soprattutto perchÃÂ© a oggi ÃÂ¨ in un limbo tra legalitÃÂ  e illegalitÃÂ \t",
+            "ranked": 11,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916202,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "The Spanish government wants to Â«abolish prostitutionÂ»",
+            "en_content": "In Spain it has been discussed for some time, especially because today is in a limbo between legality and illegality",
+            "concepts": [
+                {
+                    "word": "government",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "prostitutionÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "»",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Il massacro degli algerini a Parigi",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/massacro-algerini-parigi/",
+            "content": " Avvenne 60 anni fa durante una manifestazione per chiedere l'indipendenza dell'Algeria dalla Francia: ne ha riparlato Macron in un modo che perÃÂ² non ÃÂ¨ piaciuto a tutti\t",
+            "ranked": 12,
+            "placed": "Abroad",
+            "epoch": 1634730373.591621,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "The Algerian massacre in Paris",
+            "en_content": "He took place 60 years ago during a demonstration to ask for the independence of Algeria from France: he talked about Macron in a way that he didn't like everyone",
+            "concepts": [
+                {
+                    "word": "massacre",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂeconomia cinese ÃÂ¨ cresciuta del 4,9 per cento nellÃ¢ÂÂultimo trimestre: ÃÂ¨ la crescita economica piÃÂ¹ bassa dellÃ¢ÂÂultimo anno",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/economia-cina-calo/",
+            "content": " \t",
+            "ranked": 13,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916219,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "The Chinese economy grew by 4.9 percent in the last quarter: it is the lowest economic growth of the last year",
+            "concepts": [
+                {
+                    "word": "economy",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "percent",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "quarter",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "growth",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "year",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂuccisione di David Amess potrebbe cambiare la politica britannica",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/david-amess-regno-unito-scorta-politici/",
+            "content": " Gli stretti contatti tra politici ed elettori sono parte di una tradizione ormai secolare, ma molti la stanno mettendo in discussione\t",
+            "ranked": 14,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916228,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "The killing of David Amess could change the British policy",
+            "en_content": "The close contacts between politicians and voters are part of a tradition that is now secular, but many are putting it into question",
+            "concepts": [
+                {
+                    "word": "killing",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "David",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Amess",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "policy",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "In India sono morte almeno 25 persone per inondazioni e frane",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/india-kerala-alluvioni-frane/",
+            "content": " \t",
+            "ranked": 15,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916243,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "In India, at least 25 people are dead for floods and landslides",
+            "concepts": [
+                {
+                    "word": "India",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "people",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "floods",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "landslides",
+                    "meaning": "conj",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂeruzione del vulcano sullÃ¢ÂÂisola di La Palma non si fermerÃÂ  presto, ha detto il presidente della regione delle Canarie",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/eruzione-vulcano-cumbre-vieja-la-palma-continua/",
+            "content": " \t",
+            "ranked": 16,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916252,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "The volcano eruption on the island of La Palma will not stop soon, said the President of the Canary region",
+            "concepts": [
+                {
+                    "word": "volcano",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "eruption",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "island",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Palma",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "President",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Canary",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "region",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La Grande Moschea della Mecca ÃÂ¨ tornata a ospitare i fedeli senza limitazioni e distanziamento",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/grande-moschea-mecca-arabia-saudita-restrizioni/",
+            "content": " \t",
+            "ranked": 17,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916262,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "The great mecca mosque has returned to host the faithful without restrictions and spacing",
+            "concepts": [
+                {
+                    "word": "mecca",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "mosque",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "restrictions",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "In un arcipelago di Taiwan il cielo notturno ÃÂ¨ illuminato di verde",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/taiwan-cina-isole-luci-verdi/",
+            "content": " A causa delle barche dei pescatori cinesi di calamari, e la cosa non piace agli abitanti locali\t",
+            "ranked": 18,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916274,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "In a Taiwan archipelago the night sky is illuminated with green",
+            "en_content": "Due to the boats of Chinese squid fishermen, and it doesn't like local inhabitants",
+            "concepts": [
+                {
+                    "word": "Taiwan",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "archipelago",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "night",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sky",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Almeno 17 missionari americani sono stati rapiti ad Haiti",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/missionari-americani-rapiti-haiti-port-au-prince/",
+            "content": " \t",
+            "ranked": 19,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916283,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "At least 17 American missionaries have been kidnapped in Haiti",
+            "concepts": [
+                {
+                    "word": "missionaries",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Haiti",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Lo scontro tra Stati Uniti e Venezuela su un imprenditore colombiano",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/stati-uniti-venezuela-saab/",
+            "content": " Il regime venezuelano ha arrestato cittadini americani e interrotto i negoziati con l'opposizione dopo l'estradizione di un suo alleato\t",
+            "ranked": 20,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916295,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "The clash between the United States and Venezuela on a Colombian entrepreneur",
+            "en_content": "The Venezuelan regime has arrested American citizens and interrupted the negotiations with the opposition after the extradition of its ally",
+            "concepts": [
+                {
+                    "word": "clash",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "States",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Venezuela",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "entrepreneur",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "In Sudan migliaia di persone hanno manifestato per chiedere allÃ¢ÂÂesercito di prendere il potere",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/sudan-manifestazione-regime-militare-khartoum/",
+            "content": " \t",
+            "ranked": 21,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916307,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "In Sudan thousands of people manifested to ask the army to take power",
+            "concepts": [
+                {
+                    "word": "Sudan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "thousands",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "people",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "army",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "power",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "PerchÃÂ© la Cina ce lÃ¢ÂÂha con la Lituania",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/cina-lituania/",
+            "content": " Al piccolo paese europeo piace provocare la superpotenza mondiale, con qualche risultato\t",
+            "ranked": 22,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916348,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "Because China has it with Lithuania",
+            "en_content": "At the small European country likes to provoke worldwide superpower, with some results",
+            "concepts": [
+                {
+                    "word": "China",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Lithuania",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Un giudice sta mettendo nei guai la classe politica libanese",
+            "date_raw": "October 16, 2021",
+            "date": "2021-10-16",
+            "news_url": "https://www.ilpost.it/2021/10/16/tarek-bitar-giudice-libano/",
+            "content": " Tarek Bitar ha incriminato noti ministri per l'esplosione al porto di Beirut, con pochi risultati processuali ma grandi risultati politici\t",
+            "ranked": 23,
+            "placed": "Abroad",
+            "epoch": 1634730373.591636,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "A judge is putting the Lebanese political class in trouble",
+            "en_content": "TAREK BITAR has indicted known ministers for the explosion to the port of Beirut, with few procedural results but great political results",
+            "concepts": [
+                {
+                    "word": "judge",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "class",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "trouble",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "CÃ¢ÂÂÃÂ¨ crisi nel centrodestra europeo",
+            "date_raw": "October 16, 2021",
+            "date": "2021-10-16",
+            "news_url": "https://www.ilpost.it/2021/10/16/centrodestra-europeo-crisi-leader/",
+            "content": " Con la fine del mandato di Angela Merkel e le dimissioni del cancelliere austriaco Sebastian Kurz, i conservatori hanno perso influenza in Europa\t",
+            "ranked": 24,
+            "placed": "Abroad",
+            "epoch": 1634730373.591637,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "CÃ¢ â¬ â¢ crisis in the European center-right",
+            "en_content": "With the end of the mandate of Angela Merkel and the resignation of the Austrian Chancellor Sebastian Kurz, conservatives have lost influence in Europe",
+            "concepts": [
+                {
+                    "word": "CÃ¢",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "â¬",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "â¢",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "crisis",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "center",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "right",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Quelli che comprano e vendono ossa umane negli Stati Uniti",
+            "date_raw": "October 16, 2021",
+            "date": "2021-10-16",
+            "news_url": "https://www.ilpost.it/2021/10/16/mercato-scheletri-ossa-umane/",
+            "content": " Teschi e scheletri servono per lo studio scientifico, ma a volte il modo in cui vengono venduti e poi usati solleva diversi dubbi etici\t",
+            "ranked": 25,
+            "placed": "Abroad",
+            "epoch": 1634730373.5916383,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T13.46.13E1634730373.5916607.json",
+            "en_title": "Those who buy and sell human bones in the United States",
+            "en_content": "Skulls and skeletons serve for the scientific study, but sometimes the way they are sold and then used raises different ethical doubts",
+            "concepts": [
+                {
+                    "word": "bones",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "States",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

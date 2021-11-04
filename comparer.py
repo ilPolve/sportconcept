@@ -52,16 +52,19 @@ def news_getter(my_subdir, source):
     directory= "../newScraping/collectedNews/" + my_subdir + "/" + source
     if source in ed_type:
         for to_append in os.scandir(directory):
-            should_i, to_append= jsonizer(directory + "/" + to_append.name)
-            if should_i:
-                global editions_by_source
-                editions_by_source[source_conv[source]].append(to_append)
-    elif source in flow_type:
-            for to_append in os.scandir(directory):
+            if(to_append.name[0] == "c"):
                 should_i, to_append= jsonizer(directory + "/" + to_append.name)
                 if should_i:
-                    global flows_by_source
-                    flows_by_source[source_conv[source]].append(to_append)
+                    global editions_by_source
+                    editions_by_source[source_conv[source]].append(to_append)
+    elif source in flow_type:
+            for to_append in os.scandir(directory):
+                if(to_append.name[0] == "c"):
+                    print(directory + "/" + to_append.name)
+                    should_i, to_append= jsonizer(directory + "/" + to_append.name)
+                    if should_i:
+                        global flows_by_source
+                        flows_by_source[source_conv[source]].append(to_append)
     else:
         print("Source not recognized")
 
@@ -116,6 +119,7 @@ def edition_comparing(editions_a, editions_b):
                 date_b = edition_b[0]['date_raw']
             if date_a == date_b:
                 temp = news_comparing(edition_a, edition_b)
+                deploy_comparing(edition_a, edition_b, temp)
                 if len(temp) > 0:
                     to_ret.append(temp)
     return to_ret
@@ -139,6 +143,16 @@ def news_comparing(edition_a, edition_b):
                 simil.append(to_ret)
                 #max-=1
     return simil
+
+def deploy_comparing(edition_a, edition_b, simils):
+    dir = "compared/" + edition_a[0]['source'] + "/" + edition_b[0]['source'] + "/" + (edition_a[0]['filename'].replace("conc_en_", ""))
+    to_dump= {}
+    to_dump['simils_concepts']= simils
+    to_dump['edition_a']= edition_a
+    to_dump['edition_b']= edition_b
+    f= open(dir, "w")
+    json.dump(to_dump, f, ensure_ascii=False, indent=4)
+    f.close()
 
 if __name__ == "__main__":
     main()

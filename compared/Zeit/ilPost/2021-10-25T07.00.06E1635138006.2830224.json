@@ -1,0 +1,1493 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Bigly! Donald Trump geht an die BÃ¶rse",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.zeit.de/wirtschaft/2021-10/usa-donald-trump-truth-social-boerse-spac",
+            "content": "Donald Trump hat seine PlÃ¤ne fÃ¼r eine Social-Media-Plattform wahr gemacht. Um sie an die Wall Street zu bringen, setzt er auf ein Finanzvehikel mit zweifelhaftem Ruf.",
+            "ranked": 0,
+            "epoch": 1635138006.2829654,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Bigly!Donald Trump goes to the stock market",
+            "en_content": "Donald Trump has made his plans true for a social media platform.To bring her to Wall Street, he puts on a doubtful reputation.",
+            "concepts": [
+                {
+                    "word": "Bigly!Donald",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Trump",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "stock",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "market",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "FuÃballprofis sind es gewohnt, dass fÃ¼r sie andere Regeln gelten",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.zeit.de/sport/2021-10/joshua-kimmich-impfen-mark-van-bommel-entlassung",
+            "content": "Auch Bayernfans Ã¤rgern sich, dass Joshua Kimmich Privilegien in Anspruch nimmt und sich dem Impfen verweigert. Und in Wolfsburg hat es sich ausgebommelt. Der 9. Spieltag",
+            "ranked": 1,
+            "epoch": 1635138006.2829685,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Football professionals are used to apply that other rules apply",
+            "en_content": "Bayern fans are also annoying that Joshua takes Kimmich privileges and refuses to vaccine.And in Wolfsburg it has enarmed.The 9th matchday",
+            "concepts": [
+                {
+                    "word": "Football",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "professionals",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "rules",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Jetzt auch noch die Grippeimpfung?",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.zeit.de/gesundheit/2021-10/grippeimfung-grippesaison-winter-influenza-viren-schutz-effektivitaet-faq",
+            "content": "Im letzen Jahr fiel die Grippesaison quasi aus, trifft sie uns deshalb nun umso stÃ¤rker? Und wer sollte sich impfen lassen? Die wichtigsten Fragen und Antworten",
+            "ranked": 2,
+            "epoch": 1635138006.2829704,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Now also the flu vaccine?",
+            "en_content": "In the last year, the influenza season quasi fell out, so she is now all the stronger?And who should be vaccinated?The most important questions and answers",
+            "concepts": [
+                {
+                    "word": "flu",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Persona non grata am Bosporus",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.zeit.de/politik/2021-10/tuerkei-tayyib-erdogan-botschafter-unerwuenscht-nachrichtenpodcast",
+            "content": "Der tÃ¼rkische PrÃ¤sident ErdoÄan hat zehn Botschafter fÃ¼r unerwÃ¼nscht erklÃ¤rt. Warum reagiert er so heftig? AuÃerdem im Podcast: Steuergelder fÃ¼r AfD-nahe Stiftung",
+            "ranked": 3,
+            "epoch": 1635138006.2829714,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Persona Non Grata Am Bosphorus",
+            "en_content": "Turkish President ErdoÄan has declared ten ambassadors undesirably.Why is he reacting so violently?Also in the podcast: taxpayers for AFD near Foundation",
+            "concepts": [
+                {
+                    "word": "Persona",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Non",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Grata",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Am",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bosphorus",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Forderungen nach Verbot von Schusswaffen an US-Filmsets werden lauter",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.zeit.de/kultur/film/2021-10/alec-baldwin-film-halyna-hutchins-schusswaffen",
+            "content": "Vor dem Tod von Kamerafrau Halyna Hutchins hatten sich Mitarbeiter am Set des Films Ã¼ber mangelnde Sicherheitsvorkehrungen beschwert. Ein Waffenverbot wird diskutiert.",
+            "ranked": 4,
+            "epoch": 1635138006.2829723,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Demands for banned firearms to US movie sets are louder",
+            "en_content": "Before the death of Camerafrau Halyna Hutchins, employees had complained about the set of the film about a lack of security precautions.A ban on weapons is discussed.",
+            "concepts": [
+                {
+                    "word": "Demands",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "firearms",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "US",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "movie",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sets",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "EnthÃ¼llungen zu Indien-GeschÃ¤ft bringen Facebook weiter unter Druck",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/facebook-kritik-hassnachrichten-falschnachrichten-regulierung",
+            "content": "Der Konzern soll es trotz Warnungen versÃ¤umt haben, in Indien die Verbreitung von Hetze einzudÃ¤mmen. Bereits 2019 sei ein Anstieg von Gewaltaufrufen festgestellt worden.",
+            "ranked": 5,
+            "epoch": 1635138006.2829735,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Revelations to India business bring Facebook under pressure",
+            "en_content": "The Group should have failed despite warnings to contain the spread of hazards in India.As early as 2019, an increase in violence has been established.",
+            "concepts": [
+                {
+                    "word": "Revelations",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "India",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "business",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Facebook",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "pressure",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Klimawandel zu Angelegenheit \"nationaler Sicherheit\" in Israel erklÃ¤rt",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/cop26-israel-weltklimkonferenz-klimawandel-massnahmen",
+            "content": "Vor der Weltklimakonferenz in Glasgow hat Israel neue KlimaschutzmaÃnahmen beschlossen. Investitionen in grÃ¼ne Energie sollen erleichtert werden.",
+            "ranked": 6,
+            "epoch": 1635138006.2829745,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Climate change to affair \"National Security\" in Israel explained",
+            "en_content": "In front of the World Climate Conference in Glasgow, Israel has decided new climate protection measures.Investments in green energy should be facilitated.",
+            "concepts": [
+                {
+                    "word": "Climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "change",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "National",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Security",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Israel",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Hoher Wahlsieg fÃ¼r PrÃ¤sident Schawkat Mirsijojew erwartet",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/usbekistan-praesident-schawkat-mirsijojew-praesidentschaftswahl",
+            "content": "Usbekistans Staatschef steht nach fÃ¼nf Jahren im Amt vor der Wiederwahl. Wahlbeobachter kritisierten den Ausschluss der Opposition.",
+            "ranked": 7,
+            "epoch": 1635138006.2829752,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "High election victory for President Schawkat Mirsijoev expected",
+            "en_content": "Uzbekistan's head of state stands after five years in office before re-election.Election observers criticized the exclusion of the opposition.",
+            "concepts": [
+                {
+                    "word": "election",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "victory",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "President",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Schawkat",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Mirsijoev",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "RKI meldet 62 Prozent mehr Neuinfektionen als vor einer Woche",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/wissen/2021-10/coronavirus-neuinfektionen-rki-gesundheitsaemter-inzidenz-steigt-hamburg",
+            "content": "Die Zahl der bestÃ¤tigten Ansteckungen nimmt weiterhin stark zu. Ein Landkreis in Bayern meldet eine Sieben-Tage-Inzidenz von Ã¼ber 500.",
+            "ranked": 8,
+            "epoch": 1635138006.282976,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "RKI reports 62 percent more new infections than a week ago",
+            "en_content": "The number of confirmed infections continues to increase.A county in Bavaria reports a seven-day incidence of over 500.",
+            "concepts": [
+                {
+                    "word": "RKI",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "percent",
+                    "meaning": "npadvmod",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "infections",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "week",
+                    "meaning": "npadvmod",
+                    "pos": "ADV"
+                }
+            ]
+        },
+        {
+            "title": "Adrenalin, Serotonin, Dopamin",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/kultur/film/2021-10/tatort-mainz-heike-makatsch-blind-date",
+            "content": "Der Mainzer \"Tatort\" mit Heike Makatsch beginnt originell mit dem Fall einer blinden Zeugin. Am Ende kommt er daher wie die klassische KartoffelkloÃ-Kombi: halb und halb.",
+            "ranked": 9,
+            "epoch": 1635138006.2829769,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Adrenaline, serotonin, dopamine",
+            "en_content": "The Mainz \"Tatort\" with Heike Makatsch begins original with the case of a blind witness.At the end, he comes like the classic potato kombi: half and half.",
+            "concepts": [
+                {
+                    "word": "Adrenaline",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "serotonin",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "\"Meine Kindheit hat mein VerhÃ¤ltnis zu Geld geschÃ¤digt\"",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/zett/2021-10/beziehung-geld-kostenteilung-gehaltsunterschied-partnerschaft",
+            "content": "Michael zahlte in seiner letzten Beziehung alles allein. Deshalb fordert er von seiner neuen Freundin, dass sie die Kosten zur HÃ¤lfte teilen â obwohl er mehr verdient.",
+            "ranked": 10,
+            "epoch": 1635138006.2829778,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "\"My childhood has damaged my relationship with money\"",
+            "en_content": "Michael paid everything alone in his last relationship.Therefore, he calls for his new girlfriend that they share the cost half - although he earned more.",
+            "concepts": [
+                {
+                    "word": "childhood",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "relationship",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "money",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Kann Liebe eine Depression Ã¼berstehen?",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/gesundheit/zeit-doctor/2021-10/depression-psychologie-therapie-behandlung-paare-partnerschaft",
+            "content": "Eine Depression betrifft immer auch die Lebenspartner der Erkrankten. Wie es Paaren gelingen kann, die Last der Krankheit gemeinsam zu bewÃ¤ltigen.",
+            "ranked": 11,
+            "epoch": 1635138006.2829783,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Can love survive a depression?",
+            "en_content": "Depression always affects the life partners of the patients.How it can succeed in tackling the burden of the disease.",
+            "concepts": [
+                {
+                    "word": "depression",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Und der Sex?",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/entdecken/2021-10/schwangerschaft-sex-geschlechtsverkehr-lust-beziehung-partnerschaft",
+            "content": "Warum das Verlangen im zweiten Trimester am stÃ¤rksten ist und wann es nach der Geburt zurÃ¼ckkehrt. Eine Hebamme und eine Sexualtherapeutin Ã¼ber den Sex werdender Eltern",
+            "ranked": 12,
+            "epoch": 1635138006.282979,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "And the sex?",
+            "en_content": "Why the desire in the second trimester is most strongest and when it returns after birth.A midwife and a sex therapist about the sex expectant parents",
+            "concepts": [
+                {
+                    "word": "sex",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Ein Streit, den ErdoÄan sich nicht leisten kann",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/tayyib-erdogan-fall-osman-kavala-aussenpolitik-eskalation-botschafter-tuerkei",
+            "content": "Die Provokation der geplanten Botschafterausweisung tÃ¤uscht: Eine Eskalation des Konflikts mit dem Westen wÃ¼rde dem tÃ¼rkischen PrÃ¤sidenten schaden.",
+            "ranked": 13,
+            "epoch": 1635138006.2829797,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "A dispute that ErdoÄan can not afford",
+            "en_content": "The provocation of the planned ambassador design is deceived: an escalation of the conflict with the West would damage the Turkish president.",
+            "concepts": [
+                {
+                    "word": "dispute",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ErdoÄan",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Mark van Bommel muss Trainerposten rÃ¤umen",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/sport/2021-10/vfl-wolfsburg-mark-van-bommel-trainer-getrennt-niederlage",
+            "content": "Einen Tag nach der Niederlage gegen den SC Freiburg trennt sich der VfL Wolfsburg von Trainer Mark van Bommel. Wer die Mannschaft nun betreut, bleibt zunÃ¤chst offen.",
+            "ranked": 14,
+            "epoch": 1635138006.2829807,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Mark van Bommel has to vacate coach items",
+            "en_content": "One day after defeat against the SC Freiburg, the VfL Wolfsburg separates coach Mark van Bommel.Who cares about the team, remains open first.",
+            "concepts": [
+                {
+                    "word": "Mark",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "van",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bommel",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "coach",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "items",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Sechstes Todesopfer nach Amokfahrt vom Dezember 2020",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/trier-amokfahrt-2020-sechstes-todesopfer-verletzter-verstorben-krankenhaus",
+            "content": "Ein damals schwer verletzter Mann hat sich nicht mehr von den Folgen der Trierer Amokfahrt vor knapp einem Jahr erholt. Die Tat jÃ¤hrt sich Anfang Dezember zum ersten Mal.",
+            "ranked": 15,
+            "epoch": 1635138006.2829814,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Sixth death victim after amokfahrt from December 2020",
+            "en_content": "A then injured man no longer has recovered from the consequences of Trierter amokfahrt almost a year ago.The act is for the first time at the beginning of December.",
+            "concepts": [
+                {
+                    "word": "death",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "victim",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "amokfahrt",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "December",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Israel kÃ¼ndigt Bau von 1.355 neuen Siedlerwohnungen an",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/westjordanland-israel-siedler-wohnungen-neubau-ankuendigung-palaestinenser",
+            "content": "Hunderte Wohnungen sollen in sieben bereits bestehenden Siedlungen gebaut werden. Der Bau im besetzten Westjordanland ist vÃ¶lkerrechtlich illegal.",
+            "ranked": 16,
+            "epoch": 1635138006.2829823,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Israel announces construction of 1,355 new settler apartments",
+            "en_content": "Hundreds of apartments are to be built in seven already existing settlements.The construction in the occupied West Bank is illegally illegally.",
+            "concepts": [
+                {
+                    "word": "Israel",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "construction",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "settler",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "apartments",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Es sollte eine Obergrenze fÃ¼r Liebeskummer geben",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/campus/2021-10/liebeskummer-selbstverwirklichung-dating-kennenlernen-abschied",
+            "content": "Wie viel GefÃ¼hle darf man zeigen, wenn man sich erst zweimal gesehen und einmal miteinander geschlafen hat? Es ist so leicht, immer das Falsche zu sagen und zu schreiben.",
+            "ranked": 17,
+            "epoch": 1635138006.282983,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "There should be a ceiling for love chimes",
+            "en_content": "How much feelings can you show when you have seen yourself twice and once slept together?It's so easy to always say and write the wrong thing.",
+            "concepts": [
+                {
+                    "word": "ceiling",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "love",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "chimes",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Mathias DÃ¶pfner bedauert DDR-Vergleich",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/kultur/2021-10/axel-springer-mathias-doepfner-bdzv-praesident-kritik-private-sms",
+            "content": "Deutschland als \"neuer DDR-Obrigkeitsstaat\": In einem Schreiben an die Zeitungsverleger hat VerbandsprÃ¤sident Mathias DÃ¶pfner seine viel kritisierte Wortwahl bedauert.",
+            "ranked": 18,
+            "epoch": 1635138006.2829878,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Mathias DÃ¶pfner regrets GDR comparison",
+            "en_content": "Germany as a \"new DDR bustle state\": In a letter to the newspaper publisher, Union President Mathias Dopfner regretted his much criticized wording.",
+            "concepts": [
+                {
+                    "word": "Mathias",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "DÃ¶pfner",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "GDR",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "comparison",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Taliban kÃ¼ndigen BeschÃ¤ftigungsprogramm fÃ¼r Arbeitslose an",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/afghanistan-taliban-beschaeftigungsprogramm-ankuendigung-reduzierung-arbeitslosigkeit-hunger",
+            "content": "Die Regierung in Kabul will Zehntausenden Arbeitslosen eine BeschÃ¤ftigung geben. Statt mit Geld sollen sie mit Weizen bezahlt werden.",
+            "ranked": 19,
+            "epoch": 1635138006.2829885,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-25T07.00.06E1635138006.2830224.json",
+            "en_title": "Taliban Announce Employment Program for Unemployed",
+            "en_content": "The government in Kabul wants to give ten thousand unemployed employment.Instead of having money they should be paid with wheat.",
+            "concepts": [
+                {
+                    "word": "Taliban",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Announce",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Employment",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Program",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Unemployed",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "PerchÃÂ© Erdogan ce lÃ¢ÂÂha con alcuni alleati",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/2021/10/25/erdogan-ambasciatori/",
+            "content": " La decisione di dichiarare Ã¢ÂÂpersona non grataÃ¢ÂÂ gli ambasciatori di dieci paesi c'entra con un noto imprenditore e filantropo, ma potrebbe essere anche un diversivo\t",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1635161405.862779,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Because drdogan there has with some allies",
+            "en_content": "The decision to declare Ã¢ â¬ Åpersona not grateÃ¢ â¬ the ambassadors of ten countries has to do with a well-known entrepreneur and philanthropist, but it could also be a diversion",
+            "concepts": [
+                {
+                    "word": "drdogan",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "allies",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "CÃ¢ÂÂÃÂ¨ un colpo di stato in Sudan",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/2021/10/25/sudan-primo-ministro-abdalla-hamdok-arrestato/",
+            "content": " I militari hanno arrestato il primo ministro Abdalla Hamdok e sciolto il governo: il potere ÃÂ¨ stato preso dal generale Abdel Fattah al-Burhan\t",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627813,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "There is a coup in Sudan",
+            "en_content": "The military arrested Prime Minister Abdalla Hamdok and dissolved the government: Power was taken by General Abdel Fattah Al-Burhan",
+            "concepts": [
+                {
+                    "word": "coup",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Sudan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Cosa si intende per cucina italiana?",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/?blog_post=dobbiamo-metterci-daccordo-su-cosa-si-intende-per-cucina-italiana",
+            "content": " Un'intervista ad Alberto Grandi che insegna Storia delle imprese e Storia dellÃ¢ÂÂintegrazione europea allÃ¢ÂÂUniversitÃÂ  di Parma [Continua]",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627822,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "What is meant by Italian cuisine?",
+            "en_content": "An interview with Alberto Grandi who teaches the history of businesses and history of European integration to the University of Parma [continue]",
+            "concepts": [
+                {
+                    "word": "cuisine",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Cosa succederÃÂ  adesso a Monte dei Paschi?",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/2021/10/25/vendita-monte-dei-paschi-unicredit-trattative-interrrotte/",
+            "content": " Le trattative per venderla a Unicredit sono finite male, e il governo dovrÃÂ  probabilmente chiedere una proroga alla Commissione Europea\t",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627832,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "What will happen now upstream of Paschi?",
+            "en_content": "The negotiations to sell it to UniCredit have ended badly, and the government will probably have an extension to the European Commission",
+            "concepts": [
+                {
+                    "word": "Paschi",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "PerchÃÂ© lÃ¢ÂÂarte degli NFT ÃÂ¨ cosÃÂ¬ brutta",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/2021/10/25/nft-arte-brutta/",
+            "content": " Secondo gli standard della critica tradizionale, la Ã¢ÂÂcriptoarteÃ¢ÂÂ ÃÂ¨ spesso derivativa, banale e dilettantesca: eppure viene venduta a cifre esorbitanti ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627841,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Because the art of the NFT is so ugly",
+            "en_content": "According to the standards of traditional criticism, Ã¢ â¬ ÅCriptoarteÃ¢ â¬ is often derivative, trivial and amateuresca: yet it is sold to exorbitant figures",
+            "concepts": [
+                {
+                    "word": "art",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "NFT",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "I danni causati dalla pioggia in Sicilia",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/2021/10/25/sicilia-maltempo-pioggia-ottobre/",
+            "content": " Ne ÃÂ¨ caduta soprattutto tra Catania e Messina, una persona ÃÂ¨ morta e una ÃÂ¨ dispersa: erano state travolte da un torrente in piena\t",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627863,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Damage caused by rain in Sicily",
+            "en_content": "He fell above all between Catania and Messina, a person is dead and one is dispersed: they had been overwhelmed by a stream in full",
+            "concepts": [
+                {
+                    "word": "Damage",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rain",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sicily",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le prove comuni in una classe della Sicilia orientale",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/?blog_post=le-prove-comuni-in-una-classe-della-sicilia-orientale-quando-e-ottobre",
+            "content": "Le caldarroste, per esempio, sono una grande fonte di distrazione [Continua]",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1635161405.862787,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Common tests in a class of eastern Sicily",
+            "en_content": "Caldarroste, for example, are a great source of distraction [continue]",
+            "concepts": [
+                {
+                    "word": "tests",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "class",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sicily",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Funghi e insetti visti molto da vicino",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/2021/10/25/foto-close-up-photographer-of-the-year/",
+            "content": " Ma anche pesci, paesaggi e ragni, tra le foto vincitrici del concorso \"Close-up Photographer of the Year\"\t",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627877,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Mushrooms and insects Very close up",
+            "en_content": "But also fish, landscapes and spiders, among the winning photos of the \"Close-up photographer of the Year\" competition",
+            "concepts": [
+                {
+                    "word": "Mushrooms",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "insects",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Quelli che vanno a scuola in bici, tutti insieme",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/2021/10/25/biciclette-scuola-bike-to-school-massa-marmocchi/",
+            "content": " I cosiddetti Ã¢ÂÂbike trainsÃ¢ÂÂ, cortei di genitori e bambini, servono a ridurre l'inquinamento e a organizzare in maniera piÃÂ¹ sicura gli spazi cittadini\t",
+            "ranked": 9,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627884,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Those who go to school by bike, all together",
+            "en_content": "The so-called Ã¢ â¬ ÅBike TrainsÃ¢ â¬, parents' parades and children, serve to reduce pollution and to organize citizens more securely",
+            "concepts": [
+                {
+                    "word": "school",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "bike",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Come i bambini rifugiati al confine con la Siria vedono ciÃÂ² che li circonda",
+            "date_raw": "October 14, 2021",
+            "date": "2021-10-14",
+            "news_url": "https://www.ilpost.it/2021/10/14/sirkhane-darkroom-i-saw-the-air-fly/",
+            "content": null,
+            "ranked": 10,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627892,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Like refugee children on the border with Syria see what surrounds them",
+            "concepts": [
+                {
+                    "word": "refugee",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "children",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "border",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Syria",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "3783, il numero bugiardo sui decessi per COVID-19",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/3783-morti-covid-iss/",
+            "content": " Viene usato sui social e nei cortei \"No Green Pass\" per sminuire gli effetti della pandemia, ma non ha nessuna base scientifica\t",
+            "ranked": 11,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627899,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "3783, the liar number on deaths for Covid-19",
+            "en_content": "It is used on social media and parades \"no green pass\" to diminish the effects of pandemic, but has no scientific basis",
+            "concepts": [
+                {
+                    "word": "liar",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "number",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "deaths",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Covid-19",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "I numeri dei podcast in Italia",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/podcast-italia-numeri/",
+            "content": " Quanti sono, in quanti li ascoltano e quanti ascolti fanno, per quello che possiamo dirne\t",
+            "ranked": 12,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627906,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "The numbers of the podcasts in Italy",
+            "en_content": "How many are, how many listen to them and how many listenings do, for what we can say",
+            "concepts": [
+                {
+                    "word": "numbers",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "podcasts",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Monty Hall e Covid",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/?blog_post=monty-hall-e-covid",
+            "content": "Una variante del paradosso di Monty Hall che potrebbe essere piÃÂ¹ comprensibile [Continua]",
+            "ranked": 13,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627915,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Monty Hall and Covid",
+            "en_content": "A variant of the Monty Hall paradox that could be more understandable [continue]",
+            "concepts": [
+                {
+                    "word": "Monty",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hall",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Covid",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "La storia di Yvan Sagnet, che combatte contro il caporalato",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/2021/10/25/yvan-sagnet-caporalato/",
+            "content": " ÃÂ il fondatore dell'Associazione NO CAP, e grazie al suo impegno gli ÃÂ¨ stata conferita l'onorificenza di Cavaliere\t",
+            "ranked": 14,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627925,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "The story of Yvan Saggnet, who fights against the Caporata",
+            "en_content": "The founder of the Association No Cap, and thanks to his commitment, the honor of Knight was given to him",
+            "concepts": [
+                {
+                    "word": "story",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Yvan",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Saggnet",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Caporata",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le prime pagine di oggi",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/2021/10/25/le-prime-pagine-di-oggi-2982/",
+            "content": " La manovra economica del governo, il fallimento della trattativa per la cessione di MPS a Unicredit, e il pareggio fra Inter e Juventus\t",
+            "ranked": 15,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627932,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "The first pages of today",
+            "en_content": "The government's economic maneuver, the failure of the negotiation for the sale of MPS to UniCredit, and the draw between Inter and Juventus",
+            "concepts": [
+                {
+                    "word": "pages",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "today",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La Colombia ha arrestato uno dei narcotrafficanti piÃÂ¹ ricercati al mondo",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/arresto-otoniel-colombia/",
+            "content": " Il presidente colombiano ha paragonato la cattura di Otoniel, il capo del Clan del Golfo, alla caduta di Pablo Escobar negli anni Novanta\t",
+            "ranked": 16,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627942,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Colombia arrested one of the most sought after drug traffickers in the world",
+            "en_content": "The Colombian President compared the capture of Otoniel, the head of the Gulf clan, at the fall of Pablo Escobar in the nineties",
+            "concepts": [
+                {
+                    "word": "Colombia",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "drug",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "traffickers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "world",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Questo orologio cambierÃÂ  lÃ¢ÂÂesplorazione dello Spazio profondo?",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/orologio-atomico-spazio-profondo-nasa/",
+            "content": " La NASA sta risolvendo uno dei piÃÂ¹ grandi problemi per sonde e astronavi: sapere dove si trovano\t",
+            "ranked": 17,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627956,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "This watch will change the exploration of deep space?",
+            "en_content": "NASA is solving one of the largest problems for probes and spaceships: know where they are",
+            "concepts": [
+                {
+                    "word": "watch",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "exploration",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "space",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂultramaratona cinese in cui morirono 21 persone",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/cina-ultramaratona-21-morti-storia/",
+            "content": " Lo scorso maggio 172 corridori partirono per una gara di 100 km nelle montagne del Gansu: poi arrivÃÂ² la pioggia, il vento e il freddo\t",
+            "ranked": 18,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627965,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "The Chinese ultramaraton in which 21 people died",
+            "en_content": "Last May 172 riders left for a 100 km race in the mountains of Gansu: then the rain arrived, the wind and the cold",
+            "concepts": [
+                {
+                    "word": "ultramaraton",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "people",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La destra francese gira sempre di piÃÂ¹ attorno a Eric Zemmour",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/destra-francese-eric-zemmour-elezioni/",
+            "content": " Mancano sei mesi alle elezioni presidenziali e il popolare giornalista di estrema destra sta scombinando i piani di parecchi politici\t",
+            "ranked": 19,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627975,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "The French right turns more and more around Eric Zemmour",
+            "en_content": "There are six months to the presidential elections and the popular extreme right journalist is removing the plans of several politicians",
+            "concepts": [
+                {
+                    "word": "French",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "right",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Eric",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Zemmour",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Illazione",
+            "date_raw": "October 25, 2021",
+            "date": "2021-10-25",
+            "news_url": "https://www.ilpost.it/?blog_post=illazione",
+            "content": "Chi fa unÃ¢ÂÂillazione, piÃÂ¹ che formulare unÃ¢ÂÂipotesi o fare una supposizione, trae piuttosto, da quel ragionamento o argomento, conseguenze ingiustificate, indebite o affrettate [Continua]",
+            "ranked": 20,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627985,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Inference",
+            "en_content": "Those who make a ulteration, more than formulating a hypothesis or a guess, draws rather, from that reasoning or argument, unjustified consequences, undue or hasty [continue]",
+            "concepts": [
+                {
+                    "word": "Inference",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Dieci lezioni sul giornalismo",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/dieci-lezioni-sul-giornalismo-2/",
+            "content": " Un nuovo corso, per capire come cambia il giornalismo e capire meglio il mondo: in diretta streaming, o in differita\t",
+            "ranked": 21,
+            "placed": "First_Page",
+            "epoch": 1635161405.8627994,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Ten lessons on journalism",
+            "en_content": "A new course, to understand how journalism changes and better understand the world: live streaming, or deferred",
+            "concepts": [
+                {
+                    "word": "lessons",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "journalism",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂeterna questione delle ricariche dÃ¢ÂÂinchiostro nelle stampanti",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/stampanti-ricariche-causa/",
+            "content": " Un uomo di New York ha fatto causa a una nota azienda che lo costringeva a comprare nuove ricariche: molti fanno il tifo per lui\t",
+            "ranked": 22,
+            "placed": "First_Page",
+            "epoch": 1635161405.8628001,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "The eternal issue of ink recharges in printers",
+            "en_content": "A New York man made a well-known company that forced him to buy new top-ups: many are cheering for him",
+            "concepts": [
+                {
+                    "word": "issue",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ink",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "recharges",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "printers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "CÃ¢ÂÂera stato un altro incidente con le armi sul set di Baldwin",
+            "date_raw": "October 24, 2021",
+            "date": "2021-10-24",
+            "news_url": "https://www.ilpost.it/2021/10/24/altri-incidenti-armi-set-baldwin/",
+            "content": " Pochi giorni prima di quello che ha portato alla morte di Halyna Hutchins, e con una dinamica piuttosto simile\t",
+            "ranked": 23,
+            "placed": "First_Page",
+            "epoch": 1635161405.8628006,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "There had been another accident with weapons on the Baldwin set",
+            "en_content": "A few days before what led to the death of Halyna Hutchins, and with a rather similar dynamic",
+            "concepts": [
+                {
+                    "word": "accident",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "weapons",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Baldwin",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "set",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "I medici non vogliono piÃÂ¹ lavorare al pronto soccorso",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.ilpost.it/2021/10/23/medici-pronto-soccorso-carenza/",
+            "content": " Gli orari sono estenuanti e affiancare la libera professione ÃÂ¨ difficile: ne mancano duemila, e gli ospedali faticano a coprire i turni\t",
+            "ranked": 24,
+            "placed": "First_Page",
+            "epoch": 1635161405.8628013,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Doctors don't want to work in the emergency room anymore",
+            "en_content": "The times are exhausting and support the free profession is difficult: two thousand are missing, and the hospitals are struggling to cover the shifts",
+            "concepts": [
+                {
+                    "word": "Doctors",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "emergency",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "room",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La logistica in Emilia-Romagna si regge sullo sfruttamento dei lavoratori",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.ilpost.it/2021/10/22/sfruttamento-logistica-emilia-romagna/",
+            "content": " I pacchi consegnati in mezza Italia passano per un sistema di contratti irregolari, licenziamenti improvvisi e cooperative losche\t",
+            "ranked": 25,
+            "placed": "First_Page",
+            "epoch": 1635161405.8628027,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "Logistics in Emilia-Romagna stands on the exploitation of workers",
+            "en_content": "The packages delivered in half Italy pass through a system of irregular contracts, sudden dismissals and Losche cooperatives",
+            "concepts": [
+                {
+                    "word": "Logistics",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Emilia",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Romagna",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "exploitation",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "workers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂalto prezzo dellÃ¢ÂÂenergia mette a rischio un sistema per inquinare meno",
+            "date_raw": "October 23, 2021",
+            "date": "2021-10-23",
+            "news_url": "https://www.ilpost.it/2021/10/23/adblue-crisi-energia-yara-ferrara/",
+            "content": " C'ÃÂ¨ una carenza di AdBlue, la sostanza che rende i camion meno inquinanti e senza la quale 1,5 milioni di veicoli non possono circolare\t",
+            "ranked": 26,
+            "placed": "First_Page",
+            "epoch": 1635161405.8628035,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-25T13.30.05E1635161405.8628175.json",
+            "en_title": "The high price of energy puts a system to pollute less",
+            "en_content": "There is a shortage of AdBlue, the substance that makes trucks less polluting and without which 1.5 million vehicles cannot circulate",
+            "concepts": [
+                {
+                    "word": "price",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "energy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "system",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ]
+}

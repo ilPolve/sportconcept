@@ -1,0 +1,805 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Europa in campo contro il caro-bollette: ÃÂ accordo al Consiglio europeo per fermare gli aumenti.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Draghi: tutelare la ripresa, proteggere gli stati membri dalle pressioni del mercato. ÃÂ . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632137,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Europe in the field against the expensive bills: Ã AGREEMENT to the European Council to stop the increases.",
+            "en_content": "Dragons: protect recovery, protect Member States from market pressures.TO .",
+            "concepts": [
+                {
+                    "word": "Europe",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "field",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "bills",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ã",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "AGREEMENT",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "European",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "increases",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Berlusconi assolto a Siena per il Ruby Ter.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Sul premier dice: meglio che resti a Palazzo Chigi.  Tensione tra Salvini e Meloni, dopo un audio del leader della Lega, che minimizza: non litighiamo. ÃÂ . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632213,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Berlusconi acquitted in Siena for Ruby Ter.",
+            "en_content": "On the premier he says: better than stays at Palazzo Chigi.Voltage between Salvini and Meloni, after an audio of the Leader of the League, which minimizes: do not fight.TO .",
+            "concepts": [
+                {
+                    "word": "Berlusconi",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Siena",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ruby",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ter",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Conte vara la nuova segreteria 5 stelle.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Alla Camera passa la mozione congiunta del centro-sinistra sullo scioglimento di Forza Nuova.  ÃÂ . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632235,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Conte Vara The new 5-star secretariat.",
+            "en_content": "The chamber passes the joint mid-left motion on the new strength dissolution.TO .",
+            "concepts": [
+                {
+                    "word": "Conte",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vara",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "star",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "secretariat",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Vaccini, video denuncia di Emergency e altre decine di organizzazioni: una gara dei 100 metri, corrono i Paesi ricchi, quelli poveri restano fuori.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": "ÃÂ . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632258,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Vaccines, video denunciation of Emergency and other dozens of organizations: a 100 meter race, rich countries run out.",
+            "en_content": "ÃÂ .",
+            "concepts": [
+                {
+                    "word": "Vaccines",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "video",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "denunciation",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Emergency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "dozens",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "organizations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "meter",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "race",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Stati Uniti, tragedia sul set del western Rust: Alec Baldwin spara, muore la direttrice della fotografia.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Ferito gravemente il regista. ÃÂ . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1634936428.963228,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "United States, tragedy on the set of the Western Rust: Alec Baldwin shoots, the director of photography dies.",
+            "en_content": "The director seriously injured.TO .",
+            "concepts": [
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "States",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tragedy",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "set",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Western",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rust",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Alec",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Baldwin",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "director",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "photography",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "A Windsor, e in \"buono spirito\": notte in ospedale - tra mercoledÃÂ¬ e giovedÃÂ¬ - per Elisabetta II.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Buckingham Palace frena le preoccupazioni: solo accertamenti, giÃÂ  dimessa. ÃÂ . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632304,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "In Windsor, and in \"good spirit\": night in the hospital - between Wednesday and Thursday - for Elisabetta II.",
+            "en_content": "Buckingham Palace brakes worries: only checks, already dismissed.TO .",
+            "concepts": [
+                {
+                    "word": "Windsor",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "spirit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "night",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hospital",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Wednesday",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Thursday",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Elisabetta",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "II",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Simonetta Cheli nominata direttrice dei programmi Terra dell'Agenzia Spaziale Europea.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " E al Gr1 racconta: sempre di piÃÂ¹ le donne in ruoli apicali. ÃÂ . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632325,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Simonetta Cheli named Director of Earth Programs of the European Space Agency.",
+            "en_content": "And at GR1 tells: more and more women in apical roles.TO .",
+            "concepts": [
+                {
+                    "word": "Simonetta",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cheli",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Director",
+                    "meaning": "oprd",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Earth",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Programs",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "European",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Space",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Agency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Sport.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " Ciclismo su pista.  Ai Mondiali ÃÂ¨ trionfo azzurro, con i complimenti di Palazzo Chigi.  Oro per Letizia Paternoster e per l'inseguimento a squadre maschile, argento per la squadra femminile. . ",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1634936428.9632342,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Sport.",
+            "en_content": "Track cycling.The World Cup is a blue triumph, with the compliments of Palazzo Chigi.Gold for paternoster letizia and male team tracking, silver for the female team..",
+            "concepts": [
+                {
+                    "word": "Sport",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Calcio.",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-8be14aee-b2c8-4593-bc05-fc6513237891.html",
+            "content": " In Europa League vince il Napoli, pari per la Lazio.  In \"Conference\" figuraccia storica per la Roma, travolta 6 a 1 dai norvegesi del Bodo Glimt. . ",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1634936428.963236,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Football.",
+            "en_content": "In the Europa League wins Napoli, equal to Lazio.In \"Conference\" historical figurate for Roma, 6 to 1 from the Norwegians of the Bodo Glimt..",
+            "concepts": [
+                {
+                    "word": "Football",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "The Supreme Court will hear the case against TexasÃ¢ÂÂ abortion law. HereÃ¢ÂÂs what to expect",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.pbs.org/newshour/show/the-supreme-court-will-hear-the-case-against-texas-abortion-law-heres-what-to-expect",
+            "duration": "4 min",
+            "ranked": 0,
+            "epoch": 1635022812.967502,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "The Supreme Court will hear the case against TexasÃ¢ÂÂ abortion law. HereÃ¢ÂÂs what to expect",
+            "concepts": [
+                {
+                    "word": "Supreme",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Court",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "case",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "abortion",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "law",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "News Wrap: Pfizer says its vaccine is 91% effective at preventing COVID among kids 5-11",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-pfizer-says-its-vaccine-is-91-effective-at-preventing-covid-among-kids-5-11",
+            "duration": "5 min",
+            "ranked": 1,
+            "epoch": 1635022812.9675045,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "News Wrap: Pfizer says its vaccine is 91% effective at preventing COVID among kids 5-11",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Pfizer",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "%",
+                    "meaning": "npadvmod",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "COVID",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "kids",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "What you need to know about mixing and matching COVID vaccines, getting boosters",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.pbs.org/newshour/show/what-you-need-to-know-about-mixing-and-matching-covid-vaccines-getting-boosters",
+            "duration": "5 min",
+            "ranked": 2,
+            "epoch": 1635022812.9675052,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "What you need to know about mixing and matching COVID vaccines, getting boosters",
+            "concepts": [
+                {
+                    "word": "COVID",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vaccines",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "boosters",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Internal DHS documents reveal migrant abuse as border crossings hit record high",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.pbs.org/newshour/show/internal-dhs-documents-reveal-migrant-abuse-as-border-crossings-hit-record-high",
+            "duration": "6 min",
+            "ranked": 3,
+            "epoch": 1635022812.967506,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Internal DHS documents reveal migrant abuse as border crossings hit record high",
+            "concepts": [
+                {
+                    "word": "DHS",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "documents",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "abuse",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "border",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "crossings",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "record",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "high",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Brooks and Capehart on voting rights, Build Back Better agenda, VA Gov. race",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-voting-rights-build-back-better-agenda-va-gov-race",
+            "duration": "12 min",
+            "ranked": 4,
+            "epoch": 1635022812.9675064,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Brooks and Capehart on voting rights, Build Back Better agenda, VA Gov. race",
+            "concepts": [
+                {
+                    "word": "Brooks",
+                    "meaning": "nsubj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Capehart",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "voting",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rights",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Build",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "agenda",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "VA",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gov.",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "race",
+                    "meaning": "npadvmod",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "How artist Mariano RodrÃÂ­guezÃ¢ÂÂs work honored his Cuban heritage while breaking rules",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.pbs.org/newshour/show/how-artist-mariano-rodriguezs-work-honored-his-cuban-heritage-while-breaking-rules",
+            "duration": "5 min",
+            "ranked": 5,
+            "epoch": 1635022812.9675071,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "How artist Mariano RodrÃÂ­guezÃ¢ÂÂs work honored his Cuban heritage while breaking rules",
+            "concepts": [
+                {
+                    "word": "artist",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Mariano",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "RodrÃÂ­guezÃ¢ÂÂs",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "work",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "heritage",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "rules",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Journalist Terence Smith reflects on decades of reporting on American presidents, wars",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.pbs.org/newshour/show/journalist-terence-smith-reflects-on-decades-of-reporting-on-american-presidents-wars",
+            "duration": "9 min",
+            "ranked": 6,
+            "epoch": 1635022812.9675076,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Journalist Terence Smith reflects on decades of reporting on American presidents, wars",
+            "concepts": [
+                {
+                    "word": "Journalist",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Terence",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Smith",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "decades",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "reporting",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "presidents",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "wars",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Nebraska couple dedicate life to breeding rare San Clemente Island goats",
+            "date_raw": "October 22, 2021",
+            "date": "2021-10-22",
+            "news_url": "https://www.pbs.org/newshour/show/nebraska-couple-dedicate-life-to-breeding-rare-san-clemente-island-goats",
+            "duration": "4 min",
+            "ranked": 7,
+            "epoch": 1635022812.9675083,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-22.json",
+            "en_title": "Nebraska couple dedicate life to breeding rare San Clemente Island goats",
+            "concepts": [
+                {
+                    "word": "Nebraska",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "couple",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "dedicate",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "life",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "San",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Clemente",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Island",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "goats",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ]
+}

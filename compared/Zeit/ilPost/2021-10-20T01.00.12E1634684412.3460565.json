@@ -1,0 +1,1923 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Armee meldet TÃ¶tung von Bandenmitgliedern",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/nigeria-armee-toetung-bandenmitglieder",
+            "content": "Nach einem Angriff auf einen Markt geht Nigerias MilitÃ¤r mit schwerem KriegsgerÃ¤t gegen bewaffnete Gruppen vor. Mehr als 50 Menschen seien dabei getÃ¶tet worden.",
+            "ranked": 0,
+            "epoch": 1634684412.3459845,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Army reports killing of gang members",
+            "en_content": "After an attack on a market, Nigeria's military enters against armed groups with a heavy war.More than 50 people were killed.",
+            "concepts": [
+                {
+                    "word": "Army",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "gang",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "members",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Facebook zahlt Millionensumme an abgelehnte Bewerber",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/digital/2021-10/facebook-tech-branche-bewerber-stellenangebote-vergleich-strafzahlung",
+            "content": "Der Konzern soll bei Stellenangeboten US-Bewerber gegenÃ¼ber AuslÃ¤ndern benachteiligt haben. Jetzt zahlt Facebook 14 Millionen Dollar an Strafen und EntschÃ¤digungen.",
+            "ranked": 1,
+            "epoch": 1634684412.345987,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Facebook pays a million amount of rejected applicants",
+            "en_content": "The Group should have disadvantaged US candidates to foreigners to foreigners.Now Facebook pays $ 14 million in penalties and compensation.",
+            "concepts": [
+                {
+                    "word": "Facebook",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "amount",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "applicants",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Dortmund verliert gegen Amsterdam, Leipzig gegen Paris",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/sport/2021-10/champions-league-bvb-dortmund-rb-leipzig-spielberichte",
+            "content": "Ajax Amsterdam hat einen Kantersieg gegen Borussia Dortmund eingefahren. Paris St. Germain gewann dank Lionel Messi gegen den RB Leipzig. Die Spielberichte",
+            "ranked": 2,
+            "epoch": 1634684412.3459885,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Dortmund loses against Amsterdam, Leipzig against Paris",
+            "en_content": "Ajax Amsterdam has retracted a ridge victory against Borussia Dortmund.Paris St. Germain won thanks to Lionel Messi against the RB Leipzig.The game reports",
+            "concepts": [
+                {
+                    "word": "Dortmund",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Amsterdam",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Leipzig",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Paris",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Bundesweite Inzidenz steigt auf 81,5",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/wissen/2021-10/coronavirus-neuinfektionen-rki-gesundheitsaemter-fallzahlen-steigen",
+            "content": "Die GesundheitsÃ¤mter haben 10.456 Neuinfektionen und 86 TodesfÃ¤lle im Zusammenhang mit Covid-19 gemeldet. Die Zahl neuer FÃ¤lle ist im Vergleich zur Vorwoche gestiegen.",
+            "ranked": 3,
+            "epoch": 1634684412.3459897,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Nationwide incidence rises to 81.5",
+            "en_content": "Health Offices have reported 10,456 new infections and 86 deaths related to COVID-19.The number of new cases has risen over the previous week.",
+            "concepts": [
+                {
+                    "word": "incidence",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "\"WÃ¤hrend der Lockdowns war alles sehr emotional\"",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/hamburg/2021-09/redezeit-fuer-dich-corona-einsamkeit-hamburg-coaching",
+            "content": "Der Hamburger Coach Florian Schleinig hat im Corona-Lockdown ein Angebot fÃ¼r Menschen entwickelt, die jemanden zum Reden brauchen. Was wird nun daraus?",
+            "ranked": 4,
+            "epoch": 1634684412.3459907,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "\"During the Lockdowns everything was very emotional\"",
+            "en_content": "The Hamburg Coach Florian Sleinig has developed an offer for people in the Corona-Lockdown, who need someone to talk.What will now be there?",
+            "concepts": [
+                {
+                    "word": "Lockdowns",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Axel Springer schlieÃt Ãbernahme von Politico ab",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/wirtschaft/unternehmen/2021-10/axel-springer-politico-us-mediengruppe-uebernahme-abgeschlossen",
+            "content": "Der Kaufpreis soll mindestens 630 Millionen Euro betragen: Die US-Nachrichtenmarke \"Politico\" gehÃ¶rt nun vollstÃ¤ndig dem deutschen Medienkonzen Axel Springer.",
+            "ranked": 5,
+            "epoch": 1634684412.3460038,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Axel Springer concludes acquisition of politico",
+            "en_content": "The purchase price should be at least 630 million euros: The US message mark \"Politico\" is now fully owned by the German Media Connol Axel Springer.",
+            "concepts": [
+                {
+                    "word": "Axel",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Springer",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "acquisition",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "politico",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Ampel-Koalitionsverhandlungen starten am Donnerstag",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/politik/deutschland/2021-10/ampel-koalition-verhandlung-berlin-scholz-olaf",
+            "content": "SpÃ¤ter soll dann auch in 22 Arbeitsgruppen intensiv beraten werden. Von jeder Partei seien dann 96 Personen einbezogen, hieÃ es.",
+            "ranked": 6,
+            "epoch": 1634684412.3460045,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Traffic light coalition negotiations start on Thursday",
+            "en_content": "Later, then in 22 working groups should be advised intensively.From each party, 96 people were included, it was said.",
+            "concepts": [
+                {
+                    "word": "Traffic",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "light",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "coalition",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "negotiations",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Thursday",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "EU-Kommission kritisiert Zustand tÃ¼rkischer Demokratie",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/tuerkei-eu-kommission-kritik-demokratie-rechtsstaat-recep-tayyip-erdogan",
+            "content": "In ihrem jÃ¤hrlichen TÃ¼rkei-Bericht beklagt die EU-Kommission RÃ¼ckschritte bei der Rechtsstaatlichkeit. Positiver Ã¤uÃerte sie sich Ã¼ber andere Beitrittskandidaten.",
+            "ranked": 7,
+            "epoch": 1634684412.3460052,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "EU Commission criticizes state of Turkish democracy",
+            "en_content": "In her annual Turkey report, the EU Commission complains of declines in the rule of law.She expressed more positively about other candidate countries.",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Commission",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "state",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "democracy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Israel erlaubt 4.000 PalÃ¤stinensern Registrierung im Westjordanland",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/nahostkonflikt-westjordanland-israel-palaestinenser-anmeldegenehmigung",
+            "content": "Erstmals seit mehr als zehn Jahren erteilt Israel Anmeldegenehmigungen fÃ¼r PalÃ¤stinenser im besetzten Westjordanland. Diese kÃ¶nnen dadurch nun Ausweise beantragen.",
+            "ranked": 8,
+            "epoch": 1634684412.346006,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Israel allowed 4,000 Palestinians Registration in the West Bank",
+            "en_content": "For the first time for more than ten years, Israel issued credentials for Palestinians in the occupied West Bank.These can now apply for IDs.",
+            "concepts": [
+                {
+                    "word": "Israel",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Palestinians",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Registration",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "West",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bank",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Eine Stadt im Staub",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/kultur/2021-10/odessa-ukraine-schwarzes-meer-prenzlauer-berg",
+            "content": "Die BÃ¼rgersteige sind kaputt, Balkone einsturzgefÃ¤hrdet, die Menschen kÃ¼mmern sich vor allem um sich selbst. Und doch ist da immer noch der Zauber von Odessa.",
+            "ranked": 9,
+            "epoch": 1634684412.346007,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "A city in the dust",
+            "en_content": "The sidewalks are broken, balconies collapsed, the people mainly take care of themselves. And yet there is still the magic of Odessa.",
+            "concepts": [
+                {
+                    "word": "city",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "dust",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Unter drei",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/kultur/2021-10/julian-reichelt-bild-zeitung-axel-springer-ippen-recherche",
+            "content": "Nun sind doch neue EnthÃ¼llungen Ã¼ber Ex-\"Bild\"-Chef Julian Reichelt erschienen. Wie kam es dazu â und was bedeutet das fÃ¼r die beteiligten Verlage und den Journalismus?",
+            "ranked": 10,
+            "epoch": 1634684412.3460078,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Under three",
+            "en_content": "Now new revelations have appeared about ex 'picture \"chief Julian Reichelt.How did it happen - and what does this mean for the involved publishers and journalism?",
+            "concepts": []
+        },
+        {
+            "title": "\"Ich mÃ¶chte die Menschen aus Marzahn vertreten\"",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/politik/2021-10/mario-czaja-cdu-berlin-marzahn-linke-bundestag-abgeordneter",
+            "content": "Mario Czaja war Senator fÃ¼r Gesundheit und Soziales in Berlin. Jetzt sitzt der CDU-Politiker im Bundestag â er hat der Linken Petra Pau das Direktmandat abgenommen.",
+            "ranked": 11,
+            "epoch": 1634684412.3460085,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "\"I want to represent people from Marzahn\"",
+            "en_content": "Mario Czaja was Senator for Health and Social Affairs in Berlin.Now the CDU politician is sitting in the Bundestag - the left Petra Pau has removed the direct mandate.",
+            "concepts": [
+                {
+                    "word": "people",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Marzahn",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "\"Sexualkunde in der Schule ist ein erbitterter Kulturkampf\"",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/zeit-magazin/leben/2021-10/sexualpaedagogin-anja-henningsen-sexualkunde-kinder-schule-kindergarten-bildung-missbrauch",
+            "content": "Was sollten Kinder Ã¼ber Sex lernen â und von wem? Man kann schon Kleinkinder mit guter AufklÃ¤rung vor Missbrauch schÃ¼tzen, erklÃ¤rt die SexualpÃ¤dagogin Anja Henningsen.",
+            "ranked": 12,
+            "epoch": 1634684412.3460093,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "\"Sexology at school is a bitter culture fight\"",
+            "en_content": "What should children learn about sex - and whom?You can already protect toddlers with good education from abuse, explains the Sexual Education Anja Henningsen.",
+            "concepts": [
+                {
+                    "word": "Sexology",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "school",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "culture",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "fight",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Opel vermeidet Dieselprozess und zahlt MillionenbuÃgeld",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/wirtschaft/unternehmen/2021-10/abgasskandal-opel-bussgeld-prozess-staatsanwaltschaft-frankfurt",
+            "content": "Der Opel-Konzern zahlt 64,8 Millionen Euro, dafÃ¼r gibt es keinen Prozess wie bei VW. Gegen sechs verantwortliche Manager wurden die Ermittlungsverfahren eingestellt.",
+            "ranked": 13,
+            "epoch": 1634684412.3460104,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Opel avoids diesel process and pays million leaf money",
+            "en_content": "The Opel Group pays 64.8 million euros, but there is no process like VW.The investigative procedures were discontinued against six responsible managers.",
+            "concepts": [
+                {
+                    "word": "Opel",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "diesel",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "process",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "leaf",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "money",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Aus dem Werkzeugkasten der Rechtspopulisten",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/mateusz-morawiecki-polen-eu-parlament-rechtsstaatlichkeit-sanktionen",
+            "content": "Polen als Opfer, dazu reichlich Raunen und Drohen: Premier Mateusz Morawiecki provoziert mit einer Rede vor dem EU-Parlament in BrÃ¼ssel. Welche Folgen wird das haben?",
+            "ranked": 14,
+            "epoch": 1634684412.3460112,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "From the toolbox of the right populists",
+            "en_content": "Poland as a victim, plenty of murmur and threatening: Premier Mateusz Morawieci provokes with a speech in front of the EU Parliament in Brussels.Which episodes will that have?",
+            "concepts": [
+                {
+                    "word": "toolbox",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "populists",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Lieber kein Wasser von Vittel mehr",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/wirtschaft/2021-10/lidl-nestle-vittel-plastikflaschen-plastikmuell-umweltschutz-einzelhandel",
+            "content": "Lidl wird kÃ¼nftig kein Mineralwasser der Marke Vittel mehr verkaufen. Die NestlÃ©-Wassersparte steckt in einer tiefen Krise, auch wegen Kritik von UmweltschÃ¼tzern.",
+            "ranked": 15,
+            "epoch": 1634684412.3460119,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Dear no water from Vittel more",
+            "en_content": "Lidl will not sell no mineral water of the Vittel brand in the future.The NestlÃ© water division is in a deep crisis, even because of criticism of environmentalists.",
+            "concepts": [
+                {
+                    "word": "water",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Vittel",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Gerichtshof verurteilt TÃ¼rkei wegen VerstoÃes gegen Meinungsfreiheit",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/egmr-urteil-tuerkei-meinungsfreiheit-recep-tayyip-erdogan-satire-entschaedigung",
+            "content": "Mit dem Gesetz zum Schutz des Ansehens des Staatschefs verstÃ¶Ãt die TÃ¼rkei laut EGMR gegen die Meinungsfreiheit. Das Gericht sprach einem Kritiker EntschÃ¤digung zu.",
+            "ranked": 16,
+            "epoch": 1634684412.3460126,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Court condemns Turkey for violation of freedom of expression",
+            "en_content": "With the law to protect the reputation of the head of state, Turkey violates the freedom of expression according to EGMR.The court spent to a critic compensation.",
+            "concepts": [
+                {
+                    "word": "Court",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Turkey",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "violation",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "freedom",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "expression",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Alte Technik, neues Problem?",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/politik/ausland/2021-10/china-hyperschallrakete-test-atomwaffe-usa-wettruesten-militaer",
+            "content": "China soll eine Hyperschallwaffe getestet haben. Funktioniert sie wie geplant, ist sie nur schwer zu erkennen und abzufangen. Wir beantworten die wichtigsten Fragen.",
+            "ranked": 17,
+            "epoch": 1634684412.3460135,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Old technique, new problem?",
+            "en_content": "China should have tested a hypershentation weapon.If she works as planned, she's hard to recognize and intercept.We answer the most important questions.",
+            "concepts": [
+                {
+                    "word": "technique",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "problem",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Politiker und Ãrzte widersprechen VorstoÃ zu Ende der Corona-Notlage",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/politik/deutschland/2021-10/jens-spahn-corona-notlage-impfquote-ende-ausnahmezustand-epidemische-lage",
+            "content": "Der bundesweite Corona-Ausnahmezustand sollte beendet werden, findet Bundesgesundheitsminister Jens Spahn. Politiker und Gesundheitswesen sind teils anderer Ansicht.",
+            "ranked": 18,
+            "epoch": 1634684412.3460217,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Politicians and physicians contradict push to the end of the corona emergency",
+            "en_content": "The nationwide Corona emergency status should be completed, will find Federal Health Minister Jens Spahn.Politicians and healthcare are part of the other view.",
+            "concepts": [
+                {
+                    "word": "Politicians",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "physicians",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "push",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "end",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "emergency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Staatsanwaltschaft ermittelt wegen fahrlÃ¤ssiger TÃ¶tung nach Explosion",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/chempark-leverkusen-ermittlung-explosion-staatsanwaltschaft-koeln",
+            "content": "Bei einer Explosion im Leverkusener Chempark wurden im Juli sieben Menschen getÃ¶tet. Die Staatsanwaltschaft KÃ¶ln ermittelt nun gegen drei BeschÃ¤ftigte.",
+            "ranked": 19,
+            "epoch": 1634684412.3460226,
+            "language": "de",
+            "source": "Zeit",
+            "filename": "conc_en_2021-10-20T01.00.12E1634684412.3460565.json",
+            "en_title": "Prosecutor's Office determined for negligent killing to explosion",
+            "en_content": "With an explosion in Leverkusen Chempark, seven people were killed in July.The Public Prosecutor's Office Cologne now determines against three employees.",
+            "concepts": [
+                {
+                    "word": "Prosecutor",
+                    "meaning": "poss",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Office",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "explosion",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Il governo ha approvato il documento che prepara la legge di bilancio",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/documento-programmatico-di-bilancio-2022/",
+            "content": " Parla di una possibile riduzione delle tasse e, tra le altre cose, rinvia al 2023 la plastic tax e la sugar tax ",
+            "ranked": 0,
+            "placed": "Politics",
+            "epoch": 1634716810.0710726,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Il governo ha approvato il documento che prepara la legge di bilancio",
+            "en_content": " Parla di una possibile riduzione delle tasse e, tra le altre cose, rinvia al 2023 la plastic tax e la sugar tax ",
+            "concepts": [
+                {
+                    "word": "Il",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "governo",
+                    "meaning": "npadvmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "approvato",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "il",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "documento",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "che",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "prepara",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "la",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "legge",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "bilancio",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Gli altri risultati delle elezioni comunali",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/gli-altri-risultati-delle-elezioni-comunali/",
+            "content": " Dagli omonimi di Cosenza alle sorprese di Varese e Latina, come sono andate nei sette capoluoghi di provincia e in altre cittÃÂ  rilevanti\t",
+            "ranked": 1,
+            "placed": "Politics",
+            "epoch": 1634716810.0710754,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Gli altri risultati delle elezioni comunali",
+            "en_content": " Dagli omonimi di Cosenza alle sorprese di Varese e Latina, come sono andate nei sette capoluoghi di provincia e in altre cittÃÂ  rilevanti\t",
+            "concepts": [
+                {
+                    "word": "Gli",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "altri",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "risultati",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "delle",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "elezioni",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "I dilemmi della destra dopo le amministrative",
+            "date_raw": "October 19, 2021",
+            "date": "2021-10-19",
+            "news_url": "https://www.ilpost.it/2021/10/19/destra-coalizione-amministrative-lega-meloni/",
+            "content": " Le tante sonore sconfitte non hanno un'unica spiegazione, e le decisioni dei prossimi mesi di Salvini e Meloni non saranno facili\t",
+            "ranked": 2,
+            "placed": "Politics",
+            "epoch": 1634716810.0710764,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "I dilemmi della destra dopo le amministrative",
+            "en_content": " Le tante sonore sconfitte non hanno un'unica spiegazione, e le decisioni dei prossimi mesi di Salvini e Meloni non saranno facili\t",
+            "concepts": [
+                {
+                    "word": "dilemmi",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "della",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "destra",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "dopo",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "le",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "amministrative",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Il centrosinistra ha vinto un poÃ¢ÂÂ ovunque",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/centrosinistra-vittoria-amministrative/",
+            "content": " ÃÂ arrivato nettamente primo in tutti i capoluoghi di regione tranne Trieste, ed ÃÂ¨ andato molto bene anche in quelli di provincia ",
+            "ranked": 3,
+            "placed": "Politics",
+            "epoch": 1634716810.0710773,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Il centrosinistra ha vinto un poÃ¢ÂÂ ovunque",
+            "en_content": " ÃÂ arrivato nettamente primo in tutti i capoluoghi di regione tranne Trieste, ed ÃÂ¨ andato molto bene anche in quelli di provincia ",
+            "concepts": [
+                {
+                    "word": "Il",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "centrosinistra",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "un",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "poÃ¢ÂÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ovunque",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Roberto Gualtieri sarÃÂ  il prossimo sindaco di Roma",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggio-roma-elezioni-sindaco-risultati/",
+            "content": " Il candidato del centrosinistra ha ottenuto oltre venti punti di vantaggio su Enrico Michetti, del centrodestra\t",
+            "ranked": 4,
+            "placed": "Politics",
+            "epoch": 1634716810.0710783,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Roberto Gualtieri sarÃÂ  il prossimo sindaco di Roma",
+            "en_content": " Il candidato del centrosinistra ha ottenuto oltre venti punti di vantaggio su Enrico Michetti, del centrodestra\t",
+            "concepts": [
+                {
+                    "word": "Roberto",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "il",
+                    "meaning": "prep",
+                    "pos": "SPACE"
+                },
+                {
+                    "word": "prossimo",
+                    "meaning": "dep",
+                    "pos": "SPACE"
+                },
+                {
+                    "word": "sindaco",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Roma",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Anche Roma e Torino al centrosinistra",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggi-amministrative-roma-torino/",
+            "content": " Le vittorie di Gualtieri e Lo Russo si aggiungono a quelle del primo turno di queste amministrative, in cui il centrodestra ha vinto solo a Trieste\t",
+            "ranked": 5,
+            "placed": "Politics",
+            "epoch": 1634716810.0710795,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Anche Roma e Torino al centrosinistra",
+            "en_content": " Le vittorie di Gualtieri e Lo Russo si aggiungono a quelle del primo turno di queste amministrative, in cui il centrodestra ha vinto solo a Trieste\t",
+            "concepts": [
+                {
+                    "word": "Anche",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Roma",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "e",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Torino",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "al",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "centrosinistra",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Stefano Lo Russo del centrosinistra ha vinto a Torino",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/torino-ballottaggio-elezione-sindaco-risultato/",
+            "content": " A scrutinio terminato ha superato il 59 per cento dei voti, molto avanti rispetto a Paolo Damilano del centrodestra\t",
+            "ranked": 6,
+            "placed": "Politics",
+            "epoch": 1634716810.0710802,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Stefano Lo Russo del centrosinistra ha vinto a Torino",
+            "en_content": " A scrutinio terminato ha superato il 59 per cento dei voti, molto avanti rispetto a Paolo Damilano del centrodestra\t",
+            "concepts": [
+                {
+                    "word": "Stefano",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Russo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "centrosinistra",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Torino",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂaffluenza ai ballottaggi ÃÂ¨ piuttosto bassa",
+            "date_raw": "October 18, 2021",
+            "date": "2021-10-18",
+            "news_url": "https://www.ilpost.it/2021/10/18/ballottaggi-affluenza-elezioni-roma-torino/",
+            "content": " Alle 23 di ieri aveva votato il 33% degli elettori, e a Roma ancora meno ",
+            "ranked": 7,
+            "placed": "Politics",
+            "epoch": 1634716810.071081,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "LÃ¢ÂÂaffluenza ai ballottaggi ÃÂ¨ piuttosto bassa",
+            "en_content": " Alle 23 di ieri aveva votato il 33% degli elettori, e a Roma ancora meno ",
+            "concepts": [
+                {
+                    "word": "LÃ¢ÂÂaffluenza",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ai",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ballottaggi",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ÃÂ¨",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "piuttosto",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "bassa",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Alle 12 lÃ¢ÂÂaffluenza ai ballottaggi delle elezioni amministrative era del 9,73 per cento",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/affluenza-ballottaggi/",
+            "content": " \t",
+            "ranked": 8,
+            "placed": "Politics",
+            "epoch": 1634716810.0710814,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Alle 12 lÃ¢ÂÂaffluenza ai ballottaggi delle elezioni amministrative era del 9,73 per cento",
+            "en_content": " \t",
+            "concepts": [
+                {
+                    "word": "Alle",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "lÃ¢ÂÂaffluenza",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ai",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ballottaggi",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "delle",
+                    "meaning": "compound",
+                    "pos": "NUM"
+                },
+                {
+                    "word": "elezioni",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "era",
+                    "meaning": "compound",
+                    "pos": "NUM"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "NUM"
+                },
+                {
+                    "word": "cento",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Guida ai ballottaggi delle elezioni amministrative",
+            "date_raw": "October 17, 2021",
+            "date": "2021-10-17",
+            "news_url": "https://www.ilpost.it/2021/10/17/ballottaggi-elezioni-amministrative-roma-torino/",
+            "content": " BisognerÃÂ  tenere d'occhio Roma, Torino e Trieste, oltre agli altri capoluoghi: un piccolo atlante per orientarsi\t",
+            "ranked": 9,
+            "placed": "Politics",
+            "epoch": 1634716810.0710824,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Guida ai ballottaggi delle elezioni amministrative",
+            "en_content": " BisognerÃÂ  tenere d'occhio Roma, Torino e Trieste, oltre agli altri capoluoghi: un piccolo atlante per orientarsi\t",
+            "concepts": [
+                {
+                    "word": "Guida",
+                    "meaning": "nsubj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ai",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ballottaggi",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "delle",
+                    "meaning": "npadvmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "elezioni",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "amministrative",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Torino si prepara al ballottaggio",
+            "date_raw": "October 16, 2021",
+            "date": "2021-10-16",
+            "news_url": "https://www.ilpost.it/2021/10/16/torino-ballottaggio-lo-russo-damilano/",
+            "content": " DovrÃÂ  scegliere il suo prossimo sindaco tra Stefano Lo Russo del centrosinistra e Paolo Damilano del centrodestra, in una sfida considerata molto aperta\t",
+            "ranked": 10,
+            "placed": "Politics",
+            "epoch": 1634716810.071083,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Torino si prepara al ballottaggio",
+            "en_content": " DovrÃÂ  scegliere il suo prossimo sindaco tra Stefano Lo Russo del centrosinistra e Paolo Damilano del centrodestra, in una sfida considerata molto aperta\t",
+            "concepts": [
+                {
+                    "word": "prepara",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "al",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ballottaggio",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Michetti e Gualtieri si contendono gli elettori di Calenda e Raggi",
+            "date_raw": "October 15, 2021",
+            "date": "2021-10-15",
+            "news_url": "https://www.ilpost.it/2021/10/15/ballottaggio-roma/",
+            "content": " I loro voti decideranno il ballottaggio a Roma, ma dopo le proteste contro il Green Pass le cose per la destra si sono complicate\t",
+            "ranked": 11,
+            "placed": "Politics",
+            "epoch": 1634716810.0710835,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Michetti e Gualtieri si contendono gli elettori di Calenda e Raggi",
+            "en_content": " I loro voti decideranno il ballottaggio a Roma, ma dopo le proteste contro il Green Pass le cose per la destra si sono complicate\t",
+            "concepts": [
+                {
+                    "word": "Michetti",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "e",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gualtieri",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "contendono",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "di",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Calenda",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "e",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Raggi",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Una giornata complicata per il governo",
+            "date_raw": "October 15, 2021",
+            "date": "2021-10-15",
+            "news_url": "https://www.ilpost.it/2021/10/15/governo-draghi-venerdi-obbligo-green-pass/",
+            "content": " L'entrata in vigore dell'obbligo del Green Pass sui luoghi di lavoro ÃÂ¨ accompagnata da preoccupazioni per possibili problemi, disservizi e soprattutto proteste\t",
+            "ranked": 12,
+            "placed": "Politics",
+            "epoch": 1634716810.071084,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Una giornata complicata per il governo",
+            "en_content": " L'entrata in vigore dell'obbligo del Green Pass sui luoghi di lavoro ÃÂ¨ accompagnata da preoccupazioni per possibili problemi, disservizi e soprattutto proteste\t",
+            "concepts": [
+                {
+                    "word": "Una",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "giornata",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "il",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "governo",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "ComÃ¢ÂÂÃÂ¨ fatta lÃ¢ÂÂestrema destra in Italia",
+            "date_raw": "October 14, 2021",
+            "date": "2021-10-14",
+            "news_url": "https://www.ilpost.it/2021/10/14/gruppi-partiti-organizzazioni-neofascisti-estrema-destra-italia/",
+            "content": " I gruppi neofascisti piÃÂ¹ forti sono tre e in competizione tra loro, ma ÃÂ¨ un mondo fatto di decine di organizzazioni piccole o piccolissime\t",
+            "ranked": 13,
+            "placed": "Politics",
+            "epoch": 1634716810.0710847,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "ComÃ¢ÂÂÃÂ¨ fatta lÃ¢ÂÂestrema destra in Italia",
+            "en_content": " I gruppi neofascisti piÃÂ¹ forti sono tre e in competizione tra loro, ma ÃÂ¨ un mondo fatto di decine di organizzazioni piccole o piccolissime\t",
+            "concepts": [
+                {
+                    "word": "ComÃ¢ÂÂÃÂ¨",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "fatta",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "destra",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Italia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Alle elezioni comunali in Sardegna il centrosinistra ha vinto al primo turno a Carbonia, mentre il centrodestra a Olbia",
+            "date_raw": "October 12, 2021",
+            "date": "2021-10-12",
+            "news_url": "https://www.ilpost.it/2021/10/12/elezioni-comunali-sardegna-carbonia-olbia/",
+            "content": " \t",
+            "ranked": 14,
+            "placed": "Politics",
+            "epoch": 1634716810.0710855,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Alle elezioni comunali in Sardegna il centrosinistra ha vinto al primo turno a Carbonia, mentre il centrodestra a Olbia",
+            "en_content": " \t",
+            "concepts": [
+                {
+                    "word": "Alle",
+                    "meaning": "nsubj",
+                    "pos": "ADV"
+                },
+                {
+                    "word": "Sardegna",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "il",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "centrosinistra",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ha",
+                    "meaning": "intj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "vinto",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "al",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "turno",
+                    "meaning": "dative",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Carbonia",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "il",
+                    "meaning": "dative",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "centrodestra",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Olbia",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Come si scioglie Forza Nuova",
+            "date_raw": "October 12, 2021",
+            "date": "2021-10-12",
+            "news_url": "https://www.ilpost.it/2021/10/12/come-si-scioglie-forza-nuova/",
+            "content": " Cosa dicono Costituzione e codici, quali sono le proposte e le posizioni dei partiti\t",
+            "ranked": 15,
+            "placed": "Politics",
+            "epoch": 1634716810.0710862,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Come si scioglie Forza Nuova",
+            "en_content": " Cosa dicono Costituzione e codici, quali sono le proposte e le posizioni dei partiti\t",
+            "concepts": [
+                {
+                    "word": "si",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "scioglie",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Forza",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Nuova",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Enrico Michetti si ÃÂ¨ vantato di non essere mai stato a Bruxelles",
+            "date_raw": "October 12, 2021",
+            "date": "2021-10-12",
+            "news_url": "https://www.ilpost.it/2021/10/12/michetti-bruxelles/",
+            "content": " Il candidato sindaco del centrodestra a Roma lo ha detto in un recente comizio per provare la sua ÃÂ«indipendenzaÃÂ»\t",
+            "ranked": 16,
+            "placed": "Politics",
+            "epoch": 1634716810.071087,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Enrico Michetti si ÃÂ¨ vantato di non essere mai stato a Bruxelles",
+            "en_content": " Il candidato sindaco del centrodestra a Roma lo ha detto in un recente comizio per provare la sua ÃÂ«indipendenzaÃÂ»\t",
+            "concepts": [
+                {
+                    "word": "Enrico",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Michetti",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ÃÂ¨",
+                    "meaning": "nmod",
+                    "pos": "X"
+                },
+                {
+                    "word": "essere",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "mai",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Bruxelles",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Giorgia Meloni dice di non conoscere la matrice dellÃ¢ÂÂassalto alla sede romana della CGIL",
+            "date_raw": "October 11, 2021",
+            "date": "2021-10-11",
+            "news_url": "https://www.ilpost.it/2021/10/11/giorgia-meloni-matrice-assalto-sede-cgil/",
+            "content": " Nonostante durante gli scontri di Roma siano stati arrestati anche Roberto Fiore e Giuliano Castellini, di Forza Nuova\t",
+            "ranked": 17,
+            "placed": "Politics",
+            "epoch": 1634716810.0710876,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Giorgia Meloni dice di non conoscere la matrice dellÃ¢ÂÂassalto alla sede romana della CGIL",
+            "en_content": " Nonostante durante gli scontri di Roma siano stati arrestati anche Roberto Fiore e Giuliano Castellini, di Forza Nuova\t",
+            "concepts": [
+                {
+                    "word": "Giorgia",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Meloni",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "dice",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "matrice",
+                    "meaning": "pobj",
+                    "pos": "X"
+                },
+                {
+                    "word": "alla",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "romana",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "della",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "CGIL",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Chi sono Roberto Fiore e Giuliano Castellino",
+            "date_raw": "October 10, 2021",
+            "date": "2021-10-10",
+            "news_url": "https://www.ilpost.it/2021/10/10/roberto-fiore-giuliano-castellino/",
+            "content": " Il fondatore di Forza Nuova e il capo romano del partito sono tra le persone arrestate per gli scontri e l'assalto alla sede della CGIL a Roma\t",
+            "ranked": 18,
+            "placed": "Politics",
+            "epoch": 1634716810.0710883,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Chi sono Roberto Fiore e Giuliano Castellino",
+            "en_content": " Il fondatore di Forza Nuova e il capo romano del partito sono tra le persone arrestate per gli scontri e l'assalto alla sede della CGIL a Roma\t",
+            "concepts": [
+                {
+                    "word": "Chi",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sono",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Roberto",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Fiore",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "e",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Giuliano",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Castellino",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "ÃÂ«Salvini ÃÂ¨ un rumore di fondoÃÂ»",
+            "date_raw": "October 09, 2021",
+            "date": "2021-10-09",
+            "news_url": "https://www.ilpost.it/2021/10/09/salvini-rumore-di-fondo-speranza/",
+            "content": " Lo ha detto il ministro della Salute Roberto Speranza, parlando col Corriere della Sera\t",
+            "ranked": 19,
+            "placed": "Politics",
+            "epoch": 1634716810.0710888,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "ÃÂ«Salvini ÃÂ¨ un rumore di fondoÃÂ»",
+            "en_content": " Lo ha detto il ministro della Salute Roberto Speranza, parlando col Corriere della Sera\t",
+            "concepts": [
+                {
+                    "word": "ÃÂ«Salvini",
+                    "meaning": "punct",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ÃÂ¨",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "un",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "rumore",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "di",
+                    "meaning": "punct",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "fondoÃÂ",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "»",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "La seconda parte dellÃ¢ÂÂinchiesta di Fanpage, sulla Lega",
+            "date_raw": "October 08, 2021",
+            "date": "2021-10-08",
+            "news_url": "https://www.ilpost.it/2021/10/08/inchiesta-fanpage-lega/",
+            "content": " Si parla dell'influenza dei neofascisti sul partito, e si vede anche la consegna di un trolley in cui avrebbero dovuto esserci contanti\t",
+            "ranked": 20,
+            "placed": "Politics",
+            "epoch": 1634716810.0710897,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "La seconda parte dellÃ¢ÂÂinchiesta di Fanpage, sulla Lega",
+            "en_content": " Si parla dell'influenza dei neofascisti sul partito, e si vede anche la consegna di un trolley in cui avrebbero dovuto esserci contanti\t",
+            "concepts": [
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "seconda",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "parte",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Fanpage",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sulla",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lega",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "La prima sconfitta del nuovo M5S",
+            "date_raw": "October 06, 2021",
+            "date": "2021-10-06",
+            "news_url": "https://www.ilpost.it/2021/10/06/sconfitta-m5s-amministrative/",
+            "content": " ÃÂ andato malissimo praticamente ovunque, ma Conte sembra insistere sul suo progetto di avvicinamento al centrosinistra\t",
+            "ranked": 21,
+            "placed": "Politics",
+            "epoch": 1634716810.0710905,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "La prima sconfitta del nuovo M5S",
+            "en_content": " ÃÂ andato malissimo praticamente ovunque, ma Conte sembra insistere sul suo progetto di avvicinamento al centrosinistra\t",
+            "concepts": [
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prima",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "nuovo",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "M5S",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Draghi tira dritto",
+            "date_raw": "October 06, 2021",
+            "date": "2021-10-06",
+            "news_url": "https://www.ilpost.it/2021/10/06/draghi-salvini-riforma-fiscale/",
+            "content": " Il governo ha approvato il disegno di legge per la riforma fiscale nonostante l'assenza polemica della Lega\t",
+            "ranked": 22,
+            "placed": "Politics",
+            "epoch": 1634716810.071091,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Draghi tira dritto",
+            "en_content": " Il governo ha approvato il disegno di legge per la riforma fiscale nonostante l'assenza polemica della Lega\t",
+            "concepts": [
+                {
+                    "word": "Draghi",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tira",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "dritto",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Chi ÃÂ¨ Roberto Occhiuto, nuovo presidente della Calabria",
+            "date_raw": "October 05, 2021",
+            "date": "2021-10-05",
+            "news_url": "https://www.ilpost.it/2021/10/05/roberto-occhiuto-presidente-calabria/",
+            "content": " Ha 52 anni ed ÃÂ¨ il capogruppo di Forza Italia alla Camera: in campagna elettorale ha parlato molto di sanitÃÂ , rifiuti e acqua\t",
+            "ranked": 23,
+            "placed": "Politics",
+            "epoch": 1634716810.0710917,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Chi ÃÂ¨ Roberto Occhiuto, nuovo presidente della Calabria",
+            "en_content": " Ha 52 anni ed ÃÂ¨ il capogruppo di Forza Italia alla Camera: in campagna elettorale ha parlato molto di sanitÃÂ , rifiuti e acqua\t",
+            "concepts": [
+                {
+                    "word": "Chi",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "ÃÂ¨",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Roberto",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Occhiuto",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "presidente",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "della",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Calabria",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Il giorno dopo il primo turno delle amministrative",
+            "date_raw": "October 05, 2021",
+            "date": "2021-10-05",
+            "news_url": "https://www.ilpost.it/2021/10/05/primo-turno-amministrative-bilancio/",
+            "content": " ÃÂ pessimo per Salvini e in generale per il centrodestra, mentre il centrosinistra ora punta a vincere i ballottaggi a Roma e Torino\t",
+            "ranked": 24,
+            "placed": "Politics",
+            "epoch": 1634716810.0710921,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Il giorno dopo il primo turno delle amministrative",
+            "en_content": " ÃÂ pessimo per Salvini e in generale per il centrodestra, mentre il centrosinistra ora punta a vincere i ballottaggi a Roma e Torino\t",
+            "concepts": [
+                {
+                    "word": "Il",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "giorno",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "dopo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "il",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "turno",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "delle",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "amministrative",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Alle elezioni suppletive per i collegi della Camera di Roma e Siena hanno vinto i candidati del PD",
+            "date_raw": "October 04, 2021",
+            "date": "2021-10-04",
+            "news_url": "https://www.ilpost.it/2021/10/04/elezioni-suppletive-camera-roma-siena/",
+            "content": " \t",
+            "ranked": 25,
+            "placed": "Politics",
+            "epoch": 1634716810.0710928,
+            "language": "it",
+            "source": "ilPost",
+            "filename": "conc_en_2021-10-20T10.00.10E1634716810.0711071.json",
+            "en_title": "Alle elezioni suppletive per i collegi della Camera di Roma e Siena hanno vinto i candidati del PD",
+            "en_content": " \t",
+            "concepts": [
+                {
+                    "word": "Alle",
+                    "meaning": "nsubj",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "suppletive",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "collegi",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "della",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Camera",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Roma",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "e",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Siena",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "vinto",
+                    "meaning": "prep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "candidati",
+                    "meaning": "appos",
+                    "pos": "PRON"
+                },
+                {
+                    "word": "del",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "PD",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ]
+}
