@@ -81,6 +81,7 @@ def print_table(to_visual, to_visual_name, simils, simil_table):
                                                         with tag('span', klass="text-danger"):
                                                             text(concept['word'])
                                                             doc.asis('<br>')
+                                            doc.asis('<br>')
                                             with tag('div', klass="col"):
                                                 for concept in header['concepts']:
                                                     if concept['word'] in simil_table[header_th['en_title'] + "----" + header['en_title']]:
@@ -99,6 +100,7 @@ def print_table(to_visual, to_visual_name, simils, simil_table):
                                                     with tag('span', klass="text-danger"):
                                                         text(concept['word'])
                                                         doc.asis('<br>')
+                                            doc.asis('<br>')
                                             with tag('div', klass="col"):
                                                 for concept in header['concepts']:
                                                     with tag('span', klass="text-danger"):
