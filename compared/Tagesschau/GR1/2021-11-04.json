@@ -1,0 +1,681 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Kritik an der Aufarbeitung der Geschehnisse zehn Jahre nach der NSU-Mordserie",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45611.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1636063218.4539638,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "Criticism of the revision of events ten years after the NSU murder series",
+            "concepts": [
+                {
+                    "word": "Criticism",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "revision",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "events",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "years",
+                    "meaning": "npadvmod",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "NSU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "murder",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "series",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " SPD-Chefin Esken will erneut fÃÂ¼r den Partei-Vorsitz kandidieren",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45611.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1636063218.4539948,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "SPD boss Esken wants to run again for the party chairmanship",
+            "concepts": [
+                {
+                    "word": "SPD",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "boss",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "party",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "chairmanship",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " 33.949 Corona-Neuinfektionen: Gesundheitsminister beraten ÃÂ¼ber MaÃÂnahmen",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45611.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1636063218.4540133,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "33.949 Corona New Infections: Health Minister advise over measures",
+            "concepts": [
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "New",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Infections",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Health",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Minister",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "measures",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Australier kehren nach gelockerten Corona-Einreiseregeln ins Land zurÃÂ¼ck",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45611.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1636063218.4540296,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "Australian returns to the land for loosened Corona pitches",
+            "concepts": [
+                {
+                    "word": "returns",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "land",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "pitches",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " AtomgesprÃÂ¤che mit dem Iran werden fortgesetzt",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45611.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1636063218.4540439,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "Nuclear conversations with Iran are continued",
+            "concepts": [
+                {
+                    "word": "conversations",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Iran",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Deutsches Rettungsschiff \"Sea-Eye 4\" nimmt 400 Menschen im Mittelmeer von ÃÂ¼berfÃÂ¼lltem Holzboot auf",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45611.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1636063218.4540584,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "German rescue ship \"Sea-Eye 4\" takes 400 people in the Mediterranean of overflowed wooden boat",
+            "concepts": [
+                {
+                    "word": "rescue",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ship",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Sea",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Eye",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "people",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Mediterranean",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "boat",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Beratungen in Berlin ÃÂ¼ber Umsetzung der Klimaziele auf kommunaler Ebene",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45611.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1636063218.4540725,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "Consultations in Berlin over the implementation of climate goals at local level",
+            "concepts": [
+                {
+                    "word": "Consultations",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Berlin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "implementation",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "goals",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "level",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " BGH-Urteil: FuÃÂballvereine haften fÃÂ¼r Fehlverhalten ihrer Fans im Stadion",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45611.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1636063218.454086,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "BGH judgment: Football clubs are liable for misconduct of their fans in the stadium",
+            "concepts": [
+                {
+                    "word": "BGH",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "judgment",
+                    "meaning": "dep",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Football",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "clubs",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "misconduct",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "fans",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "stadium",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Solingen: Lebenslange Haft fÃÂ¼r Mord an eigenen Kindern",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45611.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1636063218.4540997,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "Solingen: Lifelong imprisonment for murder of own children",
+            "concepts": [
+                {
+                    "word": "Solingen",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "imprisonment",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "murder",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "children",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Moderner FÃÂ¼nfkampf kÃÂ¼nftig ohne Reiten nach Skandal bei den Olympischen Spielen 2021",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45611.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1636063218.4541135,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "Contemporary fifty fight for today without riding to scandal at the Olympics 2021",
+            "concepts": [
+                {
+                    "word": "fight",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "today",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "scandal",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Olympics",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45611.html",
+            "content": "",
+            "ranked": "10",
+            "epoch": 1636063218.454133,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "The weather",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "4 novembre, giorno dell'UnitÃÂ  Nazionale e delle Forze Armate.",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-95f90eee-bf7e-4b6a-853a-61bf58b34e63.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-95f90eee-bf7e-4b6a-853a-61bf58b34e63.html",
+            "content": " Mattarella all'altare della patria, con Draghi.  100 anni fa la sepoltura del milite ignoto a Roma.  Programmazione speciale Rai. ÃÂ . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1636236021.0535104,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "November 4, day of the National Unity and Armed Forces.",
+            "en_content": "Mattarella to the altar of the homeland, with dragons.100 years ago the burial of the unknown soldier in Rome.Special RAI programming.TO .",
+            "concepts": [
+                {
+                    "word": "November",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "day",
+                    "meaning": "npadvmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "National",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Unity",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Armed",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Forces",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Riforma della concorrenza, il disegno di legge in Cdm.",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-95f90eee-bf7e-4b6a-853a-61bf58b34e63.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-95f90eee-bf7e-4b6a-853a-61bf58b34e63.html",
+            "content": " Nuove regole dalla telefonia alla sanitÃÂ .  Rinvio per balneari ed ambulanti.  ÃÂ . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1636236021.0535169,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "Competition reform, the bill in CDM.",
+            "en_content": "New rules from telephony to the SanitÃ .Reference for bathing and walking.TO .",
+            "concepts": [
+                {
+                    "word": "Competition",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "reform",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "bill",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "CDM",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Tensioni nella Lega.",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-95f90eee-bf7e-4b6a-853a-61bf58b34e63.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-95f90eee-bf7e-4b6a-853a-61bf58b34e63.html",
+            "content": " Oggi il chiarimento con Giorgetti.  Salvini con i sovranisti europei.  Pd e cinque stelle all'attacco: ÃÂ¨ in declino.  Meloni dal premier: taglio tasse sul lavoro.  ÃÂ . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1636236021.0535192,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "Tensions in the alloy.",
+            "en_content": "Today clarification with Giorgetti.Salvini with European sovereignists.PD and five stars at the attack: it is in decline.Melons from the premier: Cutting Taxes at work.TO .",
+            "concepts": [
+                {
+                    "word": "Tensions",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "alloy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Covid: oltre 5000 contagi, ma con il record di tamponi.",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-95f90eee-bf7e-4b6a-853a-61bf58b34e63.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-95f90eee-bf7e-4b6a-853a-61bf58b34e63.html",
+            "content": " Cala il tasso di positivitÃÂ .  Preoccupa Trieste.  Sputnik e Sinovak, si green pass con terza dose eterologa.  Ok al richiamo per Jhonson e Jhonson. . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1636236021.0535214,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "Covid: over 5000 contagations, but with the buffer record.",
+            "en_content": "The positivity rate falls.He worries Trieste.Sputnik and Sinovak, Yes Green Pass with third heterologous dose.Ok to the call for Jhonson and Jhonson..",
+            "concepts": [
+                {
+                    "word": "Covid",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "contagations",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "buffer",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "record",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Allarme in Germania: quasi 200 morti in un giorno.",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-95f90eee-bf7e-4b6a-853a-61bf58b34e63.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-95f90eee-bf7e-4b6a-853a-61bf58b34e63.html",
+            "content": " Il governo di Berlino: \"E' la pandemia dei non vaccinati\". ÃÂ . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1636236021.0535233,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "Alarm in Germany: almost 200 deaths in a day.",
+            "en_content": "The Berlin Government: \"It is the pandemic of unpaced\".TO .",
+            "concepts": [
+                {
+                    "word": "Alarm",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "deaths",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "day",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Green pass falsi, coinvolto anche l'attore Pippo Franco.",
+            "date_raw": "November 04, 2021",
+            "date": "2021-11-04",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-95f90eee-bf7e-4b6a-853a-61bf58b34e63.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-95f90eee-bf7e-4b6a-853a-61bf58b34e63.html",
+            "content": " L'inchiesta della Procura di Roma potrebbe allargarsi.  ÃÂ . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1636236021.0535254,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-04.json",
+            "en_title": "Green Pass False, also involved the actor Pippo Franco.",
+            "en_content": "The Rome prosecutor's investigation could expand.TO .",
+            "concepts": [
+                {
+                    "word": "Green",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Pass",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "False",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "actor",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Pippo",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Franco",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

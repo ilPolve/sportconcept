@@ -14,12 +14,13 @@ def get_dirs():
     to_ret= []
     directory= "./compared/"
     for source_a in os.scandir(directory):
-        subdir_a = directory + source_a.name + "/"
-        for source_b in os.scandir(subdir_a):
-            subdir_b = subdir_a + source_b.name + "/"
-            for my_compare in os.scandir(subdir_b):
-                if my_compare.name[len(my_compare.name)-5:] == ".json":
-                    to_ret.append(subdir_b + my_compare.name)
+        if source_a.name != "date_comparison":
+            subdir_a = directory + source_a.name + "/"
+            for source_b in os.scandir(subdir_a):
+                subdir_b = subdir_a + source_b.name + "/"
+                for my_compare in os.scandir(subdir_b):
+                    if my_compare.name[len(my_compare.name)-5:] == ".json":
+                        to_ret.append(subdir_b + my_compare.name)
     return to_ret
 
 #a function which, given the path of a json comparing file, visualize its html table of comparison

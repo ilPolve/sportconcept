@@ -1,0 +1,611 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "G20-Staats- und Regierungschefs beraten in Rom ÃÂ¼ber gerechte Impfstoffverteilung und Klimaschutz",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45541.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1635627617.7748077,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "G20 Heads of State and Government advise in Rome on just vaccine distribution and climate protection",
+            "concepts": [
+                {
+                    "word": "G20",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Heads",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "State",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Government",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rome",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "distribution",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "protection",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " CDU-Kreisvorsitzendenkonferenz fordert Mitgliederbefragung zu Laschets Nachfolge als Parteichef",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45541.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1635627617.7748413,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "CDU district chairman conference calls for membership survey to lashes succession as party feet",
+            "concepts": [
+                {
+                    "word": "CDU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "district",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "chairman",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "conference",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "membership",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "survey",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "lashes",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "succession",
+                    "meaning": "dobj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "party",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "feet",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Bundesgesundheitsministerium betont Anrecht aller auf Corona-Auffrischungsimpfung",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45541.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1635627617.7748604,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Federal Ministry of Health emphasizes right of all Corona refresh vaccination",
+            "concepts": [
+                {
+                    "word": "Federal",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ministry",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Health",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vaccination",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Robert Koch-Institut meldet 21.543 neue FÃÂ¤lle und eine Sieben-Tage-Inzidenz von 145",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45541.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1635627617.774877,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Robert Koch Institute reports 21,543 new cases and a seven-day incidence of 145",
+            "concepts": [
+                {
+                    "word": "Robert",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Koch",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Institute",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cases",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "day",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "incidence",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " Mehrere Tausend demonstrieren in KÃÂ¶ln gegen das geplante Versammlungsgesetz in NRW",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45541.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1635627617.7748919,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Multiple thousands demonstrate in KÃ¶ln against the planned assembly law in NRW",
+            "concepts": [
+                {
+                    "word": "thousands",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "KÃ¶ln",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "assembly",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "law",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "NRW",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Ende der Sommerzeit: Diskussion ÃÂ¼ber DurchfÃÂ¼hrung einer Abschaffung der Zeitumstellung dauert an",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45541.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1635627617.7749064,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "End of the summer time: Discussion over the execution of an abolition of time change takes",
+            "concepts": [
+                {
+                    "word": "End",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "summer",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "time",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Discussion",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "execution",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "abolition",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "time",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "change",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Bisher stÃÂ¤rkstes Erdbeben seit Beginn des Vulkanausbruchs erschÃÂ¼ttert La Palma",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45541.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1635627617.7749202,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "So far strained earthquake since the beginning of the vulcan eruption, la Palma shooked",
+            "concepts": [
+                {
+                    "word": "earthquake",
+                    "meaning": "advcl",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "beginning",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                },
+                {
+                    "word": "vulcan",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "eruption",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "la",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Palma",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Flug des deutschen Astronauten Maurer wegen schlechten WetterverhÃÂ¤ltnissen verschoben",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45541.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1635627617.7749333,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Flight of the German Astronaut Maurer moved due to bad weather detections",
+            "concepts": [
+                {
+                    "word": "Flight",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "German",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Astronaut",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Maurer",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "weather",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "detections",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Ergebnisse des 10. Spieltags der FuÃÂball-Bundesliga",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45541.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1635627617.7749465,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Results of the 10th Matches of the Football Bundesliga",
+            "concepts": [
+                {
+                    "word": "Results",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Matches",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Football",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bundesliga",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Die Lottozahlen",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45541.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1635627617.77496,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "The lottery numbers",
+            "concepts": [
+                {
+                    "word": "lottery",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "numbers",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45541.html",
+            "content": "",
+            "ranked": "10",
+            "epoch": 1635627617.774979,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "The weather",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Critical infrastructure is vulnerable to flooding from climate changeÃ¢ÂÂwhy itÃ¢ÂÂs not just coastal cities at risk",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.pbs.org/newshour/show/october-30-2021-pbs-newshour-weekend-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/critical-infrastructure-is-vulnerable-to-flooding-from-climate-change-why-its-not-just-coastal-cities-at-risk",
+            "duration": "4 min",
+            "ranked": 0,
+            "epoch": 1635717612.37572,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Critical infrastructure is vulnerable to flooding from climate changeÃ¢ÂÂwhy itÃ¢ÂÂs not just coastal cities at risk",
+            "concepts": [
+                {
+                    "word": "infrastructure",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "flooding",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "cities",
+                    "meaning": "dep",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "risk",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Facebook hits refresh with Ã¢ÂÂMetaÃ¢ÂÂ but internal leaks reveal a larger crisis",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.pbs.org/newshour/show/october-30-2021-pbs-newshour-weekend-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/facebook-hits-refresh-with-meta-but-internal-leaks-reveal-a-larger-crisis",
+            "duration": "5 min",
+            "ranked": 1,
+            "epoch": 1635717612.375722,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Facebook hits refresh with Ã¢ÂÂMetaÃ¢ÂÂ but internal leaks reveal a larger crisis",
+            "concepts": [
+                {
+                    "word": "Facebook",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "refresh",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "leaks",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "crisis",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "How a guaranteed income pilot program is helping some in Gary, Indiana",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.pbs.org/newshour/show/october-30-2021-pbs-newshour-weekend-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/how-a-guaranteed-income-pilot-program-is-helping-some-in-gary-indiana",
+            "duration": "8 min",
+            "ranked": 2,
+            "epoch": 1635717612.3757231,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "How a guaranteed income pilot program is helping some in Gary, Indiana",
+            "concepts": [
+                {
+                    "word": "income",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "pilot",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "program",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Gary",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Indiana",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ]
+}

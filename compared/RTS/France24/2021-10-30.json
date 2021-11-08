@@ -1,0 +1,909 @@
+{
+    "simils_concepts": [
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 2,
+                "n_newA": 4,
+                "n_newB": 6,
+                "n_possible": 24,
+                "concepts_found": [
+                    {
+                        "word": "G20",
+                        "meaning": "ROOT",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": "G20: Quel place pour le climat avant la COP26?",
+                    "date_raw": "October 30, 2021",
+                    "date": "2021-10-30",
+                    "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-25774411.html",
+                    "news_url": "https://www.rts.ch/audio-podcast/2021/audio/g20-quel-place-pour-le-climat-avant-la-cop26-25774400.html",
+                    "duration": "01:55",
+                    "ranked": 4,
+                    "epoch": 1636149611.7645843,
+                    "language": "fr",
+                    "source": "RTS",
+                    "filename": "conc_en_2021-10-30.json",
+                    "en_title": "G20: What place for the climate before COP26?",
+                    "concepts": [
+                        {
+                            "word": "G20",
+                            "meaning": "ROOT",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "place",
+                            "meaning": "appos",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "climate",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "COP26",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                },
+                {
+                    "title": "G20: Huge divide between rich and poor countries on climate, vaccines and tax",
+                    "date_raw": "October 30, 2021",
+                    "date": "2021-10-30",
+                    "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+                    "news_url": "https://www.france24.com/en/video/20211030-g20-huge-divide-between-rich-and-poor-countries-on-climate-vaccines-and-tax",
+                    "content": "",
+                    "ranked": 7,
+                    "placed": "First_Page",
+                    "epoch": 1635627615.6203241,
+                    "language": "en",
+                    "source": "France24",
+                    "filename": "conc_en_2021-10-30.json",
+                    "en_title": "G20: Huge divide between rich and poor countries on climate, vaccines and tax",
+                    "en_content": "",
+                    "concepts": [
+                        {
+                            "word": "G20",
+                            "meaning": "ROOT",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "divide",
+                            "meaning": "appos",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "countries",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "climate",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "vaccines",
+                            "meaning": "conj",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "tax",
+                            "meaning": "conj",
+                            "pos": "NOUN"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "edition_a": [
+        {
+            "title": "Des manifestations syndicales pour de meilleures conditions de travail auront lieu ce samedi",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-25774411.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/des-manifestations-syndicales-pour-de-meilleures-conditions-de-travail-auront-lieu-ce-samedi-25774395.html",
+            "duration": "01:58",
+            "ranked": 0,
+            "epoch": 1636149611.764579,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Union demonstrations for better working conditions will take place this Saturday",
+            "concepts": [
+                {
+                    "word": "Union",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "demonstrations",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "conditions",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "place",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Saturday",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Ce samedi se tient la journÃÂ©e des proches aidants dans plusieurs cantons",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-25774411.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/ce-samedi-se-tient-la-journee-des-proches-aidants-dans-plusieurs-cantons-25774396.html",
+            "duration": "01:36",
+            "ranked": 1,
+            "epoch": 1636149611.7645817,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "This Saturday is the day of close caregivers in several cantons",
+            "concepts": [
+                {
+                    "word": "Saturday",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "day",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "caregivers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "cantons",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Quel avenir pour le BÃÂ©jart Ballet aprÃÂ¨s le nouvel audit?",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-25774411.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/quel-avenir-pour-le-bejart-ballet-apres-le-nouvel-audit-25774399.html",
+            "duration": "02:08",
+            "ranked": 2,
+            "epoch": 1636149611.7645826,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "What future for the Ballet Beach after the new audit?",
+            "concepts": [
+                {
+                    "word": "future",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Ballet",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Beach",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "audit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le SÃÂ©nÃÂ©gal subit dÃÂ©jÃÂ  de maniÃÂ¨re prononcÃÂ©e le rÃÂ©chauffement climatique",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-25774411.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-senegal-subit-deja-de-maniere-prononcee-le-rechauffement-climatique-25774405.html",
+            "duration": "01:53",
+            "ranked": 3,
+            "epoch": 1636149611.7645833,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "The semi-lag suddenly pronounced the climate repair",
+            "concepts": [
+                {
+                    "word": "semi",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "-",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "lag",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "repair",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "G20: Quel place pour le climat avant la COP26?",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-25774411.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/g20-quel-place-pour-le-climat-avant-la-cop26-25774400.html",
+            "duration": "01:55",
+            "ranked": 4,
+            "epoch": 1636149611.7645843,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "G20: What place for the climate before COP26?",
+            "concepts": [
+                {
+                    "word": "G20",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "place",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "COP26",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les opposants au coup d'ÃÂ©tat militaire au Soudan manifestent dans les rues de Khartoum",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-25774411.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-opposants-au-coup-d-etat-militaire-au-soudan-manifestent-dans-les-rues-de-khartoum-25774404.html",
+            "duration": "01:51",
+            "ranked": 5,
+            "epoch": 1636149611.7645855,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Opponents at the military shot in Sudan manifest in the streets of Khartoum",
+            "concepts": [
+                {
+                    "word": "Opponents",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "shot",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sudan",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "manifest",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "streets",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Khartoum",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Hockey: Fribourg et Bienne dominent ce dÃÂ©but de saison",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-25774411.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/hockey-fribourg-et-bienne-dominent-ce-debut-de-saison-25774406.html",
+            "duration": "01:14",
+            "ranked": 6,
+            "epoch": 1636149611.7645862,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Hockey: Freiburg and Bienne dominate this season of season",
+            "concepts": [
+                {
+                    "word": "Hockey",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Freiburg",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Bienne",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "season",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "season",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "15 minutes - RÃÂ©novations climatiques, quand propriÃÂ©taires et locataires sÃ¢ÂÂinquiÃÂ¨tent",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-25774411.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/15-minutes-renovations-climatiques-quand-proprietaires-et-locataires-s-inquietent-25774414.html",
+            "duration": "15:07",
+            "ranked": 7,
+            "epoch": 1636149611.764587,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "15 minutes - climate renovations, when properties and tenants are worn",
+            "concepts": [
+                {
+                    "word": "minutes",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "renovations",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "properties",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "tenants",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "With heightened rhetoric, is US moving away from Ã¢ÂÂstrategic ambiguityÃ¢ÂÂ on Taiwan?",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+            "news_url": "https://www.france24.com/en/asia-pacific/20211030-with-heightened-rhetoric-is-us-moving-away-from-strategic-ambiguity-on-taiwan",
+            "content": "",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1635627615.620315,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "With heightened rhetoric, is US moving away from Ã¢ÂÂstrategic ambiguityÃ¢ÂÂ on Taiwan?",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "rhetoric",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "US",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ambiguityÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Taiwan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Three protesters killed in Sudan anti-coup demonstrations",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+            "news_url": "https://www.france24.com/en/africa/20211030-sudan-braces-for-saturday-protests-against-bloody-military-coup",
+            "content": "",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1635627615.620318,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Three protesters killed in Sudan anti-coup demonstrations",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "protesters",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Sudan",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "demonstrations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Explosion near Yemen's Aden airport kills at least a dozen people",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+            "news_url": "https://www.france24.com/en/middle-east/20211030-at-least-12-killed-in-blast-near-yemen-s-aden-airport",
+            "content": "",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1635627615.6203196,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Explosion near Yemen's Aden airport kills at least a dozen people",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Explosion",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Yemen",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Aden",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "airport",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                },
+                {
+                    "word": "dozen",
+                    "meaning": "nummod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "people",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Soudan anti-coup protests",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+            "news_url": "https://www.france24.com/en/video/20211030-soudan-anti-coup-protests",
+            "content": "",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1635627615.6203203,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Soudan anti-coup protests",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Soudan",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "protests",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Prince Andrew asks US court to dismiss 'baseless' sex abuse case",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+            "news_url": "https://www.france24.com/en/americas/20211030-prince-andrew-asks-us-court-to-throw-out-baseless-sex-abuse-case",
+            "content": "",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1635627615.620321,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Prince Andrew asks US court to dismiss 'baseless' sex abuse case",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Prince",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Andrew",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "US",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "court",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sex",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "abuse",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "case",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Seven Malian soldiers killed in separate attacks",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+            "news_url": "https://www.france24.com/en/africa/20211030-7-malian-soldiers-killed-in-separate-attacks",
+            "content": "",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1635627615.6203225,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Seven Malian soldiers killed in separate attacks",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "soldiers",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "attacks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Four Gulf states including UAE pull diplomats from Beirut",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+            "news_url": "https://www.france24.com/en/middle-east/20211030-kuwait-expels-lebanese-envoy-as-saudi-spat-over-yemen-war-deepens",
+            "content": "",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1635627615.6203234,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Four Gulf states including UAE pull diplomats from Beirut",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Gulf",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "states",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "UAE",
+                    "meaning": "pobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "diplomats",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Beirut",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "G20: Huge divide between rich and poor countries on climate, vaccines and tax",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+            "news_url": "https://www.france24.com/en/video/20211030-g20-huge-divide-between-rich-and-poor-countries-on-climate-vaccines-and-tax",
+            "content": "",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1635627615.6203241,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "G20: Huge divide between rich and poor countries on climate, vaccines and tax",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "G20",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "divide",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "vaccines",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tax",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Normandy village takes a gamble on letting in the rising sea",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+            "news_url": "https://www.france24.com/en/france/20211030-normandy-village-takes-a-gamble-on-letting-in-the-rising-sea",
+            "content": "",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1635627615.6203249,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Normandy village takes a gamble on letting in the rising sea",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "village",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "gamble",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sea",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Portugal's floating power plants are on the cutting edge of renewable technology",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+            "news_url": "https://www.france24.com/en/europe/20211030-portugal-s-floating-power-plants-are-on-the-cutting-edge-of-renewable-technology",
+            "content": "",
+            "ranked": 9,
+            "placed": "First_Page",
+            "epoch": 1635627615.6203256,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "Portugal's floating power plants are on the cutting edge of renewable technology",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Portugal",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "power",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "plants",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "edge",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "technology",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "US calls on Tigray rebel group to 'halt its advances' in key northern cities",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+            "news_url": "https://www.france24.com/en/africa/20211030-us-calls-on-tigray-rebel-group-to-halt-its-advances-in-key-northern-cities",
+            "content": "",
+            "ranked": 10,
+            "placed": "First_Page",
+            "epoch": 1635627615.6203265,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "US calls on Tigray rebel group to 'halt its advances' in key northern cities",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "US",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Tigray",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rebel",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "group",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "advances",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cities",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "G20 leaders endorse global corporate minimum tax but wrangle over climate",
+            "date_raw": "October 30, 2021",
+            "date": "2021-10-30",
+            "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+            "news_url": "https://www.france24.com/en/europe/20211030-climate-and-the-global-economy-to-top-agenda-at-g20-rome-summit",
+            "content": "",
+            "ranked": 11,
+            "placed": "First_Page",
+            "epoch": 1635627615.6203272,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-10-30.json",
+            "en_title": "G20 leaders endorse global corporate minimum tax but wrangle over climate",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "leaders",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "tax",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

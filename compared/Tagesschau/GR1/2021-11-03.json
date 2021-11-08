@@ -1,0 +1,607 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Sorge vor VerschÃÂ¤rfung der Corona-Lage: Debatte ÃÂ¼ber Corona-MaÃÂnahmen",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45597.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1635976818.5725772,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Concern before combating the corona location: debate on corona measures",
+            "concepts": [
+                {
+                    "word": "Concern",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "location",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "debate",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "measures",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " US-GesundheitsbehÃÂ¶rde erteilt BioNTech-Pfizer-Impfstoff-Freigabe fÃÂ¼r Kinder zwischen 5 und 11 Jahren",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45597.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1635976818.5726047,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "US health care gives BionTech-Pfizer vaccine release for children between 5 and 11 years",
+            "concepts": [
+                {
+                    "word": "US",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "health",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "care",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "BionTech",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Pfizer",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "release",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "children",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "years",
+                    "meaning": "npadvmod",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " Kohleausstieg bis 2038: Bundewirtschaftsminister Altmaier stellt ProjektplÃÂ¤ne fÃÂ¼r den Strukturwandel in Kohleregionen vor",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45597.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1635976818.572622,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Coal exit until 2038: Annual Minister Altmaier introduces project planning for structural change in coal regions",
+            "concepts": [
+                {
+                    "word": "Coal",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "exit",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Minister",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Altmaier",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "project",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "planning",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "change",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "coal",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "regions",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " SPD plant Vorgehen fÃÂ¼r die Suche nach einer neuen Doppelspitze",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45597.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1635976818.5726364,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "SPD plans procedure for the search for a new double top",
+            "concepts": [
+                {
+                    "word": "SPD",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "plans",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "procedure",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "search",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "top",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Klimagipfel: Kritik an noch nicht eingelÃÂ¶sten Finanzzusagen der Industriestaaten an ÃÂ¤rmere LÃÂ¤nder",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45597.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1635976818.5726495,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Climate Summit: Criticism of the financial statements of industrialized countries not yet released",
+            "concepts": [
+                {
+                    "word": "Climate",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Summit",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Criticism",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "statements",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Konflikt um Region Tigray in ÃÂthiopien: UN prangern extreme BrutalitÃÂ¤t an",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45597.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1635976818.5726626,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Conflict for Tigray region in Ã \"Thiopien: un prangger extreme brutality",
+            "concepts": [
+                {
+                    "word": "Conflict",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Tigray",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "region",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ã",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Thiopien",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "un",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prangger",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "brutality",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " Republikaner Youngkin gewinnt knapp die US-Gouverneurswahl in Virginia",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45597.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1635976818.572675,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Republican Youngkin wins just US governorship in Virginia",
+            "concepts": [
+                {
+                    "word": "Republican",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Youngkin",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "US",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "governorship",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Virginia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Bundeskanzlerin Merkel erhÃÂ¤lt GroÃÂkreuz der Ehrenlegion beim Abschiedsbesuch in Frankreich",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45597.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1635976818.572687,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Federal Chancellor Merkel has a large cross of honorary legion in the farewell visit to France",
+            "concepts": [
+                {
+                    "word": "Federal",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Chancellor",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Merkel",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cross",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "legion",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "visit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "France",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Die Lottozahlen",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45597.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1635976818.5726988,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "The lottery numbers",
+            "concepts": [
+                {
+                    "word": "lottery",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "numbers",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45597.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1635976818.5727112,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "The weather",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Clima.",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "content": " Patto dei leader a Glasgow.  Fermare la deforestazione e taglio delle emissioni di metano.  Il ministro Cingolani: \"L'Italia investe nel Fondo per la transizione energetica\". ÃÂ . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1636149626.1814044,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Climate.",
+            "en_content": "Leader pact in Glasgow.Stop the deforestation and cutting of methane emissions.The Minister Carrolani: \"Italy invests in the Fund for Energy Transition\".TO .",
+            "concepts": [
+                {
+                    "word": "Climate",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Covid.",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "content": " Curva del contagio in lieve risalita.  Il coordinatore del Cts Locatelli a Radio1: \"Serve ancora prudenza\". . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1636149626.1814091,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Covid.",
+            "en_content": "Slieve contagion curve.The Coordinator of the Locatelli CTS at Radio1: \"It still serves prudence\"..",
+            "concepts": [
+                {
+                    "word": "Covid",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Vaccini, verso la terza dose entro fine anno anche per i cinquantenni.",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "content": " Marito e moglie entrambi carabinieri e convinti no vax: hanno contratto il virus.  Lui ÃÂ¨ morto.  ÃÂ . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1636149626.1814113,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Vaccines, towards the third dose by the end of the year also for the fifty-year-olds.",
+            "en_content": "Husband and wife both carabinieri and convinced No Vax: the virus contracted.He died.TO .",
+            "concepts": [
+                {
+                    "word": "Vaccines",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "dose",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "end",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "year",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "year",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "olds",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Voto amministrativo degli Stati Uniti.",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "content": " A Boston primo sindaco donna: l'asiatico-americana Michelle Wu.  A guidare New York e Pittsburg due democratici afro-americani.  I Repubblicani vincono in Virginia. . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1636149626.181413,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Administrative vote in the United States.",
+            "en_content": "In Boston first Mayor of woman: Asian-American Michelle Wu.Driving New York and Pittsburg two African American Democrats.Republicans win in Virginia..",
+            "concepts": [
+                {
+                    "word": "vote",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "States",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Tanti auguri a Monica Vitti.",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "content": " Compie 90 anni l'attrice piÃÂ¹ eclettica del cinema italiano.  Il ricordo della Rai con una programmazione dedicata. ÃÂ . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1636149626.1814146,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Best wishes to Monica Vitti.",
+            "en_content": "The more eclectic actress of Italian cinema is performed 90 years.The memory of Rai with a dedicated programming.TO .",
+            "concepts": [
+                {
+                    "word": "Monica",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vitti",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

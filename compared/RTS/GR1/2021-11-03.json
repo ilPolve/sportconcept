@@ -1,0 +1,719 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Bilan financier positif pour Swiss aprÃÂ¨s la reprise des voyages",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25775442.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/bilan-financier-positif-pour-swiss-apres-la-reprise-des-voyages-25775447.html",
+            "duration": "01:25",
+            "ranked": 0,
+            "epoch": 1636322410.9884124,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "POSITIVE FINANCIAL REPORT FOR SWISS After the resumption of travel",
+            "concepts": [
+                {
+                    "word": "POSITIVE",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "FINANCIAL",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "SWISS",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "resumption",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "travel",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les compagnies aÃÂ©riennes renouent avec les bÃÂ©nÃÂ©fices: interview de StÃÂ©phane Jayet",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25775442.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-compagnies-aeriennes-renouent-avec-les-benefices-interview-de-stephane-jayet-25775446.html",
+            "duration": "02:35",
+            "ranked": 1,
+            "epoch": 1636322410.9884152,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Amenities are returning to the BÃ©nÃ©ices: Interview with StÃ Â© Phane Jayet",
+            "concepts": [
+                {
+                    "word": "Amenities",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "BÃ",
+                    "meaning": "compound",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "nÃ",
+                    "meaning": "compound",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "ices",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Interview",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "StÃ",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Â",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "©",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Phane",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Jayet",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Une amende de 300 francs contre les dÃÂ©chets sauvages en Suisse?",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25775442.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-amende-de-300-francs-contre-les-dechets-sauvages-en-suisse-25775448.html",
+            "duration": "01:33",
+            "ranked": 2,
+            "epoch": 1636322410.9884162,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "A fine of 300 francs against wild depths in Switzerland?",
+            "concepts": [
+                {
+                    "word": "fine",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "francs",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "depths",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Switzerland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La pisciculture d'Estavayer-le-Lac (FR) sera remise en service",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25775442.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-pisciculture-d-estavayer-le-lac-fr-sera-remise-en-service-25775456.html",
+            "duration": "02:02",
+            "ranked": 3,
+            "epoch": 1636322410.9884174,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "The fish farming of Estavayer-le-Lac (en) will be put into service",
+            "concepts": [
+                {
+                    "word": "fish",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "farming",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Estavayer",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "le",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lac",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "service",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂUniversitÃÂ© de Lausanne veut mieux lutter contre le harcÃÂ¨lement sexuel et le sexisme",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25775442.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-universite-de-lausanne-veut-mieux-lutter-contre-le-harcelement-sexuel-et-le-sexisme-25775452.html",
+            "duration": "02:09",
+            "ranked": 4,
+            "epoch": 1636322410.9884183,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Lausanne's universities wants to fight better against sexual harassment and sexism",
+            "concepts": [
+                {
+                    "word": "Lausanne",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "universities",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "harassment",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "sexism",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "La NeuchÃÂ¢teloise Monika Maire Hefti nommÃÂ©e ÃÂ  la tÃÂªte de la Commission fÃÂ©dÃÂ©rale pour les affaires familiales",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25775442.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-neuchateloise-monika-maire-hefti-nommee-a-la-tete-de-la-commission-federale-pour-les-affaires-familiales-25775459.html",
+            "duration": "01:18",
+            "ranked": 5,
+            "epoch": 1636322410.9884193,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "La NeuchÃ Â¢ Teloise Monika Mayor Hefti appointed to the head of the Federal Commission for Family Affairs",
+            "concepts": [
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "NeuchÃ",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Teloise",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Monika",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Mayor",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hefti",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "head",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Federal",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Commission",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Family",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Affairs",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Ski de fond: Dario Cologna arrÃÂªtera sa carriÃÂ¨re au printemps prochain",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25775442.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/ski-de-fond-dario-cologna-arretera-sa-carriere-au-printemps-prochain-25775460.html",
+            "duration": "01:34",
+            "ranked": 6,
+            "epoch": 1636322410.9884207,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Cross-country skiing: Dario Cologna will stop his career next spring",
+            "concepts": [
+                {
+                    "word": "skiing",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Dario",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cologna",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "career",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "spring",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "TaÃÂ¯wan accueille pour la premiÃÂ¨re fois une dÃÂ©lÃÂ©gation officielle du Parlement europÃÂ©en",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25775442.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/taiwan-accueille-pour-la-premiere-fois-une-delegation-officielle-du-parlement-europeen-25775462.html",
+            "duration": "01:16",
+            "ranked": 7,
+            "epoch": 1636322410.9884214,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "TaÃ£Â¯wan welcomes for the first time an official delegation of the European Parliament in",
+            "concepts": [
+                {
+                    "word": "TaÃ£Â¯wan",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "time",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "delegation",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "European",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Parliament",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Des abus de droits humains ont marquÃÂ© les affrontements du TigrÃÂ© en Ethiopie",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25775442.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/des-abus-de-droits-humains-ont-marque-les-affrontements-du-tigre-en-ethiopie-25775463.html",
+            "duration": "00:26",
+            "ranked": 8,
+            "epoch": 1636322410.9884224,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Human rights abuses have marked the clashes of the TIGRÃ Â© Ethiopia",
+            "concepts": [
+                {
+                    "word": "rights",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "abuses",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "clashes",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "TIGRÃ",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Â",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "©",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ethiopia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Plusieurs dizaines de personnes tuÃÂ©es au YÃÂ©men lors de combats",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25775442.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/plusieurs-dizaines-de-personnes-tuees-au-yemen-lors-de-combats-25775464.html",
+            "duration": "02:06",
+            "ranked": 9,
+            "epoch": 1636322410.9884233,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Dozens of people killed in the yen during fighting",
+            "concepts": [
+                {
+                    "word": "Dozens",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "people",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "yen",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "56% des habitantes et habitants de Minneapolis rejettent la refonte de leur police",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25775442.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/56-des-habitantes-et-habitants-de-minneapolis-rejettent-la-refonte-de-leur-police-25775465.html",
+            "duration": "00:21",
+            "ranked": 10,
+            "epoch": 1636322410.9884243,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "56% of Minneapolis inhabitants reject the redesign of their police",
+            "concepts": [
+                {
+                    "word": "%",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Minneapolis",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "inhabitants",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "redesign",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "police",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les invitÃÂ©s du 12h30 - Le duo musical BARON.E pour la sortie de leur EP ÃÂ« CRÃÂATURE ÃÂ»",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25775442.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-invites-du-12h30-le-duo-musical-baron-e-pour-la-sortie-de-leur-ep-creature-25775467.html",
+            "duration": "10:06",
+            "ranked": 11,
+            "epoch": 1636322410.988425,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "The guests of 12:30 - the Duo Musical Baron.e for the release of their EP Ã \"CREDURE\"",
+            "concepts": [
+                {
+                    "word": "guests",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Duo",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Musical",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Baron.e",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "release",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "EP",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Ã",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "CREDURE",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Clima.",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "content": " Patto dei leader a Glasgow.  Fermare la deforestazione e taglio delle emissioni di metano.  Il ministro Cingolani: \"L'Italia investe nel Fondo per la transizione energetica\". ÃÂ . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1636149626.1814044,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Climate.",
+            "en_content": "Leader pact in Glasgow.Stop the deforestation and cutting of methane emissions.The Minister Carrolani: \"Italy invests in the Fund for Energy Transition\".TO .",
+            "concepts": [
+                {
+                    "word": "Climate",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Covid.",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "content": " Curva del contagio in lieve risalita.  Il coordinatore del Cts Locatelli a Radio1: \"Serve ancora prudenza\". . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1636149626.1814091,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Covid.",
+            "en_content": "Slieve contagion curve.The Coordinator of the Locatelli CTS at Radio1: \"It still serves prudence\"..",
+            "concepts": [
+                {
+                    "word": "Covid",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Vaccini, verso la terza dose entro fine anno anche per i cinquantenni.",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "content": " Marito e moglie entrambi carabinieri e convinti no vax: hanno contratto il virus.  Lui ÃÂ¨ morto.  ÃÂ . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1636149626.1814113,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Vaccines, towards the third dose by the end of the year also for the fifty-year-olds.",
+            "en_content": "Husband and wife both carabinieri and convinced No Vax: the virus contracted.He died.TO .",
+            "concepts": [
+                {
+                    "word": "Vaccines",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "dose",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "end",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "year",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "year",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "olds",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Voto amministrativo degli Stati Uniti.",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "content": " A Boston primo sindaco donna: l'asiatico-americana Michelle Wu.  A guidare New York e Pittsburg due democratici afro-americani.  I Repubblicani vincono in Virginia. . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1636149626.181413,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Administrative vote in the United States.",
+            "en_content": "In Boston first Mayor of woman: Asian-American Michelle Wu.Driving New York and Pittsburg two African American Democrats.Republicans win in Virginia..",
+            "concepts": [
+                {
+                    "word": "vote",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "States",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Tanti auguri a Monica Vitti.",
+            "date_raw": "November 03, 2021",
+            "date": "2021-11-03",
+            "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+            "content": " Compie 90 anni l'attrice piÃÂ¹ eclettica del cinema italiano.  Il ricordo della Rai con una programmazione dedicata. ÃÂ . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1636149626.1814146,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-03.json",
+            "en_title": "Best wishes to Monica Vitti.",
+            "en_content": "The more eclectic actress of Italian cinema is performed 90 years.The memory of Rai with a dedicated programming.TO .",
+            "concepts": [
+                {
+                    "word": "Monica",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vitti",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

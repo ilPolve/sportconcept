@@ -7,7 +7,7 @@ from yattag import indent
 flows= ['BBC', 'ilPost', 'Televideo', 'Zeit']
 
 def main():
-    date= "2021-10-25"
+    date= "2021-11-06"
     sources_a, sources_b, dirs = get_dirs()
     infos= []
     for item in zip(sources_a, sources_b, dirs):

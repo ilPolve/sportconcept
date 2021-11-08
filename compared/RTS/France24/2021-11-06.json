@@ -1,0 +1,1144 @@
+{
+    "simils_concepts": [
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 5,
+                "n_newA": 8,
+                "n_newB": 7,
+                "n_possible": 56,
+                "concepts_found": [
+                    {
+                        "word": "Switzerland",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "Billie",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Jean",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "King",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Cup",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": "LÃ¢ÂÂÃÂ©quipe fÃÂ©minine de Suisse de tennis joue la finale de la Billie Jean King Cup",
+                    "date_raw": "November 06, 2021",
+                    "date": "2021-11-06",
+                    "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+                    "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-equipe-feminine-de-suisse-de-tennis-joue-la-finale-de-la-billie-jean-king-cup-25776238.html",
+                    "duration": "01:22",
+                    "ranked": 2,
+                    "epoch": 1636322410.7227113,
+                    "language": "fr",
+                    "source": "RTS",
+                    "filename": "conc_en_2021-11-06.json",
+                    "en_title": "The female team of tennis Switzerland plays the final of the Billie Jean King Cup",
+                    "concepts": [
+                        {
+                            "word": "team",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "tennis",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Switzerland",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "final",
+                            "meaning": "dobj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "Billie",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Jean",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "King",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Cup",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                },
+                {
+                    "title": "Russia triumphs over Switzerland to win Billie Jean King Cup",
+                    "date_raw": "November 06, 2021",
+                    "date": "2021-11-06",
+                    "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+                    "news_url": "https://www.france24.com/en/tennis/20211106-russia-triumphs-over-switzerland-to-win-billie-jean-king-cup",
+                    "content": "",
+                    "ranked": 7,
+                    "placed": "First_Page",
+                    "epoch": 1636236014.3033729,
+                    "language": "en",
+                    "source": "France24",
+                    "filename": "conc_en_2021-11-06.json",
+                    "en_title": "Russia triumphs over Switzerland to win Billie Jean King Cup",
+                    "en_content": "",
+                    "concepts": [
+                        {
+                            "word": "Russia",
+                            "meaning": "compound",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "triumphs",
+                            "meaning": "ROOT",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "Switzerland",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "Billie",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Jean",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "King",
+                            "meaning": "compound",
+                            "pos": "PROPN"
+                        },
+                        {
+                            "word": "Cup",
+                            "meaning": "dobj",
+                            "pos": "VERB"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "edition_a": [
+        {
+            "title": "Des manifestations pour le climat auront lieu ce samedi dans le monde entier en marge de la COP26",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/des-manifestations-pour-le-climat-auront-lieu-ce-samedi-dans-le-monde-entier-en-marge-de-la-cop26-25776237.html",
+            "duration": "02:03",
+            "ranked": 0,
+            "epoch": 1636322410.722669,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "Climate demonstrations will take place this Saturday worldwide on the sidelines of COP26",
+            "concepts": [
+                {
+                    "word": "Climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "demonstrations",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "place",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Saturday",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sidelines",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "COP26",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Une commission du Conseil national refuse dÃ¢ÂÂentrer en matiÃÂ¨re sur le droit de vote dÃÂ¨s 16 ans",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-commission-du-conseil-national-refuse-d-entrer-en-matiere-sur-le-droit-de-vote-des-16-ans-25776236.html",
+            "duration": "01:35",
+            "ranked": 1,
+            "epoch": 1636322410.7227101,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "A National Council Commission refuses to enter the right to vote from 16 years",
+            "concepts": [
+                {
+                    "word": "National",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Commission",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "right",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "years",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂÃÂ©quipe fÃÂ©minine de Suisse de tennis joue la finale de la Billie Jean King Cup",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-equipe-feminine-de-suisse-de-tennis-joue-la-finale-de-la-billie-jean-king-cup-25776238.html",
+            "duration": "01:22",
+            "ranked": 2,
+            "epoch": 1636322410.7227113,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "The female team of tennis Switzerland plays the final of the Billie Jean King Cup",
+            "concepts": [
+                {
+                    "word": "team",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "tennis",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Switzerland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "final",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Billie",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Jean",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "King",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cup",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le prÃÂ©sident Daniel Ortega est assurÃÂ© dÃ¢ÂÂÃÂªtre rÃÂ©ÃÂ©lu au Nicaragua aprÃÂ¨s avoir fait enfermer ses adversaires",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-president-daniel-ortega-est-assure-d-etre-reelu-au-nicaragua-apres-avoir-fait-enfermer-ses-adversaires-25776244.html",
+            "duration": "02:05",
+            "ranked": 3,
+            "epoch": 1636322410.7227123,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "The President Daniel Ortega is insured to be read in Nicaragua after having made his adversaries enclosed",
+            "concepts": [
+                {
+                    "word": "President",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Daniel",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ortega",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Nicaragua",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "adversaries",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Le Centre dÃ¢ÂÂapprentissage de lÃ¢ÂÂArc jurassien ouvre ses portes au public ce week-end",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-centre-d-apprentissage-de-l-arc-jurassien-ouvre-ses-portes-au-public-ce-week-end-25776239.html",
+            "duration": "02:33",
+            "ranked": 4,
+            "epoch": 1636322410.722713,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "The Learning Center of the Jura Arc opens its doors to the public this weekend",
+            "concepts": [
+                {
+                    "word": "Learning",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Center",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Jura",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Arc",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "doors",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "public",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "weekend",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Une piÃÂ¨ce de thÃÂ©ÃÂ¢tre utilise la rÃÂ©alitÃÂ© virtuelle pour ÃÂ©voquer le syndrome dÃ¢ÂÂenfermement",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-piece-de-theatre-utilise-la-realite-virtuelle-pour-evoquer-le-syndrome-d-enfermement-25776243.html",
+            "duration": "02:38",
+            "ranked": 5,
+            "epoch": 1636322410.7227142,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "A piÃ¨ce of theater uses the virtual reality to evoke the syndrome of confinement",
+            "concepts": [
+                {
+                    "word": "theater",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "reality",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "syndrome",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "confinement",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "15 minutes - Chauffeurs routier, ÃÂ  quand la relÃÂ¨ve?",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/15-minutes-chauffeurs-routier-a-quand-la-releve-25776253.html",
+            "duration": "15:06",
+            "ranked": 6,
+            "epoch": 1636322410.722715,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "15 minutes - road drivers, when the releave?",
+            "concepts": [
+                {
+                    "word": "minutes",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "road",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "drivers",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "releave",
+                    "meaning": "relcl",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Djokovic clinches world number one spot for record seventh time",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/tennis/20211106-djokovic-clinches-world-number-one-spot-for-record-seventh-time",
+            "content": "",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033636,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "Djokovic clinches world number one spot for record seventh time",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Djokovic",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "world",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "number",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "spot",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "record",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "time",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "NASA to bring astronauts back to Earth after 6-month stay on space station",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/americas/20211106-nasa-to-bring-back-astronauts-back-to-earth-next-week-after-6-month-voyage",
+            "content": "",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033671,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "NASA to bring astronauts back to Earth after 6-month stay on space station",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "NASA",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "astronauts",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Earth",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "month",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "stay",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "space",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "station",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Spanish police arrest 12 passengers, seek 12 more who fled plane in emergency landing",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/europe/20211106-spanish-police-arrest-12-passengers-seek-12-more-who-fled-plane-in-emergency-landing",
+            "content": "",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033683,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "Spanish police arrest 12 passengers, seek 12 more who fled plane in emergency landing",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "police",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "passengers",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "plane",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "emergency",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "landing",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Sudan coup talks hit \"semi-deadlock\", sources from ousted government say",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/africa/20211106-sudan-talks-over-coup-hit-semi-deadlock-say-sources-from-ousted-government",
+            "content": "",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033693,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "Sudan coup talks hit \"semi-deadlock\", sources from ousted government say",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Sudan",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "coup",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "talks",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "-",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "deadlock",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sources",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Ethiopian opposition factions join forces to bring down Prime Minister Abiy Ahmed",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/africa/20211106-ethiopian-opposition-form-alliance-to-bring-down-pm",
+            "content": "",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033702,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "Ethiopian opposition factions join forces to bring down Prime Minister Abiy Ahmed",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "opposition",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "factions",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "forces",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Prime",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Minister",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Abiy",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ahmed",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Four women slain in Afghanistan after phone call Ã¢ÂÂto join evacuation flightÃ¢ÂÂ",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/asia-pacific/20211106-four-women-slain-in-afghanistan-after-phone-call-to-join-evacuation-flight",
+            "content": "",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033712,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "Four women slain in Afghanistan after phone call Ã¢ÂÂto join evacuation flightÃ¢ÂÂ",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "women",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "phone",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "call",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Ã¢ÂÂto",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "evacuation",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "flightÃ¢ÂÂ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Barca hail return of legendary Xavi Ã¢ÂÂla MaquinaÃ¢ÂÂ Hernandez as coach",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/sport/20211106-xavi-la-maquina-hernandez-returns-home-to-barca-as-coach",
+            "content": "",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033721,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "Barca hail return of legendary Xavi Ã¢ÂÂla MaquinaÃ¢ÂÂ Hernandez as coach",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Barca",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hail",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "return",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Xavi",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ã¢ÂÂla",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "MaquinaÃ¢ÂÂ",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hernandez",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "coach",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Russia triumphs over Switzerland to win Billie Jean King Cup",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/tennis/20211106-russia-triumphs-over-switzerland-to-win-billie-jean-king-cup",
+            "content": "",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033729,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "Russia triumphs over Switzerland to win Billie Jean King Cup",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Russia",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "triumphs",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Switzerland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Billie",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Jean",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "King",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cup",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Pompeii archaeologists discover rare 'slave room'",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/europe/20211106-pompeii-archaeologists-discover-rare-slave-room",
+            "content": "",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033736,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "Pompeii archaeologists discover rare 'slave room'",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "archaeologists",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "slave",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "room",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Scores dead, at least 100 injured after fuel tanker explodes in Sierra Leone capital",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/africa/20211106-scores-dead-at-least-100-injured-after-fuel-tanker-explodes-in-sierra-leone-capital",
+            "content": "",
+            "ranked": 9,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033745,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "Scores dead, at least 100 injured after fuel tanker explodes in Sierra Leone capital",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Scores",
+                    "meaning": "nsubj",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "fuel",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tanker",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Sierra",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Leone",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "capital",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "US Congress passes giant Biden infrastructure package",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/americas/20211106-us-congress-passes-giant-biden-infrastructure-package",
+            "content": "",
+            "ranked": 10,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033757,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "US Congress passes giant Biden infrastructure package",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "US",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Congress",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Biden",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "infrastructure",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "package",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "COP26: Dozens of nations pledge to safeguard nature amid past failures",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/environment/20211106-cop26-dozens-of-nations-pledge-to-safeguard-nature-amid-past-failures",
+            "content": "",
+            "ranked": 11,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033764,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "COP26: Dozens of nations pledge to safeguard nature amid past failures",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "COP26",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Dozens",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "nations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "nature",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "failures",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "COP26: Tens of thousands rally in Glasgow to demand climate action",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/environment/20211106-cop26-thousands-rally-in-glasgow-to-demand-climate-action",
+            "content": "",
+            "ranked": 12,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033838,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "COP26: Tens of thousands rally in Glasgow to demand climate action",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "COP26",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Tens",
+                    "meaning": "quantmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "thousands",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rally",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Glasgow",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "action",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "At least eight killed in stampede at Travis Scott concert in Houston, rapper 'devastated'",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+            "news_url": "https://www.france24.com/en/americas/20211106-several-killed-many-injured-at-texas-music-festival-stampede",
+            "content": "",
+            "ranked": 13,
+            "placed": "First_Page",
+            "epoch": 1636236014.3033845,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "At least eight killed in stampede at Travis Scott concert in Houston, rapper 'devastated'",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "stampede",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Travis",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Scott",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "concert",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Houston",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "rapper",
+                    "meaning": "nmod",
+                    "pos": "ADJ"
+                }
+            ]
+        }
+    ]
+}

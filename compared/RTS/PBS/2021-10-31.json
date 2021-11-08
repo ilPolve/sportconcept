@@ -1,0 +1,518 @@
+{
+    "simils_concepts": [
+        {
+            "concepts": {
+                "similar": true,
+                "n_found": 2,
+                "n_newA": 5,
+                "n_newB": 5,
+                "n_possible": 25,
+                "concepts_found": [
+                    {
+                        "word": "COP26",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "Glasgow",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            "news": [
+                {
+                    "title": "Les reprÃÂ©sentants des 197 pays de la Cop26 se rÃÂ©unissent dÃÂ¨s aujourd'hui ÃÂ  Glasgow",
+                    "date_raw": "October 31, 2021",
+                    "date": "2021-10-31",
+                    "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-pierre-etienne-joye-25774557.html",
+                    "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-representants-des-197-pays-de-la-cop26-se-reunissent-des-aujourd-hui-a-glasgow-25774544.html",
+                    "duration": "01:59",
+                    "ranked": 0,
+                    "epoch": 1636236008.7836864,
+                    "language": "fr",
+                    "source": "RTS",
+                    "filename": "conc_en_2021-10-31.json",
+                    "en_title": "Representatives of the 197 COP26 countries meet today in Glasgow",
+                    "concepts": [
+                        {
+                            "word": "Representatives",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "COP26",
+                            "meaning": "compound",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "countries",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "today",
+                            "meaning": "npadvmod",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "Glasgow",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        }
+                    ]
+                },
+                {
+                    "title": "World leaders head to Glasgow for COP26 as G20 wraps up",
+                    "date_raw": "October 31, 2021",
+                    "date": "2021-10-31",
+                    "url": "https://www.pbs.org/newshour/show/october-31-2021-pbs-newshour-weekend-full-episode",
+                    "news_url": "https://www.pbs.org/newshour/show/world-leaders-head-to-glasgow-for-cop26-as-g20-wraps-up",
+                    "duration": "4 min",
+                    "ranked": 1,
+                    "epoch": 1635804012.654309,
+                    "language": "en",
+                    "source": "PBS",
+                    "filename": "conc_en_2021-10-31.json",
+                    "en_title": "World leaders head to Glasgow for COP26 as G20 wraps up",
+                    "concepts": [
+                        {
+                            "word": "World",
+                            "meaning": "compound",
+                            "pos": "NOUN"
+                        },
+                        {
+                            "word": "leaders",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        },
+                        {
+                            "word": "Glasgow",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "COP26",
+                            "meaning": "pobj",
+                            "pos": "ADP"
+                        },
+                        {
+                            "word": "G20",
+                            "meaning": "nsubj",
+                            "pos": "VERB"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "edition_a": [
+        {
+            "title": "Les reprÃÂ©sentants des 197 pays de la Cop26 se rÃÂ©unissent dÃÂ¨s aujourd'hui ÃÂ  Glasgow",
+            "date_raw": "October 31, 2021",
+            "date": "2021-10-31",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-pierre-etienne-joye-25774557.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-representants-des-197-pays-de-la-cop26-se-reunissent-des-aujourd-hui-a-glasgow-25774544.html",
+            "duration": "01:59",
+            "ranked": 0,
+            "epoch": 1636236008.7836864,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-31.json",
+            "en_title": "Representatives of the 197 COP26 countries meet today in Glasgow",
+            "concepts": [
+                {
+                    "word": "Representatives",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "COP26",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "today",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Glasgow",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les livres corona-sceptiques connaissent un succÃÂ¨s en librairie",
+            "date_raw": "October 31, 2021",
+            "date": "2021-10-31",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-pierre-etienne-joye-25774557.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-livres-corona-sceptiques-connaissent-un-succes-en-librairie-25774545.html",
+            "duration": "02:03",
+            "ranked": 1,
+            "epoch": 1636236008.7836888,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-31.json",
+            "en_title": "Corona-skeptic books know a success in bookstore",
+            "concepts": [
+                {
+                    "word": "Corona",
+                    "meaning": "npadvmod",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "books",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "success",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "bookstore",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La revue de presse alÃÂ©manique",
+            "date_raw": "October 31, 2021",
+            "date": "2021-10-31",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-pierre-etienne-joye-25774557.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-revue-de-presse-alemanique-25774546.html",
+            "duration": "02:48",
+            "ranked": 2,
+            "epoch": 1636236008.7836897,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-31.json",
+            "en_title": "The rally press review",
+            "concepts": [
+                {
+                    "word": "rally",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "press",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "review",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Trois clubs romands s'affronteront cet aprÃÂ¨s-midi pour la Superleague",
+            "date_raw": "October 31, 2021",
+            "date": "2021-10-31",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-pierre-etienne-joye-25774557.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/trois-clubs-romands-s-affronteront-cet-apres-midi-pour-la-superleague-25774550.html",
+            "duration": "01:33",
+            "ranked": 3,
+            "epoch": 1636236008.7836907,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-31.json",
+            "en_title": "Three romands clubs will compete this afternoon for the SuperLeague",
+            "concepts": [
+                {
+                    "word": "romands",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "clubs",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "afternoon",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "SuperLeague",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les ÃÂ©lections lÃÂ©gislatives ont lieu ce week-end au Japon",
+            "date_raw": "October 31, 2021",
+            "date": "2021-10-31",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-pierre-etienne-joye-25774557.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-elections-legislatives-ont-lieu-ce-week-end-au-japon-25774547.html",
+            "duration": "01:26",
+            "ranked": 4,
+            "epoch": 1636236008.7836914,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-31.json",
+            "en_title": "Legislative elections take place this weekend in Japan",
+            "concepts": [
+                {
+                    "word": "elections",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "place",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "weekend",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Japan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le Collectif BPM met en scÃÂ¨ne les objets du passÃÂ©: interview de Pierre Mifsud et LÃÂ©a Pohlhammer",
+            "date_raw": "October 31, 2021",
+            "date": "2021-10-31",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-pierre-etienne-joye-25774557.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-collectif-bpm-met-en-scene-les-objets-du-passe-interview-de-pierre-mifsud-et-lea-pohlhammer-25774548.html",
+            "duration": "02:08",
+            "ranked": 5,
+            "epoch": 1636236008.7836924,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-31.json",
+            "en_title": "The BPM collective sets the objects of the past: Interview with Pierre Mifsud and LÃ Â© Pohlhammer",
+            "concepts": [
+                {
+                    "word": "BPM",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "objects",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "past",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Pierre",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Mifsud",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "LÃ",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Â",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "©",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Pohlhammer",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "ÃÂ voix haute - Arthur Lochmann: \"Le vertige rÃÂ©vÃÂ¨le nos fragilitÃÂ©s\"",
+            "date_raw": "October 31, 2021",
+            "date": "2021-10-31",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-pierre-etienne-joye-25774557.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/a-voix-haute-arthur-lochmann-le-vertige-revele-nos-fragilites-25774564.html",
+            "duration": "14:58",
+            "ranked": 6,
+            "epoch": 1636236008.783693,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-10-31.json",
+            "en_title": "Haute - Arthur Lochmann: \"Vertigo recesses our fragility\"",
+            "concepts": [
+                {
+                    "word": "Haute",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Arthur",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lochmann",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vertigo",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "fragility",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Britain invests in planting forests to fight climate change",
+            "date_raw": "October 31, 2021",
+            "date": "2021-10-31",
+            "url": "https://www.pbs.org/newshour/show/october-31-2021-pbs-newshour-weekend-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/britain-invests-in-planting-forests-to-fight-climate-change",
+            "duration": "8 min",
+            "ranked": 0,
+            "epoch": 1635804012.654307,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-31.json",
+            "en_title": "Britain invests in planting forests to fight climate change",
+            "concepts": [
+                {
+                    "word": "Britain",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "invests",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "planting",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "forests",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "change",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "World leaders head to Glasgow for COP26 as G20 wraps up",
+            "date_raw": "October 31, 2021",
+            "date": "2021-10-31",
+            "url": "https://www.pbs.org/newshour/show/october-31-2021-pbs-newshour-weekend-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/world-leaders-head-to-glasgow-for-cop26-as-g20-wraps-up",
+            "duration": "4 min",
+            "ranked": 1,
+            "epoch": 1635804012.654309,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-31.json",
+            "en_title": "World leaders head to Glasgow for COP26 as G20 wraps up",
+            "concepts": [
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "leaders",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Glasgow",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "COP26",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "G20",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "In Ã¢ÂÂdeep blueÃ¢ÂÂ Virginia, the race for governor is too close to call",
+            "date_raw": "October 31, 2021",
+            "date": "2021-10-31",
+            "url": "https://www.pbs.org/newshour/show/october-31-2021-pbs-newshour-weekend-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/in-deep-blue-virginia-the-race-for-governor-is-too-close-to-call",
+            "duration": "5 min",
+            "ranked": 2,
+            "epoch": 1635804012.6543102,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-10-31.json",
+            "en_title": "In Ã¢ÂÂdeep blueÃ¢ÂÂ Virginia, the race for governor is too close to call",
+            "concepts": [
+                {
+                    "word": "blueÃ¢ÂÂ",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Virginia",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "race",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "governor",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

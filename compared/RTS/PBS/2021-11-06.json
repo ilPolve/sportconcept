@@ -1,0 +1,417 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Des manifestations pour le climat auront lieu ce samedi dans le monde entier en marge de la COP26",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/des-manifestations-pour-le-climat-auront-lieu-ce-samedi-dans-le-monde-entier-en-marge-de-la-cop26-25776237.html",
+            "duration": "02:03",
+            "ranked": 0,
+            "epoch": 1636322410.722669,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "Climate demonstrations will take place this Saturday worldwide on the sidelines of COP26",
+            "concepts": [
+                {
+                    "word": "Climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "demonstrations",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "place",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Saturday",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sidelines",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "COP26",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Une commission du Conseil national refuse dÃ¢ÂÂentrer en matiÃÂ¨re sur le droit de vote dÃÂ¨s 16 ans",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-commission-du-conseil-national-refuse-d-entrer-en-matiere-sur-le-droit-de-vote-des-16-ans-25776236.html",
+            "duration": "01:35",
+            "ranked": 1,
+            "epoch": 1636322410.7227101,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "A National Council Commission refuses to enter the right to vote from 16 years",
+            "concepts": [
+                {
+                    "word": "National",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Commission",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "right",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "years",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "LÃ¢ÂÂÃÂ©quipe fÃÂ©minine de Suisse de tennis joue la finale de la Billie Jean King Cup",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-equipe-feminine-de-suisse-de-tennis-joue-la-finale-de-la-billie-jean-king-cup-25776238.html",
+            "duration": "01:22",
+            "ranked": 2,
+            "epoch": 1636322410.7227113,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "The female team of tennis Switzerland plays the final of the Billie Jean King Cup",
+            "concepts": [
+                {
+                    "word": "team",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "tennis",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Switzerland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "final",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Billie",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Jean",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "King",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cup",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le prÃÂ©sident Daniel Ortega est assurÃÂ© dÃ¢ÂÂÃÂªtre rÃÂ©ÃÂ©lu au Nicaragua aprÃÂ¨s avoir fait enfermer ses adversaires",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-president-daniel-ortega-est-assure-d-etre-reelu-au-nicaragua-apres-avoir-fait-enfermer-ses-adversaires-25776244.html",
+            "duration": "02:05",
+            "ranked": 3,
+            "epoch": 1636322410.7227123,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "The President Daniel Ortega is insured to be read in Nicaragua after having made his adversaries enclosed",
+            "concepts": [
+                {
+                    "word": "President",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Daniel",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ortega",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Nicaragua",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "adversaries",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Le Centre dÃ¢ÂÂapprentissage de lÃ¢ÂÂArc jurassien ouvre ses portes au public ce week-end",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-centre-d-apprentissage-de-l-arc-jurassien-ouvre-ses-portes-au-public-ce-week-end-25776239.html",
+            "duration": "02:33",
+            "ranked": 4,
+            "epoch": 1636322410.722713,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "The Learning Center of the Jura Arc opens its doors to the public this weekend",
+            "concepts": [
+                {
+                    "word": "Learning",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Center",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Jura",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Arc",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "doors",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "public",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "weekend",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Une piÃÂ¨ce de thÃÂ©ÃÂ¢tre utilise la rÃÂ©alitÃÂ© virtuelle pour ÃÂ©voquer le syndrome dÃ¢ÂÂenfermement",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-piece-de-theatre-utilise-la-realite-virtuelle-pour-evoquer-le-syndrome-d-enfermement-25776243.html",
+            "duration": "02:38",
+            "ranked": 5,
+            "epoch": 1636322410.7227142,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "A piÃ¨ce of theater uses the virtual reality to evoke the syndrome of confinement",
+            "concepts": [
+                {
+                    "word": "theater",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "reality",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "syndrome",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "confinement",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "15 minutes - Chauffeurs routier, ÃÂ  quand la relÃÂ¨ve?",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/15-minutes-chauffeurs-routier-a-quand-la-releve-25776253.html",
+            "duration": "15:06",
+            "ranked": 6,
+            "epoch": 1636322410.722715,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "15 minutes - road drivers, when the releave?",
+            "concepts": [
+                {
+                    "word": "minutes",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "road",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "drivers",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "releave",
+                    "meaning": "relcl",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "The hilarious Nick Offerman on acting, the pandemic, and hiking Ã¢ÂÂon purposeÃ¢ÂÂ",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.pbs.org/newshour/show/november-6-2021-pbs-newshour-weekend-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/the-hilarious-nick-offerman-on-acting-the-pandemic-and-hiking-on-purpose",
+            "duration": "7 min",
+            "ranked": 0,
+            "epoch": 1636322413.8393116,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "The hilarious Nick Offerman on acting, the pandemic, and hiking Ã¢ÂÂon purposeÃ¢ÂÂ",
+            "concepts": [
+                {
+                    "word": "Nick",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Offerman",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "purposeÃ¢ÂÂ",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "A new effort to help communities adapt to climate change",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.pbs.org/newshour/show/november-6-2021-pbs-newshour-weekend-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/a-new-effort-to-help-communities-adapt-to-climate-change",
+            "duration": "8 min",
+            "ranked": 1,
+            "epoch": 1636322413.839315,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "A new effort to help communities adapt to climate change",
+            "concepts": [
+                {
+                    "word": "effort",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "communities",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "change",
+                    "meaning": "pobj",
+                    "pos": "PART"
+                }
+            ]
+        },
+        {
+            "title": "How youth leadership is changing climate activism",
+            "date_raw": "November 06, 2021",
+            "date": "2021-11-06",
+            "url": "https://www.pbs.org/newshour/show/november-6-2021-pbs-newshour-weekend-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/how-youth-leadership-is-changing-climate-activism",
+            "duration": "4 min",
+            "ranked": 2,
+            "epoch": 1636322413.8393161,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-06.json",
+            "en_title": "How youth leadership is changing climate activism",
+            "concepts": [
+                {
+                    "word": "youth",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "leadership",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "activism",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ]
+}

@@ -3,6 +3,126 @@
         "concepts": {
             "similar": true,
             "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 9,
+            "n_possible": 36,
+            "concepts_found": [
+                {
+                    "word": "G20",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "G20: Quel place pour le climat avant la COP26?",
+                "date_raw": "October 30, 2021",
+                "date": "2021-10-30",
+                "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-25774411.html",
+                "news_url": "https://www.rts.ch/audio-podcast/2021/audio/g20-quel-place-pour-le-climat-avant-la-cop26-25774400.html",
+                "duration": "01:55",
+                "ranked": 4,
+                "epoch": 1636149611.7645843,
+                "language": "fr",
+                "source": "RTS",
+                "filename": "conc_en_2021-10-30.json",
+                "en_title": "G20: What place for the climate before COP26?",
+                "concepts": [
+                    {
+                        "word": "G20",
+                        "meaning": "ROOT",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "place",
+                        "meaning": "appos",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "COP26",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "G20-Staats- und Regierungschefs beraten in Rom ÃÂ¼ber gerechte Impfstoffverteilung und Klimaschutz",
+                "date_raw": "October 30, 2021",
+                "date": "2021-10-30",
+                "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+                "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45541.html",
+                "content": "",
+                "ranked": "0",
+                "epoch": 1635627617.7748077,
+                "language": "de",
+                "source": "Tagesschau",
+                "filename": "conc_en_2021-10-30.json",
+                "en_title": "G20 Heads of State and Government advise in Rome on just vaccine distribution and climate protection",
+                "concepts": [
+                    {
+                        "word": "G20",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Heads",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "State",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "Government",
+                        "meaning": "conj",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Rome",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "vaccine",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "distribution",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "protection",
+                        "meaning": "conj",
+                        "pos": "NOUN"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
             "n_newA": 7,
             "n_newB": 8,
             "n_possible": 56,
@@ -28,7 +148,7 @@
                 "news_url": "https://www.rts.ch/audio-podcast/2021/audio/rome-rencontre-entre-joe-biden-et-emmanuel-macron-au-g20-25774173.html",
                 "duration": "02:01",
                 "ranked": 1,
-                "epoch": 1635627609.155266,
+                "epoch": 1636063210.0053182,
                 "language": "fr",
                 "source": "RTS",
                 "filename": "conc_en_2021-10-29.json",
@@ -163,7 +283,7 @@
                 "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suisse-affronte-la-croatie-pour-les-qualifications-de-la-coupe-du-monde-2023-de-football-feminin-25773346.html",
                 "duration": "01:29",
                 "ranked": 9,
-                "epoch": 1635627609.2089572,
+                "epoch": 1635804009.5433311,
                 "language": "fr",
                 "source": "RTS",
                 "filename": "conc_en_2021-10-26.json",
@@ -349,6 +469,86 @@
                     },
                     {
                         "word": "secretary",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 2,
+            "n_newB": 3,
+            "n_possible": 6,
+            "concepts_found": [
+                {
+                    "word": "countries",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "Les pays du G20 s'engagent ÃÂ  reverser 100 milliards de dollars aux pays vulnÃÂ©rables",
+                "date_raw": "November 01, 2021",
+                "date": "2021-11-01",
+                "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-25774830.html",
+                "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-pays-du-g20-s-engagent-a-reverser-100-milliards-de-dollars-aux-pays-vulnerables-25774825.html",
+                "duration": "04:44",
+                "ranked": 1,
+                "epoch": 1636322410.8568864,
+                "language": "fr",
+                "source": "RTS",
+                "filename": "conc_en_2021-11-01.json",
+                "en_title": "G20 countries undertake to reverse $ 100 billion to vulnerable countries",
+                "concepts": [
+                    {
+                        "word": "countries",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "countries",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": " Weiterhin keine Einigung bei Tarifrunde der LÃÂ¤nder",
+                "date_raw": "November 01, 2021",
+                "date": "2021-11-01",
+                "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+                "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45569.html",
+                "content": "",
+                "ranked": "5",
+                "epoch": 1635804017.1614027,
+                "language": "de",
+                "source": "Tagesschau",
+                "filename": "conc_en_2021-11-01.json",
+                "en_title": "Still no agreement with tariffs of the countries",
+                "concepts": [
+                    {
+                        "word": "agreement",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "tariffs",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "countries",
                         "meaning": "pobj",
                         "pos": "ADP"
                     }
@@ -1020,7 +1220,7 @@
                 "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-entraineur-du-fc-barcelone-ronald-koeman-s-est-fait-destituer-25773910.html",
                 "duration": "01:13",
                 "ranked": 7,
-                "epoch": 1635627609.2972858,
+                "epoch": 1635976809.7063012,
                 "language": "fr",
                 "source": "RTS",
                 "filename": "conc_en_2021-10-28.json",
@@ -1131,7 +1331,7 @@
                 "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-soudan-ferait-face-a-un-coup-d-etat-25773054.html",
                 "duration": "01:30",
                 "ranked": 3,
-                "epoch": 1635627609.324592,
+                "epoch": 1635717609.497001,
                 "language": "fr",
                 "source": "RTS",
                 "filename": "conc_en_2021-10-25.json",
@@ -1193,6 +1393,113 @@
                         "word": "protesters",
                         "meaning": "dobj",
                         "pos": "VERB"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 4,
+            "n_newB": 6,
+            "n_possible": 24,
+            "concepts_found": [
+                {
+                    "word": "G20",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "G20: Quel place pour le climat avant la COP26?",
+                "date_raw": "October 30, 2021",
+                "date": "2021-10-30",
+                "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-25774411.html",
+                "news_url": "https://www.rts.ch/audio-podcast/2021/audio/g20-quel-place-pour-le-climat-avant-la-cop26-25774400.html",
+                "duration": "01:55",
+                "ranked": 4,
+                "epoch": 1636149611.7645843,
+                "language": "fr",
+                "source": "RTS",
+                "filename": "conc_en_2021-10-30.json",
+                "en_title": "G20: What place for the climate before COP26?",
+                "concepts": [
+                    {
+                        "word": "G20",
+                        "meaning": "ROOT",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "place",
+                        "meaning": "appos",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "COP26",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "G20: Huge divide between rich and poor countries on climate, vaccines and tax",
+                "date_raw": "October 30, 2021",
+                "date": "2021-10-30",
+                "url": "https://www.france24.com/en/archives/2021/10/30-October-2021",
+                "news_url": "https://www.france24.com/en/video/20211030-g20-huge-divide-between-rich-and-poor-countries-on-climate-vaccines-and-tax",
+                "content": "",
+                "ranked": 7,
+                "placed": "First_Page",
+                "epoch": 1635627615.6203241,
+                "language": "en",
+                "source": "France24",
+                "filename": "conc_en_2021-10-30.json",
+                "en_title": "G20: Huge divide between rich and poor countries on climate, vaccines and tax",
+                "en_content": "",
+                "concepts": [
+                    {
+                        "word": "G20",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "divide",
+                        "meaning": "appos",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "countries",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "vaccines",
+                        "meaning": "conj",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "tax",
+                        "meaning": "conj",
+                        "pos": "NOUN"
                     }
                 ]
             }
@@ -1348,7 +1655,7 @@
                 "news_url": "https://www.rts.ch/audio-podcast/2021/audio/rome-rencontre-entre-joe-biden-et-emmanuel-macron-au-g20-25774173.html",
                 "duration": "02:01",
                 "ranked": 1,
-                "epoch": 1635627609.155266,
+                "epoch": 1636063210.0053182,
                 "language": "fr",
                 "source": "RTS",
                 "filename": "conc_en_2021-10-29.json",
@@ -1470,7 +1777,7 @@
                 "news_url": "https://www.rts.ch/audio-podcast/2021/audio/rome-rencontre-entre-joe-biden-et-emmanuel-macron-au-g20-25774173.html",
                 "duration": "02:01",
                 "ranked": 1,
-                "epoch": 1635627609.155266,
+                "epoch": 1636063210.0053182,
                 "language": "fr",
                 "source": "RTS",
                 "filename": "conc_en_2021-10-29.json",
@@ -1607,7 +1914,7 @@
                 "news_url": "https://www.rts.ch/audio-podcast/2021/audio/rome-rencontre-entre-joe-biden-et-emmanuel-macron-au-g20-25774173.html",
                 "duration": "02:01",
                 "ranked": 1,
-                "epoch": 1635627609.155266,
+                "epoch": 1636063210.0053182,
                 "language": "fr",
                 "source": "RTS",
                 "filename": "conc_en_2021-10-29.json",
@@ -1729,7 +2036,7 @@
                 "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-proces-de-deux-hommes-accuses-du-meurtre-antisemite-de-mireille-knoll-s-est-ouvert-a-paris-25773348.html",
                 "duration": "01:35",
                 "ranked": 7,
-                "epoch": 1635627609.2089546,
+                "epoch": 1635804009.5433292,
                 "language": "fr",
                 "source": "RTS",
                 "filename": "conc_en_2021-10-26.json",
@@ -1920,6 +2227,153 @@
                     {
                         "word": "Social",
                         "meaning": "oprd",
+                        "pos": "VERB"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 5,
+            "n_newA": 8,
+            "n_newB": 7,
+            "n_possible": 56,
+            "concepts_found": [
+                {
+                    "word": "Switzerland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Billie",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Jean",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "King",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cup",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "LÃ¢ÂÂÃÂ©quipe fÃÂ©minine de Suisse de tennis joue la finale de la Billie Jean King Cup",
+                "date_raw": "November 06, 2021",
+                "date": "2021-11-06",
+                "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25776249.html",
+                "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-equipe-feminine-de-suisse-de-tennis-joue-la-finale-de-la-billie-jean-king-cup-25776238.html",
+                "duration": "01:22",
+                "ranked": 2,
+                "epoch": 1636322410.7227113,
+                "language": "fr",
+                "source": "RTS",
+                "filename": "conc_en_2021-11-06.json",
+                "en_title": "The female team of tennis Switzerland plays the final of the Billie Jean King Cup",
+                "concepts": [
+                    {
+                        "word": "team",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "tennis",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Switzerland",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "final",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "Billie",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Jean",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "King",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Cup",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "Russia triumphs over Switzerland to win Billie Jean King Cup",
+                "date_raw": "November 06, 2021",
+                "date": "2021-11-06",
+                "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+                "news_url": "https://www.france24.com/en/tennis/20211106-russia-triumphs-over-switzerland-to-win-billie-jean-king-cup",
+                "content": "",
+                "ranked": 7,
+                "placed": "First_Page",
+                "epoch": 1636236014.3033729,
+                "language": "en",
+                "source": "France24",
+                "filename": "conc_en_2021-11-06.json",
+                "en_title": "Russia triumphs over Switzerland to win Billie Jean King Cup",
+                "en_content": "",
+                "concepts": [
+                    {
+                        "word": "Russia",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "triumphs",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "Switzerland",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "Billie",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Jean",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "King",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Cup",
+                        "meaning": "dobj",
                         "pos": "VERB"
                     }
                 ]
@@ -2650,7 +3104,7 @@
                 "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-petit-eitan-seul-survivant-du-crash-du-telepherique-du-mottarone-devra-retourner-vivre-en-italie-25773333.html",
                 "duration": "01:54",
                 "ranked": 3,
-                "epoch": 1635627609.2089484,
+                "epoch": 1635804009.543326,
                 "language": "fr",
                 "source": "RTS",
                 "filename": "conc_en_2021-10-26.json",
@@ -2740,6 +3194,111 @@
     {
         "concepts": {
             "similar": true,
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 5,
+            "n_possible": 25,
+            "concepts_found": [
+                {
+                    "word": "COP26",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Glasgow",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "Les reprÃÂ©sentants des 197 pays de la Cop26 se rÃÂ©unissent dÃÂ¨s aujourd'hui ÃÂ  Glasgow",
+                "date_raw": "October 31, 2021",
+                "date": "2021-10-31",
+                "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-pierre-etienne-joye-25774557.html",
+                "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-representants-des-197-pays-de-la-cop26-se-reunissent-des-aujourd-hui-a-glasgow-25774544.html",
+                "duration": "01:59",
+                "ranked": 0,
+                "epoch": 1636236008.7836864,
+                "language": "fr",
+                "source": "RTS",
+                "filename": "conc_en_2021-10-31.json",
+                "en_title": "Representatives of the 197 COP26 countries meet today in Glasgow",
+                "concepts": [
+                    {
+                        "word": "Representatives",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "COP26",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "countries",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "today",
+                        "meaning": "npadvmod",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "Glasgow",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "World leaders head to Glasgow for COP26 as G20 wraps up",
+                "date_raw": "October 31, 2021",
+                "date": "2021-10-31",
+                "url": "https://www.pbs.org/newshour/show/october-31-2021-pbs-newshour-weekend-full-episode",
+                "news_url": "https://www.pbs.org/newshour/show/world-leaders-head-to-glasgow-for-cop26-as-g20-wraps-up",
+                "duration": "4 min",
+                "ranked": 1,
+                "epoch": 1635804012.654309,
+                "language": "en",
+                "source": "PBS",
+                "filename": "conc_en_2021-10-31.json",
+                "en_title": "World leaders head to Glasgow for COP26 as G20 wraps up",
+                "concepts": [
+                    {
+                        "word": "World",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "leaders",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "Glasgow",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "COP26",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "G20",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
             "n_found": 3,
             "n_newA": 7,
             "n_newB": 6,
@@ -2771,7 +3330,7 @@
                 "news_url": "https://www.rts.ch/audio-podcast/2021/audio/rome-rencontre-entre-joe-biden-et-emmanuel-macron-au-g20-25774173.html",
                 "duration": "02:01",
                 "ranked": 1,
-                "epoch": 1635627609.155266,
+                "epoch": 1636063210.0053182,
                 "language": "fr",
                 "source": "RTS",
                 "filename": "conc_en_2021-10-29.json",
@@ -2965,6 +3524,108 @@
     {
         "concepts": {
             "similar": true,
+            "n_found": 2,
+            "n_newA": 7,
+            "n_newB": 2,
+            "n_possible": 14,
+            "concepts_found": [
+                {
+                    "word": "years",
+                    "meaning": "npadvmod",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "NSU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "Kritik an der Aufarbeitung der Geschehnisse zehn Jahre nach der NSU-Mordserie",
+                "date_raw": "November 04, 2021",
+                "date": "2021-11-04",
+                "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+                "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45611.html",
+                "content": "",
+                "ranked": "0",
+                "epoch": 1636063218.4539638,
+                "language": "de",
+                "source": "Tagesschau",
+                "filename": "conc_en_2021-11-04.json",
+                "en_title": "Criticism of the revision of events ten years after the NSU murder series",
+                "concepts": [
+                    {
+                        "word": "Criticism",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "revision",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "events",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "years",
+                        "meaning": "npadvmod",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "NSU",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "murder",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "series",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "Zehn Jahre NSU-Enttarnung",
+                "date_raw": "November 04, 2021",
+                "date": "2021-11-04",
+                "url": "https://www.zdf.de/nachrichten/heute-19-uhr/211104-heute-sendung-19-uhr-100.html",
+                "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211104-heute-sendung-19-uhr-100.html",
+                "content": "Enttarnung",
+                "ranked": 1,
+                "placed": "First_Page",
+                "epoch": 1636063204.2447035,
+                "language": "de",
+                "source": "Zdf",
+                "filename": "conc_en_2021-11-04.json",
+                "en_title": "Ten years NSU unloading",
+                "en_content": "Unloading",
+                "concepts": [
+                    {
+                        "word": "years",
+                        "meaning": "npadvmod",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "NSU",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
             "n_found": 3,
             "n_newA": 10,
             "n_newB": 3,
@@ -3082,6 +3743,117 @@
                     },
                     {
                         "word": "chairman",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 7,
+            "n_newB": 4,
+            "n_possible": 28,
+            "concepts_found": [
+                {
+                    "word": "CDU",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "party",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "CDU-Spitze soll durch Mitgliederbefragung ermittelt - im Januar entscheidet dann ein Parteitag",
+                "date_raw": "November 02, 2021",
+                "date": "2021-11-02",
+                "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+                "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45583.html",
+                "content": "",
+                "ranked": "0",
+                "epoch": 1635890420.0189197,
+                "language": "de",
+                "source": "Tagesschau",
+                "filename": "conc_en_2021-11-02.json",
+                "en_title": "CDU top should be determined by membership survey - in January, then a party congress",
+                "concepts": [
+                    {
+                        "word": "CDU",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "top",
+                        "meaning": "nsubjpass",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "membership",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "survey",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "January",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "party",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "congress",
+                        "meaning": "appos",
+                        "pos": "NOUN"
+                    }
+                ]
+            },
+            {
+                "title": "Mit folgenden Themen: CDU sucht neuen Parteivorsitz",
+                "date_raw": "November 02, 2021",
+                "date": "2021-11-02",
+                "url": "https://www.zdf.de/nachrichten/heute-19-uhr/211102-heute-sendung-19-uhr-100.html",
+                "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211102-heute-sendung-19-uhr-100.html",
+                "content": "",
+                "ranked": 0,
+                "placed": "First_Page",
+                "epoch": 1635890404.4271872,
+                "language": "de",
+                "source": "Zdf",
+                "filename": "conc_en_2021-11-02.json",
+                "en_title": "With the following topics: CDU is looking for new party presidency",
+                "concepts": [
+                    {
+                        "word": "topics",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "CDU",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "party",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "presidency",
                         "meaning": "pobj",
                         "pos": "ADP"
                     }
@@ -3270,6 +4042,113 @@
                         "word": "Bundestag",
                         "meaning": "pobj",
                         "pos": "ADP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 7,
+            "n_newB": 3,
+            "n_possible": 21,
+            "concepts_found": [
+                {
+                    "word": "Pfizer",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "drug",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": " US-Konzern Pfizer berichtet von Erfolg in Studie fÃÂ¼r neues Corona-Medikament",
+                "date_raw": "November 05, 2021",
+                "date": "2021-11-05",
+                "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+                "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45625.html",
+                "content": "",
+                "ranked": "1",
+                "epoch": 1636149620.8234324,
+                "language": "de",
+                "source": "Tagesschau",
+                "filename": "conc_en_2021-11-05.json",
+                "en_title": "US Group Pfizer reports success in study for new Corona drug",
+                "concepts": [
+                    {
+                        "word": "US",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Group",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Pfizer",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "success",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "study",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "Corona",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "drug",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "Pfizer entwickelt Corona-Medikament",
+                "date_raw": "November 05, 2021",
+                "date": "2021-11-05",
+                "url": "https://www.zdf.de/nachrichten/heute-19-uhr/211105-heute-sendung-19-uhr-100.html",
+                "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211105-heute-sendung-19-uhr-100.html",
+                "content": "Medikament",
+                "ranked": 1,
+                "placed": "First_Page",
+                "epoch": 1636149605.355346,
+                "language": "de",
+                "source": "Zdf",
+                "filename": "conc_en_2021-11-05.json",
+                "en_title": "Pfizer develops corona drug",
+                "en_content": "drug",
+                "concepts": [
+                    {
+                        "word": "Pfizer",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "corona",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "drug",
+                        "meaning": "dobj",
+                        "pos": "VERB"
                     }
                 ]
             }
@@ -6865,6 +7744,260 @@
     {
         "concepts": {
             "similar": true,
+            "n_found": 3,
+            "n_newA": 7,
+            "n_newB": 7,
+            "n_possible": 49,
+            "concepts_found": [
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Glasgow",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": " Demonstration fÃÂ¼r mehr Klimaschutz in Glasgow im Rahmen des Weltklimagipfels",
+                "date_raw": "November 06, 2021",
+                "date": "2021-11-06",
+                "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+                "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45637.html",
+                "content": "",
+                "ranked": "7",
+                "epoch": 1636236016.197974,
+                "language": "de",
+                "source": "Tagesschau",
+                "filename": "conc_en_2021-11-06.json",
+                "en_title": "Demonstration for more climate protection in Glasgow in the context of the world climate slip",
+                "concepts": [
+                    {
+                        "word": "Demonstration",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "protection",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "Glasgow",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "context",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "world",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "COP26: Tens of thousands rally in Glasgow to demand climate action",
+                "date_raw": "November 06, 2021",
+                "date": "2021-11-06",
+                "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+                "news_url": "https://www.france24.com/en/environment/20211106-cop26-thousands-rally-in-glasgow-to-demand-climate-action",
+                "content": "",
+                "ranked": 12,
+                "placed": "First_Page",
+                "epoch": 1636236014.3033838,
+                "language": "en",
+                "source": "France24",
+                "filename": "conc_en_2021-11-06.json",
+                "en_title": "COP26: Tens of thousands rally in Glasgow to demand climate action",
+                "en_content": "",
+                "concepts": [
+                    {
+                        "word": "COP26",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "Tens",
+                        "meaning": "quantmod",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "thousands",
+                        "meaning": "nsubj",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "rally",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "Glasgow",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "action",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 8,
+            "n_newB": 5,
+            "n_possible": 40,
+            "concepts_found": [
+                {
+                    "word": "US",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Biden",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": " Verabschiedung des Infrastrukturpakets von US-PrÃÂ¤sident Biden nach langem Ringen",
+                "date_raw": "November 06, 2021",
+                "date": "2021-11-06",
+                "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+                "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45637.html",
+                "content": "",
+                "ranked": "8",
+                "epoch": 1636236016.1979866,
+                "language": "de",
+                "source": "Tagesschau",
+                "filename": "conc_en_2021-11-06.json",
+                "en_title": "Adoption of the Infrastructure Package of US President Biden after Long Ring",
+                "concepts": [
+                    {
+                        "word": "Adoption",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "Infrastructure",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Package",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "US",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "President",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Biden",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "Long",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Ring",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "US Congress passes giant Biden infrastructure package",
+                "date_raw": "November 06, 2021",
+                "date": "2021-11-06",
+                "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
+                "news_url": "https://www.france24.com/en/americas/20211106-us-congress-passes-giant-biden-infrastructure-package",
+                "content": "",
+                "ranked": 10,
+                "placed": "First_Page",
+                "epoch": 1636236014.3033757,
+                "language": "en",
+                "source": "France24",
+                "filename": "conc_en_2021-11-06.json",
+                "en_title": "US Congress passes giant Biden infrastructure package",
+                "en_content": "",
+                "concepts": [
+                    {
+                        "word": "US",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Congress",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "Biden",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "infrastructure",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "package",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
             "n_found": 2,
             "n_newA": 6,
             "n_newB": 10,
@@ -6992,6 +8125,326 @@
                         "word": "photography",
                         "meaning": "pobj",
                         "pos": "ADP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 4,
+            "n_possible": 20,
+            "concepts_found": [
+                {
+                    "word": "Youngkin",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Virginia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": " Republikaner Youngkin gewinnt knapp die US-Gouverneurswahl in Virginia",
+                "date_raw": "November 03, 2021",
+                "date": "2021-11-03",
+                "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+                "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45597.html",
+                "content": "",
+                "ranked": "6",
+                "epoch": 1635976818.572675,
+                "language": "de",
+                "source": "Tagesschau",
+                "filename": "conc_en_2021-11-03.json",
+                "en_title": "Republican Youngkin wins just US governorship in Virginia",
+                "concepts": [
+                    {
+                        "word": "Republican",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Youngkin",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "US",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "governorship",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "Virginia",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "Why the Dem strategy in Virginia failed, and how Youngkin flipped the state",
+                "date_raw": "November 03, 2021",
+                "date": "2021-11-03",
+                "url": "https://www.pbs.org/newshour/show/november-3-2021-pbs-newshour-full-episode",
+                "news_url": "https://www.pbs.org/newshour/show/why-the-dem-strategy-in-virginia-failed-and-how-youngkin-flipped-the-state",
+                "duration": "13 min",
+                "ranked": 1,
+                "epoch": 1636063213.2311559,
+                "language": "en",
+                "source": "PBS",
+                "filename": "conc_en_2021-11-03.json",
+                "en_title": "Why the Dem strategy in Virginia failed, and how Youngkin flipped the state",
+                "concepts": [
+                    {
+                        "word": "strategy",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "Virginia",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "Youngkin",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "state",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 7,
+            "n_newB": 4,
+            "n_possible": 28,
+            "concepts_found": [
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": " Demonstration fÃÂ¼r mehr Klimaschutz in Glasgow im Rahmen des Weltklimagipfels",
+                "date_raw": "November 06, 2021",
+                "date": "2021-11-06",
+                "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+                "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45637.html",
+                "content": "",
+                "ranked": "7",
+                "epoch": 1636236016.197974,
+                "language": "de",
+                "source": "Tagesschau",
+                "filename": "conc_en_2021-11-06.json",
+                "en_title": "Demonstration for more climate protection in Glasgow in the context of the world climate slip",
+                "concepts": [
+                    {
+                        "word": "Demonstration",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "protection",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "Glasgow",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "context",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "world",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "A new effort to help communities adapt to climate change",
+                "date_raw": "November 06, 2021",
+                "date": "2021-11-06",
+                "url": "https://www.pbs.org/newshour/show/november-6-2021-pbs-newshour-weekend-full-episode",
+                "news_url": "https://www.pbs.org/newshour/show/a-new-effort-to-help-communities-adapt-to-climate-change",
+                "duration": "8 min",
+                "ranked": 1,
+                "epoch": 1636322413.839315,
+                "language": "en",
+                "source": "PBS",
+                "filename": "conc_en_2021-11-06.json",
+                "en_title": "A new effort to help communities adapt to climate change",
+                "concepts": [
+                    {
+                        "word": "effort",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "communities",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "change",
+                        "meaning": "pobj",
+                        "pos": "PART"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 7,
+            "n_newB": 4,
+            "n_possible": 28,
+            "concepts_found": [
+                {
+                    "word": "climate",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": " Demonstration fÃÂ¼r mehr Klimaschutz in Glasgow im Rahmen des Weltklimagipfels",
+                "date_raw": "November 06, 2021",
+                "date": "2021-11-06",
+                "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+                "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45637.html",
+                "content": "",
+                "ranked": "7",
+                "epoch": 1636236016.197974,
+                "language": "de",
+                "source": "Tagesschau",
+                "filename": "conc_en_2021-11-06.json",
+                "en_title": "Demonstration for more climate protection in Glasgow in the context of the world climate slip",
+                "concepts": [
+                    {
+                        "word": "Demonstration",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "protection",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "Glasgow",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "context",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "world",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "How youth leadership is changing climate activism",
+                "date_raw": "November 06, 2021",
+                "date": "2021-11-06",
+                "url": "https://www.pbs.org/newshour/show/november-6-2021-pbs-newshour-weekend-full-episode",
+                "news_url": "https://www.pbs.org/newshour/show/how-youth-leadership-is-changing-climate-activism",
+                "duration": "4 min",
+                "ranked": 2,
+                "epoch": 1636322413.8393161,
+                "language": "en",
+                "source": "PBS",
+                "filename": "conc_en_2021-11-06.json",
+                "en_title": "How youth leadership is changing climate activism",
+                "concepts": [
+                    {
+                        "word": "youth",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "leadership",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "climate",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "activism",
+                        "meaning": "dobj",
+                        "pos": "VERB"
                     }
                 ]
             }
@@ -7437,6 +8890,109 @@
                         "word": "summit",
                         "meaning": "dobj",
                         "pos": "VERB"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 3,
+            "n_newB": 6,
+            "n_possible": 18,
+            "concepts_found": [
+                {
+                    "word": "year",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "year",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "Ein Jahr Krieg um Tigray",
+                "date_raw": "November 03, 2021",
+                "date": "2021-11-03",
+                "url": "https://www.zdf.de/nachrichten/heute-19-uhr/211103-heute-sendung-19-uhr-100.html",
+                "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211103-heute-sendung-19-uhr-100.html",
+                "content": "",
+                "ranked": 2,
+                "placed": "First_Page",
+                "epoch": 1635976804.2267144,
+                "language": "de",
+                "source": "Zdf",
+                "filename": "conc_en_2021-11-03.json",
+                "en_title": "One year war around Tigray",
+                "concepts": [
+                    {
+                        "word": "year",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "war",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "Tigray",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "Vaccini, verso la terza dose entro fine anno anche per i cinquantenni.",
+                "date_raw": "November 03, 2021",
+                "date": "2021-11-03",
+                "url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+                "news_url": "https://www.raiplayradio.it/audio/2021/10/GR-1-e3b3c7fe-e21f-4601-906f-4bb49666119b.html",
+                "content": " Marito e moglie entrambi carabinieri e convinti no vax: hanno contratto il virus.  Lui ÃÂ¨ morto.  ÃÂ . ",
+                "ranked": 2,
+                "placed": "First_Page",
+                "epoch": 1636149626.1814113,
+                "language": "it",
+                "source": "GR1",
+                "filename": "conc_en_2021-11-03.json",
+                "en_title": "Vaccines, towards the third dose by the end of the year also for the fifty-year-olds.",
+                "en_content": "Husband and wife both carabinieri and convinced No Vax: the virus contracted.He died.TO .",
+                "concepts": [
+                    {
+                        "word": "Vaccines",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "dose",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "end",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "year",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "year",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "olds",
+                        "meaning": "pobj",
+                        "pos": "ADP"
                     }
                 ]
             }
@@ -9604,6 +11160,616 @@
                     },
                     {
                         "word": "Macron",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 6,
+            "n_newB": 8,
+            "n_possible": 48,
+            "concepts_found": [
+                {
+                    "word": "Colin",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Powell",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "Memorial service for Colin Powell: Ceremony held at Washington national cathedral",
+                "date_raw": "November 05, 2021",
+                "date": "2021-11-05",
+                "url": "https://www.france24.com/en/archives/2021/11/05-November-2021",
+                "news_url": "https://www.france24.com/en/video/20211105-memorial-service-for-colin-powell-ceremony-held-at-washington-national-cathedral",
+                "content": "",
+                "ranked": 23,
+                "placed": "First_Page",
+                "epoch": 1636149618.1629436,
+                "language": "en",
+                "source": "France24",
+                "filename": "conc_en_2021-11-05.json",
+                "en_title": "Memorial service for Colin Powell: Ceremony held at Washington national cathedral",
+                "en_content": "",
+                "concepts": [
+                    {
+                        "word": "service",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "Colin",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Powell",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "Ceremony",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "Washington",
+                        "meaning": "nmod",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "cathedral",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "Capehart and Abernathy on Virginia elections, Build Back Better plan, Colin Powell",
+                "date_raw": "November 05, 2021",
+                "date": "2021-11-05",
+                "url": "https://www.pbs.org/newshour/show/november-5-2021-pbs-newshour-full-episode",
+                "news_url": "https://www.pbs.org/newshour/show/capehart-and-abernathy-on-virginia-elections-build-back-better-plan-colin-powell",
+                "duration": "13 min",
+                "ranked": 5,
+                "epoch": 1636236011.4290376,
+                "language": "en",
+                "source": "PBS",
+                "filename": "conc_en_2021-11-05.json",
+                "en_title": "Capehart and Abernathy on Virginia elections, Build Back Better plan, Colin Powell",
+                "concepts": [
+                    {
+                        "word": "Capehart",
+                        "meaning": "nsubj",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Abernathy",
+                        "meaning": "conj",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Virginia",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "elections",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "Build",
+                        "meaning": "ROOT",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "plan",
+                        "meaning": "dobj",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Colin",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Powell",
+                        "meaning": "npadvmod",
+                        "pos": "PROPN"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 6,
+            "n_newB": 3,
+            "n_possible": 18,
+            "concepts_found": [
+                {
+                    "word": "Colin",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Powell",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "Memorial service for Colin Powell: Ceremony held at Washington national cathedral",
+                "date_raw": "November 05, 2021",
+                "date": "2021-11-05",
+                "url": "https://www.france24.com/en/archives/2021/11/05-November-2021",
+                "news_url": "https://www.france24.com/en/video/20211105-memorial-service-for-colin-powell-ceremony-held-at-washington-national-cathedral",
+                "content": "",
+                "ranked": 23,
+                "placed": "First_Page",
+                "epoch": 1636149618.1629436,
+                "language": "en",
+                "source": "France24",
+                "filename": "conc_en_2021-11-05.json",
+                "en_title": "Memorial service for Colin Powell: Ceremony held at Washington national cathedral",
+                "en_content": "",
+                "concepts": [
+                    {
+                        "word": "service",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "Colin",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Powell",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "Ceremony",
+                        "meaning": "ROOT",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "Washington",
+                        "meaning": "nmod",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "cathedral",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "Remembering Ã¢ÂÂwarrior statesmanÃ¢ÂÂ Colin Powell",
+                "date_raw": "November 05, 2021",
+                "date": "2021-11-05",
+                "url": "https://www.pbs.org/newshour/show/november-5-2021-pbs-newshour-full-episode",
+                "news_url": "https://www.pbs.org/newshour/show/remembering-warrior-statesman-colin-powell",
+                "duration": "3 min",
+                "ranked": 7,
+                "epoch": 1636236011.4290388,
+                "language": "en",
+                "source": "PBS",
+                "filename": "conc_en_2021-11-05.json",
+                "en_title": "Remembering Ã¢ÂÂwarrior statesmanÃ¢ÂÂ Colin Powell",
+                "concepts": [
+                    {
+                        "word": "statesmanÃ¢ÂÂ",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "Colin",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Powell",
+                        "meaning": "appos",
+                        "pos": "NOUN"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 8,
+            "n_possible": 40,
+            "concepts_found": [
+                {
+                    "word": "House",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "spending",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "US House expected to vote on BidenÃ¢ÂÂs two massive spending bills",
+                "date_raw": "November 05, 2021",
+                "date": "2021-11-05",
+                "url": "https://www.france24.com/en/archives/2021/11/05-November-2021",
+                "news_url": "https://www.france24.com/en/americas/20211105-us-house-expected-to-vote-on-biden-s-massive-spending-bills",
+                "content": "",
+                "ranked": 25,
+                "placed": "First_Page",
+                "epoch": 1636149618.162952,
+                "language": "en",
+                "source": "France24",
+                "filename": "conc_en_2021-11-05.json",
+                "en_title": "US House expected to vote on BidenÃ¢ÂÂs two massive spending bills",
+                "en_content": "",
+                "concepts": [
+                    {
+                        "word": "US",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "House",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "BidenÃ¢ÂÂs",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "spending",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "bills",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    }
+                ]
+            },
+            {
+                "title": "New divides among House Dems throw fate of infrastructure, social spending bill in limbo",
+                "date_raw": "November 05, 2021",
+                "date": "2021-11-05",
+                "url": "https://www.pbs.org/newshour/show/november-5-2021-pbs-newshour-full-episode",
+                "news_url": "https://www.pbs.org/newshour/show/new-divides-among-house-dems-throw-fate-of-infrastructure-social-spending-bill-in-limbo",
+                "duration": "8 min",
+                "ranked": 0,
+                "epoch": 1636236011.4290316,
+                "language": "en",
+                "source": "PBS",
+                "filename": "conc_en_2021-11-05.json",
+                "en_title": "New divides among House Dems throw fate of infrastructure, social spending bill in limbo",
+                "concepts": [
+                    {
+                        "word": "divides",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "House",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Dems",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "fate",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "infrastructure",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "spending",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "bill",
+                        "meaning": "conj",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "limbo",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 5,
+            "n_newB": 8,
+            "n_possible": 40,
+            "concepts_found": [
+                {
+                    "word": "infrastructure",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "spending",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "Biden's sweeping infrastructure, social spending bills finally get a vote",
+                "date_raw": "November 05, 2021",
+                "date": "2021-11-05",
+                "url": "https://www.france24.com/en/archives/2021/11/05-November-2021",
+                "news_url": "https://www.france24.com/en/video/20211105-biden-s-sweeping-infrastructure-social-spending-bills-finally-get-a-vote",
+                "content": "",
+                "ranked": 28,
+                "placed": "First_Page",
+                "epoch": 1636149618.162956,
+                "language": "en",
+                "source": "France24",
+                "filename": "conc_en_2021-11-05.json",
+                "en_title": "Biden's sweeping infrastructure, social spending bills finally get a vote",
+                "en_content": "",
+                "concepts": [
+                    {
+                        "word": "Biden",
+                        "meaning": "poss",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "infrastructure",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "spending",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "bills",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "vote",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    }
+                ]
+            },
+            {
+                "title": "New divides among House Dems throw fate of infrastructure, social spending bill in limbo",
+                "date_raw": "November 05, 2021",
+                "date": "2021-11-05",
+                "url": "https://www.pbs.org/newshour/show/november-5-2021-pbs-newshour-full-episode",
+                "news_url": "https://www.pbs.org/newshour/show/new-divides-among-house-dems-throw-fate-of-infrastructure-social-spending-bill-in-limbo",
+                "duration": "8 min",
+                "ranked": 0,
+                "epoch": 1636236011.4290316,
+                "language": "en",
+                "source": "PBS",
+                "filename": "conc_en_2021-11-05.json",
+                "en_title": "New divides among House Dems throw fate of infrastructure, social spending bill in limbo",
+                "concepts": [
+                    {
+                        "word": "divides",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "House",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Dems",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "fate",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "infrastructure",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "spending",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "bill",
+                        "meaning": "conj",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "limbo",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "concepts": {
+            "similar": true,
+            "n_found": 2,
+            "n_newA": 8,
+            "n_newB": 8,
+            "n_possible": 64,
+            "concepts_found": [
+                {
+                    "word": "House",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "spending",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        "news": [
+            {
+                "title": "Tax hikes loom as US House nears vote on pair of spending bills",
+                "date_raw": "November 05, 2021",
+                "date": "2021-11-05",
+                "url": "https://www.france24.com/en/archives/2021/11/05-November-2021",
+                "news_url": "https://www.france24.com/en/tv-shows/business-daily/20211105-tax-hikes-loom-as-us-house-nears-vote-on-pair-of-spending-bills",
+                "content": "",
+                "ranked": 50,
+                "placed": "First_Page",
+                "epoch": 1636149618.162978,
+                "language": "en",
+                "source": "France24",
+                "filename": "conc_en_2021-11-05.json",
+                "en_title": "Tax hikes loom as US House nears vote on pair of spending bills",
+                "en_content": "",
+                "concepts": [
+                    {
+                        "word": "Tax",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "loom",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "US",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "House",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "vote",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "pair",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "spending",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "bills",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    }
+                ]
+            },
+            {
+                "title": "New divides among House Dems throw fate of infrastructure, social spending bill in limbo",
+                "date_raw": "November 05, 2021",
+                "date": "2021-11-05",
+                "url": "https://www.pbs.org/newshour/show/november-5-2021-pbs-newshour-full-episode",
+                "news_url": "https://www.pbs.org/newshour/show/new-divides-among-house-dems-throw-fate-of-infrastructure-social-spending-bill-in-limbo",
+                "duration": "8 min",
+                "ranked": 0,
+                "epoch": 1636236011.4290316,
+                "language": "en",
+                "source": "PBS",
+                "filename": "conc_en_2021-11-05.json",
+                "en_title": "New divides among House Dems throw fate of infrastructure, social spending bill in limbo",
+                "concepts": [
+                    {
+                        "word": "divides",
+                        "meaning": "nsubj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "House",
+                        "meaning": "compound",
+                        "pos": "PROPN"
+                    },
+                    {
+                        "word": "Dems",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "fate",
+                        "meaning": "dobj",
+                        "pos": "VERB"
+                    },
+                    {
+                        "word": "infrastructure",
+                        "meaning": "pobj",
+                        "pos": "ADP"
+                    },
+                    {
+                        "word": "spending",
+                        "meaning": "compound",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "bill",
+                        "meaning": "conj",
+                        "pos": "NOUN"
+                    },
+                    {
+                        "word": "limbo",
                         "meaning": "pobj",
                         "pos": "ADP"
                     }
