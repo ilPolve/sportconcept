@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import json
 import os
 import spacy
@@ -31,6 +33,7 @@ def pos_tagger(editions, my_subdir):
                 os.remove(to_remove)
                 with open(filepath, "w") as f:
                     json.dump(edition, f, ensure_ascii = False, indent= 4)
+                    f.write("\n")
     return to_ret
 
 def conceptualize(new):

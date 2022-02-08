@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import json
 import os
 
@@ -132,6 +134,7 @@ def deploy_comparing(edition_a, edition_b, simils):
     to_dump['edition_b']= edition_b
     with open(dir, "w") as f:
         json.dump(to_dump, f, ensure_ascii=False, indent=4)
+        f.write("\n")
 
 if __name__ == "__main__":
     main()
