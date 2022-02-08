@@ -1,33 +1,42 @@
+#!/usr/bin/env python
+
 import os
 import json
 from collections import defaultdict
 from yattag import Doc
 from yattag import indent
 
+BASE_DIR = f"./compared/"
+
 def main():
     my_files = get_dirs()
     for my_file in my_files:
         htmlify(my_file)
 
-#a util function which, in my filesystem, gets the path of all comparison files
+
+#a util function which gets all the comparison file names in a given directory of comparison files
+def get_paths(subdir):
+    to_ret = []
+    for my_compare in os.scandir(subdir):
+        if my_compare.name[len(my_compare.name)-5:] == ".json":
+            to_ret.append(subdir + my_compare.name)
+    return to_ret
+
+#a util function which, in my filesystem, gets the path of all comparison subdirs
 def get_dirs():
     to_ret= []
-    directory= "./compared/"
-    for source_a in os.scandir(directory):
+    for source_a in os.scandir(BASE_DIR):
         if source_a.name != "date_comparison":
-            subdir_a = directory + source_a.name + "/"
+            subdir_a = f"{BASE_DIR}{source_a.name}/"
             for source_b in os.scandir(subdir_a):
-                subdir_b = subdir_a + source_b.name + "/"
-                for my_compare in os.scandir(subdir_b):
-                    if my_compare.name[len(my_compare.name)-5:] == ".json":
-                        to_ret.append(subdir_b + my_compare.name)
+                subdir_b = f"{subdir_a}{source_b.name}/"
+                to_ret.append(get_paths(subdir_b))
     return to_ret
 
 #a function which, given the path of a json comparing file, visualize its html table of comparison
 def htmlify(path):
-    f= open(path, "r+")
-    compared = json.load(f)
-    f.close()
+    with open(path, "r+") as f:
+        compared = json.load(f)
     to_visual_name = path.split("/")
     to_visual_name = to_visual_name[len(to_visual_name)-1] + ".html"
     simils, simil_concs = get_simils(compared)
@@ -108,9 +117,10 @@ def print_table(to_visual, to_visual_name, simils, simil_table):
                                                         text(concept['word'])
                                                         doc.asis('<br>')
     
-    f=open("compared/" + header_a[0]['source'] + "/" + header_b[0]['source'] + "/" + to_visual_name, "w")
-    f.write(indent(doc.getvalue()))
-    f.close()
+    html_filepath = f"{BASE_DIR}{header_a[0]['source']}/{header_b[0]['source']}/{to_visual_name}"
+    with open(html_filepath, 'w') as f:
+        f.write(indent(doc.getvalue()))
+        f.write("\n")
                                         
                     
 
