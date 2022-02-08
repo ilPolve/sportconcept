@@ -1,47 +1,33 @@
 import json
 import os
 
+BASE_DIR= f"../Newscraping/collectedNews/"
+
 my_subdirs= ['edition/DE', 'edition/FR', 'edition/EN', 'edition/IT', 'flow/DE', 'flow/EN', 'flow/IT']
 
 ed_type= ["RTS", "Tagesschau", "Zdf", "France24", "GR1", "PBS"]
-flow_type= ["Zeit", "Televideo", "ilPost", "BBC", "NYT"]
+flow_type= ["Zeit", "Televideo", "ilPost", "NYT"]
 
 source_conv= {'RTS': 0, 'Tagesschau': 1, 'Zdf': 2, 'France24': 3, 'GR1': 4, 'PBS': 5,
               'Zeit': 0, 'Televideo': 1, 'ilPost': 2, 'BBC': 3, 'NYT': 4}
 
+
 editions_by_source= [[], [], [], [], [], []]
 flows_by_source= [[], [],[], [], []]
 
-simil_clean = []
-
 def main():
     for my_subdir in my_subdirs:
-        dir= "../newScraping/collectedNews/" + my_subdir
+        dir= f"{BASE_DIR}{my_subdir}"
         for source_dir in os.scandir(dir):
             source= source_dir.name
             news_getter(my_subdir, source)
-    f= open("editions_simils.txt", "w")
     simil_ed = source_comparing(editions_by_source)
-    #next three lines are for a simpler visualization of the simil_file
-    global simil_clean
-    simil_ed = simil_clean
-    simil_clean = []
-    json.dump(simil_ed, f, indent= 4, ensure_ascii= False)
-    f.close()
-    f= open("flows_simils.txt", "w")
     simil_fl = source_comparing(flows_by_source)
-    #next two lines are for a simpler visualization of the simil_file
-    simil_fl = simil_clean
-    simil_clean =[]
-    json.dump(simil_fl, f, indent= 4, ensure_ascii= False)
-    f.close()
 
 #Semlice funzione che dato un file .json ne restituisce un oggetto sse contiene il campo "concepts"
 def jsonizer(directory):
-    f= open(directory, "r+")
-    #print(directory)
-    to_ret= json.load(f, encoding='mac_roman')
-    f.close()
+    with open(directory, "r+") as f:
+        to_ret= json.load(f)
     to_append= False
     if 'concepts' in to_ret[0]:
         to_append= True
@@ -49,19 +35,18 @@ def jsonizer(directory):
 
 #Funzione ausiliaria che data una nazione e un giornale, aggiunge le sue edizioni (o i suoi flussi) al relativo array
 def news_getter(my_subdir, source):
-    directory= "../newScraping/collectedNews/" + my_subdir + "/" + source
+    directory= f"{BASE_DIR}{my_subdir}/{source}"
     if source in ed_type:
         for to_append in os.scandir(directory):
             if(to_append.name[0] == "c"):
-                should_i, to_append= jsonizer(directory + "/" + to_append.name)
+                should_i, to_append= jsonizer(f"{directory}/{to_append.name}")
                 if should_i:
                     global editions_by_source
                     editions_by_source[source_conv[source]].append(to_append)
     elif source in flow_type:
             for to_append in os.scandir(directory):
                 if(to_append.name[0] == "c"):
-                    print(directory + "/" + to_append.name)
-                    should_i, to_append= jsonizer(directory + "/" + to_append.name)
+                    should_i, to_append= jsonizer(f"{directory}/{to_append.name}")
                     if should_i:
                         global flows_by_source
                         flows_by_source[source_conv[source]].append(to_append)
@@ -128,31 +113,25 @@ def edition_comparing(editions_a, editions_b):
 def news_comparing(edition_a, edition_b):
     simil= []
     for news_a in edition_a:
-        #max = 2
         for news_b in edition_b:
-            #if max <= 0:
-                 #break
             are_similar, concepts= compare_naif(news_a, news_b)
             if are_similar:
                 to_app= []
                 to_app.append(news_a)
                 to_app.append(news_b)
                 to_ret= {'concepts': concepts, 'news': to_app}
-                global simil_clean
-                simil_clean.append(to_ret)
                 simil.append(to_ret)
-                #max-=1
     return simil
 
 def deploy_comparing(edition_a, edition_b, simils):
-    dir = "compared/" + edition_a[0]['source'] + "/" + edition_b[0]['source'] + "/" + (edition_a[0]['filename'].replace("conc_en_", ""))
+    new_filename= edition_a[0]['filename'].replace("conc_en_", "")
+    dir= f"compared/{edition_a[0]['source']}/{edition_b[0]['source']}/{new_filename}"
     to_dump= {}
     to_dump['simils_concepts']= simils
     to_dump['edition_a']= edition_a
     to_dump['edition_b']= edition_b
-    f= open(dir, "w")
-    json.dump(to_dump, f, ensure_ascii=False, indent=4)
-    f.close()
+    with open(dir, "w") as f:
+        json.dump(to_dump, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     main()
