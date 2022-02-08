@@ -9,9 +9,11 @@ from yattag import indent
 BASE_DIR = f"./compared/"
 
 def main():
-    my_files = get_dirs()
-    for my_file in my_files:
-        htmlify(my_file)
+    my_subdirs = get_dirs()
+    for my_files in my_subdirs:
+        for my_file in my_files:
+            print(my_file)
+            htmlify(my_file)
 
 
 #a util function which gets all the comparison file names in a given directory of comparison files
@@ -35,6 +37,7 @@ def get_dirs():
 
 #a function which, given the path of a json comparing file, visualize its html table of comparison
 def htmlify(path):
+    print(len(path))
     with open(path, "r+") as f:
         compared = json.load(f)
     to_visual_name = path.split("/")
