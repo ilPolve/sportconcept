@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os
 import json
 from collections import defaultdict
@@ -5,6 +7,8 @@ from yattag import Doc
 from yattag import indent
 
 flows= ['BBC', 'ilPost', 'Televideo', 'Zeit']
+
+BASE_DIR= f"./compared/"
 
 def main():
     date= "2021-11-06"
@@ -19,12 +23,13 @@ def get_dirs():
     dirs= []
     sources_a= []
     sources_b= []
-    base_dir="./compared/"
-    for source_a in os.scandir(base_dir):
+    for source_a in os.scandir(BASE_DIR):
         #in teoria servirebbe un else e gestire tutta la questione dei flussi, ma è complicato per via della discrepanza tra confrontare le date e gli epoch
         if not (source_a.name in flows) and source_a.name != "date_comparison":
-            for source_b in os.scandir(base_dir + source_a.name + "/"):
-                dirs.append(base_dir + source_a.name + "/" + source_b.name + "/")
+            dirpath_source_a = f"{BASE_DIR}{source_a.name}/"
+            for source_b in os.scandir(dirpath_source_a):
+                dirpath_source_b = f"{BASE_DIR}{source_a.name}/{source_b.name}/"
+                dirs.append(dirpath_source_b)
                 sources_a.append(source_a.name)
                 sources_b.append(source_b.name)
     return sources_a, sources_b, dirs
@@ -33,15 +38,14 @@ def get_infos(source_a, source_b, my_dir, date):
     for comparison in os.scandir(my_dir):
         this_date = comparison.name.replace(".json", "")
         if this_date == date:
-            f= open(my_dir + comparison.name, "r+")
-            this_edition= json.load(f)
-            f.close()
+            with open(f"{my_dir}{comparison.name}", "r+") as f:
+                this_edition= json.load(f)
             to_ret = {
                 'source_a' : source_a,
                 'source_b' : source_b,
                 'n_sim_titles' : len(this_edition['simils_concepts']),
                 'date' : date,
-                'dir' : my_dir.replace("./compared/", "../") + comparison.name + ".html"
+                'dir' : my_dir.replace(BASE_DIR, "../") + comparison.name + ".html"
             }
             return to_ret
     to_ret = {
@@ -116,9 +120,10 @@ def htmlify(sources, infos, date):
                                                 with tag('a', href=current['dir']):
                                                     text(current['n_sim_titles'])
                                 i+=1
-    f= open("./compared/date_comparison/" + date + ".html", "w")
-    f.write(indent(doc.getvalue()))
-    f.close()
+    sources_comparison_filepath = f"{BASE_DIR}date_comparison/{date}.html"
+    with open(sources_comparison_filepath, "w") as f:
+        f.write(indent(doc.getvalue()))
+        f.write("\n")
 
 if __name__ == "__main__":
     main()
