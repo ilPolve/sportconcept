@@ -1,0 +1,821 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Amnesty dénonce la politique \"d'apartheid\" d'Israël contre la population palestinienne: interview de Nadia Boehlen",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.rts.ch/audio-podcast/2022/audio/le-12h30-presente-par-agathe-birden-25797896.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2022/audio/amnesty-denonce-la-politique-d-apartheid-d-israel-contre-la-population-palestinienne-interview-de-nadia-boehlen-25797889.html",
+            "duration": "05:46",
+            "ranked": 0,
+            "epoch": 1643817623.4065013,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "Amnesty denounces Israel's \"Apartheid\" policy against the Palestinian population: interview with Nadia Boehlen",
+            "concepts": [
+                {
+                    "word": "Amnesty",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Israel",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Apartheid",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "policy",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "population",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Nadia",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Boehlen",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "UBS a fortement augmenté son bénéfice en 2021, à 6,9 milliards de francs",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.rts.ch/audio-podcast/2022/audio/le-12h30-presente-par-agathe-birden-25797896.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2022/audio/ubs-a-fortement-augmente-son-benefice-en-2021-a-6-9-milliards-de-francs-25797887.html",
+            "duration": "01:47",
+            "ranked": 1,
+            "epoch": 1643817623.4065032,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "UBS has greatly increased its profit in 2021, to 6.9 billion francs",
+            "concepts": [
+                {
+                    "word": "UBS",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "profit",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "francs",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Un nombre record de missions pour la Rega l'an dernier",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.rts.ch/audio-podcast/2022/audio/le-12h30-presente-par-agathe-birden-25797896.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2022/audio/un-nombre-record-de-missions-pour-la-rega-l-an-dernier-25797891.html",
+            "duration": "01:13",
+            "ranked": 2,
+            "epoch": 1643817623.406504,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "A record number of missions to the Rega last year",
+            "concepts": [
+                {
+                    "word": "record",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "number",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "missions",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Rega",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "year",
+                    "meaning": "npadvmod",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Les incendies au Tessin continuent de se propager le long de la frontière avec l’Italie",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.rts.ch/audio-podcast/2022/audio/le-12h30-presente-par-agathe-birden-25797896.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2022/audio/les-incendies-au-tessin-continuent-de-se-propager-le-long-de-la-frontiere-avec-l-italie-25797904.html",
+            "duration": "01:15",
+            "ranked": 3,
+            "epoch": 1643817623.4065044,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "Ticino fires continue to spread along the border with Italy",
+            "concepts": [
+                {
+                    "word": "Ticino",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "fires",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "border",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La délégation suisse aux Jeux olympiques d'hiver est composée d'une majorité de militaires",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.rts.ch/audio-podcast/2022/audio/le-12h30-presente-par-agathe-birden-25797896.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2022/audio/la-delegation-suisse-aux-jeux-olympiques-d-hiver-est-composee-d-une-majorite-de-militaires-25797890.html",
+            "duration": "01:43",
+            "ranked": 4,
+            "epoch": 1643817623.4065049,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "The Swiss delegation at the Winter Olympics is composed of a majority of military personnel",
+            "concepts": [
+                {
+                    "word": "delegation",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Winter",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Olympics",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "majority",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "personnel",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les pompiers genevois dans le lac pour connaître leurs limites face à l'hypothermie",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.rts.ch/audio-podcast/2022/audio/le-12h30-presente-par-agathe-birden-25797896.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2022/audio/les-pompiers-genevois-dans-le-lac-pour-connaitre-leurs-limites-face-a-l-hypothermie-25797899.html",
+            "duration": "01:51",
+            "ranked": 5,
+            "epoch": 1643817623.4065056,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "The Geneva firefighters in the lake to know their limits in the face of hypothermia",
+            "concepts": [
+                {
+                    "word": "Geneva",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "firefighters",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "lake",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "limits",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "face",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "hypothermia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le coup d'État de la junte militaire birmane a eu lieu il y a un an",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.rts.ch/audio-podcast/2022/audio/le-12h30-presente-par-agathe-birden-25797896.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2022/audio/le-coup-d-etat-de-la-junte-militaire-birmane-a-eu-lieu-il-y-a-un-an-25797900.html",
+            "duration": "02:08",
+            "ranked": 6,
+            "epoch": 1643817623.406506,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "The coup d'état of the Burmese military junta took place a year ago",
+            "concepts": [
+                {
+                    "word": "coup",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "d'état",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "military",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "junta",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "place",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "year",
+                    "meaning": "npadvmod",
+                    "pos": "ADV"
+                }
+            ]
+        },
+        {
+            "title": "Point sur le mercato du football en Suisse",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.rts.ch/audio-podcast/2022/audio/le-12h30-presente-par-agathe-birden-25797896.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2022/audio/point-sur-le-mercato-du-football-en-suisse-25797903.html",
+            "duration": "01:47",
+            "ranked": 7,
+            "epoch": 1643817623.4065065,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "Point sur le mercato du football en Suisse",
+            "concepts": [
+                {
+                    "word": "Point",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "le",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "mercato",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "du",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "football",
+                    "meaning": "dobj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Suisse",
+                    "meaning": "punct",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "L’invité du 12h30 – Sébastien Ripari présente son livre \"L'ami des chefs\"",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.rts.ch/audio-podcast/2022/audio/le-12h30-presente-par-agathe-birden-25797896.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2022/audio/l-invite-du-12h30-sebastien-ripari-presente-son-livre-l-ami-des-chefs-25797905.html",
+            "duration": "08:28",
+            "ranked": 8,
+            "epoch": 1643817623.406507,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "The guest of 12:30 – Sébastien Ripari presents his book \"L'ami des chefs\"",
+            "concepts": [
+                {
+                    "word": "guest",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Sébastien",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ripari",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "book",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "L'ami",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "des",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "chefs",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Zwei Tatverdächtige in Untersuchungshaft nach tödlichen Schüssen bei Polizeikontrolle",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-49629.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1643813591.9849272,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "Two suspects in custody after deadly shots in police control",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "suspects",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "custody",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "shots",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "police",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "control",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Russlands Präsident Putin signalisiert Gesprächsbereitschaft im Ukraine-Konflikt",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-49629.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1643813591.9850085,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "Russia's President Putin signals willingness to talk in Ukraine conflict",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Russia",
+                    "meaning": "poss",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "President",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Putin",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "willingness",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Ukraine",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "conflict",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Festhalten an Impfpflicht im Gesundheitswesen trotz anhaltender Kritik",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-49629.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1643813591.9850657,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "Maintaining vaccination in healthcare despite ongoing criticism",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "vaccination",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "healthcare",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "criticism",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                }
+            ]
+        },
+        {
+            "title": " Dänemark hebt bis auf einige Einreiseregeln fast alle Corona-Maßnahmen auf",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-49629.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1643813591.9851153,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "Denmark raises almost all Corona measures to certain entry rules",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Denmark",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "measures",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "entry",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rules",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Bundesagentur für Arbeit: Arbeitslosenzahlen auf Niveau wie vor Pandemie",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-49629.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1643813591.9851594,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "Federal Employment Agency: Unemployment figures at level as before pandemic",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Federal",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Employment",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Agency",
+                    "meaning": "dep",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Unemployment",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "figures",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "level",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Anträge für staatliche Förderung von Energiesparhäusern vor Stichtag doch noch durch KfW-Bank gefördert",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-49629.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1643813591.9852037,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "Requests for state-funding of energy-saving houses by KfW-Bank",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Requests",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "state",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "funding",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "energy",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "houses",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "KfW",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bank",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Bahn stellt neuen ICE 3neo vor",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-49629.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1643813591.9852448,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "Railway introduces new ICE 3neo",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Railway",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ICE",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "3neo",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Reemtsma-Entführer Drach vor Gericht wegen mutmaßlicher Überfälle auf Geldtransport",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-49629.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1643813591.985285,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "Reemtsma kidnapper Drach in court for alleged violations of money transport",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Reemtsma",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "kidnapper",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Drach",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "court",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "violations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "money",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "transport",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Anhaltende Kritik an China: Vorwurf der Verschleierung von Menschenrechtsverletzungen durch Olympia",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-49629.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1643813591.9853249,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "Persistent Criticism of China: Proclamation of Human Rights Violations by Olympia",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Persistent",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Criticism",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "China",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Proclamation",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Human",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rights",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Violations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Olympia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "February 01, 2022",
+            "date": "2022-02-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-49629.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1643813591.9853654,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2022-02-01.json",
+            "en_title": "The weather",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,797 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Corona-Lage in Deutschland spitzt sich zu: Mehr als 100.000 Tote",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45953.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1637877618.653426,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "Corona-Lage in Germany is growing: More than 100,000 dead",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lage",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " RKI meldet 75.961 Neuinfektionen",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45953.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1637877618.6534536,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "RKI reports 75.961 new infections",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "RKI",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "infections",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Sieben-Tage-Inzidenz steigt auf knapp 420",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45953.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1637877618.6534693,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "Seven-day incidence rises to just under 420",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "day",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "incidence",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Europäische Arzneimittelbehörde empfiehlt BioNTech-Impfstoff für Kinder ab fünf Jahren",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45953.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1637877618.6534908,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "European Medicines Agency recommends BioNTech vaccine for children from five years",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "European",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Medicines",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Agency",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "children",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "years",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Grüne ringen um Minister-Nominierung in künftiger Ampel-Regierung",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45953.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1637877618.6535034,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "Green struggles for ministerial nomination in future traffic light government",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Green",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "nomination",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "traffic",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "light",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "government",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Internationaler Tag gegen Gewalt an Frauen",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45953.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1637877618.6535156,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "International Day Against Violence in Women",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "International",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Day",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Violence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Women",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " BGH-Urteile im Dieselskandal: Audi muss Käufern Schadensersatz zahlen",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45953.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1637877618.6535275,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "BGH judgments in the diesel scandal: Audi must pay buyers compensation",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "BGH",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "judgments",
+                    "meaning": "ccomp",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "diesel",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "scandal",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Audi",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "buyers",
+                    "meaning": "dative",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "compensation",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Frankreich fordert härteres Vorgehen gegen Schleuser nach Bootsunglück im Ärmelkanal",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45953.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1637877618.6535397,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "France calls for tougher action against Schleuser after boat accident in the Channel",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "France",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "action",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Schleuser",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "boat",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "accident",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Channel",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Interpol wählt Generalmajor al-Raisi aus den Vereinigten Arabischen Emiraten zum neuen Präsidenten trotz Foltervorwürfe gegen ihn",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45953.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1637877618.6535513,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "Interpol chooses Maj-Gen al-Raisi from the United Arab Emirates to become a new president despite accusations of torture against him",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Interpol",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Maj",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "-",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Gen",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "al",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Raisi",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Arab",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Emirates",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "president",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "accusations",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                },
+                {
+                    "word": "torture",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Ägypten eröffnet mit Festakt historische Sphinx-Allee",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45953.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1637877618.653563,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "Egypt opens with ceremony historical Sphinx Avenue",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Egypt",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "ceremony",
+                    "meaning": "compound",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "Sphinx",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Avenue",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45953.html",
+            "content": "",
+            "ranked": "10",
+            "epoch": 1637877618.6535747,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "The weather",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "News Wrap: Europe’s COVID-19 surge raises new alarms",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.pbs.org/newshour/show/november-25-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-europes-covid-19-surge-raises-new-alarms",
+            "duration": "4 min",
+            "ranked": 0,
+            "epoch": 1637964011.379392,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "News Wrap: Europe’s COVID-19 surge raises new alarms",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Europe",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "COVID-19",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "surge",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "alarms",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Rising grocery prices put pressure on millions of Americans already facing food insecurity",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.pbs.org/newshour/show/november-25-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/rising-grocery-prices-put-pressure-on-millions-of-americans-already-facing-food",
+            "duration": "6 min",
+            "ranked": 1,
+            "epoch": 1637964011.3793945,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "Rising grocery prices put pressure on millions of Americans already facing food insecurity",
+            "concepts": [
+                {
+                    "word": "grocery",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prices",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "pressure",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "millions",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Americans",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "food",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "insecurity",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Voices of gratitude on Thanksgiving Day amid the ongoing pandemic",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.pbs.org/newshour/show/november-25-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/voices-of-gratitude-on-thanksgiving-day-amid-the-ongoing-pandemic",
+            "duration": "3 min",
+            "ranked": 2,
+            "epoch": 1637964011.3793962,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "Voices of gratitude on Thanksgiving Day amid the ongoing pandemic",
+            "concepts": [
+                {
+                    "word": "Voices",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "gratitude",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Thanksgiving",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Day",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "pandemic",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Investigators probe utility company PG&E’s role in California wildfire",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.pbs.org/newshour/show/november-25-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/investigators-probe-utility-company-pges-role-in-california-wildfire",
+            "duration": "9 min",
+            "ranked": 3,
+            "epoch": 1637964011.379397,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "Investigators probe utility company PG&E’s role in California wildfire",
+            "concepts": [
+                {
+                    "word": "Investigators",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "utility",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "company",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "PG&E",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "’s",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "role",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "California",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "wildfire",
+                    "meaning": "ccomp",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Why cultural and political divides in the U.S. seem to be getting worse",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.pbs.org/newshour/show/november-25-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/why-cultural-and-political-divides-in-the-u-s-seem-to-be-getting-worse",
+            "duration": "8 min",
+            "ranked": 4,
+            "epoch": 1637964011.3793976,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "Why cultural and political divides in the U.S. seem to be getting worse",
+            "concepts": [
+                {
+                    "word": "divides",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "U.S.",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "How broken faith in American institutions is creating a ‘rising sense of fury’",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.pbs.org/newshour/show/november-25-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/how-broken-faith-in-american-institutions-is-creating-a-rising-sense-of-fury",
+            "duration": "7 min",
+            "ranked": 5,
+            "epoch": 1637964011.3793983,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "How broken faith in American institutions is creating a ‘rising sense of fury’",
+            "concepts": [
+                {
+                    "word": "faith",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "institutions",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "sense",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "fury",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Former head of Saudi intelligence recounts America’s longstanding ties to Afghanistan",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.pbs.org/newshour/show/november-25-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/former-head-of-saudi-intelligence-recounts-americas-longstanding-ties-to-afghanistan",
+            "duration": "8 min",
+            "ranked": 6,
+            "epoch": 1637964011.379399,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "Former head of Saudi intelligence recounts America’s longstanding ties to Afghanistan",
+            "concepts": [
+                {
+                    "word": "head",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "intelligence",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "America",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ties",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Afghanistan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Work of master painter Titian reunited for the first time in more than 400 years",
+            "date_raw": "November 25, 2021",
+            "date": "2021-11-25",
+            "url": "https://www.pbs.org/newshour/show/november-25-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/work-of-master-painter-titian-reunited-for-the-first-time-in-more-than-400-years",
+            "duration": "6 min",
+            "ranked": 7,
+            "epoch": 1637964011.3794,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-25.json",
+            "en_title": "Work of master painter Titian reunited for the first time in more than 400 years",
+            "concepts": [
+                {
+                    "word": "Work",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "master",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "painter",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Titian",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "time",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "years",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

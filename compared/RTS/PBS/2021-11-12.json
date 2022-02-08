@@ -1,0 +1,607 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Le salon horloger Baselworld n’aura une nouvelle fois pas lieu en 2022",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777941.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-salon-horloger-baselworld-n-aura-une-nouvelle-fois-pas-lieu-en-2022-25777919.html",
+            "duration": "02:34",
+            "ranked": 0,
+            "epoch": 1637272809.0003464,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "The Baselworld watch show will not take place again in 2022",
+            "concepts": [
+                {
+                    "word": "Baselworld",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "watch",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "show",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "place",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Karine Keller-Sutter est \"scandalisée\" par la crise migratoire en Biélorussie",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777941.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/karine-keller-sutter-est-scandalisee-par-la-crise-migratoire-en-bielorussie-25777923.html",
+            "duration": "01:18",
+            "ranked": 1,
+            "epoch": 1637272809.0003502,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Karine Keller-Sutter is \"scandalized\" by the migration crisis in Belarus",
+            "concepts": [
+                {
+                    "word": "Karine",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Keller",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Sutter",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "migration",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "crisis",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Belarus",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "De plus en plus de migrants tentent de traverser la Manche pour rejoindre le Royaume-Uni",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777941.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/de-plus-en-plus-de-migrants-tentent-de-traverser-la-manche-pour-rejoindre-le-royaume-uni-25777925.html",
+            "duration": "01:24",
+            "ranked": 2,
+            "epoch": 1637272809.0003514,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "More and more migrants are trying to cross the Channel to reach the United Kingdom",
+            "concepts": [
+                {
+                    "word": "migrants",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Channel",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kingdom",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Le Syndicat des services publics dénonce une situation critique dans le service de pédiatrie du CHUV",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777941.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-syndicat-des-services-publics-denonce-une-situation-critique-dans-le-service-de-pediatrie-du-chuv-25777929.html",
+            "duration": "01:58",
+            "ranked": 3,
+            "epoch": 1637272809.0003529,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "The Public Services Union denounces a critical situation in the CHUV pediatric service",
+            "concepts": [
+                {
+                    "word": "Public",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Services",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Union",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "situation",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "CHUV",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "service",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le canton de Genève tire son premier bilan de la semaine nationale de la vaccination",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777941.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-canton-de-geneve-tire-son-premier-bilan-de-la-semaine-nationale-de-la-vaccination-25777930.html",
+            "duration": "01:23",
+            "ranked": 4,
+            "epoch": 1637272809.0003538,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "The canton of Geneva takes its first assessment of the national week of vaccination",
+            "concepts": [
+                {
+                    "word": "canton",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Geneva",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "assessment",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "week",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "vaccination",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les transports publics bernois vont étoffer leur offre dès le changement d’horaire du 12 décembre",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777941.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-transports-publics-bernois-vont-etoffer-leur-offre-des-le-changement-d-horaire-du-12-decembre-25777935.html",
+            "duration": "01:18",
+            "ranked": 5,
+            "epoch": 1637272809.0003548,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Bernese public transport will expand their offer as soon as the schedule change of December 12",
+            "concepts": [
+                {
+                    "word": "transport",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "offer",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "schedule",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "change",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "December",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Un guide touristique italien mise sur un tourisme en lien avec l’énergie éolienne",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777941.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/un-guide-touristique-italien-mise-sur-un-tourisme-en-lien-avec-l-energie-eolienne-25777934.html",
+            "duration": "01:55",
+            "ranked": 6,
+            "epoch": 1637272809.000356,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "An Italian tourist guide put on a tourism related to wind energy",
+            "concepts": [
+                {
+                    "word": "tourist",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "guide",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "tourism",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "energy",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Le point J - Migros: pourquoi on ne veut pas qu'elle change?",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777941.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-point-j-migros-pourquoi-on-ne-veut-pas-qu-elle-change-25777943.html",
+            "duration": "12:52",
+            "ranked": 7,
+            "epoch": 1637272809.0003567,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Point J - Migros: why don't we want her to change?",
+            "concepts": [
+                {
+                    "word": "Point",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "J",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Migros",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "The key issues that remain unresolved at COP26",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.pbs.org/newshour/show/november-12-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/the-key-issues-that-remain-unresolved-at-cop26",
+            "duration": "8 min",
+            "ranked": 0,
+            "epoch": 1636840820.4683378,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "The key issues that remain unresolved at COP26",
+            "concepts": [
+                {
+                    "word": "issues",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "COP26",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "News Wrap: Bannon indicted on contempt charges for defying congressional subpoena",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.pbs.org/newshour/show/november-12-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-bannon-indicted-on-contempt-charges-for-defying-congressional-subpoena",
+            "duration": "6 min",
+            "ranked": 1,
+            "epoch": 1636840820.4683404,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "News Wrap: Bannon indicted on contempt charges for defying congressional subpoena",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bannon",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "contempt",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "charges",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "subpoena",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "U.N. says Ethiopia to ease blockade of aid for Tigray, but no official agreement in sight",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.pbs.org/newshour/show/november-12-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/u-n-says-ethiopia-to-ease-blockade-of-aid-for-tigray-but-no-official-agreement-in-sight",
+            "duration": "6 min",
+            "ranked": 2,
+            "epoch": 1636840820.4683418,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "U.N. says Ethiopia to ease blockade of aid for Tigray, but no official agreement in sight",
+            "concepts": [
+                {
+                    "word": "U.N.",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Ethiopia",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "blockade",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "aid",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Tigray",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "agreement",
+                    "meaning": "conj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sight",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "What Aaron Rodgers’ controversy tells us about vaccine skepticism in professional sports",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.pbs.org/newshour/show/november-12-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/what-aaron-rodgers-controversy-tells-us-about-vaccine-skepticism-in-professional-sports",
+            "duration": "8 min",
+            "ranked": 3,
+            "epoch": 1636840820.4683428,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "What Aaron Rodgers’ controversy tells us about vaccine skepticism in professional sports",
+            "concepts": [
+                {
+                    "word": "Aaron",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rodgers",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "controversy",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "skepticism",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "sports",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Capehart and Abernathy on congressional bipartisanship, inflation, redistricting",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.pbs.org/newshour/show/november-12-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/capehart-and-abernathy-on-congressional-bipartisanship-inflation-redistricting",
+            "duration": "13 min",
+            "ranked": 4,
+            "epoch": 1636840820.4683435,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Capehart and Abernathy on congressional bipartisanship, inflation, redistricting",
+            "concepts": [
+                {
+                    "word": "Capehart",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Abernathy",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "bipartisanship",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "inflation",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "redistricting",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "How Henry Kissinger mastered careful diplomacy in the Middle East",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.pbs.org/newshour/show/november-12-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/how-henry-kissinger-mastered-careful-diplomacy-in-the-middle-east",
+            "duration": "7 min",
+            "ranked": 5,
+            "epoch": 1636840820.4683442,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "How Henry Kissinger mastered careful diplomacy in the Middle East",
+            "concepts": [
+                {
+                    "word": "Henry",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kissinger",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "diplomacy",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Middle",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "East",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "‘Internet will open my eyes’ : Bringing broadband to rural Alaska",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.pbs.org/newshour/show/november-12-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/internet-will-open-my-eyes-bringing-broadband-to-rural-alaska",
+            "duration": "4 min",
+            "ranked": 6,
+            "epoch": 1636840820.4683452,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "‘Internet will open my eyes’ : Bringing broadband to rural Alaska",
+            "concepts": [
+                {
+                    "word": "Internet",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "eyes",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "broadband",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Alaska",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

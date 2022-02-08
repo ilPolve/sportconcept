@@ -1,0 +1,617 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "GeschÃ¤ftsfÃ¼hrende Kanzlerin Merkel und designierter Bundeskanzler Scholz fordern SolidaritÃ¤t im Kampf gegen Corona",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46055.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1638482417.908017,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "Chancellor Merkel and designated Chancellor Scholz demand solidarity in the fight against Corona",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Chancellor",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Merkel",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Chancellor",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Scholz",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "demand",
+                    "meaning": "ccomp",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "solidarity",
+                    "meaning": "dobj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "fight",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " RKI meldet 73.209 neue Corona-FÃ¤lle",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46055.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1638482417.908044,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "RKI announces 73.209 new Corona cases",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "RKI",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "cases",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Sieben-Tage-Inzidenz sinkt leicht auf 439",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46055.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1638482417.9080608,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "Seven-day incidence drops slightly to 439",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "day",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "incidence",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "2",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46055.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1638482417.9080758,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "2",
+            "en_content": "",
+            "concepts": []
+        },
+        {
+            "title": " GroÃer Zapfenstreich fÃ¼r Bundeskanzlerin Merkel",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46055.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1638482417.9080894,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "GroÃ1⁄4er Stiftstreich for Chancellor Merkel",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "GroÃ1⁄4er",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Stiftstreich",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Chancellor",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Merkel",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Bund und LÃ¤nder einigen sich auf neue Regeln im Kampf gegen Corona",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46055.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1638482417.9081018,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "Bund and LÃ1⁄4nder agree on new rules in the fight against Corona",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Bund",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "LÃ1⁄4nder",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rules",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "fight",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Kevin KÃ¼hnert wird neuer SPD-GeneralsekretÃ¤r",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46055.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1638482417.9081144,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "Kevin KÃ1⁄4hnert becomes new SPD General Secretariat",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Kevin",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "KÃ1⁄4hnert",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "SPD",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "General",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Secretariat",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Ãsterreichs Ex-Kanzler Kurz gibt RÃ¼cktritt von allen Ãmtern bekannt",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46055.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1638482417.9081264,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "Austria's Ex-Kanzler Kurz announces resignation from all over the world",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Austria",
+                    "meaning": "poss",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ex",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "-",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kanzler",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kurz",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "resignation",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "world",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Sturmtief \"Daniel\" verursacht SchÃ¤den und ZerstÃ¶rung in Norddeutschland",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46055.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1638482417.9081383,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "Storm depth \"Daniel\" causes damage and destruction in northern Germany",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Storm",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "depth",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Daniel",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "damage",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "destruction",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46055.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1638482417.90815,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "The weather",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Vaccinare i bambini: sì dell'Aifa per la fascia 5-11 anni.",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "content": " Von der Leyen chiede all'Europa di valutare l'obbligo di immunizzazione. . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1638655222.750892,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "Vaccinate the children: yes of the Aifa for the 5-11 years.",
+            "en_content": "Von der Leyen asks Europe to assess the obligation to immunize. .",
+            "concepts": [
+                {
+                    "word": "children",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Aifa",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "years",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Più di 100: i morti da covid tornano ai livelli di giugno.",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "content": " Mascherine all'aperto in molte città.  Aumentano le regioni a rischio giallo entro Natale. . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1638655222.7508967,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "More than 100: Covid deaths return to June.",
+            "en_content": "Outdoor masks in many cities. They increase regions at yellow risk by Christmas. .",
+            "concepts": [
+                {
+                    "word": "deaths",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "June",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Negazionista pentito.",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "content": " A Treviso leader della protesta cambia idea dopo essere finito in ospedale.  Facebook cancella una rete di account no vax. . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1638655222.7508986,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "Rependent Negazionist.",
+            "en_content": "In Treviso, the leader of the protest changes his mind after finishing in the hospital. Facebook deletes a no vax account network. .",
+            "concepts": [
+                {
+                    "word": "Rependent",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Negazionist",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Legge di bilancio e fisco.",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "content": " Concluse le consultazioni di Draghi con i partiti.  In arrivo una stretta sull'Imu: esenzione per una sola casa a famiglia. . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1638655222.7509003,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "Budgetary law and tax.",
+            "en_content": "He concluded the consultations of Draghi with the parties. Incoming a hold on the Imu: exemption for one family home. .",
+            "concepts": [
+                {
+                    "word": "law",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tax",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Evitare la stangata.",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "content": " Governo al lavoro per limitare l'aumento delle bollette.  Si rischiano fino a 1. 200 euro in più di spesa. . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1638655222.7509017,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "Avoid the barn.",
+            "en_content": "Government at work to limit the increase in bills. You risk up to 1. 200 euros in more expenditure. .",
+            "concepts": [
+                {
+                    "word": "barn",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Nessun dubbio.",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "content": " La commissione parlamentare d'inchiesta sulla morte di Giulio Regeni approva la relazione finale.  Il presidente Palazzotto al Gr1: \"Piena responsabilità dell'Egitto\". . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1638655222.7509036,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "No doubt.",
+            "en_content": "The parliamentary committee of inquiry on the death of Giulio Regeni approves the final report. President Palazzotto al Gr1: \"Pilent responsibility of Egypt.\" .",
+            "concepts": []
+        },
+        {
+            "title": "Nel segno dei migranti.",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "content": " Papa Francesco comincia il viaggio a Cipro e in Grecia; ai confini dell'Europa per incontrare un'umanità ferita. . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1638655222.7509053,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "In the sign of migrants.",
+            "en_content": "Pope Francis begins his journey to Cyprus and Greece; at the borders of Europe to meet a wounded humanity. .",
+            "concepts": [
+                {
+                    "word": "sign",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "migrants",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Intramontabile Clint.",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "content": " Al Torino film festival Eastwood incanta con la sua ultima opera: \"Cry macho - Ritorno a casa\". . ",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1638655222.7509067,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "Clint.",
+            "en_content": "At the Torino film festival Eastwood enchants with its latest work: \"Cry macho - I'm coming home.\" .",
+            "concepts": [
+                {
+                    "word": "Clint",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Calcio, lotta a tre.",
+            "date_raw": "December 02, 2021",
+            "date": "2021-12-02",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-02122021-a22279db-0e7f-47bd-9048-9b5e7f1272c0.html",
+            "content": " Napoli frenato dal Sassuolo, Milan e Inter sono a un passo.  Oggi Torino-Empoli e Lazio-Udinese, in diretta su Radio1. . ",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1638655222.7509081,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-02.json",
+            "en_title": "Football, three fight.",
+            "en_content": "Naples braked from Sassuolo, Milan and Inter are at one step. Today Turin-Empoli and Lazio-Udinese, live on Radio1. .",
+            "concepts": [
+                {
+                    "word": "Football",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "fight",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

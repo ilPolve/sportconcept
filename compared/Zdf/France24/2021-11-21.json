@@ -1,0 +1,187 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Mit folgenden Themen: Corona-Lage in Deutschland",
+            "date_raw": "November 21, 2021",
+            "date": "2021-11-21",
+            "url": "https://www.zdf.de/nachrichten/heute-19-uhr/211121-heute-sendung-19-uhr-100.html",
+            "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211121-heute-sendung-19-uhr-100.html",
+            "content": "Lage in Deutschland",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1637532004.0366108,
+            "language": "de",
+            "source": "Zdf",
+            "filename": "conc_en_2021-11-21.json",
+            "en_title": "With the following topics: Corona-Lage in Germany",
+            "en_content": "Location in Germany",
+            "concepts": [
+                {
+                    "word": "topics",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lage",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Heftige Proteste in den Niederlanden",
+            "date_raw": "November 21, 2021",
+            "date": "2021-11-21",
+            "url": "https://www.zdf.de/nachrichten/heute-19-uhr/211121-heute-sendung-19-uhr-100.html",
+            "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211121-heute-sendung-19-uhr-100.html",
+            "content": "",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1637532004.0366495,
+            "language": "de",
+            "source": "Zdf",
+            "filename": "conc_en_2021-11-21.json",
+            "en_title": "Voluntary protests in the Netherlands",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "protests",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Netherlands",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Radikale Maßnahmen-Gegner in Österreich",
+            "date_raw": "November 21, 2021",
+            "date": "2021-11-21",
+            "url": "https://www.zdf.de/nachrichten/heute-19-uhr/211121-heute-sendung-19-uhr-100.html",
+            "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211121-heute-sendung-19-uhr-100.html",
+            "content": "Gegner in Österreich",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1637532004.036682,
+            "language": "de",
+            "source": "Zdf",
+            "filename": "conc_en_2021-11-21.json",
+            "en_title": "Radical action opponents in Austria",
+            "en_content": "Opponents in Austria",
+            "concepts": [
+                {
+                    "word": "action",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "opponents",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Austria",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "weiteren Nachrichten, dem Sport und dem Wetter.",
+            "date_raw": "November 21, 2021",
+            "date": "2021-11-21",
+            "url": "https://www.zdf.de/nachrichten/heute-19-uhr/211121-heute-sendung-19-uhr-100.html",
+            "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211121-heute-sendung-19-uhr-100.html",
+            "content": "",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1637532004.0367043,
+            "language": "de",
+            "source": "Zdf",
+            "filename": "conc_en_2021-11-21.json",
+            "en_title": "further news, sport and weather.",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "news",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sport",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "weather",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Sudan political transition : Hamdok, Burhan sign political agreement, PM reinstated",
+            "date_raw": "November 21, 2021",
+            "date": "2021-11-21",
+            "url": "https://www.france24.com/en/archives/2021/11/21-November-2021",
+            "news_url": "https://www.france24.com/en/video/20211121-sudan-political-transition-hamdok-burhan-sign-political-agreement-pm-reinstated",
+            "content": "",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1637532014.8450966,
+            "language": "en",
+            "source": "France24",
+            "filename": "conc_en_2021-11-21.json",
+            "en_title": "Sudan political transition : Hamdok, Burhan sign political agreement, PM reinstated",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Sudan",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "transition",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Hamdok",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Burhan",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "agreement",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "PM",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ]
+}

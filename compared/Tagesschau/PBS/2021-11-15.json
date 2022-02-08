@@ -1,0 +1,755 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Steigende Corona-Zahlen erhÃ¶hen Druck auf potentielle Ampel-Koalition",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45785.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1637013620.2958713,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "Increased corona numbers increase pressure on potential traffic light coalition",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "numbers",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "pressure",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "traffic",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "light",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "coalition",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Sieben-Tage-Inzidenz liegt laut RKI bei 303",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45785.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1637013620.295897,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "According to RKI, seven-day incidence is 303",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "RKI",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "day",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "incidence",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": " Mehrere BundeslÃ¤nder fÃ¼hren flÃ¤chendeckende 2G-Regelung ein",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45785.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1637013620.2959132,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "A number of federal states for two-way-covering 2G regulations",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "number",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "states",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "way",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "G",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "regulations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Lockdown fÃ¼r Ungeimpfte in Ãsterreich",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45785.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1637013620.295927,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "Lockdown for vaccinations in Austria",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Lockdown",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "vaccinations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Austria",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " EU-AuÃenminister weiten Sanktionen gegen Belarus aus",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45785.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1637013620.295943,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "EU Foreign Minister wide sanctions against Belarus",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "EU",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Foreign",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Minister",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sanctions",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Belarus",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Terrorstufe in GroÃbritannien nach Explosion eines Taxis wieder aufgehoben",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45785.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1637013620.2959552,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "Terrorism in Great Britain after an explosion of a taxi",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Terrorism",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Great",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Britain",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "explosion",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "taxi",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Ampel-Parteien starten in entscheidende Runde der Koalitionsverhandlungen",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45785.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1637013620.2959673,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "Ampel Parties launch in decisive round of coalition negotiations",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Ampel",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Parties",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "round",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "coalition",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "negotiations",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Friedrich Merz kandidiert erneut fÃ¼r den CDU-Vorsitz",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45785.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1637013620.2959797,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "Friedrich Merz is once again a candidate for the CDU Presidency",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Friedrich",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Merz",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "candidate",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "CDU",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Presidency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Mecklenburg-Vorpommerns MinisterprÃ¤sidentin Schwesig fÃ¼r zweite Amtszeit vereidigt",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45785.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1637013620.2959986,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "Mecklenburg-Vorpommerns Minister President Schwesig for second term",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Mecklenburg",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Vorpommerns",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Minister",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "President",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Schwesig",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "term",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45785.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1637013620.2960174,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "The weather",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "The historic investments in the new infrastructure law and how they could affect inflation",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.pbs.org/newshour/show/november-15-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/the-historic-investments-in-the-new-infrastructure-law-and-how-they-could-affect-inflation",
+            "duration": "6 min",
+            "ranked": 0,
+            "epoch": 1637100011.5984042,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "The historic investments in the new infrastructure law and how they could affect inflation",
+            "concepts": [
+                {
+                    "word": "investments",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "infrastructure",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "law",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "inflation",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "2 mayors on how and when new infrastructure law will help their cities",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.pbs.org/newshour/show/november-15-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/2-mayors-on-how-and-when-new-infrastructure-law-will-help-their-cities",
+            "duration": "8 min",
+            "ranked": 1,
+            "epoch": 1637100011.5984128,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "2 mayors on how and when new infrastructure law will help their cities",
+            "concepts": [
+                {
+                    "word": "mayors",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "infrastructure",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "law",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cities",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "News Wrap: Trump ally Steve Bannon appears in court on contempt charges",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.pbs.org/newshour/show/november-15-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-trump-ally-steve-bannon-appears-in-court-on-contempt-charges",
+            "duration": "6 min",
+            "ranked": 2,
+            "epoch": 1637100011.5984142,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "News Wrap: Trump ally Steve Bannon appears in court on contempt charges",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Trump",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ally",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Steve",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bannon",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "court",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "contempt",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "charges",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "What we know about a 2019 U.S. airstrike in Syria and its alleged cover-up",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.pbs.org/newshour/show/november-15-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/what-we-know-about-a-2019-u-s-airstrike-in-syria-and-its-alleged-cover-up",
+            "duration": "6 min",
+            "ranked": 3,
+            "epoch": 1637100011.598415,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "What we know about a 2019 U.S. airstrike in Syria and its alleged cover-up",
+            "concepts": [
+                {
+                    "word": "U.S.",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "airstrike",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Syria",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "cover",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "up",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "After decades in prison, finding new life mentoring at-risk youth",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.pbs.org/newshour/show/november-15-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/former-felons-imprisoned-as-teens-help-mentor-at-risk-youth",
+            "duration": "8 min",
+            "ranked": 4,
+            "epoch": 1637100011.5984156,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "After decades in prison, finding new life mentoring at-risk youth",
+            "concepts": [
+                {
+                    "word": "decades",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "life",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "risk",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "youth",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Tamara Keith and Lisa Lerer on infrastructure law, Bannon indictment, Leahy retirement",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.pbs.org/newshour/show/november-15-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/tamara-keith-and-lisa-lerer-on-infrastructure-law-bannon-indictment-leahy-retirement",
+            "duration": "8 min",
+            "ranked": 5,
+            "epoch": 1637100011.5984163,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "Tamara Keith and Lisa Lerer on infrastructure law, Bannon indictment, Leahy retirement",
+            "concepts": [
+                {
+                    "word": "Tamara",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Keith",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lisa",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lerer",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "infrastructure",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "law",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Bannon",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "indictment",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Leahy",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "retirement",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "What undecided parents need to know about the COVID vaccine for kids",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.pbs.org/newshour/show/november-15-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/what-undecided-parents-need-to-know-about-the-covid-vaccine-for-kids",
+            "duration": "5 min",
+            "ranked": 6,
+            "epoch": 1637100011.5984218,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "What undecided parents need to know about the COVID vaccine for kids",
+            "concepts": [
+                {
+                    "word": "parents",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "COVID",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "kids",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Journalist Andrea Elliott’s Brief But Spectacular take on seeing the unseen",
+            "date_raw": "November 15, 2021",
+            "date": "2021-11-15",
+            "url": "https://www.pbs.org/newshour/show/november-15-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/journalist-andrea-elliotts-brief-but-spectacular-take-on-seeing-the-unseen",
+            "duration": "4 min",
+            "ranked": 7,
+            "epoch": 1637100011.5984225,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-15.json",
+            "en_title": "Journalist Andrea Elliott’s Brief But Spectacular take on seeing the unseen",
+            "concepts": [
+                {
+                    "word": "Journalist",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Andrea",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Elliott",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Brief",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Spectacular",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        }
+    ]
+}

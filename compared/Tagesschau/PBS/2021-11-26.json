@@ -1,0 +1,703 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Gesundheitsminister Spahn und RKI-Chef Wieler fordern mehr Tempo beim Impfen und neue Kontaktbeschränkungen wegen steigenden Corona-Zahlen",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45973.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1637964015.4878194,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "Health Minister Spahn and RKI CEO Wieler are demanding more tempo in vaccination and new contact restrictions due to increasing corona numbers",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Health",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Minister",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Spahn",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "RKI",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "CEO",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wieler",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "tempo",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "vaccination",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "contact",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "restrictions",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "numbers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " RKI meldet 76.414 Neuinfektionen",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45973.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1637964015.487845,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "RKI reports 76,414 new infections",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "RKI",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "infections",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Sieben-Tage-Inzidenz steigt auf über 438",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45973.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1637964015.4878614,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "Seven-day incidence rises to over 438",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "day",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "incidence",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Neue Virusvariante aus Südafrika in Belgien nachgewiesen",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45973.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1637964015.4878793,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "New Viru variant from South Africa detected in Belgium",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "New",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Viru",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "variant",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "South",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Africa",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Belgium",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Die Grünen einigen sich auf Verteilung der Ministerposten",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45973.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1637964015.4878917,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "The Greens agree on the distribution of ministerial posts",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Greens",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "distribution",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "posts",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Bundesrat stimmt Katastrophenwarnung per Cell Broadcast zu",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45973.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1637964015.4879043,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "Bundesrat agrees catastrophe warning via Cell Broadcast",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Bundesrat",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "catastrophe",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Cell",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Broadcast",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Scharfe Töne zwischen Großbritannien und Frankreich im Flüchtlingsstreit am Ärmelkanal",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45973.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1637964015.4879167,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "Sharp tones between Britain and France in the refugee dispute on the Channel",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "tones",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Britain",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "France",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "refugee",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "dispute",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Channel",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Prozess in der Türkei: Menschenrechtler Kavala bleibt in Haft",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45973.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1637964015.4879289,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "Process in Turkey: Human rights activist Kavala remains in custody",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Process",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Turkey",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "rights",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "activist",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kavala",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "custody",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " WM-Qualifikation im Frauenfußball: Deutschland schlägt Türkei mit 8:0",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45973.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1637964015.487941,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "World Cup Qualification in Women's Football: Germany beats Turkey with 8:0",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cup",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Qualification",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Women",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Football",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Turkey",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45973.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1637964015.4879527,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "The weather",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Alarm grows after emergence of new omicron COVID-19 variant. Here’s what you need to know",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.pbs.org/newshour/show/november-26-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/alarm-grows-after-emergence-of-new-omicron-covid-19-variant-heres-what-you-need-to-know",
+            "duration": "10 min",
+            "ranked": 0,
+            "epoch": 1638050412.4950812,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "Alarm grows after emergence of new omicron COVID-19 variant. Here’s what you need to know",
+            "concepts": [
+                {
+                    "word": "Alarm",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "emergence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "omicron",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "COVID-19",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "variant",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "News Wrap: Ukraine president implicates Russia in plot to overthrow the government",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.pbs.org/newshour/show/november-26-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/news-wrap-ukraine-president-implicates-russia-in-plot-to-overthrow-the-government",
+            "duration": "5 min",
+            "ranked": 1,
+            "epoch": 1638050412.4950893,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "News Wrap: Ukraine president implicates Russia in plot to overthrow the government",
+            "concepts": [
+                {
+                    "word": "News",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Wrap",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "president",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Russia",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "plot",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "government",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Why dozens of men spent most of their lives in prison after Louisiana reneged on plea deal",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.pbs.org/newshour/show/november-26-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/why-louisianas-longest-serving-inmates-remain-locked-up-after-state-reneged-on-plea-agreement",
+            "duration": "7 min",
+            "ranked": 2,
+            "epoch": 1638050412.4950907,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "Why dozens of men spent most of their lives in prison after Louisiana reneged on plea deal",
+            "concepts": [
+                {
+                    "word": "dozens",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "men",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "lives",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Louisiana",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "plea",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "deal",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Unrelenting drought leaves millions who rely on Colorado River facing an uncertain future",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.pbs.org/newshour/show/november-26-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/unrelenting-drought-leaves-millions-who-rely-on-colorado-river-facing-an-uncertain-future",
+            "duration": "7 min",
+            "ranked": 3,
+            "epoch": 1638050412.4950917,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "Unrelenting drought leaves millions who rely on Colorado River facing an uncertain future",
+            "concepts": [
+                {
+                    "word": "drought",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "millions",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Colorado",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "River",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "future",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Brooks and Capehart on new COVID-19 variant, inflation, Ahmaud Arbery verdict",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.pbs.org/newshour/show/november-26-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-new-covid-19-variant-inflation-ahmaud-arbery-verdict",
+            "duration": "12 min",
+            "ranked": 4,
+            "epoch": 1638050412.4950924,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "Brooks and Capehart on new COVID-19 variant, inflation, Ahmaud Arbery verdict",
+            "concepts": [
+                {
+                    "word": "Brooks",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Capehart",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "COVID-19",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "variant",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "inflation",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Ahmaud",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Arbery",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "verdict",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Remembering the life and legacy of Stephen Sondheim, a giant in musical theater",
+            "date_raw": "November 26, 2021",
+            "date": "2021-11-26",
+            "url": "https://www.pbs.org/newshour/show/november-26-2021-pbs-newshour-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/stephen-sondheim-a-giant-in-musical-theater-dies-at-91",
+            "duration": "11 min",
+            "ranked": 5,
+            "epoch": 1638050412.4950933,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-26.json",
+            "en_title": "Remembering the life and legacy of Stephen Sondheim, a giant in musical theater",
+            "concepts": [
+                {
+                    "word": "life",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "legacy",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Stephen",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Sondheim",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "giant",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "theater",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

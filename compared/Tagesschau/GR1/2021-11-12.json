@@ -1,0 +1,614 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Corona-Lage spitzt sich zu: Es sollen wieder kostenlose Corona-Tests angeboten werden",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45747.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1636754417.9838672,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Corona-Lage joins: Free Corona tests are to be offered again",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lage",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Free",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tests",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": " 7-Tage-Inzidenz steigt auf 263",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45747.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1636754417.983897,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "7-day incidence rises to 263",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "day",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "incidence",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "7 und es gibt 48.640 Neuinfektionen",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45747.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1636754417.9839137,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "7 and there are 48,640 new infections",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "infections",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": " Österreich und einige osteuropäische Länder werden als Hochrisikogebiete eingestuft",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45747.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1636754417.9839277,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Austria and some Eastern European countries are classified as high risk areas",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Austria",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "risk",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "areas",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Letzter offizieller Tag des UN-Klimagipfels in Glasgow: Gemeinsame Abschlusserklärung steht noch aus",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45747.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1636754417.983941,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Last official day of the UN Climate Summit in Glasgow: Joint Declaration is still pending",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "day",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "UN",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Climate",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Summit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Glasgow",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Joint",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Declaration",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Türkei und Irak untersagen Reisende aus dem Nahen Osten den Weiterflug nach Belarus",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45747.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1636754417.9839542,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Turkey and Iraq prevent Middle East travellers from continuing to Belarus",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Turkey",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Iraq",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Middle",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "East",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "travellers",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Belarus",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Außenpolitiker Röttgen und Kanzleramtsminister Braun kündigen Bewerbung als CDU-Vorsitzender an",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45747.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1636754417.9839664,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Foreign Policyr Röttgen and Chancellor's Minister Braun announce application as CDU Chairman",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Foreign",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Policyr",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Röttgen",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Chancellor",
+                    "meaning": "poss",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Minister",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Braun",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "announce",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "application",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "CDU",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Chairman",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Deutsche Bank-Vorstandssprecher Hilmar Kopper im Alter von 86 Jahren gestorben",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45747.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1636754417.9839787,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Deutsche Bank Chairman Hilmar Kopper died at the age of 86",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Deutsche",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bank",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Chairman",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hilmar",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kopper",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "age",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-45747.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1636754417.9839902,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "The weather",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Quirinale, Mattarella allontana il bis.",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "content": " \"Anche Leone - come Segni - chiese la non rieleggibilità del presidente della Repubblica con la conseguente eliminazione del semestre bianco\".  . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1636927222.3369153,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Quirinale, Mattarella pushes the bis away.",
+            "en_content": "\"Even Leo - as Segni - demanded the non-reliability of the President of the Republic with the consequent elimination of the white semester\". .",
+            "concepts": [
+                {
+                    "word": "Quirinale",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Mattarella",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Draghi ai sindaci: \"il successo del piano di rilancio è nelle vostre mani, solo insieme riusciremo a realizzarlo\".",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "content": " Oggi il premier a Parigi per la Conferenza sulla Libia.  . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1636927222.3369222,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Dragons to the mayors: \"the success of the relaunch plan is in your hands, only together we will be able to achieve it.\"",
+            "en_content": "Today the premier in Paris for the Libyan Conference. .",
+            "concepts": [
+                {
+                    "word": "Dragons",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "mayors",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "success",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "relaunch",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "plan",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "hands",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Economia, vola il Pil dell'Italia, al 6,2 per cento.",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "content": " Lo dicono le stime della Commissione Europea.  Manovra, il capo dello Stato firma il ddl.  Da martedì l'esame del Senato.  . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1636927222.3369246,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Economy, Italy's GDP flies, at 6.2 percent.",
+            "en_content": "The estimates of the European Commission say so. Manovra, the head of state signs the ddl. Since Tuesday the Senate exam. .",
+            "concepts": [
+                {
+                    "word": "Economy",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "poss",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "GDP",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "percent",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "No Green Pass.",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "content": " Domani le prime manifestazioni con le nuove regole.  Lamorgese al Gr1: bilanciati i diritti di tutti, ma si rispettino tutela della salute e ordine pubblico.    . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1636927222.3369267,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "No Green Pass.",
+            "en_content": "Tomorrow the first events with the new rules. Lamorgese al Gr1: balanced the rights of all, but respect health and public order. .",
+            "concepts": [
+                {
+                    "word": "Green",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Pass",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Covid, contagi in aumento.",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "content": " Sotto osservazione Veneto e Lombardia.  Occhi puntati su campagna vaccinale e nuove terapie antivirus.  In Europa, preoccupano Germania e Olanda.  . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1636927222.336929,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Covid, you count up.",
+            "en_content": "Under observation Veneto and Lombardy. Eyes targeted on vaccination campaign and new antivirus therapies. In Europe, Germany and the Netherlands are concerned. .",
+            "concepts": [
+                {
+                    "word": "Covid",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Meghan la bugiarda.",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "content": " La duchessa del Sussex ammette: ho detto il falso.  Ora rischia l'incriminazione per spergiuro nel processo d'appello al giornale inglese Daily Mail.  . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1636927222.3369308,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Meghan the liar.",
+            "en_content": "Sussex Duchess admits: I said the fake. He is now risking perjury in the appeal process to the English newspaper Daily Mail. .",
+            "concepts": [
+                {
+                    "word": "Meghan",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "liar",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Tutti i Rossi d'Italia.",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "content": " Ultimo week end di gara per il dottore Valentino, leggenda del moto gp.  E invece nella musica, altro che addio con Blasco! Siamo qui: oggi l'album di inediti del Komandante.  . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1636927222.336933,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "All the Reds of Italy.",
+            "en_content": "Last weekend of race for the doctor Valentino, legend of the bike gp. And in music, nothing but goodbye with Blasco! We are here: today Komandante's unreleased album. .",
+            "concepts": [
+                {
+                    "word": "Reds",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Italy",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Calcio.",
+            "date_raw": "November 12, 2021",
+            "date": "2021-11-12",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-954b912d-32c2-4b61-9bb7-8703fb150aaa.html",
+            "content": " Nazionale, una notte mondiale.  Stasera all'Olimpico contro la Svizzera spareggio per la qualificazione diretta ai mondiali 2022.  Diretta sulla nostra rete. . ",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1636927222.3369348,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-12.json",
+            "en_title": "Football.",
+            "en_content": "National, a world night. Tonight at the Olimpico against Switzerland for the direct qualification at the 2022 World Cup. Directed on our network. .",
+            "concepts": [
+                {
+                    "word": "Football",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

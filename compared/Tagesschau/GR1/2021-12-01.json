@@ -1,0 +1,620 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Bund und Länder planen schärfere Corona-Regeln",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46041.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1638396017.7199275,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "Bund and countries plan sharper Corona rules",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Bund",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Weiter hohe Zahlen bei Neuinfektionen und Toten",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46041.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1638396017.7199636,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "Further high numbers for new infections and dead",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "numbers",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "infections",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " In einzelnen Bundesländer gelten bereits strengere Corona-Maßnahmen",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46041.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1638396017.719981,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "More stringent Corona measures are already applied in individual Länder",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "measures",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Länder",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Kandidaten für CDU-Vorsitz stellen sich Parteimitgliedern in einer \"Townhall\"-Veranstaltung",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46041.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1638396017.719996,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "Candidates for CDU Presidency are party members in a \"Townhall\" event",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Candidates",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "CDU",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Presidency",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "party",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "members",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Townhall",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "event",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Neues Telekommunikationsgesetz stärkt Verbraucherrechte",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46041.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1638396017.7200098,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "New telecommunications law strengthens consumer rights",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "telecommunications",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "law",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "consumer",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rights",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Alternativer Nobelpreis in Stockholm verliehen",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46041.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1638396017.7200234,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "Alternative Nobel Prize awarded in Stockholm",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Nobel",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Prize",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Stockholm",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Hass-Beiträge im Netz in 2020 um 70 Prozent gestiegen",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46041.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1638396017.7200358,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "Hassan contributions in the network increased by 70 percent in 2020",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Hassan",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "contributions",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "network",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "percent",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Trier gedenkt Opfern der Amokfahrt vor einem Jahr",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46041.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1638396017.7200482,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "Trier thinks victims of the Amokfahrt a year ago",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Trier",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "victims",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Amokfahrt",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "year",
+                    "meaning": "npadvmod",
+                    "pos": "ADV"
+                }
+            ]
+        },
+        {
+            "title": " Verletzte bei Explosion einer Fliegerbombe aus dem Zweiten Weltkrieg in München",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46041.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1638396017.7200603,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "Injured in an explosion of a flying bomb from World War II in Munich",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "explosion",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "bomb",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "War",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "II",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Munich",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Die Lottozahlen",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46041.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1638396017.7200727,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "The lottery numbers",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "lottery",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "numbers",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46041.html",
+            "content": "",
+            "ranked": "10",
+            "epoch": 1638396017.7200844,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "The weather",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Due settimane per studiare Omicron.",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "content": " L'Ema: corsa contro il tempo sulla variante.  Sprint per i vaccini: volano le prime e le terze dosi.  Gli esperti: i richiami unica arma. . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1638568821.2848577,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "Two weeks to study Omicron.",
+            "en_content": "L'Ema: race against time on the variant. Sprint for vaccines: the first and third doses fly. Experts: the only weapon calls. .",
+            "concepts": [
+                {
+                    "word": "weeks",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Omicron",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "\"Priorità assoluta le lezioni in presenza\".",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "content": " Chiarimento del Governo sulla scuola: dai 6 anni in su niente dad con un solo contagiato in classe.  Intensificati i test negli Istituti. . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1638568821.2848637,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "\"Priority absolute lessons in the presence\".",
+            "en_content": "Government clarification on school: from 6 years on, no dad with a single classmate. Intensified testing in institutes. .",
+            "concepts": [
+                {
+                    "word": "Priority",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "lessons",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "presence",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Sindaci in prima linea con nuove ordinanze, sale la curva dei positivi.",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "content": " Anche l'Alto Adige passa in giallo.  L'Aifa decide sull'immunizzazione degli under 12. . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1638568821.2848659,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "Mayors in the front line with new ordinances, climb the positive curve.",
+            "en_content": "South Tyrol also passes in yellow. The Aifa decides on the immunization of under 12. .",
+            "concepts": [
+                {
+                    "word": "Mayors",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "line",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "ordinances",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "curve",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Germania come l'Austria: si va verso l'obbligo vaccinale.",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "content": " Ospedali in affanno: probabile il trasferimento di malati anche in Italia.  . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1638568821.2848675,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "Germany like Austria: we go towards the vaccination obligation.",
+            "en_content": "Hospitals in affanno: probably the transfer of patients also in Italy. .",
+            "concepts": [
+                {
+                    "word": "Germany",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Austria",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "vaccination",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "obligation",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Un patto sociale per la crescita del Paese.",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "content": " Draghi: cooperazione costante tra industria, istituzioni e sindacati per affrontare le prossime sfide.  Il premier conclude le consultazioni sulla legge di bilancio.  . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1638568821.2848694,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "A social pact for the country's growth.",
+            "en_content": "Dragons: constant cooperation between industry, institutions and unions to face the next challenges. The premier concludes consultations on budgetary law. .",
+            "concepts": [
+                {
+                    "word": "pact",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "country",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "growth",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Da funivia a minibus a guida autonoma.",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "content": " Primo test a Vipiteno per il rivoluzionario mezzo progettato nel nostro Paese. . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1638568821.284871,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "From cable car to self-guided minibus.",
+            "en_content": "First test in Vipiteno for the revolutionary medium designed in our country. .",
+            "concepts": [
+                {
+                    "word": "cable",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "car",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "self",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "minibus",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "L'ultima gara.",
+            "date_raw": "December 01, 2021",
+            "date": "2021-12-01",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR1-ore-8-del-01122021-9b90b9e2-d361-4e7c-892d-71e43a351d0b.html",
+            "content": " Federica Pellegrini lascia il nuoto.  A Riccione show finale di una grande carriera.  Il Presidente del Coni Malagò si tuffa in vasca vestito. . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1638568821.284873,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-12-01.json",
+            "en_title": "The last race.",
+            "en_content": "Federica Pellegrini leaves swimming. In Riccione final show of a great career. The President of the Coni Malagò dives in a bath. .",
+            "concepts": [
+                {
+                    "word": "race",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,717 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Deuxième jour consécutif d'interruption de la ligne CFF Lausanne-Genève",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777653.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/deuxieme-jour-consecutif-d-interruption-de-la-ligne-cff-lausanne-geneve-25777635.html",
+            "duration": "02:07",
+            "ranked": 0,
+            "epoch": 1637186410.518786,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "Second consecutive day of interruption of the line CFF Lausanne-Genève",
+            "concepts": [
+                {
+                    "word": "day",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "interruption",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "line",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "CFF",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lausanne",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Genève",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Le Conseil fédéral propose de simplifier les procédures afin de créer davantage de zones 30 km/h",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777653.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-conseil-federal-propose-de-simplifier-les-procedures-afin-de-creer-davantage-de-zones-30-km-h-25777636.html",
+            "duration": "01:55",
+            "ranked": 1,
+            "epoch": 1637186410.5187953,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "The Federal Council proposes to streamline procedures to create more zones 30 km/h",
+            "concepts": [
+                {
+                    "word": "Federal",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "procedures",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "zones",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "km",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "h",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Retard de versement des rentes AVS à Genève: interview de Thierry Apothéloz",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777653.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/retard-de-versement-des-rentes-avs-a-geneve-interview-de-thierry-apotheloz-25777638.html",
+            "duration": "04:07",
+            "ranked": 2,
+            "epoch": 1637186410.5188024,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "AVS rent payment in Geneva: interview with Thierry Apothéloz",
+            "concepts": [
+                {
+                    "word": "AVS",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "payment",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Geneva",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "interview",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Thierry",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Apothéloz",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le taux journalier de contamination au Covid-19 atteint des records en Allemagne",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777653.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-taux-journalier-de-contamination-au-covid-19-atteint-des-records-en-allemagne-25777641.html",
+            "duration": "02:19",
+            "ranked": 3,
+            "epoch": 1637186410.518804,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "The daily rate of contamination at the Covid-19 reaches records in Germany",
+            "concepts": [
+                {
+                    "word": "rate",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "contamination",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Covid-19",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "records",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Germany",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "L'entreprise de livraison de repas Smood conteste les critiques formulées par ses livreurs",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777653.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-entreprise-de-livraison-de-repas-smood-conteste-les-critiques-formulees-par-ses-livreurs-25777639.html",
+            "duration": "01:42",
+            "ranked": 4,
+            "epoch": 1637186410.5188057,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "The Smood food delivery company contests the critics formulated by its deliverers",
+            "concepts": [
+                {
+                    "word": "Smood",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "food",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "delivery",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "company",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "critics",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "deliverers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Obtenir un visa pour les Etats-Unis lorsqu'on est russe, une opération difficile",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777653.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/obtenir-un-visa-pour-les-etats-unis-lorsqu-on-est-russe-une-operation-difficile-25777642.html",
+            "duration": "01:55",
+            "ranked": 5,
+            "epoch": 1637186410.518807,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "Getting a visa for the United States when you are Russian, a difficult operation",
+            "concepts": [
+                {
+                    "word": "visa",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "States",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "operation",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Mort de Frederik de Klerk, dernier président blanc d'Afrique du Sud",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777653.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/mort-de-frederik-de-klerk-dernier-president-blanc-d-afrique-du-sud-25777647.html",
+            "duration": "00:13",
+            "ranked": 6,
+            "epoch": 1637186410.5188084,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "Death of Frederik of Klerk, last white president of South Africa",
+            "concepts": [
+                {
+                    "word": "Death",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Frederik",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Klerk",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "president",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "South",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Africa",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La jeunesse dénonce les engagements insuffisants pris lors de la COP26 à Glasgow",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777653.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-jeunesse-denonce-les-engagements-insuffisants-pris-lors-de-la-cop26-a-glasgow-25777650.html",
+            "duration": "03:13",
+            "ranked": 7,
+            "epoch": 1637186410.5188096,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "Youth denounces the insufficient commitments made at COP26 in Glasgow",
+            "concepts": [
+                {
+                    "word": "Youth",
+                    "meaning": "compound",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "commitments",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "COP26",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Glasgow",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "L'invitée du 12h30 - Flèche Love présente son nouvel album \"Naga Pt. II\"",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-agathe-birden-25777653.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invitee-du-12h30-fleche-love-presente-son-nouvel-album-naga-pt-ii-25777657.html",
+            "duration": "08:33",
+            "ranked": 8,
+            "epoch": 1637186410.5188112,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "L'invitée du 12h30 - Flèche Love presents her new album \"Naga Pt. II\"",
+            "concepts": [
+                {
+                    "word": "L'invitée",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "du",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Flèche",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Love",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "album",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Naga",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Pt",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "II",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Vaccini, Speranza: dal primo dicembre terza dose per la fascia 40-60 anni.",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "content": " Salgono contagi e ricoveri.  Boom di casi in Germania.  . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1636754422.8739078,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "Vaccini, Hope: from the first December third dose for the 40-60 years.",
+            "en_content": "They save counts and hospitals. Boom of cases in Germany. .",
+            "concepts": [
+                {
+                    "word": "Vaccini",
+                    "meaning": "dep",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Hope",
+                    "meaning": "dep",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "December",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "third",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "dose",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "years",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Lo stop del Viminale alle manifestazioni no pass e no vax nelle aree sensibili delle città.",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "content": " Lamorgese: \"Bilanciare i diritti di tutti\". . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1636754422.8739288,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "The stop of the Viminale to the events no pass and no vax in the sensitive areas of the cities.",
+            "en_content": "Lamorgese: \"Free the rights of all.\" .",
+            "concepts": [
+                {
+                    "word": "stop",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Viminale",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "events",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "pass",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vax",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "areas",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "cities",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Mattarella: il piano di rilancio e resilienza, occasione storica.",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "content": " Al centro donne e giovani.  Il lavoro riparte, ma ridurre precarietà e sfruttamento. . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1636754422.873932,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "Mattarella: the plan of relaunch and resilience, historical occasion.",
+            "en_content": "At the center of women and young people. Work starts again, but reduces precariousness and exploitation. .",
+            "concepts": [
+                {
+                    "word": "Mattarella",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "plan",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "relaunch",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "resilience",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "occasion",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "La manovra verso il Parlamento.",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "content": " Stretta anti frodi sul superbonus edilizio.  Draghi: il coraggio delle riforme contro il non governo.  . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1636754422.873934,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "The manoeuvre towards Parliament.",
+            "en_content": "Anti-fraud stop on the building superbonus. Dragons: the courage of reforms against non-government. .",
+            "concepts": [
+                {
+                    "word": "manoeuvre",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Parliament",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Clima, a Glasgow annunciato un accordo Stati Uniti/Cina.",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "content": " Impegno comune Biden/Xi sulla riduzione delle emissioni.  . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1636754422.8739367,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "Climate in Glasgow announced a US/China agreement.",
+            "en_content": "Biden/Xi joint commitment on emissions reduction. .",
+            "concepts": [
+                {
+                    "word": "Climate",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Glasgow",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "US",
+                    "meaning": "nmod",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "China",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "agreement",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Maltempo, allerta in Sicilia.",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "content": " Il prefetto di Agrigento ai cittadini: gravi rischi, restate a casa.  Temporali e vento anche in Calabria e Lazio.  . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1636754422.8739393,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "Bad weather, alert in Sicily.",
+            "en_content": "The prefect of Agrigento to citizens: serious risks, stay at home. Temporal and wind also in Calabria and Lazio. .",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "nsubj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "alert",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Sicily",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Crisi dei migranti tra Polonia e Bielorussia, oggi la riunione urgente del Consiglio di sicurezza ONU.",
+            "date_raw": "November 11, 2021",
+            "date": "2021-11-11",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-d58212ac-7400-432d-ae81-d0cc1d859a5e.html",
+            "content": " Al Gr1 le testimonianze dei profughi ammassati alla frontiera. . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1636754422.873945,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-11.json",
+            "en_title": "Crisis of migrants between Poland and Belarus, today the urgent meeting of the UN Security Council.",
+            "en_content": "At the Gr1 the testimonies of the refugees massed at the frontier. .",
+            "concepts": [
+                {
+                    "word": "Crisis",
+                    "meaning": "dep",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "migrants",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Poland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Belarus",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "today",
+                    "meaning": "npadvmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "meeting",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "UN",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Security",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}

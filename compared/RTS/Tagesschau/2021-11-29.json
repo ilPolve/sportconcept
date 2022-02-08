@@ -1,0 +1,837 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Face à la menace du nouveau variant Omicron, plusieurs pays veulent refermer leurs frontières",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25782378.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/face-a-la-menace-du-nouveau-variant-omicron-plusieurs-pays-veulent-refermer-leurs-frontieres-25782381.html",
+            "duration": "01:35",
+            "ranked": 0,
+            "epoch": 1638741608.7946606,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "Faced with the threat of the new Omicron variant, several countries want to close their borders",
+            "concepts": [
+                {
+                    "word": "threat",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Omicron",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "variant",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "borders",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La Suisse durcit les conditions d'entrée pour les voyageurs en provenance de nombreux pays",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25782378.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suisse-durcit-les-conditions-d-entree-pour-les-voyageurs-en-provenance-de-nombreux-pays-25782393.html",
+            "duration": "01:25",
+            "ranked": 1,
+            "epoch": 1638741608.7946684,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "Switzerland hardens the entry conditions for travellers from many countries",
+            "concepts": [
+                {
+                    "word": "Switzerland",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hardens",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "entry",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "conditions",
+                    "meaning": "dobj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "travellers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "countries",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "L’OMS réunie à Genève veut lancer la rédaction d'un traité sur les pandémies",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25782378.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-oms-reunie-a-geneve-veut-lancer-la-redaction-d-un-traite-sur-les-pandemies-25782387.html",
+            "duration": "01:18",
+            "ranked": 2,
+            "epoch": 1638741608.7946699,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "WHO in Geneva wants to launch the drafting of a pandemic treaty",
+            "concepts": [
+                {
+                    "word": "Geneva",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "drafting",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "treaty",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le contournement de La Chaux-de-Fonds accepté dans les urnes, mais des oppositions subsistent",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25782378.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-contournement-de-la-chaux-de-fonds-accepte-dans-les-urnes-mais-des-oppositions-subsistent-25782396.html",
+            "duration": "01:57",
+            "ranked": 3,
+            "epoch": 1638741608.7946708,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "The contouring of La Chaux-de-Fonds accepted in the urns, but oppositions persist",
+            "concepts": [
+                {
+                    "word": "contouring",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Chaux",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "de",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Fonds",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "urns",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "oppositions",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Par rapport à juin, 10% de plus de Suisses et Suissesses ont dit oui à la loi Covid: interview de Sean Müller",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25782378.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/par-rapport-a-juin-10-de-plus-de-suisses-et-suissesses-ont-dit-oui-a-la-loi-covid-interview-de-sean-muller-25782383.html",
+            "duration": "03:43",
+            "ranked": 4,
+            "epoch": 1638741608.7946715,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "Compared to June, 10% more Swiss and Swiss said yes to Covid law: interview with Sean Müller",
+            "concepts": [
+                {
+                    "word": "June",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "%",
+                    "meaning": "npadvmod",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "Swiss",
+                    "meaning": "conj",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "Covid",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "law",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sean",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Müller",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La socialiste Lise-Marie Graden, première préfète dans le canton de Fribourg",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25782378.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-socialiste-lise-marie-graden-premiere-prefete-dans-le-canton-de-fribourg-25782386.html",
+            "duration": "01:43",
+            "ranked": 5,
+            "epoch": 1638741608.7946727,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "The socialist Lise-Marie Graden, first prefect in the canton of Fribourg",
+            "concepts": [
+                {
+                    "word": "Lise",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Marie",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Graden",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "prefect",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "canton",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Fribourg",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Irène Kälin accède au perchoir du Conseil national à 34 ans",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25782378.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/irene-kalin-accede-au-perchoir-du-conseil-national-a-34-ans-25782392.html",
+            "duration": "02:16",
+            "ranked": 6,
+            "epoch": 1638741608.7946734,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "Irène Kälin accesses the National Council perch at age 34",
+            "concepts": [
+                {
+                    "word": "Irène",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kälin",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "National",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Council",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "perch",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "age",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La CGN tire un bilan mitigé de son premier semestre d'activité en 2021",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25782378.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-cgn-tire-un-bilan-mitige-de-son-premier-semestre-d-activite-en-2021-25782395.html",
+            "duration": "01:31",
+            "ranked": 7,
+            "epoch": 1638741608.7946742,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "The NGC takes a mixed assessment of its first semester of activity in 2021",
+            "concepts": [
+                {
+                    "word": "NGC",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "assessment",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "semester",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "activity",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le Parlement indien retire deux lois agricoles controversées",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25782378.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-parlement-indien-retire-deux-lois-agricoles-controversees-25782389.html",
+            "duration": "01:47",
+            "ranked": 8,
+            "epoch": 1638741608.7946749,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "The Indian Parliament withdraws two controversial agricultural laws",
+            "concepts": [
+                {
+                    "word": "Indian",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Parliament",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "laws",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "L’invité du 12h30 - Adrien Romedenne présente son livre de cartes postales \"Une journée à Lausanne\"",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25782378.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-adrien-romedenne-presente-son-livre-de-cartes-postales-une-journee-a-lausanne-25782400.html",
+            "duration": "09:55",
+            "ranked": 9,
+            "epoch": 1638741608.794676,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "Guest of 12:30 - Adrien Romedenne presents his book of postcards \"One day in Lausanne\"",
+            "concepts": [
+                {
+                    "word": "Guest",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Adrien",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Romedenne",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "book",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "postcards",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "day",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Lausanne",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Vorgezogene Bund-Länder-Beratung wegen verschärfter Corona-Situation",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1638223219.5838053,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "Advanced Bund-Länder-Beratung due to increased corona situation",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Advanced",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bund",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Länder",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Beratung",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "corona",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "situation",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Das RKI meldet 29.364 Neuinfektionen",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1638223219.583832,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "The RKI reports 29.364 new infections",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "RKI",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "infections",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Die Sieben-Tage-Inzidenz steigt weiter auf 452",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1638223219.5838485,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "The seven-day incidence continues to rise to 452",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "day",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "incidence",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "4",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1638223219.5838623,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "4",
+            "en_content": "",
+            "concepts": []
+        },
+        {
+            "title": " Die G-7 Staaten fordern dringend Maßnahmen gegen die Verbreitung von \"Omikron\"",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1638223219.5838788,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "The G-7 states urgently call for measures against the spread of \"Omikron\"",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "G-7",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "states",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "measures",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "spread",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Omikron",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Einigung im Öffentlicher Dienst: Mehr Gehalt und Corona-Sonderzahlung",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1638223219.5838914,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "Public service agreement: More pay and special Corona payment",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "service",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "agreement",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "pay",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Corona",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "payment",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " Inflationsrate steigt weiter um 5",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1638223219.5839033,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "Inflation continues to rise by 5",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Inflation",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "2 Prozent",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1638223219.583915,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "2 %",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "%",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": " Rot-grün-roter Koalitionsvertrag in Berlin vorgestellt",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1638223219.5839264,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "Red-green-red coalition agreement presented in Berlin",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "coalition",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "agreement",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Berlin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Juristische Niederlage für Kohl-Witwe",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1638223219.5839381,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "Legal defeat for Kohl-Witwe",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "defeat",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Kohl",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Witwe",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Vulkan auf La Palma kommt nicht zur Ruhe",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "10",
+            "epoch": 1638223219.5839498,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "Volcano on La Palma does not come to rest",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Volcano",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Palma",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Trainerwechsel bei Hertha BSC",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "11",
+            "epoch": 1638223219.5839646,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "Coach change at Hertha BSC",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Coach",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "change",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Hertha",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "BSC",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "November 29, 2021",
+            "date": "2021-11-29",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46013.html",
+            "content": "",
+            "ranked": "12",
+            "epoch": 1638223219.5839777,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-11-29.json",
+            "en_title": "The weather",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

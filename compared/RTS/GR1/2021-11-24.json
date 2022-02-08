@@ -1,0 +1,798 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Les restaurants enregistrent des annulations pour les fêtes suite à l’augmentation des cas",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25781151.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-restaurants-enregistrent-des-annulations-pour-les-fetes-suite-a-l-augmentation-des-cas-25781131.html",
+            "duration": "01:49",
+            "ranked": 0,
+            "epoch": 1638396008.912794,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "Restaurants register holiday cancellations following the increase in cases",
+            "concepts": [
+                {
+                    "word": "Restaurants",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "holiday",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "cancellations",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "increase",
+                    "meaning": "pobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "cases",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les tensions ethniques et politiques sont au plus haut en Ethiopie: interview de Mehdi Labzaé",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25781151.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-tensions-ethniques-et-politiques-sont-au-plus-haut-en-ethiopie-interview-de-mehdi-labzae-25781139.html",
+            "duration": "05:06",
+            "ranked": 1,
+            "epoch": 1638396008.912797,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "Ethnic and political tensions are at the highest in Ethiopia: interview with Mehdi Labzaé",
+            "concepts": [
+                {
+                    "word": "tensions",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Ethiopia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "interview",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Mehdi",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Labzaé",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le footballeur Karim Benzema condamné à un an de prison avec sursis pour l’affaire de la sextape",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25781151.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-footballeur-karim-benzema-condamne-a-un-an-de-prison-avec-sursis-pour-l-affaire-de-la-sextape-25781140.html",
+            "duration": "01:37",
+            "ranked": 2,
+            "epoch": 1638396008.9127982,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "Footballer Karim Benzema sentenced to one year of suspended prison for the sextape case",
+            "concepts": [
+                {
+                    "word": "Footballer",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Karim",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Benzema",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "year",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "sextape",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "case",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La Chaux-de-Fonds prévoit un déficit de 14,3 millions de francs pour l'année prochaine",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25781151.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-chaux-de-fonds-prevoit-un-deficit-de-14-3-millions-de-francs-pour-l-annee-prochaine-25781143.html",
+            "duration": "01:44",
+            "ranked": 3,
+            "epoch": 1638396008.912799,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "La Chaux-de-Fonds forecasts a deficit of CHF 14.3 million for next year",
+            "concepts": [
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Chaux",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "de",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Fonds",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "deficit",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "CHF",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "year",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Magdalena Andersson devient la première femme à diriger le gouvernement en Suède",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25781151.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/magdalena-andersson-devient-la-premiere-femme-a-diriger-le-gouvernement-en-suede-25781144.html",
+            "duration": "01:33",
+            "ranked": 4,
+            "epoch": 1638396008.9128,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "Magdalena Andersson becomes the first woman to lead the government in Sweden",
+            "concepts": [
+                {
+                    "word": "Magdalena",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Andersson",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "woman",
+                    "meaning": "attr",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "government",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Sweden",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Un labrador aide les patients à retrouver leur équilibre à l'hôpital fribourgeois de Riaz",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25781151.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/un-labrador-aide-les-patients-a-retrouver-leur-equilibre-a-l-hopital-fribourgeois-de-riaz-25781148.html",
+            "duration": "02:28",
+            "ranked": 5,
+            "epoch": 1638396008.9128013,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "A labrador helps patients regain their balance at the Friburg hospital in Riaz",
+            "concepts": [
+                {
+                    "word": "labrador",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "patients",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "balance",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Friburg",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hospital",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Riaz",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le marché pharmaceutique a drastiquement évolué suite à la pandémie",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25781151.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-marche-pharmaceutique-a-drastiquement-evolue-suite-a-la-pandemie-25781159.html",
+            "duration": "01:52",
+            "ranked": 6,
+            "epoch": 1638396008.912802,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "The pharmaceutical market has drastically evolved following the pandemic",
+            "concepts": [
+                {
+                    "word": "market",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "pandemic",
+                    "meaning": "pobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Un collectionneur achète un manuscrit d’Albert Einstein pour douze millions de francs",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25781151.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/un-collectionneur-achete-un-manuscrit-d-albert-einstein-pour-douze-millions-de-francs-25781158.html",
+            "duration": "02:14",
+            "ranked": 7,
+            "epoch": 1638396008.912803,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "A collector buys a manuscript from Albert Einstein for twelve million francs",
+            "concepts": [
+                {
+                    "word": "collector",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "manuscript",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Albert",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Einstein",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "francs",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les invités du 12h30 - \"Chaos\", le nouveau spectacle de la compagnie Le Lokart",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25781151.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-invites-du-12h30-chaos-le-nouveau-spectacle-de-la-compagnie-le-lokart-25781160.html",
+            "duration": "08:39",
+            "ranked": 8,
+            "epoch": 1638396008.9128036,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "The guests of 12:30 - \"Chaos\", the new show of the company Le Lokart",
+            "concepts": [
+                {
+                    "word": "guests",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Chaos",
+                    "meaning": "appos",
+                    "pos": "NUM"
+                },
+                {
+                    "word": "show",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "company",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Le",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Lokart",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "No vax fuori da stadi, ristoranti, hotel: obbligo di immunizzazione per forze dell'ordine e personale scolastico.",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "content": " Oggi giornata decisiva per il decreto con la nuova stretta anti Covid.  . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1637964020.764758,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "No vax out of stadiums, restaurants, hotels: obligation to immunize for law enforcement and school personnel.",
+            "en_content": "Today decisive day for the decree with the new anti Covid. .",
+            "concepts": [
+                {
+                    "word": "vax",
+                    "meaning": "dep",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "stadiums",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "restaurants",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hotels",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "obligation",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "law",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "enforcement",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "school",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "personnel",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Contagi sempre in aumento: oltre quota diecimila; salgono ancora ricoveri e terapie intensive.",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "content": " Con l'inviata del Gr1 in Alto Adige: scattato l'obbligo-mascherine all'aperto.  . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1637964020.764764,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "You always count up: over ten thousand; Intensive shelters and therapies still rise.",
+            "en_content": "With the Gr1 in South Tyrol: the obligation-masks were taken outdoors. .",
+            "concepts": [
+                {
+                    "word": "shelters",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "therapies",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Impennata di casi in Germania.",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "content": " Austria in lockdown fino al 13 dicembre.   Allarme dell'Oms sull'Europa: entro marzo oltre due milioni di vittime.  . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1637964020.7647672,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "Casemate in Germany.",
+            "en_content": "Austria in lockdown until 13 December. Oms alarm on Europe: by March over two million victims. .",
+            "concepts": [
+                {
+                    "word": "Germany",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Sono stato giovane anch'io: il clima e i sogni dei ragazzi al centro dell'incontro di Draghi con una scolaresca.",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "content": " . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1637964020.7647696,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "I was young too: the climate and dreams of the boys at the center of the meeting of Draghi with a schoolgirl.",
+            "en_content": ".",
+            "concepts": [
+                {
+                    "word": "climate",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "dreams",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "boys",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "center",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "meeting",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Draghi",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "schoolgirl",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Stop per Mario: dopo il via libera del comitato etico marchigiano al suicidio medicalmente assistito, la regione blocca tutto e si appella al tribunale di Ancona.",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "content": "    . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1637964020.7647722,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "Stop for Mario: After the free path of the Marches ethical committee to medically assisted suicide, the region blocks everything and appeals to the court of Ancona.",
+            "en_content": ".",
+            "concepts": [
+                {
+                    "word": "Mario",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "path",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Marches",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ethical",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "committee",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "suicide",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "region",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "appeals",
+                    "meaning": "conj",
+                    "pos": "PRON"
+                },
+                {
+                    "word": "court",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ancona",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Questo non è amore: governo al lavoro sulle nuove misure per fermare  la violenza sule donne.",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "content": " . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1637964020.7647748,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "This is not love: government at work on new measures to stop violence on women.",
+            "en_content": ".",
+            "concepts": [
+                {
+                    "word": "love",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "government",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "work",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "measures",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "violence",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "women",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Come in un film: partita Dart, prima missione spaziale contro un asteroide, per modificarne la traiettoria.",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "content": " Esperimento/Armageddon della Nasa.  Sul razzo anche un microsatellite italiano. . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1637964020.7647772,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "As in a movie: game Dart, first space mission against an asteroid, to change its trajectory.",
+            "en_content": "Experiment/Armageddon of Nasa. On the rocket also an Italian microsatellite. .",
+            "concepts": [
+                {
+                    "word": "movie",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "game",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Dart",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "space",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "mission",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "asteroid",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "trajectory",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Show must go on.",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "content": " Trent'anni fa la morte del mito, Freddy Mercury, storica voce dei Queen.  Solo poche ore prima aveva rivelato di essere malato di Aids. . ",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1637964020.7647793,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "Show must go on.",
+            "en_content": "Thirty years ago the death of the myth, Freddy Mercury, historical voice of Queen. Only a few hours before he revealed he was sick of Aids. .",
+            "concepts": [
+                {
+                    "word": "Show",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Champions League, Juve umiliata dal Chelsea, a Londra 4-0 per i campioni in carica.",
+            "date_raw": "November 24, 2021",
+            "date": "2021-11-24",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-bbf24381-fcef-49bb-8a63-81b9b9277408.html",
+            "content": " Muriel salva l'Atalanta a Berna, emozionante 3-3 con lo Young Boys.  E oggi in campo Milan e Inter. . ",
+            "ranked": 8,
+            "placed": "First_Page",
+            "epoch": 1637964020.7647815,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-24.json",
+            "en_title": "Champions League, Juve humiliated by Chelsea, in London 4-0 for defending champions.",
+            "en_content": "Muriel saves the Atalanta in Bern, exciting 3-3 with Young Boys. And today in the field Milan and Inter. .",
+            "concepts": [
+                {
+                    "word": "Champions",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "League",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Juve",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Chelsea",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "London",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "champions",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ]
+}

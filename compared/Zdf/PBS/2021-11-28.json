@@ -1,0 +1,198 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Mit folgenden Themen: Omikron: Alarmbereitschaft ist groß",
+            "date_raw": "November 28, 2021",
+            "date": "2021-11-28",
+            "url": "https://www.zdf.de/nachrichten/heute-19-uhr/211128-heute-sendung-19-uhr-100.html",
+            "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211128-heute-sendung-19-uhr-100.html",
+            "content": "",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1638136805.6706312,
+            "language": "de",
+            "source": "Zdf",
+            "filename": "conc_en_2021-11-28.json",
+            "en_title": "With the following topics: Omikron: alertness is great",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "topics",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Omikron",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "alertness",
+                    "meaning": "nsubj",
+                    "pos": "AUX"
+                }
+            ]
+        },
+        {
+            "title": "Schweiz: Mehrheit für 3G-Nachweis",
+            "date_raw": "November 28, 2021",
+            "date": "2021-11-28",
+            "url": "https://www.zdf.de/nachrichten/heute-19-uhr/211128-heute-sendung-19-uhr-100.html",
+            "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211128-heute-sendung-19-uhr-100.html",
+            "content": "Nachweis",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1638136805.6706672,
+            "language": "de",
+            "source": "Zdf",
+            "filename": "conc_en_2021-11-28.json",
+            "en_title": "Switzerland: Majority for 3G proof",
+            "en_content": "Proof",
+            "concepts": [
+                {
+                    "word": "Switzerland",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Majority",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "G",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "proof",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "weiteren Nachrichten, dem Sport und dem Wetter.",
+            "date_raw": "November 28, 2021",
+            "date": "2021-11-28",
+            "url": "https://www.zdf.de/nachrichten/heute-19-uhr/211128-heute-sendung-19-uhr-100.html",
+            "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211128-heute-sendung-19-uhr-100.html",
+            "content": "",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1638136805.6706982,
+            "language": "de",
+            "source": "Zdf",
+            "filename": "conc_en_2021-11-28.json",
+            "en_title": "further news, sport and weather.",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "news",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "sport",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "weather",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "‘A no holds-barred Elder’: How one man is helping to heal his Indigenous community",
+            "date_raw": "November 28, 2021",
+            "date": "2021-11-28",
+            "url": "https://www.pbs.org/newshour/show/november-28-2021-pbs-newshour-weekend-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/a-no-holds-barred-elder-how-one-man-is-helping-to-heal-his-indigenous-community",
+            "duration": "8 min",
+            "ranked": 0,
+            "epoch": 1638223214.8351448,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-28.json",
+            "en_title": "‘A no holds-barred Elder’: How one man is helping to heal his Indigenous community",
+            "concepts": [
+                {
+                    "word": "holds",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Elder",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "man",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "community",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "How inflation, climate change and energy costs are pushing up food prices",
+            "date_raw": "November 28, 2021",
+            "date": "2021-11-28",
+            "url": "https://www.pbs.org/newshour/show/november-28-2021-pbs-newshour-weekend-full-episode",
+            "news_url": "https://www.pbs.org/newshour/show/how-inflation-climate-change-and-energy-costs-are-pushing-up-food-prices",
+            "duration": "8 min",
+            "ranked": 1,
+            "epoch": 1638223214.8351467,
+            "language": "en",
+            "source": "PBS",
+            "filename": "conc_en_2021-11-28.json",
+            "en_title": "How inflation, climate change and energy costs are pushing up food prices",
+            "concepts": [
+                {
+                    "word": "inflation",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "climate",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "change",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "energy",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "costs",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "food",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prices",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Les tests d’anticorps connaissent un fort engouement",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25783933.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-tests-d-anticorps-connaissent-un-fort-engouement-25783924.html",
+            "duration": "02:15",
+            "ranked": 0,
+            "epoch": 1638828010.1346216,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "The antibodies tests know a strong enthusiasm",
+            "concepts": [
+                {
+                    "word": "antibodies",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "tests",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "enthusiasm",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "La revue de presse alémanique",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25783933.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-revue-de-presse-alemanique-25783923.html",
+            "duration": "02:24",
+            "ranked": 1,
+            "epoch": 1638828010.1346245,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "The German press review",
+            "concepts": [
+                {
+                    "word": "press",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "review",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Pierre Rahbi, écrivain et figure de l’agroécologie, est décédé à 83 ans",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25783933.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/pierre-rahbi-ecrivain-et-figure-de-l-agroecologie-est-decede-a-83-ans-25783926.html",
+            "duration": "02:13",
+            "ranked": 2,
+            "epoch": 1638828010.1346257,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "Pierre Rahbi, writer and figure of agroecology, died at 83",
+            "concepts": [
+                {
+                    "word": "Pierre",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rahbi",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "writer",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "figure",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "agroecology",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Rikers Island, la prison de New York jugée trop vétuste, devrait fermer ses portes dès 2026",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25783933.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/rikers-island-la-prison-de-new-york-jugee-trop-vetuste-devrait-fermer-ses-portes-des-2026-25783929.html",
+            "duration": "02:28",
+            "ranked": 3,
+            "epoch": 1638828010.134627,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "Rikers Island, New York prison found to be too stubborn, should close its doors in 2026",
+            "concepts": [
+                {
+                    "word": "Rikers",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Island",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "New",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "York",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "prison",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "doors",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "Les hommes et les femmes terminent la tournée américaine de la Coupe du monde de ski ce dimanche",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25783933.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-hommes-et-les-femmes-terminent-la-tournee-americaine-de-la-coupe-du-monde-de-ski-ce-dimanche-25783927.html",
+            "duration": "01:33",
+            "ranked": 4,
+            "epoch": 1638828010.134628,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "Men and women finish the American ski World Cup Tour this Sunday",
+            "concepts": [
+                {
+                    "word": "Men",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "women",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "ski",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "World",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Cup",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Tour",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Sunday",
+                    "meaning": "npadvmod",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "À voix haute - Dominique Meyer, directeur de la Scala de Milan",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yves-zahno-25783933.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/a-voix-haute-dominique-meyer-directeur-de-la-scala-de-milan-25783937.html",
+            "duration": "15:20",
+            "ranked": 5,
+            "epoch": 1638828010.1346295,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "High voice - Dominique Meyer, Director of the Milan Scala",
+            "concepts": [
+                {
+                    "word": "voice",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Dominique",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Meyer",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Director",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Milan",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Scala",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "FDP billigt Koalitionsvertrag für Ampel-Bündnis auf Parteitag",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "0",
+            "epoch": 1638741617.2349856,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "FDP Approves Coalition Contract for Ampel Alliance on Party Day",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "FDP",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Approves",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Coalition",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Contract",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Ampel",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Alliance",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Party",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Day",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Debatte um  Impfpflicht: Sorge vor weiterer Radikalisierung von Impfgegnern",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "1",
+            "epoch": 1638741617.2350285,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "Debate about vaccination: concern for further radicalisation of vaccinators",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "vaccination",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "concern",
+                    "meaning": "appos",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "radicalisation",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "vaccinators",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " RKI meldet 42.055 Corona-Neuinfektionen",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "2",
+            "epoch": 1638741617.2350469,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "RKI reports 42.055 corona new infections",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "RKI",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "corona",
+                    "meaning": "nmod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "infections",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Sieben-Tage-Inzidenz fällt leicht auf 439",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "3",
+            "epoch": 1638741617.2350614,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "Seven-day incidence falls slightly to 439",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "day",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "incidence",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Debatte um Steinmeier-Nachfolge als Bundespräsident",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "4",
+            "epoch": 1638741617.2350914,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "Debate about Steinmeier's succession as President",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Steinmeier",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "succession",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "President",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Papst besucht Flüchtlingslager auf griechischer Insel Lesbos",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "5",
+            "epoch": 1638741617.2351046,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "Pope visits refugee camp on the Greek island of Lesbos",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Pope",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "refugee",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "camp",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "island",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Lesbos",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " 140 Tote bei Angriffen Mali und Niger",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "6",
+            "epoch": 1638741617.235117,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "140 dead in attacks Mali and Niger",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "attacks",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Mali",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Niger",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": " 14 Tote bei Vulkanausbruch in Indonesien",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "7",
+            "epoch": 1638741617.2351289,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "14 dead in volcanic eruption in Indonesia",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "eruption",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Indonesia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Vulkanausbruch auf Kanareninsel La Palma dauert an",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "8",
+            "epoch": 1638741617.235144,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "Volcanic eruption on Canary Island La Palma takes",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "eruption",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Canary",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Island",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "La",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Palma",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Ergebnisse des 14. Spieltages der Fußball-Bundesliga",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "9",
+            "epoch": 1638741617.2351565,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "Results of the 14th matchday of the Football Bundesliga",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "Results",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "matchday",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Football",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Bundesliga",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " RB Leipzig entlässt Trainer Marsch",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "10",
+            "epoch": 1638741617.2351754,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "RB Leipzig releases coach Marsch",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "RB",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Leipzig",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "coach",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Marsch",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": " Doppelsieg für deutsche Rodlerinnen im russischen Sotschi",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "11",
+            "epoch": 1638741617.2351873,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "Double victory for German rodlers in Russian Sochi",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "victory",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "rodlers",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sochi",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": " Das Wetter",
+            "date_raw": "December 05, 2021",
+            "date": "2021-12-05",
+            "url": "https://www.tagesschau.de/multimedia/video/videoarchiv2.html",
+            "url_news": "https://www.tagesschau.de/multimedia/sendung/ts-46091.html",
+            "content": "",
+            "ranked": "12",
+            "epoch": 1638741617.2351985,
+            "language": "de",
+            "source": "Tagesschau",
+            "filename": "conc_en_2021-12-05.json",
+            "en_title": "The weather",
+            "en_content": "",
+            "concepts": [
+                {
+                    "word": "weather",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ]
+}

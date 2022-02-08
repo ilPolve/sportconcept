@@ -1,0 +1,802 @@
+{
+    "simils_concepts": [],
+    "edition_a": [
+        {
+            "title": "Un sondage estime le oui des Suisses à 60% pour la loi Covid",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25779257.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/un-sondage-estime-le-oui-des-suisses-a-60-pour-la-loi-covid-25779235.html",
+            "duration": "02:01",
+            "ranked": 0,
+            "epoch": 1637704808.8139231,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "A survey estimates the yes of the Swiss to 60% for the Covid law",
+            "concepts": [
+                {
+                    "word": "survey",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "yes",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "%",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Covid",
+                    "meaning": "amod",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "law",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Lancement de la 3e dose du vaccin contre le Covid dans les EMS suisses",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25779257.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/lancement-de-la-3e-dose-du-vaccin-contre-le-covid-dans-les-ems-suisses-25779236.html",
+            "duration": "01:43",
+            "ranked": 1,
+            "epoch": 1637704808.813926,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "Launch of the 3rd dose of Covid vaccine in Swiss EMS",
+            "concepts": [
+                {
+                    "word": "Launch",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "dose",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Covid",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "vaccine",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Swiss",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "EMS",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Arrestation de six personnes au Tessin en lien avec la mafia italienne",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25779257.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/arrestation-de-six-personnes-au-tessin-en-lien-avec-la-mafia-italienne-25779238.html",
+            "duration": "01:46",
+            "ranked": 2,
+            "epoch": 1637704808.813927,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "Arrest of six people in Ticino in connection with the Italian mafia",
+            "concepts": [
+                {
+                    "word": "Arrest",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "people",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Ticino",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "connection",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "mafia",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Le secteur médical peine à recruter au Royaume-Uni",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25779257.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-secteur-medical-peine-a-recruter-au-royaume-uni-25779243.html",
+            "duration": "02:16",
+            "ranked": 3,
+            "epoch": 1637704808.8139281,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "The medical sector is struggling to recruit in the United Kingdom",
+            "concepts": [
+                {
+                    "word": "sector",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "United",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Kingdom",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La pénurie de main d’œuvre en Suisse touche plusieurs secteurs: interview de Cédric Tille",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25779257.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-penurie-de-main-d-uvre-en-suisse-touche-plusieurs-secteurs-interview-de-cedric-tille-25779241.html",
+            "duration": "01:12",
+            "ranked": 4,
+            "epoch": 1637704808.8139288,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "Lack of labour in Switzerland touches several sectors: interview with Cédric Tille",
+            "concepts": [
+                {
+                    "word": "Lack",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "labour",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Switzerland",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "sectors",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "interview",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Cédric",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Tille",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Eric Zemmour comparaît devant la justice pour provocation à la haine",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25779257.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/eric-zemmour-comparait-devant-la-justice-pour-provocation-a-la-haine-25779250.html",
+            "duration": "01:33",
+            "ranked": 5,
+            "epoch": 1637704808.81393,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "Eric Zemmour appeared before the courts for provocation to hatred",
+            "concepts": [
+                {
+                    "word": "Eric",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Zemmour",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "courts",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "provocation",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "hatred",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La joueuse de tennis chinoise Peng Shuai portée disparue suite à son accusation de viol",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25779257.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-joueuse-de-tennis-chinoise-peng-shuai-portee-disparue-suite-a-son-accusation-de-viol-25779249.html",
+            "duration": "01:31",
+            "ranked": 6,
+            "epoch": 1637704808.8139307,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "Chinese tennis player Peng Shuai missing as a result of her rape charge",
+            "concepts": [
+                {
+                    "word": "tennis",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "player",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Peng",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Shuai",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "result",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "rape",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "charge",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Les eaux contaminées de Fukushima sont rejetées dans la mer",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25779257.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-eaux-contaminees-de-fukushima-sont-rejetees-dans-la-mer-25779251.html",
+            "duration": "02:18",
+            "ranked": 7,
+            "epoch": 1637704808.8139317,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "Fukushima contaminated waters are released into the sea",
+            "concepts": [
+                {
+                    "word": "Fukushima",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "waters",
+                    "meaning": "nsubjpass",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "sea",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "La ville de Lausanne crée un inventaire du patrimoine de ses cafés et restaurants historiques",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25779257.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-ville-de-lausanne-cree-un-inventaire-du-patrimoine-de-ses-cafes-et-restaurants-historiques-25779253.html",
+            "duration": "01:48",
+            "ranked": 8,
+            "epoch": 1637704808.8139327,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "The city of Lausanne creates an inventory of the heritage of its historic cafés and restaurants",
+            "concepts": [
+                {
+                    "word": "city",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Lausanne",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "inventory",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "heritage",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "cafés",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "restaurants",
+                    "meaning": "conj",
+                    "pos": "NOUN"
+                }
+            ]
+        },
+        {
+            "title": "Festi'Neuch a dévoilé les têtes d'affiches de sa 21e édition: interview d’Antonin Rousseau",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25779257.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/festi-neuch-a-devoile-les-tetes-d-affiches-de-sa-21e-edition-interview-d-antonin-rousseau-25779255.html",
+            "duration": "01:41",
+            "ranked": 9,
+            "epoch": 1637704808.8139336,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "Festi'Neuch unveiled the headlines of its 21st edition: interview by Antonin Rousseau",
+            "concepts": [
+                {
+                    "word": "Festi'Neuch",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "headlines",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "edition",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "interview",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Antonin",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Rousseau",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "L'invitée du 12h30 - La metteuse en scène Antea Tomicic",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.rts.ch/audio-podcast/2021/audio/le-12h30-presente-par-yann-amedro-25779257.html",
+            "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invitee-du-12h30-la-metteuse-en-scene-antea-tomicic-25779260.html",
+            "duration": "08:37",
+            "ranked": 10,
+            "epoch": 1637704808.8139346,
+            "language": "fr",
+            "source": "RTS",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "The guest of 12:30 - The stage designer Antea Tomicic",
+            "concepts": [
+                {
+                    "word": "guest",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "stage",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "designer",
+                    "meaning": "appos",
+                    "pos": "NUM"
+                },
+                {
+                    "word": "Antea",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Tomicic",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                }
+            ]
+        }
+    ],
+    "edition_b": [
+        {
+            "title": "Restrizioni solo per i no vax: le sollecitano alcune regioni.",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "content": " Il governo frena: \"Non siamo l'Austria, al momento escluse nuove limitazioni\".  . ",
+            "ranked": 0,
+            "placed": "First_Page",
+            "epoch": 1637359224.1277719,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "Restrictions only for no vax: they call for some regions.",
+            "en_content": "The government brakes: \"We are not Austria, at the moment excluding new limitations.\" .",
+            "concepts": [
+                {
+                    "word": "Restrictions",
+                    "meaning": "dep",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "vax",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "regions",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "In sei mesi, i vaccini hanno salvato la vita a dodicimila persone: studio dell'Istituto Superiore di sanità.",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "content": " Il ministro Speranza: allargare ancora la platea, avanti con la terza dose.  . ",
+            "ranked": 1,
+            "placed": "First_Page",
+            "epoch": 1637359224.1277795,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "In six months, the vaccines saved the lives of twelve thousand people: study of the Higher Institute of Health.",
+            "en_content": "Minister Hope: extend the audience further with the third dose. .",
+            "concepts": [
+                {
+                    "word": "months",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "vaccines",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "lives",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "people",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "study",
+                    "meaning": "appos",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Higher",
+                    "meaning": "compound",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Institute",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Health",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "Pensioni, Draghi apre ai sindacati: tavolo da dicembre.",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "content": " Confronto anche tra le forze politiche su fisco e taglio delle tasse da 8 miliardi. . ",
+            "ranked": 2,
+            "placed": "First_Page",
+            "epoch": 1637359224.1277823,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "Pensions, Dragons opens to the unions: December table.",
+            "en_content": "Comparison also between political forces on fisco and cutting taxes from 8 billion. .",
+            "concepts": [
+                {
+                    "word": "Pensions",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Dragons",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "unions",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "December",
+                    "meaning": "compound",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "table",
+                    "meaning": "appos",
+                    "pos": "PROPN"
+                }
+            ]
+        },
+        {
+            "title": "Sulla pelle dei migranti.",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "content": " In 4mila accampati all'addiaccio in Bielorussia, al confine con la Polonia.  Da Bruxelles, nuova condanna del regime di Minsk. . ",
+            "ranked": 3,
+            "placed": "First_Page",
+            "epoch": 1637359224.1277845,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "On the skin of migrants.",
+            "en_content": "In 4,000 encamped in Belarus, bordering Poland. From Brussels, new condemnation of the Minsk regime. .",
+            "concepts": [
+                {
+                    "word": "skin",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "migrants",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "E nel Mediterraneo si continua a morire.",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "content": " Dieci le vittime dell'ultima tragedia.  L'inviata del Gr1 sulla nave dei soccorritori. . ",
+            "ranked": 4,
+            "placed": "First_Page",
+            "epoch": 1637359224.1277864,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "And the Mediterranean continues to die.",
+            "en_content": "Ten victims of the last tragedy. The Gr1 dispatch on the rescue ship. .",
+            "concepts": [
+                {
+                    "word": "Mediterranean",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                }
+            ]
+        },
+        {
+            "title": "\"Il nostro mare unisce Europa e Africa\": pandemia e immigrazione al centro della visita di Mattarella in Spagna.",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "content": "  . ",
+            "ranked": 5,
+            "placed": "First_Page",
+            "epoch": 1637359224.1277888,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "\"Our sea unites Europe and Africa\": pandemic and immigration at the center of Mattarella's visit to Spain.",
+            "en_content": ".",
+            "concepts": [
+                {
+                    "word": "sea",
+                    "meaning": "nsubj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Europe",
+                    "meaning": "dobj",
+                    "pos": "VERB"
+                },
+                {
+                    "word": "Africa",
+                    "meaning": "conj",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "immigration",
+                    "meaning": "conj",
+                    "pos": "ADJ"
+                },
+                {
+                    "word": "center",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Mattarella",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "visit",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Spain",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        },
+        {
+            "title": "L'omicidio di Vetralla, vicino a Viterbo.",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "content": " La vittima, Mattias aveva dieci anni.  A ucciderlo il padre, ora in stato di fermo.  Aveva il divieto di avvicinamento alla famiglia.  . ",
+            "ranked": 6,
+            "placed": "First_Page",
+            "epoch": 1637359224.1277912,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "Vetralla's murder, near Viterbo.",
+            "en_content": "The victim, Mattias was ten years old. To kill his father, now in a standstill. He was forbidden to approach the family. .",
+            "concepts": [
+                {
+                    "word": "Vetralla",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "murder",
+                    "meaning": "ROOT",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "Viterbo",
+                    "meaning": "pobj",
+                    "pos": "SCONJ"
+                }
+            ]
+        },
+        {
+            "title": "E' stata la mano di Dio, Discover: A Napoli proiezione blindatissima per il film di Sorrentino.",
+            "date_raw": "November 17, 2021",
+            "date": "2021-11-17",
+            "url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "news_url": "https://www.raiplayradio.it/audio/2021/11/GR-1-a2593b9b-130f-4718-9fc8-36c2d64cef0b.html",
+            "content": " A Milano Zucchero presenta il suo primo album dedicato ai successi degli altri.  . ",
+            "ranked": 7,
+            "placed": "First_Page",
+            "epoch": 1637359224.1278093,
+            "language": "it",
+            "source": "GR1",
+            "filename": "conc_en_2021-11-17.json",
+            "en_title": "It was God's hand, Discover: In Naples, an armored projection for Sorrentino's film.",
+            "en_content": "In Milan, Zucchero presents his first album dedicated to the successes of others. .",
+            "concepts": [
+                {
+                    "word": "God",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "hand",
+                    "meaning": "attr",
+                    "pos": "AUX"
+                },
+                {
+                    "word": "Discover",
+                    "meaning": "ROOT",
+                    "pos": "PROPN"
+                },
+                {
+                    "word": "Naples",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "projection",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                },
+                {
+                    "word": "Sorrentino",
+                    "meaning": "poss",
+                    "pos": "NOUN"
+                },
+                {
+                    "word": "film",
+                    "meaning": "pobj",
+                    "pos": "ADP"
+                }
+            ]
+        }
+    ]
+}
