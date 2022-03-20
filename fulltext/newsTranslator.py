@@ -6,9 +6,13 @@ import sys
 import os
 import errno
 
+#The scraped news base directory
 BASE_DIR= f"../../Newscraping/collectedNews"
+
+#The output base directory
 TRANSLATED_DIR= f"./translated"
 
+#The translators indexes based on the source language
 LANG_TO_TRANS = {'FR': 0,
                  'DE': 1,
                  'IT': 2,
@@ -17,15 +21,15 @@ LANG_TO_TRANS = {'FR': 0,
 def main():
     if len(sys.argv) < 2:
         raise Exception("Too few arguments.")
-    translators = translators_setup()
-    full_translator(sys.argv[1], translators)
+    full_translator(sys.argv[1])
 
-def full_translator(subdir, translators):
+def full_translator(subdir):
+    translators = translators_setup()
     to_translate= news_getter(subdir)
     translated = news_translator(to_translate, translators)
     jsonizer(translated, subdir)
 
-
+#Starting from the 1-st because of the 0-index english translator
 def translators_setup():
     translators= [{}, {}, {}, {}]
     installed_languages = translate.get_installed_languages()
@@ -40,7 +44,7 @@ def news_getter(subdir):
         try:
             to_get = json.load(f)
         except:
-            raise Exception("Could not read file from the directory given directory: " + to_get_dir + ".")
+            raise Exception("Could not read file from the given directory: " + to_get_dir + ".")
     return to_get
 
 def news_translator(to_trans, translators):
