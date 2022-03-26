@@ -86,8 +86,8 @@ def article_recognizer(article, nlp, sentiment= 0):
 def field_nlpier(article, field, nlp, sentiment= 0):
     nlpied = nlp(article[field])
     if sentiment:
-            article[sent_field_creator(field, "polarity")]= nlpied._.blob.polarity
-            article[sent_field_creator(field, "subjectivity")]= nlpied._.blob.subjectivity
+        article[sent_field_creator(field, "polarity")]= nlpied._.blob.polarity
+        article[sent_field_creator(field, "subjectivity")]= nlpied._.blob.subjectivity
     if nlpied.ents:
         article[ner_field_creator(field)]= []
         for ent in nlpied.ents:

@@ -5,6 +5,8 @@ import sys
 import os
 import errno
 import spacy
+from sentiment_analysis_spanish import sentiment_analysis
+
 
 #The scraped news base directory
 BASE_DIR = f"../../Newscraping/collectedNews"
@@ -27,12 +29,14 @@ LANG_TO_SPACY = {'EN': "en_core_web_sm",
 def main():
     if len(sys.argv) < 2:
         raise Exception("Too few arguments.")
+    if len(sys.argv) > 2 and sys.argv[2] == '-s':
+        full_recognizer(sys.argv[1], 1)
     full_recognizer(sys.argv[1])
 
-def full_recognizer(subdir):
+def full_recognizer(subdir, sentiment= 0):
     to_recognize = news_getter(subdir)
     nlp = spacy_setup(to_recognize[0]['language'])
-    recognized = news_recognizer(to_recognize, nlp)
+    recognized = news_recognizer(to_recognize, nlp, sentiment)
     jsonizer(recognized, subdir)
 
 def spacy_setup(lang):
@@ -54,23 +58,35 @@ def news_getter(subdir):
     return to_get
 
 
-def news_recognizer(to_reco, nlp):
+def news_recognizer(to_reco, nlp, sentiment= 0):
     for article in to_reco:
-        article = article_recognizer(article, nlp)
+        article = article_recognizer(article, nlp, sentiment)
     return to_reco
 
 
-def article_recognizer(article, nlp):
+def article_recognizer(article, nlp, sentiment= 0):
     field_lang = ""
 
+    #if sentiment:
+        #article['overall_polarity']= 0
+
     for field_to_nlp in FIELDS_TO_NLP:
-        article = field_nlpier(article, f"{field_lang}{field_to_nlp}", nlp)
+        article = field_nlpier(article, f"{field_lang}{field_to_nlp}", nlp, sentiment)
+        #if sentiment:
+            #article['overall_polarity']+= article[sent_field_creator(f"{field_lang}{field_to_nlp}", "polarity")]
     
+    #if sentiment:
+        #article['overall_polarity']/= len(FIELDS_TO_NLP)
+
     return article
 
 
-def field_nlpier(article, field, nlp):
+def field_nlpier(article, field, nlp, sentiment= 0):
     nlpied = nlp(article[field])
+    #if sentiment:
+        #if article['language'] == 'ES':
+            #sentiment = sentiment_analysis.SentimentAnalysisSpanish()
+            #article[sent_field_creator(field, "polarity")]= sentiment.sentiment(article[field])
     if nlpied.ents:
         article[ner_field_creator(field)]= []
         for ent in nlpied.ents:
@@ -82,6 +98,9 @@ def field_nlpier(article, field, nlp):
     
 def ner_field_creator(field):
     return (f"{field}_NER")
+
+def sent_field_creator(field, type):
+    return (f"{field}_{type}")
 
 def ner_object_creator(info):
     to_ret = {}
