@@ -5,7 +5,11 @@ import sys
 import os
 import errno
 import spacy
+import torch
+import numpy as np 
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from sentiment_analysis_spanish import sentiment_analysis
+from spacytextblob.spacytextblob import SpacyTextBlob
 
 
 #The scraped news base directory
@@ -36,6 +40,8 @@ def main():
 def full_recognizer(subdir, sentiment= 0):
     to_recognize = news_getter(subdir)
     nlp = spacy_setup(to_recognize[0]['language'])
+    if sentiment and to_recognize[0]['language'] == 'EN':
+        nlp.add_pipe('spacytextblob')
     recognized = news_recognizer(to_recognize, nlp, sentiment)
     jsonizer(recognized, subdir)
 
@@ -59,40 +65,55 @@ def news_getter(subdir):
 
 
 def news_recognizer(to_reco, nlp, sentiment= 0):
+    tokenizer= None
+    model= None
+    if sentiment and to_reco[0]['language'] == 'IT':
+        tokenizer, model = load_italian_sentiment()
+    if sentiment and to_reco[0]['language'] == 'DE':
+        tokenizer, model = load_german_sentiment()
     for article in to_reco:
-        article = article_recognizer(article, nlp, sentiment)
+        article = article_recognizer(article, nlp, sentiment, tokenizer, model)
     return to_reco
 
 
-def article_recognizer(article, nlp, sentiment= 0):
+def article_recognizer(article, nlp, sentiment= 0, tokenizer= None, model= None):
     field_lang = ""
 
-    #if sentiment:
-        #article['overall_polarity']= 0
+    if sentiment:
+        article['overall_polarity']= 0
 
     for field_to_nlp in FIELDS_TO_NLP:
-        article = field_nlpier(article, f"{field_lang}{field_to_nlp}", nlp, sentiment)
-        #if sentiment:
-            #article['overall_polarity']+= article[sent_field_creator(f"{field_lang}{field_to_nlp}", "polarity")]
+        article = field_nlpier(article, f"{field_lang}{field_to_nlp}", nlp, sentiment, tokenizer, model)
+        if sentiment:
+            article['overall_polarity']+= article[sent_field_creator(f"{field_lang}{field_to_nlp}", "polarity")]
     
-    #if sentiment:
-        #article['overall_polarity']/= len(FIELDS_TO_NLP)
+    if sentiment:
+        article['overall_polarity']/= len(FIELDS_TO_NLP)
 
     return article
 
 
-def field_nlpier(article, field, nlp, sentiment= 0):
+def field_nlpier(article, field, nlp, sentiment= 0, tokenizer= None, model= None):
     nlpied = nlp(article[field])
-    #if sentiment:
-        #if article['language'] == 'ES':
-            #sentiment = sentiment_analysis.SentimentAnalysisSpanish()
-            #article[sent_field_creator(field, "polarity")]= sentiment.sentiment(article[field])
+    if sentiment:
+        if article['language'] == 'ES':
+            sentiment_an = sentiment_analysis.SentimentAnalysisSpanish()
+            article[sent_field_creator(field, "polarity")]= sentiment_an.sentiment(article[field])
+        if article['language'] == 'IT':
+            article[sent_field_creator(field, "polarity")]= italian_analyze(article[field], tokenizer, model)
+        if  article['language'] == 'DE':
+            article[sent_field_creator(field, "polarity")]= italian_analyze(article[field], tokenizer, model, german=1)
+            print(article[sent_field_creator(field, "polarity")])
+        if article['language'] == 'EN':
+            article[sent_field_creator(field, "polarity")]= nlpied._.blob.polarity
+            article[sent_field_creator(field, "subjectivity")]= nlpied._.blob.subjectivity
     if nlpied.ents:
         article[ner_field_creator(field)]= []
         for ent in nlpied.ents:
             ner_object= ner_object_creator(ent)
             #It is possibile to add a control to avoid appending the same entities many times
             article[ner_field_creator(field)].append(ner_object)
+    print(article)
     return article
 
     
@@ -113,7 +134,48 @@ def ner_object_creator(info):
 
     return to_ret
 
-def jsonizer(translated, subdir):
+def load_italian_sentiment():
+    tokenizer = AutoTokenizer.from_pretrained("MilaNLProc/feel-it-italian-sentiment")
+    model = AutoModelForSequenceClassification.from_pretrained("MilaNLProc/feel-it-italian-sentiment")
+    return (tokenizer, model)
+
+def load_german_sentiment():
+    tokenizer = AutoTokenizer.from_pretrained("oliverguhr/german-sentiment-bert")
+    model = AutoModelForSequenceClassification.from_pretrained("oliverguhr/german-sentiment-bert")
+    return (tokenizer, model)
+
+
+#Function found on https://huggingface.co/MilaNLProc/feel-it-italian-sentiment?text=Mi+piaci.+Ti+amo.+Coglione.
+def italian_analyze(to_analyze, tokenizer, model, german= 0):
+    #try:
+        if len(to_analyze) > 512:
+            to_analyze = to_analyze[:512]
+        sentence = to_analyze
+        inputs = tokenizer(sentence, return_tensors="pt")
+
+        # Call the model and get the logits
+        labels = torch.tensor(1).unsqueeze(-1)  # Batch size 1
+        outputs = model(**inputs, labels=labels)
+        loss, logits = outputs[:2]
+        logits = logits.squeeze(0)
+
+        # Extract probabilities
+        proba = torch.nn.functional.softmax(logits, dim=0)
+        # Unpack the tensor to obtain negative and positive probabilities
+        if german:
+            positive, negative, neutral = proba
+        else:
+            negative, positive = proba
+        print(f"Negative: {negative.item()} - Positive: {positive.item()}")
+        toRet = np.round(positive.item(), 4) - np.round(negative.item(), 4)
+        print(toRet)
+        return toRet 
+    #except:
+        #return 0
+    
+
+
+def jsonizer(analyzed, subdir):
     to_json_dir= f"{NER_DIR}/{subdir}"
     if not os.path.exists(os.path.dirname(to_json_dir)):
         try:
@@ -122,7 +184,7 @@ def jsonizer(translated, subdir):
             if exc.errno != errno.EEXIST:
                 raise
     with open(to_json_dir, "w") as f:
-        json.dump(translated, f, indent= 4, ensure_ascii= False)
+        json.dump(analyzed, f, indent= 4, ensure_ascii= False)
         f.write("\n")
 
 if __name__ == "__main__":
