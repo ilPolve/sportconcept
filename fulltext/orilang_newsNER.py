@@ -7,7 +7,7 @@ import errno
 import spacy
 import torch
 import numpy as np 
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, TFAutoModelForSequenceClassification, pipeline
 from sentiment_analysis_spanish import sentiment_analysis
 from spacytextblob.spacytextblob import SpacyTextBlob
 
@@ -35,7 +35,8 @@ def main():
         raise Exception("Too few arguments.")
     if len(sys.argv) > 2 and sys.argv[2] == '-s':
         full_recognizer(sys.argv[1], 1)
-    full_recognizer(sys.argv[1])
+    else:
+        full_recognizer(sys.argv[1])
 
 def full_recognizer(subdir, sentiment= 0):
     to_recognize = news_getter(subdir)
@@ -71,8 +72,11 @@ def news_recognizer(to_reco, nlp, sentiment= 0):
         tokenizer, model = load_italian_sentiment()
     if sentiment and to_reco[0]['language'] == 'DE':
         tokenizer, model = load_german_sentiment()
+    if sentiment and to_reco[0]['language'] == 'FR':
+        tokenizer, model = load_french_sentiment()
     for article in to_reco:
-        article = article_recognizer(article, nlp, sentiment, tokenizer, model)
+        prova = article_recognizer(article, nlp, sentiment, tokenizer, model)
+
     return to_reco
 
 
@@ -101,9 +105,14 @@ def field_nlpier(article, field, nlp, sentiment= 0, tokenizer= None, model= None
             article[sent_field_creator(field, "polarity")]= sentiment_an.sentiment(article[field])
         if article['language'] == 'IT':
             article[sent_field_creator(field, "polarity")]= italian_analyze(article[field], tokenizer, model)
-        if  article['language'] == 'DE':
+        if article['language'] == 'DE':
             article[sent_field_creator(field, "polarity")]= italian_analyze(article[field], tokenizer, model, german=1)
-            print(article[sent_field_creator(field, "polarity")])
+        if article['language'] == 'FR':
+            sa = pipeline('sentiment-analysis', model=model, tokenizer= tokenizer)
+            to_analyze = article[field]
+            if len(to_analyze) > 512:
+                to_analyze = to_analyze[:512]
+            article[sent_field_creator(field, "polarity")]= (sa(to_analyze))[0]['score']
         if article['language'] == 'EN':
             article[sent_field_creator(field, "polarity")]= nlpied._.blob.polarity
             article[sent_field_creator(field, "subjectivity")]= nlpied._.blob.subjectivity
@@ -113,7 +122,7 @@ def field_nlpier(article, field, nlp, sentiment= 0, tokenizer= None, model= None
             ner_object= ner_object_creator(ent)
             #It is possibile to add a control to avoid appending the same entities many times
             article[ner_field_creator(field)].append(ner_object)
-    print(article)
+    
     return article
 
     
@@ -144,6 +153,10 @@ def load_german_sentiment():
     model = AutoModelForSequenceClassification.from_pretrained("oliverguhr/german-sentiment-bert")
     return (tokenizer, model)
 
+def load_french_sentiment():
+    tokenizer = AutoTokenizer.from_pretrained("tblard/tf-allocine")
+    model = TFAutoModelForSequenceClassification.from_pretrained("tblard/tf-allocine")
+    return (tokenizer, model)
 
 #Function found on https://huggingface.co/MilaNLProc/feel-it-italian-sentiment?text=Mi+piaci.+Ti+amo.+Coglione.
 def italian_analyze(to_analyze, tokenizer, model, german= 0):
@@ -166,9 +179,8 @@ def italian_analyze(to_analyze, tokenizer, model, german= 0):
             positive, negative, neutral = proba
         else:
             negative, positive = proba
-        print(f"Negative: {negative.item()} - Positive: {positive.item()}")
         toRet = np.round(positive.item(), 4) - np.round(negative.item(), 4)
-        print(toRet)
+
         return toRet 
     #except:
         #return 0
