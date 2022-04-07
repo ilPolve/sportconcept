@@ -10,3 +10,5 @@ fulltext/NER
 ./*.txt
 *.html
 *.txt
+fulltext/__pycache__
+fulltext/BBC

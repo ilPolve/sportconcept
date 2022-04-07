@@ -16,7 +16,9 @@ TRANSLATED_DIR= f"./translated"
 LANG_TO_TRANS = {'FR': 0,
                  'DE': 1,
                  'IT': 2,
-                 'ES': 3}
+                 'ES': 3,
+                 'en': 0,
+                 'EN': 0}
 
 def main():
     if len(sys.argv) < 2:
@@ -49,23 +51,36 @@ def news_getter(subdir):
 
 def news_translator(to_trans, translators):
     for article in to_trans:
-        if article['title'] != None and article['language'] != "EN":
-            article = article_translator(article, translators[LANG_TO_TRANS[article['language']]])
+        if article['title'] != None:
+            try:
+                article = article_translator(article, translators[LANG_TO_TRANS[article['language']]])
+            except:
+                article = article_translator(article, translators[LANG_TO_TRANS["EN"]], True)
     return to_trans
 
-def article_translator(article, translator):
-    article['en_title']= translator.translate(article['title'])
-    print(article['title'] + "   " + article['en_title'])
+def article_translator(article, translator, isEn= False):
+    if not isEn and article['language'] != "EN" and article['language'] != "en":
+        article['en_title']= translator.translate(article['title'])
+        print(article['title'] + "   " + article['en_title'])
 
-    try:
-        article['en_content']= translator.translate(article['content'])
-    except:
-        raise Exception("Could not translate content of an article.")
+        try:
+            article['en_content']= translator.translate(article['content'])
+        except:
+            raise Exception("Could not translate content of an article.")
 
-    try: 
-        article['en_subtitle']= translator.translate(article['subtitle'])
-    except:
-        pass
+        try: 
+            article['en_subtitle']= translator.translate(article['subtitle'])
+        except:
+            pass
+    else:
+        article['en_title'] = article['title']
+        
+        article['en_content'] = article['content']
+
+        try:
+            article['en_subtitle']  = article['subtitle']
+        except:
+            pass
 
     return article
 

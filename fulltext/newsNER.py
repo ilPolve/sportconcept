@@ -55,14 +55,14 @@ def news_getter(subdir):
 
 def news_recognizer(to_reco, nlp, sentiment= 0):
     for article in to_reco:
-        if article['language'] == 'EN' or f"{ENGLISH_PREFIX}title" in article:
+        if f"{ENGLISH_PREFIX}title" in article:
             article = article_recognizer(article, nlp, sentiment)
     return to_reco
 
 
 def article_recognizer(article, nlp, sentiment= 0):
     field_lang = ""
-
+    
     if article['language'] != 'EN':
         field_lang = ENGLISH_PREFIX
 
@@ -73,9 +73,11 @@ def article_recognizer(article, nlp, sentiment= 0):
     for field_to_nlp in FIELDS_TO_NLP:
         article = field_nlpier(article, f"{field_lang}{field_to_nlp}", nlp, sentiment)
         if sentiment:
-            article['overall_polarity']+= article[sent_field_creator(f"{field_lang}{field_to_nlp}", "polarity")]
-            article['overall_subjectivity']+= article[sent_field_creator(f"{field_lang}{field_to_nlp}", "subjectivity")]
-    
+            try:
+                article['overall_polarity']+= article[sent_field_creator(f"{field_lang}{field_to_nlp}", "polarity")]
+                article['overall_subjectivity']+= article[sent_field_creator(f"{field_lang}{field_to_nlp}", "subjectivity")]
+            except:
+                pass
     if sentiment:
         article['overall_polarity']/= len(FIELDS_TO_NLP)
         article['overall_subjectivity']/= len(FIELDS_TO_NLP)
@@ -84,16 +86,19 @@ def article_recognizer(article, nlp, sentiment= 0):
 
 
 def field_nlpier(article, field, nlp, sentiment= 0):
-    nlpied = nlp(article[field])
-    if sentiment:
-        article[sent_field_creator(field, "polarity")]= nlpied._.blob.polarity
-        article[sent_field_creator(field, "subjectivity")]= nlpied._.blob.subjectivity
-    if nlpied.ents:
-        article[ner_field_creator(field)]= []
-        for ent in nlpied.ents:
-            ner_object= ner_object_creator(ent)
-            #It is possibile to add a control to avoid appending the same entities many times
-            article[ner_field_creator(field)].append(ner_object)
+    try:
+        nlpied = nlp(article[field])
+        if sentiment:
+            article[sent_field_creator(field, "polarity")]= nlpied._.blob.polarity
+            article[sent_field_creator(field, "subjectivity")]= nlpied._.blob.subjectivity
+        if nlpied.ents:
+            article[ner_field_creator(field)]= []
+            for ent in nlpied.ents:
+                ner_object= ner_object_creator(ent)
+                #It is possibile to add a control to avoid appending the same entities many times
+                article[ner_field_creator(field)].append(ner_object)
+    except:
+        pass
     
     return article
 
