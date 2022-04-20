@@ -14,16 +14,13 @@ from sklearn.metrics.pairwise import cosine_similarity
 NLP = spacy.load("en_core_web_sm")
 
 #The output base directory
-OUT_DIR = f"./compared"
+OUT_DIR = f"./full_compared"
 
 #The analyzed news base directory
 BASE_DIR = f"./NER"
 
 #The output base directory
-COMPARED = f"./compared"
-
-#The fields name we want to compare
-TO_COMPARE = ['title']
+COMPARED = f"./full_compared"
 
 #The english-to translated fields' prefix
 ENGLISH_PREFIX = "en_"
