@@ -12,10 +12,11 @@ GET_DIR = "../../Newscraping/collectedNews"
 
 CHECK_DIR = "./translated"
 
+TO_DO = ["EN/BBC"]
+
 def main():
-    if len(sys.argv) < 2:
-        raise Exception("Too few arguments.")
-    dir_translator(sys.argv[1])
+    for mydir in TO_DO:
+        dir_translator(f"flow/{mydir}")
 
 def dir_translator(dir):
     for subdir in os.scandir(f"{GET_DIR}/{dir}"):
