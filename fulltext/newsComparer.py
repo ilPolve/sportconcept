@@ -26,7 +26,7 @@ COMPARED = f"./full_compared"
 ENGLISH_PREFIX = "en_"
 
 #Scraped hour range for comparison (in hour)
-HOUR_RANGE = 2
+HOUR_RANGE = 1
 
 #Field to conceptualize before comparison
 FIELDS_TO_NLP = ["en_title", "en_subtitle", "en_content"]
@@ -36,8 +36,8 @@ COSINE_FIELDS_TO_NLP = ["en_content"]
 #Pos-Tagging right positions for comparison
 COMP_POS = ["NOUN", "PROPN"]
 
-#Number of similar concepts two news must have in order to be considered similar
-SIMIL_LOWER_BOUND = 25
+#Percentage of similar concepts two news must have in order to be considered similar
+SIMIL_LOWER_BOUND = 10
 
 #Percentage of similarity needed for cosine algorithm to be considered similar
 COSINE_SIMIL_LOWER_BOUND = 80
@@ -55,13 +55,16 @@ def main():
     if len(sys.argv) < 5:
         raise Exception("Too few arguments.")
     else:
-        full_comparer(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
+        if len(sys.argv) > 5 and sys.argv[5] == "-c":
+            full_comparer(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], cosine=True)
+        else:
+            full_comparer(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
 
-def full_comparer(newsp_A, newsp_B, date, hour):
+def full_comparer(newsp_A, newsp_B, date, hour, cosine=False):
     news_A = multi_news_getter(newsp_A, int(hour), date)
     news_B = multi_news_getter(newsp_B, int(hour), date)
-    comparison = news_comparer(news_A, news_B)
-    jsonizer(comparison, path_formatter(newsp_A, newsp_B, date, hour))
+    comparison = news_comparer(news_A, news_B, cosine)
+    jsonizer(comparison, path_formatter(newsp_A, newsp_B, date, hour, cosine))
 
 
 def multi_news_getter(newsp, start_hour, date):
@@ -100,10 +103,12 @@ def news_getter(subdir, to_append, got_titles):
     return to_append
 
 
-def news_comparer(news_A, news_B):
+def news_comparer(news_A, news_B, cosine=False):
     to_ret = defaultdict(dict)
     found_A = [False] * len(news_A)
     found_B = [False] * len(news_B)
+    to_ret["len_A"] = len(news_A)
+    to_ret["len_B"] = len(news_B)
     to_ret["coupled_A"] = 0
     to_ret["coupled_B"] = 0
     to_ret["covered_A_percent"] = 0
@@ -111,13 +116,17 @@ def news_comparer(news_A, news_B):
     to_ret["covered_both_percent"] = 0
 
     for i in range(len(news_A)):
-        #concepts_A = get_concepts(news_A[i])
+        if not cosine:
+            concepts_A = get_concepts(news_A[i])
 
         for j in range(len(news_B)):
-            #concepts_B = get_concepts(news_B[j])
+            if not cosine:
+                concepts_B = get_concepts(news_B[j])
 
-            #to_ret[news_A[i]["en_title"]][news_B[j]["en_title"]] = single_comparer(news_A[i], news_B[j], concepts_A, concepts_B)
-            to_ret[news_A[i]["en_title"]][news_B[j]["en_title"]] = cosine_comparer(news_A[i], news_B[j])
+            if not cosine:
+                to_ret[news_A[i]["en_title"]][news_B[j]["en_title"]] = single_comparer(news_A[i], news_B[j], concepts_A, concepts_B)
+            else:
+                to_ret[news_A[i]["en_title"]][news_B[j]["en_title"]] = cosine_comparer(news_A[i], news_B[j])
 
             if to_ret[news_A[i]["en_title"]][news_B[j]["en_title"]]["are_similar"]:
                 found_A[i] = found_B[j] = True
@@ -165,10 +174,11 @@ def cosine_comparer(news_A, news_B):
 def get_concepts(news):
     to_ret = []
     for field in FIELDS_TO_NLP:
-        doc_title = NLP(news[field])
-        for t_token in doc_title:
-            if t_token.pos_ in COMP_POS and t_token.text:
-                to_ret.append(t_token.text)
+        if field in news:
+            doc_title = NLP(news[field])
+            for t_token in doc_title:
+                if t_token.pos_ in COMP_POS and t_token.text:
+                    to_ret.append(t_token.text)
     return to_ret
 
 
@@ -179,14 +189,14 @@ def concepts_comparison(concepts_A, polarity_A, subjectivity_A, concepts_B, pola
             if concept_A == concept_B and concept_A not in simil_concepts:
                 simil_concepts.append(concept_A)
     
-    return comparison_object_constructor(polarity_A, subjectivity_A, polarity_B, subjectivity_B, len(simil_concepts), simil_concepts)
+    return comparison_object_constructor(polarity_A, subjectivity_A, polarity_B, subjectivity_B, len(simil_concepts), simil_concepts, cosine=False, max_news_len=(len(concepts_A) + len(concepts_B))/2)
 
 
-def comparison_object_constructor(polarity_A, subjectivity_A, polarity_B, subjectivity_B, simil_concepts_length, simil_concepts, cosine= False):
+def comparison_object_constructor(polarity_A, subjectivity_A, polarity_B, subjectivity_B, simil_concepts_length, simil_concepts, cosine= False, max_news_len= 0):
     to_ret= {}
 
-    to_ret["are_similar"] = True if ((not cosine and simil_concepts_length >= SIMIL_LOWER_BOUND) or (cosine and simil_concepts_length >= COSINE_SIMIL_LOWER_BOUND)) else False
-    to_ret["similar_concepts_number" if len(simil_concepts) > 0 else "similarity_percentage"] = simil_concepts_length
+    to_ret["are_similar"] = True if ((not cosine and are_similar_naive(simil_concepts_length, max_news_len)) or (cosine and simil_concepts_length >= COSINE_SIMIL_LOWER_BOUND)) else False
+    to_ret["similar_concepts_number" if not cosine else "similarity_percentage"] = simil_concepts_length
     to_ret["polarity_X"] = polarity_A
     to_ret["subjectivity_X"] = subjectivity_A
     to_ret["polarity_Y"] = polarity_B
@@ -195,6 +205,12 @@ def comparison_object_constructor(polarity_A, subjectivity_A, polarity_B, subjec
 
     return to_ret
 
+
+def are_similar_naive(simil_length, news_length):
+    if int((news_length*SIMIL_LOWER_BOUND)/100) <= simil_length and int((news_length*SIMIL_LOWER_BOUND)/100) > 0:
+        return True
+    else:
+        return False
 
 def jsonizer(comparison, to_json_dir):
     if not os.path.exists(os.path.dirname(to_json_dir)):
@@ -207,13 +223,13 @@ def jsonizer(comparison, to_json_dir):
         json.dump(comparison, f, indent= 4, ensure_ascii= False)
         f.write("\n")
 
-def path_formatter(path_A, path_B, date, hour):
+def path_formatter(path_A, path_B, date, hour, cosine=False):
     newsp_A = path_A.split("/")
     newsp_B = path_B.split("/")
     newsp_A = newsp_A[len(newsp_A)-1]
     newsp_B = newsp_B[len(newsp_B)-1]
     final_hour = str(int(hour) + HOUR_RANGE)
-    to_ret = f"{OUT_DIR}/{max(newsp_A, newsp_B)}/{min(newsp_A, newsp_B)}/{date}/cos_{hour}-{final_hour}.json"
+    to_ret = f"{OUT_DIR}/{max(newsp_A, newsp_B)}/{min(newsp_A, newsp_B)}/{date}/{'cos_' if cosine else ''}{hour}-{final_hour}.json"
     return to_ret
 
 if __name__ == "__main__":

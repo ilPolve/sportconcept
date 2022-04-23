@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-import sys
 import os
 
 from newsTranslator import full_translator
@@ -12,7 +11,7 @@ GET_DIR = "../../Newscraping/collectedNews"
 
 CHECK_DIR = "./translated"
 
-TO_DO = ["EN/BBC"]
+TO_DO = ["EN/CNN", "FR/France24", "DE/Spiegel", "IT/ilPost", "IT/Televideo", "ES/ABC", "EN/BBC"]
 
 def main():
     for mydir in TO_DO:
