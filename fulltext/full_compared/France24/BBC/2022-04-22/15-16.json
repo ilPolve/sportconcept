@@ -1,0 +1,1105 @@
+{
+    "len_A": 12,
+    "len_B": 7,
+    "coupled_A": 2,
+    "coupled_B": 1,
+    "covered_A_percent": 52.63157894736842,
+    "covered_B_percent": 31.57894736842105,
+    "covered_both_percent": 15.789473684210535,
+    "How can we explain the unprecedented heat cut in polar regions?": {
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.039743589743589734,
+            "subjectivity_Y": 0.20757020757020758,
+            "simil_concepts": [
+                "regions",
+                "South",
+                "days",
+                "region",
+                "south",
+                "event"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.0745594837261504,
+            "subjectivity_Y": 0.25419592752926085,
+            "simil_concepts": [
+                "regions",
+                "time",
+                "years",
+                "period",
+                "event"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": -0.018518518518518507,
+            "subjectivity_Y": 0.16809116809116809,
+            "simil_concepts": [
+                "week",
+                "March",
+                "days",
+                "fact",
+                "time",
+                "cases"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "days",
+                "years",
+                "side",
+                "world",
+                "events",
+                "news"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "regions",
+                "week",
+                "locations",
+                "days",
+                "region",
+                "area",
+                "places",
+                "world",
+                "account",
+                "question"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "March",
+                "days",
+                "km",
+                "west",
+                "New"
+            ]
+        },
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "year"
+            ]
+        }
+    },
+    "Dams: Save Last Salmons": {
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.039743589743589734,
+            "subjectivity_Y": 0.20757020757020758,
+            "simil_concepts": [
+                "life"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.0745594837261504,
+            "subjectivity_Y": 0.25419592752926085,
+            "simil_concepts": [
+                "time",
+                "president",
+                "years",
+                "half",
+                "respect",
+                "months"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": -0.018518518518518507,
+            "subjectivity_Y": 0.16809116809116809,
+            "simil_concepts": [
+                "nature",
+                "time",
+                "fact",
+                "life",
+                "addition"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "source",
+                "years",
+                "life",
+                "months",
+                "news"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "question",
+                "life",
+                "months"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "life",
+                "site"
+            ]
+        },
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "year"
+            ]
+        }
+    },
+    "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.039743589743589734,
+            "subjectivity_Y": 0.20757020757020758,
+            "simil_concepts": [
+                "order"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.0745594837261504,
+            "subjectivity_Y": 0.25419592752926085,
+            "simil_concepts": [
+                "years",
+                "-",
+                "UN",
+                "respect"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": -0.018518518518518507,
+            "subjectivity_Y": 0.16809116809116809,
+            "simil_concepts": [
+                "business",
+                "people"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "world",
+                "years",
+                "news",
+                "business",
+                "thing"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "world",
+                "group",
+                "people"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": []
+        },
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        }
+    },
+    "The climate, big forgotten of the presidential campaign": {
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.039743589743589734,
+            "subjectivity_Y": 0.20757020757020758,
+            "simil_concepts": [
+                "power",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.0745594837261504,
+            "subjectivity_Y": 0.25419592752926085,
+            "simil_concepts": [
+                "election",
+                "power",
+                "security"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": -0.018518518518518507,
+            "subjectivity_Y": 0.16809116809116809,
+            "simil_concepts": [
+                "power"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "place",
+                "power",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "power",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "power",
+                "Ukraine"
+            ]
+        },
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        }
+    },
+    "A drought in winter": {
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.039743589743589734,
+            "subjectivity_Y": 0.20757020757020758,
+            "simil_concepts": [
+                "order"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.0745594837261504,
+            "subjectivity_Y": 0.25419592752926085,
+            "simil_concepts": [
+                "half",
+                "term"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": -0.018518518518518507,
+            "subjectivity_Y": 0.16809116809116809,
+            "simil_concepts": [
+                "operation",
+                "measures",
+                "result",
+                "nature"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "operation",
+                "month",
+                "centre",
+                "future",
+                "result",
+                "news"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "danger",
+                "plant"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "month",
+                "New",
+                "plant"
+            ]
+        },
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        }
+    },
+    "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.039743589743589734,
+            "subjectivity_Y": 0.20757020757020758,
+            "simil_concepts": [
+                "part",
+                "regions"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.0745594837261504,
+            "subjectivity_Y": 0.25419592752926085,
+            "simil_concepts": [
+                "-",
+                "country",
+                "government",
+                "years",
+                "regions",
+                "benefits"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": -0.018518518518518507,
+            "subjectivity_Y": 0.16809116809116809,
+            "simil_concepts": [
+                "countries",
+                "country",
+                "government"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "society",
+                "country",
+                "years",
+                "news"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "part",
+                "group",
+                "defenders",
+                "country",
+                "regions"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "part"
+            ]
+        },
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        }
+    },
+    "India: the challenge of access to drinking water for all": {
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.039743589743589734,
+            "subjectivity_Y": 0.20757020757020758,
+            "simil_concepts": [
+                "population"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.0745594837261504,
+            "subjectivity_Y": 0.25419592752926085,
+            "simil_concepts": [
+                "government",
+                "point",
+                "years"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": -0.018518518518518507,
+            "subjectivity_Y": 0.16809116809116809,
+            "simil_concepts": [
+                "countries",
+                "health",
+                "government"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "world",
+                "years",
+                "news"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "Minister"
+            ]
+        },
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        }
+    },
+    "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.039743589743589734,
+            "subjectivity_Y": 0.20757020757020758,
+            "simil_concepts": [
+                "part",
+                "troops",
+                "February"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.0745594837261504,
+            "subjectivity_Y": 0.25419592752926085,
+            "simil_concepts": [
+                "years",
+                "time"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": -0.018518518518518507,
+            "subjectivity_Y": 0.16809116809116809,
+            "simil_concepts": [
+                "time",
+                "centres",
+                "authorities",
+                "operation",
+                "March"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "World",
+                "years",
+                "place",
+                "citizens",
+                "operation",
+                "army",
+                "troops",
+                "force",
+                "February",
+                "news"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "part",
+                "troops",
+                "territory",
+                ".",
+                "passage"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "part",
+                "troops",
+                "March"
+            ]
+        },
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        }
+    },
+    "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.039743589743589734,
+            "subjectivity_Y": 0.20757020757020758,
+            "simil_concepts": [
+                "power"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.0745594837261504,
+            "subjectivity_Y": 0.25419592752926085,
+            "simil_concepts": [
+                "fight",
+                "country",
+                "power"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": -0.018518518518518507,
+            "subjectivity_Y": 0.16809116809116809,
+            "simil_concepts": [
+                "country",
+                "power"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "country",
+                "power",
+                "news"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "country",
+                "power",
+                "plant"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "power",
+                "plant"
+            ]
+        },
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        }
+    },
+    "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.039743589743589734,
+            "subjectivity_Y": 0.20757020757020758,
+            "simil_concepts": []
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.0745594837261504,
+            "subjectivity_Y": 0.25419592752926085,
+            "simil_concepts": [
+                "occasion"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": -0.018518518518518507,
+            "subjectivity_Y": 0.16809116809116809,
+            "simil_concepts": [
+                "March"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "question",
+                "world",
+                "danger"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "March",
+                "image"
+            ]
+        },
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        }
+    },
+    "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.039743589743589734,
+            "subjectivity_Y": 0.20757020757020758,
+            "simil_concepts": [
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.0745594837261504,
+            "subjectivity_Y": 0.25419592752926085,
+            "simil_concepts": [
+                "food"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": -0.018518518518518507,
+            "subjectivity_Y": 0.16809116809116809,
+            "simil_concepts": [
+                "food",
+                "people"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "world"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "people",
+                "world"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        }
+    },
+    "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.039743589743589734,
+            "subjectivity_Y": 0.20757020757020758,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "part",
+                "states"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.0745594837261504,
+            "subjectivity_Y": 0.25419592752926085,
+            "simil_concepts": [
+                "years",
+                "UN",
+                "-",
+                "time"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": -0.018518518518518507,
+            "subjectivity_Y": 0.16809116809116809,
+            "simil_concepts": [
+                "scale",
+                "time",
+                "buildings",
+                "countries"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "years",
+                "war",
+                "Ukraine",
+                "range",
+                "world",
+                "news",
+                "future"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "world",
+                "part",
+                "lot",
+                "use",
+                "bombs",
+                "buildings",
+                "group"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "Ukraine",
+                "part"
+            ]
+        },
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war",
+                "year"
+            ]
+        }
+    }
+}

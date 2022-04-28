@@ -1,0 +1,2670 @@
+{
+    "len_A": 28,
+    "len_B": 7,
+    "coupled_A": 3,
+    "coupled_B": 2,
+    "covered_A_percent": 71.42857142857143,
+    "covered_B_percent": 14.285714285714285,
+    "covered_both_percent": 14.285714285714278,
+    "Teacher raises more than $100,000 for food to keep thousands of children from going hungry over winter break": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "children",
+                "statement",
+                "mother",
+                "husband",
+                "help"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": [
+                "food"
+            ]
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "need",
+                "weeks",
+                "right",
+                "volunteers",
+                "day",
+                "situation",
+                "aim"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "year",
+                "families",
+                "people",
+                "years",
+                "country"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "children",
+                "people",
+                "schools",
+                "community",
+                "bag",
+                "group",
+                "days"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 17,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "thousands",
+                "year",
+                "insecurity",
+                "money",
+                "people",
+                "thing",
+                "%",
+                "cost",
+                "years",
+                "life",
+                "record",
+                "country",
+                "goods",
+                "living",
+                "time",
+                "mix",
+                "aim"
+            ]
+        }
+    },
+    "Meet CNN's Hero of the Year": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "men",
+                "women",
+                "children",
+                "son",
+                "mother",
+                "lot",
+                "-",
+                "help"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": [
+                "food"
+            ]
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "volunteers",
+                "People",
+                "day",
+                "world",
+                "place",
+                "-",
+                "operation",
+                "supplies"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "people",
+                "years"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "children",
+                "woman",
+                "people",
+                "part",
+                "group",
+                "health",
+                "officials",
+                "department",
+                "community",
+                "Today",
+                "groups",
+                "name"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "women",
+                "people",
+                "voters",
+                "years",
+                "thousands",
+                "part",
+                "insecurity",
+                "thing",
+                "life",
+                "-",
+                "time",
+                "sense"
+            ]
+        }
+    },
+    "This 10-year-old asked Santa last year for a Covid cure. This year he has a new request": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "children",
+                "lives",
+                "mother",
+                "help",
+                "son",
+                "lot",
+                "cancer",
+                "90s",
+                "president"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": [
+                "food"
+            ]
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "world",
+                "US",
+                "plans",
+                "day",
+                "90s"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "year",
+                "country",
+                "people",
+                "years",
+                "July",
+                "90s",
+                "hospital"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "children",
+                "people",
+                "community",
+                "90s",
+                "members",
+                "hospital",
+                "health",
+                "relatives",
+                "woman",
+                "days",
+                "police",
+                "leader"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "year",
+                "Covid",
+                "country",
+                "people",
+                "problem",
+                "years",
+                "90s",
+                "age",
+                "start",
+                "equipment",
+                "police",
+                "leader",
+                "president",
+                "thing",
+                "money"
+            ]
+        }
+    },
+    "Macron vs. Le Pen: The French presidential election runoff explained": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "Europe",
+                "politics",
+                "respect",
+                "lives",
+                "position",
+                "women",
+                "government",
+                "relationship"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": [
+                "President",
+                "Russia",
+                "Putin",
+                "ministry"
+            ]
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "right",
+                "President",
+                "place",
+                "Russia",
+                "Putin",
+                "day",
+                "month",
+                "advantage",
+                "Ukraine",
+                "Europe",
+                "war",
+                "politics",
+                "plan"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "President",
+                "country",
+                "year",
+                "families",
+                "years",
+                "politics",
+                "crisis",
+                "wake",
+                "people"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "campaign",
+                "media",
+                "politics",
+                "schools",
+                "minority",
+                "people",
+                "market",
+                "end"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": true,
+            "similar_concepts_number": 75,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "Macron",
+                "Le",
+                "Pen",
+                "election",
+                "France",
+                "rematch",
+                "Marine",
+                "Emmanuel",
+                "race",
+                "candidates",
+                "voters",
+                "polls",
+                "vote",
+                "country",
+                "%",
+                "year",
+                "elections",
+                "debate",
+                "performance",
+                "campaign",
+                "inflation",
+                "energy",
+                "prices",
+                "ties",
+                "Russia",
+                "support",
+                "poll",
+                "candidate",
+                "presidency",
+                "TV",
+                "rhetoric",
+                "start",
+                "referendum",
+                "years",
+                "decades",
+                "Ukraine",
+                "Europe",
+                "war",
+                "politics",
+                "parties",
+                "office",
+                "banker",
+                "record",
+                "European",
+                "Union",
+                "failures",
+                "policies",
+                "protests",
+                "policy",
+                "crisis",
+                "party",
+                "jobs",
+                "proposals",
+                "immigration",
+                "Islam",
+                "women",
+                "headscarves",
+                "public",
+                "EU",
+                "issues",
+                "sales",
+                "tax",
+                "goods",
+                "cost",
+                "living",
+                "government",
+                "people",
+                "climate",
+                "issue",
+                "wind",
+                "power",
+                "turbines",
+                "relationship",
+                "end",
+                "challenger"
+            ]
+        }
+    },
+    "He bought a cruise ship on Craigslist. Here's what happened next": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "Chris"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": []
+        }
+    },
+    "The summer of travel chaos just got more chaotic ": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "Covid",
+                "year"
+            ]
+        }
+    },
+    "Sign up for our 9-part Italy travel and food newsletter": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": [
+                "food"
+            ]
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "part"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "part"
+            ]
+        }
+    },
+    "Inside London's new $25B 'Super Tube' ": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": [
+                "side"
+            ]
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "meeting",
+                "city"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "plane"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "option"
+            ]
+        }
+    },
+    "It's official: now avoid credit card interest into 2024": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "official"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": []
+        }
+    },
+    "Can the world's largest plane ever fly again?": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "plane",
+                "aviation"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": []
+        }
+    },
+    "Unusual airlines that really existed": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "US"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "market"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "government"
+            ]
+        }
+    },
+    "Long-lost Charles Darwin notebooks returned with mysterious note": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "years"
+            ]
+        }
+    },
+    "0% intro APR until nearly 2024 is 100% insane": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "%"
+            ]
+        }
+    },
+    "Japanese photographer's family portraits are literally breathtaking ": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "bag"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": []
+        }
+    },
+    "The world's skinniest skyscraper completes": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": []
+        }
+    },
+    "Billionaire heiress Nicola Peltz marries Brooklyn Beckham in a decadent Valentino gown": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "son",
+                "football"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "football",
+                "weekend"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "year",
+                "football"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "football"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "year",
+                "football"
+            ]
+        }
+    },
+    "Grammy Awards 2022: Best fashion on the red carpet ": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": []
+        }
+    },
+    "These were the best and worst places for air quality in 2021, new report shows": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "move"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "world",
+                "US",
+                "need",
+                "change",
+                "city",
+                "network",
+                "use",
+                "order"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "country",
+                "people",
+                "year",
+                "number",
+                "July",
+                "crisis"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "health",
+                "United",
+                "people",
+                "number",
+                "deaths",
+                "capital",
+                "part",
+                "reports"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 23,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "levels",
+                "country",
+                "%",
+                "cities",
+                "standard",
+                "people",
+                "year",
+                "policies",
+                "fuels",
+                "issues",
+                "stations",
+                "fuel",
+                "energy",
+                "terms",
+                "miles",
+                "change",
+                "role",
+                "half",
+                "climate",
+                "crisis",
+                "part",
+                "warming",
+                "time"
+            ]
+        }
+    },
+    "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "lot",
+                "road",
+                "football",
+                "help",
+                "-",
+                "position",
+                "benefits"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "US",
+                "process",
+                "road",
+                "football",
+                "place",
+                "need",
+                "area",
+                "world",
+                "site",
+                "facilities",
+                "change",
+                "today",
+                "-",
+                "benefits"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "road",
+                "football",
+                "crisis",
+                "years",
+                "year",
+                "people",
+                "benefits"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "days",
+                "road",
+                "football",
+                "campaign",
+                "area",
+                "site",
+                "end",
+                "group",
+                "Richard",
+                "building",
+                "people",
+                "community",
+                "benefits",
+                "members",
+                "market",
+                "health"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 32,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "millions",
+                "fuels",
+                "energy",
+                "solution",
+                "space",
+                "%",
+                "half",
+                "power",
+                "road",
+                "football",
+                "campaign",
+                "time",
+                "climate",
+                "crisis",
+                "fuel",
+                "policy",
+                "years",
+                "wind",
+                "end",
+                "year",
+                "trade",
+                "change",
+                "sense",
+                "challenges",
+                "-",
+                "people",
+                "decades",
+                "money",
+                "benefits",
+                "jobs",
+                "leaders",
+                "renewables"
+            ]
+        }
+    },
+    "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "government",
+                "availability",
+                "statement"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": [
+                "region"
+            ]
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "US",
+                "news",
+                "River",
+                "change"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "year",
+                "people"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "news",
+                "people"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "%",
+                "year",
+                "government",
+                "time",
+                "millions",
+                "people",
+                "challenges",
+                "climate",
+                "change"
+            ]
+        }
+    },
+    "Germany faces $240 billion hit if Russian gas is cut off": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "point",
+                "war"
+            ]
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "Europe",
+                "Business",
+                "Minister",
+                "period",
+                "president",
+                "statement"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": [
+                "Russia",
+                "Putin"
+            ]
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "Wednesday",
+                "Europe",
+                "Moscow",
+                "Russia",
+                "Ukraine",
+                "Minister",
+                "Putin",
+                "war",
+                "supplies",
+                "month",
+                "plan"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "country",
+                "years",
+                "year",
+                "economy",
+                "Minister"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "officials"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 20,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "country",
+                "years",
+                "%",
+                "year",
+                "Europe",
+                "economy",
+                "European",
+                "Union",
+                "Russia",
+                "time",
+                "Ukraine",
+                "EU",
+                "leaders",
+                "term",
+                "fuel",
+                "energy",
+                "point",
+                "war",
+                "prices",
+                "president"
+            ]
+        }
+    },
+    "World's top oil trader will stop buying Russian crude ": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "Europe"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": [
+                "Russia",
+                "President"
+            ]
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "world",
+                "situation",
+                "news",
+                "Russia",
+                "Ukraine",
+                "Wednesday",
+                "supplies",
+                "day",
+                "Europe",
+                "President"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "year",
+                "President"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "end",
+                "news",
+                "United",
+                "market",
+                "agency",
+                "part"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "end",
+                "year",
+                "energy",
+                "Russia",
+                "Ukraine",
+                "Europe",
+                "European",
+                "Union",
+                "part",
+                "prices",
+                "%"
+            ]
+        }
+    },
+    "Amazon is adding a 5% fuel and inflation surcharge": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "-"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "Wednesday",
+                "-",
+                "world"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "spokesman"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "%",
+                "fuel",
+                "inflation",
+                "time",
+                "-",
+                "challenges",
+                "energy",
+                "prices",
+                "year",
+                "cost"
+            ]
+        }
+    },
+    "3 reasons Shanghai's lockdown matters to the global economy": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "day",
+                "city",
+                "world",
+                "month",
+                "place",
+                "value",
+                "authorities",
+                "state",
+                "port",
+                "US",
+                "east",
+                "facilities",
+                "links"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "economy",
+                "country",
+                "damage",
+                "number",
+                "year",
+                "aviation"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "market",
+                "number",
+                "end",
+                "State",
+                "media",
+                "vehicle"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "economy",
+                "country",
+                "government",
+                "Covid",
+                "cities",
+                "%",
+                "time",
+                "end",
+                "role",
+                "trade",
+                "year",
+                "pressure",
+                "record",
+                "mix",
+                "outlook"
+            ]
+        }
+    },
+    "Macron spars with French presidential challenger Le Pen in fiery TV debate": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "commitment",
+                "president",
+                "Europe",
+                "women"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": [
+                "President",
+                "Russia",
+                "Putin"
+            ]
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "President",
+                "Wednesday",
+                "right",
+                "value",
+                "Russia",
+                "Putin",
+                "Ukraine",
+                "Moscow",
+                "Zelensky",
+                "US",
+                "Europe",
+                "war",
+                "day"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "President",
+                "crisis",
+                "people",
+                "years",
+                "country"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "leader",
+                "people",
+                "campaign",
+                "health",
+                "market",
+                "groups",
+                "media"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": true,
+            "similar_concepts_number": 57,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "Macron",
+                "challenger",
+                "Le",
+                "Pen",
+                "TV",
+                "debate",
+                "Emmanuel",
+                "Marine",
+                "incumbent",
+                "tune",
+                "European",
+                "Union",
+                "leader",
+                "party",
+                "public",
+                "cost",
+                "living",
+                "crisis",
+                "people",
+                "president",
+                "priority",
+                "years",
+                "money",
+                "campaign",
+                "VAT",
+                "tax",
+                "energy",
+                "fuel",
+                "candidates",
+                "France",
+                "loan",
+                "bank",
+                "leaders",
+                "banker",
+                "Russia",
+                "problem",
+                "Ukraine",
+                "time",
+                "polls",
+                "opponent",
+                "support",
+                "country",
+                "voters",
+                "climate",
+                "hypocrite",
+                "policies",
+                "Europe",
+                "taxes",
+                "election",
+                "EU",
+                "nations",
+                "wearing",
+                "headscarf",
+                "women",
+                "Islamism",
+                "war",
+                "vote"
+            ]
+        }
+    },
+    "Elon Musk says his offer to buy Twitter is about 'the future of civilization,' not making money": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "point"
+            ]
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "Twitter",
+                "Chris"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": [
+                "test"
+            ]
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "Thursday",
+                "test",
+                "plan"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "people"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "Twitter",
+                "Thursday",
+                "stage",
+                "people"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "money",
+                "stage",
+                "point",
+                "terms",
+                "sense",
+                "people",
+                "problem",
+                "issues",
+                "%",
+                "ideas",
+                "time"
+            ]
+        }
+    },
+    "Two of India's biggest celebrities tie the knot": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": []
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "Thursday"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "Thursday"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": []
+        }
+    },
+    "Taiwan investigates local TV network after it aired false reports of Chinese invasion": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.07447811447811449,
+            "subjectivity_X": 0.35395234395234393,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "war",
+                "weapons"
+            ]
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.07447811447811449,
+            "subjectivity_X": 0.35395234395234393,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "government",
+                "statement",
+                "Minister"
+            ]
+        },
+        "Russia releases video of nuclear-capable missile test": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.07447811447811449,
+            "subjectivity_X": 0.35395234395234393,
+            "polarity_Y": 0.0634469696969697,
+            "subjectivity_Y": 0.14829545454545454,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "Mariupol steelworks: 'Block it so a fly can't pass'": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": -0.07447811447811449,
+            "subjectivity_X": 0.35395234395234393,
+            "polarity_Y": 0.3047797514067356,
+            "subjectivity_Y": 0.44796128327874357,
+            "simil_concepts": [
+                "network",
+                "news",
+                "Wednesday",
+                "port",
+                "facilities",
+                "war",
+                "President",
+                "order",
+                "authorities",
+                "use",
+                "People",
+                "US",
+                "weapons",
+                "place",
+                "Minister"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.07447811447811449,
+            "subjectivity_X": 0.35395234395234393,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "President",
+                "people",
+                "Minister"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.07447811447811449,
+            "subjectivity_X": 0.35395234395234393,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "reports",
+                "news",
+                "station",
+                "part",
+                "capital",
+                "people",
+                "group",
+                "United",
+                "media",
+                "investigation",
+                "violations"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.07447811447811449,
+            "subjectivity_X": 0.35395234395234393,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "TV",
+                "government",
+                "part",
+                "war",
+                "people",
+                "support",
+                "weapons",
+                "sales",
+                "public",
+                "viewers"
+            ]
+        }
+    }
+}

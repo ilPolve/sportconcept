@@ -1,0 +1,4111 @@
+{
+    "len_A": 28,
+    "len_B": 10,
+    "coupled_A": 1,
+    "coupled_B": 1,
+    "covered_A_percent": 71.05263157894737,
+    "covered_B_percent": 23.684210526315788,
+    "covered_both_percent": 5.26315789473685,
+    "Teacher raises more than $100,000 for food to keep thousands of children from going hungry over winter break": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "group"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "children",
+                "families",
+                "money",
+                "people",
+                "vacation",
+                "community",
+                "army",
+                "life",
+                "day",
+                "promise",
+                "parents",
+                "husband",
+                "family",
+                "country",
+                "way",
+                "situation",
+                "time",
+                "days"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "people",
+                "years"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "Public",
+                "money",
+                "people",
+                "day",
+                "question",
+                "situation",
+                "\"The"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "weeks",
+                "army",
+                "case",
+                "question",
+                "country",
+                "days"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "year",
+                "weeks",
+                "people",
+                "years",
+                "time",
+                "group"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "money",
+                "care",
+                "years",
+                "action",
+                "day",
+                "way",
+                "time",
+                "group"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "weeks",
+                "right",
+                "people",
+                "thing",
+                "care",
+                "case",
+                "holiday",
+                "word",
+                "day",
+                "country",
+                "way",
+                "situation",
+                "time",
+                "help",
+                "spring"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 19,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "food",
+                "year",
+                "need",
+                "weeks",
+                "right",
+                "people",
+                "army",
+                "life",
+                "\"I",
+                "day",
+                "promise",
+                "question",
+                "country",
+                "situation",
+                "result",
+                "time",
+                "help",
+                "days",
+                "spring"
+            ]
+        }
+    },
+    "Why Australia and the US care so much about China's security pact with a tiny Pacific island nation": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "minister",
+                "government",
+                "critics",
+                "leader"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "disaster",
+                "war"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 28,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "nation",
+                "week",
+                "country",
+                "States",
+                "fear",
+                "Tuesday",
+                "chance",
+                "fears",
+                "situation",
+                "partners",
+                "minister",
+                "order",
+                "disaster",
+                "others",
+                "Minister",
+                "party",
+                "lot",
+                "policy",
+                "tank",
+                "Sea",
+                "people",
+                "war",
+                "uncertainty",
+                "place",
+                "community",
+                "things",
+                "symbol",
+                "family"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "US",
+                "security",
+                "peace",
+                "protests",
+                "base",
+                "police",
+                "party",
+                "expert",
+                "policy",
+                "people",
+                "war",
+                "place",
+                "years"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "situation",
+                "government",
+                "people",
+                "war",
+                "\"The"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "country",
+                "countries",
+                "details",
+                "experts",
+                "partners",
+                "weeks",
+                "government",
+                "Minister",
+                "issue",
+                "war",
+                "allies"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "agreement",
+                "year",
+                "weeks",
+                "capital",
+                "government",
+                "people",
+                "majority",
+                "past",
+                "years"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "security",
+                "week",
+                "countries",
+                "partners",
+                "defense",
+                "government",
+                "Foreign",
+                "party",
+                "lot",
+                "expert",
+                "tank",
+                "terms",
+                "war",
+                "criticism",
+                "leader",
+                "things",
+                "years",
+                "rise"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "week",
+                "country",
+                "protests",
+                "situation",
+                "Washington",
+                "weeks",
+                "help",
+                "government",
+                "islands",
+                "Minister",
+                "policy",
+                "conflict",
+                "people",
+                "war",
+                "place",
+                "opposition"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 38,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "agreement",
+                "country",
+                "protests",
+                "year",
+                "countries",
+                "United",
+                "States",
+                "Tuesday",
+                "situation",
+                "minister",
+                "Washington",
+                "weeks",
+                "help",
+                "capital",
+                "anger",
+                "government",
+                "stage",
+                "plan",
+                "Prime",
+                "Minister",
+                "Foreign",
+                "party",
+                "lot",
+                "form",
+                "need",
+                "policy",
+                "Sea",
+                "home",
+                "result",
+                "people",
+                "war",
+                "uncertainty",
+                "criticism",
+                "leader",
+                "things",
+                "idea",
+                "position",
+                "rise"
+            ]
+        }
+    },
+    "Sign up for our 9-part Italy travel and food newsletter": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": []
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "food"
+            ]
+        }
+    },
+    "This 10-year-old asked Santa last year for a Covid cure. This year he has a new request": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "leader"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 25,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "world",
+                "pandemic",
+                "children",
+                "country",
+                "vaccine",
+                "parents",
+                "variant",
+                "nation",
+                "people",
+                "son",
+                "example",
+                "way",
+                "community",
+                "effect",
+                "lot",
+                "day",
+                "others",
+                "family",
+                "week",
+                "car",
+                "start",
+                "things",
+                "days",
+                "president",
+                "money"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "world",
+                "US",
+                "people",
+                "years",
+                "members",
+                "police"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "world",
+                "letter",
+                "people",
+                "problem",
+                "day",
+                "president",
+                "camp",
+                "money"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "country",
+                "variant",
+                "ways",
+                "equipment",
+                "case",
+                "days"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "year",
+                "people",
+                "years",
+                "age",
+                "members",
+                "past"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "world",
+                "example",
+                "way",
+                "years",
+                "lot",
+                "day",
+                "week",
+                "members",
+                "equipment",
+                "care",
+                "things",
+                "leader",
+                "decisions",
+                "money"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 22,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "world",
+                "pandemic",
+                "country",
+                "holiday",
+                "Florida",
+                "help",
+                "virus",
+                "people",
+                "son",
+                "extent",
+                "problem",
+                "way",
+                "effect",
+                "day",
+                "week",
+                "ones",
+                "members",
+                "start",
+                "care",
+                "case",
+                "president",
+                "thing"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 22,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "year",
+                "world",
+                "pandemic",
+                "country",
+                "help",
+                "virus",
+                "people",
+                "example",
+                "feelings",
+                "lot",
+                "impact",
+                "day",
+                "birthday",
+                "food",
+                "home",
+                "doctor",
+                "hospital",
+                "Mayor",
+                "things",
+                "days",
+                "leader",
+                "president"
+            ]
+        }
+    },
+    "Unusual airlines that really existed": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": []
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "US"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "government",
+                "industry"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "government",
+                "industry"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "government",
+                "entry"
+            ]
+        }
+    },
+    "Inside London's new $25B 'Super Tube' ": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "hours",
+                "way"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "meeting",
+                "city"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "side",
+                "way",
+                "traffic"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "way"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "hours",
+                "meeting",
+                "side",
+                "city",
+                "traffic",
+                "plane"
+            ]
+        }
+    },
+    "Meet CNN's Hero of the Year": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "group",
+                "-",
+                "supplies"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 24,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "Year",
+                "women",
+                "Sunday",
+                "children",
+                "son",
+                "lot",
+                "people",
+                "streets",
+                "voters",
+                "week",
+                "nation",
+                "pandemic",
+                "day",
+                "death",
+                "world",
+                "life",
+                "place",
+                "companies",
+                "-",
+                "time",
+                "times",
+                "community",
+                "Today",
+                "way"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "people",
+                "years",
+                "world",
+                "place",
+                "-",
+                "residents"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "people",
+                "day",
+                "world"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "exchange",
+                "times",
+                "ways"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "people",
+                "voters",
+                "years",
+                "group",
+                "time",
+                "groups"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "lot",
+                "years",
+                "week",
+                "day",
+                "world",
+                "group",
+                "time",
+                "supplies",
+                "rise",
+                "way"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "men",
+                "son",
+                "people",
+                "week",
+                "team",
+                "pandemic",
+                "day",
+                "death",
+                "world",
+                "thing",
+                "place",
+                "-",
+                "time",
+                "times",
+                "sense",
+                "help",
+                "way",
+                "hope"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 21,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "lot",
+                "people",
+                "exchange",
+                "night",
+                "food",
+                "home",
+                "pandemic",
+                "day",
+                "grief",
+                "world",
+                "\"I",
+                "life",
+                "-",
+                "time",
+                "times",
+                "vaccination",
+                "rates",
+                "rise",
+                "help",
+                "hope",
+                "reason"
+            ]
+        }
+    },
+    "He bought a cruise ship on Craigslist. Here's what happened next": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "day"
+            ]
+        }
+    },
+    "Can the world's largest plane ever fly again?": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "world",
+                "plane"
+            ]
+        }
+    },
+    "Japanese photographer's family portraits are literally breathtaking ": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "family"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "house"
+            ]
+        }
+    },
+    "The summer of travel chaos just got more chaotic ": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "cases"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "year"
+            ]
+        }
+    },
+    "The world's skinniest skyscraper completes": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "world"
+            ]
+        }
+    },
+    "Billionaire heiress Nicola Peltz marries Brooklyn Beckham in a decadent Valentino gown": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "son",
+                "football",
+                "family"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "son",
+                "Florida"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "thanks",
+                "year",
+                "David",
+                "weekend"
+            ]
+        }
+    },
+    "Long-lost Charles Darwin notebooks returned with mysterious note": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": []
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": []
+        }
+    },
+    "Powerful photo by Pacific Indigenous artist reveals truth about 1899 painting": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "morning",
+                "day"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "morning"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "morning",
+                "day"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "morning",
+                "day"
+            ]
+        }
+    },
+    "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "addition",
+                "feet",
+                "times",
+                "news",
+                "week",
+                "nation",
+                "time",
+                "people"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "US",
+                "addition",
+                "data",
+                "people"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "addition",
+                "government",
+                "supply",
+                "people"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "times",
+                "news",
+                "experts",
+                "government",
+                "supply"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "year",
+                "government",
+                "time",
+                "people",
+                "change"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "week",
+                "government",
+                "time",
+                "threshold",
+                "supply",
+                "information"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "Bureau",
+                "times",
+                "news",
+                "week",
+                "government",
+                "time",
+                "sea",
+                "people",
+                "climate",
+                "change"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "addition",
+                "year",
+                "times",
+                "news",
+                "rate",
+                "government",
+                "time",
+                "states",
+                "people",
+                "electricity",
+                "future",
+                "science"
+            ]
+        }
+    },
+    "Germany faces $240 billion hit if Russian gas is cut off": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "supplies"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "Kiev",
+                "time",
+                "Ukraine",
+                "war"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 20,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "Germany",
+                "gas",
+                "country",
+                "Europe",
+                "suburb",
+                "Kiev",
+                "Moscow",
+                "Russia",
+                "time",
+                "Ukraine",
+                "EU",
+                "week",
+                "Minister",
+                "Christian",
+                "Lindner",
+                "Putin",
+                "war",
+                "Federal",
+                "politicians",
+                "president"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "Germany",
+                "years",
+                "Russia",
+                "Ukraine",
+                "war",
+                "data"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "Germany",
+                "supply",
+                "Russia",
+                "Ukraine",
+                "sanctions",
+                "question",
+                "war",
+                "Consumer",
+                "Federal",
+                "industry",
+                "Marie",
+                "president"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "Germany",
+                "supply",
+                "country",
+                "Kiev",
+                "Union",
+                "Russia",
+                "Ukraine",
+                "Minister",
+                "question",
+                "war",
+                "Federal"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "years",
+                "year",
+                "time",
+                "leaders",
+                "politicians"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": true,
+            "similar_concepts_number": 22,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "Germany",
+                "supply",
+                "years",
+                "director",
+                "World",
+                "European",
+                "Union",
+                "time",
+                "Ukraine",
+                "action",
+                "Agency",
+                "week",
+                "energy",
+                "Putin",
+                "newspaper",
+                "embargo",
+                "war",
+                "supplies",
+                "Federal",
+                "Office",
+                "industry",
+                "Marie"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 19,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "gas",
+                "country",
+                "Europe",
+                "research",
+                "Moscow",
+                "Russia",
+                "time",
+                "Ukraine",
+                "week",
+                "Finance",
+                "Minister",
+                "Christian",
+                "Lindner",
+                "energy",
+                "point",
+                "Putin",
+                "war",
+                "Federal",
+                "president"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 32,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "Germany",
+                "country",
+                "year",
+                "economy",
+                "World",
+                "Economy",
+                "Kiev",
+                "Union",
+                "Russia",
+                "time",
+                "Ukraine",
+                "EU",
+                "term",
+                "International",
+                "Energy",
+                "electricity",
+                "Finance",
+                "Minister",
+                "Christian",
+                "Lindner",
+                "energy",
+                "stop",
+                "question",
+                "Putin",
+                "interview",
+                "war",
+                "prices",
+                "Federal",
+                "Office",
+                "plan",
+                "politicians",
+                "president"
+            ]
+        }
+    },
+    "3 reasons Shanghai's lockdown matters to the global economy": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "cities",
+                "time"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "day",
+                "country",
+                "world",
+                "place",
+                "quarter",
+                "time",
+                "week",
+                "companies",
+                "role",
+                "times",
+                "cars",
+                "Tesla",
+                "addition"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "residents",
+                "world",
+                "place",
+                "data",
+                "US",
+                "addition",
+                "links"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "day",
+                "city",
+                "world",
+                "government",
+                "state",
+                "supply",
+                "industry",
+                "addition"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "country",
+                "government",
+                "exchange",
+                "times",
+                "pressure",
+                "supply"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "government",
+                "time",
+                "state",
+                "year"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "day",
+                "world",
+                "government",
+                "time",
+                "week",
+                "end",
+                "pressure",
+                "supply",
+                "industry",
+                "March"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "day",
+                "country",
+                "world",
+                "government",
+                "place",
+                "cities",
+                "time",
+                "week",
+                "state",
+                "times",
+                "port",
+                "east",
+                "research",
+                "extent"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 22,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "economy",
+                "day",
+                "home",
+                "country",
+                "city",
+                "world",
+                "sign",
+                "government",
+                "time",
+                "number",
+                "exchange",
+                "statistics",
+                "year",
+                "times",
+                "International",
+                "port",
+                "pressure",
+                "March",
+                "high",
+                "addition",
+                "Apple",
+                "iPhone"
+            ]
+        }
+    },
+    "Elon Musk says his offer to buy Twitter is about 'the future of civilization,' not making money": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "money",
+                "Thursday",
+                "way",
+                "Tesla",
+                "people",
+                "things",
+                "errors",
+                "time"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "people"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "money",
+                "\"The",
+                "people",
+                "problem"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "case"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "people",
+                "time"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "money",
+                "terms",
+                "way",
+                "CEO",
+                "decisions",
+                "things",
+                "time"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "conference",
+                "point",
+                "way",
+                "sense",
+                "people",
+                "problem",
+                "case",
+                "time"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "Twitter",
+                "future",
+                "Thursday",
+                "stage",
+                "interview",
+                "conference",
+                "speech",
+                "content",
+                "people",
+                "test",
+                "tweet",
+                "things",
+                "plan",
+                "time"
+            ]
+        }
+    },
+    "World's top oil trader will stop buying Russian crude ": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "Group",
+                "supplies",
+                "President"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "world",
+                "situation",
+                "news",
+                "Russia",
+                "Ukraine",
+                "States",
+                "companies",
+                "day",
+                "Europe",
+                "week"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "world",
+                "Russia",
+                "Ukraine",
+                "April"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "world",
+                "situation",
+                "Russia",
+                "Ukraine",
+                "sanctions",
+                "day",
+                "purchases",
+                "Commission",
+                "supply"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "news",
+                "Russia",
+                "Ukraine",
+                "Union",
+                "supply",
+                "countries"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "Group",
+                "year"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "World",
+                "Group",
+                "world",
+                "end",
+                "energy",
+                "Ukraine",
+                "embargo",
+                "Agency",
+                "supplies",
+                "day",
+                "European",
+                "Union",
+                "week",
+                "supply",
+                "March",
+                "countries"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "world",
+                "situation",
+                "energy",
+                "news",
+                "Russia",
+                "Ukraine",
+                "day",
+                "Europe",
+                "week",
+                "President"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 20,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "World",
+                "world",
+                "year",
+                "situation",
+                "energy",
+                "news",
+                "Russia",
+                "Ukraine",
+                "United",
+                "States",
+                "International",
+                "Energy",
+                "day",
+                "April",
+                "Union",
+                "President",
+                "impact",
+                "prices",
+                "March",
+                "countries"
+            ]
+        }
+    },
+    "Honduras extradites former president to the US to face drug trafficking charges": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.028590853590853588,
+            "subjectivity_X": 0.13672808672808673,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "President",
+                "government",
+                "leader",
+                "-"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.028590853590853588,
+            "subjectivity_X": 0.13672808672808673,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": -0.028590853590853588,
+            "subjectivity_X": 0.13672808672808673,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "president",
+                "Thursday",
+                "States",
+                "time",
+                "country",
+                "news",
+                "television",
+                "family",
+                "families",
+                "nation",
+                "office",
+                "life",
+                "-",
+                "money",
+                "consequences"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.028590853590853588,
+            "subjectivity_X": 0.13672808672808673,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "US",
+                "police",
+                "base",
+                "peace",
+                "years",
+                "-"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.028590853590853588,
+            "subjectivity_X": 0.13672808672808673,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "president",
+                "state",
+                "government",
+                "money"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.028590853590853588,
+            "subjectivity_X": 0.13672808672808673,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "guns",
+                "country",
+                "news",
+                "government",
+                "case",
+                "countries",
+                "exchange"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.028590853590853588,
+            "subjectivity_X": 0.13672808672808673,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "time",
+                "state",
+                "government",
+                "capital",
+                "years",
+                "groups",
+                "leaders"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.028590853590853588,
+            "subjectivity_X": 0.13672808672808673,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "time",
+                "guns",
+                "government",
+                "air",
+                "countries",
+                "years",
+                "leader",
+                "money",
+                "network",
+                "rise",
+                "information"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 19,
+            "polarity_X": -0.028590853590853588,
+            "subjectivity_X": 0.13672808672808673,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "Honduras",
+                "president",
+                "drug",
+                "Juan",
+                "Orlando",
+                "Hernández",
+                "time",
+                "President",
+                "country",
+                "state",
+                "news",
+                "conference",
+                "government",
+                "video",
+                "case",
+                "process",
+                "-",
+                "dollars",
+                "consequences"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 27,
+            "polarity_X": -0.028590853590853588,
+            "subjectivity_X": 0.13672808672808673,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "president",
+                "Thursday",
+                "United",
+                "States",
+                "time",
+                "position",
+                "President",
+                "country",
+                "news",
+                "conference",
+                "government",
+                "forces",
+                "capital",
+                "plane",
+                "International",
+                "Twitter",
+                "countries",
+                "office",
+                "leader",
+                "home",
+                "exchange",
+                "life",
+                "-",
+                "dollars",
+                "rise",
+                "violence",
+                "consequences"
+            ]
+        }
+    },
+    "Two of India's biggest celebrities tie the knot": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "Thursday"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "Thursday",
+                "cinema"
+            ]
+        }
+    },
+    "Novak Djokovic calls Wimbledon ban on Russian and Belarusian players 'crazy'": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.08623306233062329,
+            "subjectivity_X": 0.48501355013550135,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "Government"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.08623306233062329,
+            "subjectivity_X": 0.48501355013550135,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time",
+                "Ukraine",
+                "war"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.08623306233062329,
+            "subjectivity_X": 0.48501355013550135,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "time",
+                "Russia",
+                "Ukraine",
+                "war",
+                "world",
+                "day",
+                "president",
+                "politics",
+                "means",
+                "women"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.08623306233062329,
+            "subjectivity_X": 0.48501355013550135,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "Russia",
+                "Ukraine",
+                "war",
+                "world",
+                "years",
+                "US"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.08623306233062329,
+            "subjectivity_X": 0.48501355013550135,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "Russia",
+                "invasion",
+                "Ukraine",
+                "war",
+                "world",
+                "day",
+                "president",
+                "Government",
+                "industry",
+                "\"The"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.08623306233062329,
+            "subjectivity_X": 0.48501355013550135,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "Russia",
+                "Ukraine",
+                "war",
+                "Government"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.08623306233062329,
+            "subjectivity_X": 0.48501355013550135,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "time",
+                "year",
+                "years"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.08623306233062329,
+            "subjectivity_X": 0.48501355013550135,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "time",
+                "Ukraine",
+                "war",
+                "world",
+                "years",
+                "day",
+                "end",
+                "Government",
+                "industry"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.08623306233062329,
+            "subjectivity_X": 0.48501355013550135,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "time",
+                "champion",
+                "Russia",
+                "Ukraine",
+                "war",
+                "world",
+                "day",
+                "president",
+                "sport",
+                "men"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 17,
+            "polarity_X": -0.08623306233062329,
+            "subjectivity_X": 0.48501355013550135,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "Wimbledon",
+                "players",
+                "time",
+                "year",
+                "Russia",
+                "Ukraine",
+                "war",
+                "world",
+                "beginning",
+                "day",
+                "president",
+                "troops",
+                "politics",
+                "result",
+                "United",
+                "Government",
+                "number"
+            ]
+        }
+    },
+    "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "Group",
+                "group",
+                "-"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 29,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "parking",
+                "lot",
+                "space",
+                "spaces",
+                "companies",
+                "cars",
+                "days",
+                "gas",
+                "example",
+                "feet",
+                "football",
+                "time",
+                "place",
+                "policy",
+                "nation",
+                "hours",
+                "world",
+                "others",
+                "times",
+                "quarter",
+                "model",
+                "today",
+                "-",
+                "people",
+                "things",
+                "money",
+                "community",
+                "way",
+                "one"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "US",
+                "sources",
+                "place",
+                "policy",
+                "years",
+                "world",
+                "-",
+                "people",
+                "members"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "Environment",
+                "world",
+                "industry",
+                "people",
+                "money"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "experts",
+                "days",
+                "training",
+                "times",
+                "case",
+                "ways"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "Group",
+                "time",
+                "years",
+                "year",
+                "group",
+                "change",
+                "people",
+                "members",
+                "leaders"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 19,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "energy",
+                "lot",
+                "Group",
+                "example",
+                "director",
+                "time",
+                "training",
+                "years",
+                "world",
+                "end",
+                "industry",
+                "group",
+                "things",
+                "money",
+                "way",
+                "members",
+                "manner",
+                "action",
+                "air"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 25,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "energy",
+                "dollars",
+                "process",
+                "Environment",
+                "research",
+                "gas",
+                "time",
+                "place",
+                "revolution",
+                "climate",
+                "policy",
+                "help",
+                "world",
+                "development",
+                "times",
+                "location",
+                "case",
+                "change",
+                "sense",
+                "today",
+                "-",
+                "people",
+                "way",
+                "members",
+                "one"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 27,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "energy",
+                "lot",
+                "dollars",
+                "days",
+                "electricity",
+                "example",
+                "time",
+                "growth",
+                "need",
+                "policy",
+                "help",
+                "hours",
+                "world",
+                "times",
+                "impact",
+                "year",
+                "Energy",
+                "Association",
+                "today",
+                "-",
+                "people",
+                "things",
+                "reason",
+                "position",
+                "bill",
+                "one",
+                "future"
+            ]
+        }
+    },
+    "0% intro APR until nearly 2024 is 100% insane": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": []
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": []
+        }
+    },
+    "It's official: now avoid credit card interest into 2024": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": []
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "interest"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": []
+        }
+    },
+    "Amazon is adding a 5% fuel and inflation surcharge": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "-"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "time",
+                "-",
+                "world",
+                "News",
+                "example",
+                "partners"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "e",
+                "-",
+                "April",
+                "world"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "world",
+                "spokesman",
+                "Consumer",
+                "increases"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "return",
+                "partners"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "time",
+                "year"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "time",
+                "world",
+                "spokesman",
+                "Patrick",
+                "example",
+                "energy",
+                "March",
+                "partners"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "time",
+                "-",
+                "world",
+                "News",
+                "energy",
+                "Bureau"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "inflation",
+                "time",
+                "e",
+                "-",
+                "April",
+                "return",
+                "world",
+                "rates",
+                "News",
+                "example",
+                "energy",
+                "prices",
+                "March",
+                "year",
+                "impact"
+            ]
+        }
+    },
+    "These were the best and worst places for air quality in 2021, new report shows": {
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "matter"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "cities",
+                "time"
+            ]
+        },
+        "News: Emmanuel Macron, Marine Le Pen, France, The Left, Ukraine War": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.12023157102944337,
+            "subjectivity_Y": 0.37055394369224165,
+            "simil_concepts": [
+                "world",
+                "country",
+                "States",
+                "times",
+                "people",
+                "role",
+                "time",
+                "reports",
+                "addition",
+                "order"
+            ]
+        },
+        "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.003496168582375478,
+            "subjectivity_Y": 0.10793650793650794,
+            "simil_concepts": [
+                "world",
+                "US",
+                "people",
+                "sources",
+                "data",
+                "addition"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "world",
+                "people",
+                "\"The",
+                "city",
+                "addition"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "country",
+                "countries",
+                "times",
+                "matter"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "people",
+                "year",
+                "change",
+                "capital",
+                "time"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "air",
+                "world",
+                "countries",
+                "CEO",
+                "energy",
+                "terms",
+                "time",
+                "network",
+                "action"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.16191565248169024,
+            "subjectivity_Y": 0.4914481744670424,
+            "simil_concepts": [
+                "world",
+                "country",
+                "cities",
+                "times",
+                "people",
+                "energy",
+                "change",
+                "climate",
+                "time"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 20,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "levels",
+                "world",
+                "country",
+                "United",
+                "States",
+                "countries",
+                "times",
+                "need",
+                "people",
+                "year",
+                "concentration",
+                "number",
+                "deaths",
+                "energy",
+                "impact",
+                "capital",
+                "city",
+                "time",
+                "addition",
+                "reason"
+            ]
+        }
+    }
+}

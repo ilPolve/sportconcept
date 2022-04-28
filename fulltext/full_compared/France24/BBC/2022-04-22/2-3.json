@@ -1,0 +1,804 @@
+{
+    "len_A": 13,
+    "len_B": 4,
+    "coupled_A": 0,
+    "coupled_B": 0,
+    "covered_A_percent": 76.47058823529412,
+    "covered_B_percent": 23.52941176470588,
+    "covered_both_percent": 0.0,
+    "A drought in winter": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "danger",
+                "plant"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "month",
+                "problem",
+                "research",
+                "future",
+                "product",
+                "living",
+                "%",
+                "ground",
+                "news"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "month",
+                "New",
+                "plant"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "centre",
+                "plant",
+                "conditions",
+                "resistance",
+                "ground"
+            ]
+        }
+    },
+    "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "people",
+                "world"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "crisis",
+                "Research",
+                "people",
+                "world"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "Ukraine",
+                "world"
+            ]
+        }
+    },
+    "The climate, big forgotten of the presidential campaign": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "place",
+                "crisis"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        }
+    },
+    "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "world",
+                "part",
+                "lot",
+                "use",
+                "bombs",
+                "buildings",
+                "group"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "years",
+                "world",
+                "economy",
+                "year",
+                "news",
+                "future",
+                "%",
+                "production",
+                "time",
+                "households"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Ukraine",
+                "part"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "Ukraine",
+                "world",
+                "-",
+                "bombs"
+            ]
+        }
+    },
+    "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "part",
+                "troops",
+                "territory",
+                ".",
+                "passage"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "years",
+                "place",
+                "time",
+                "television",
+                "users",
+                "news"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "part",
+                "troops",
+                "March"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "east",
+                "troops"
+            ]
+        }
+    },
+    "India: the challenge of access to drinking water for all": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "world",
+                "years",
+                "news"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Minister"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "world"
+            ]
+        }
+    },
+    "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "part",
+                "group",
+                "defenders",
+                "country",
+                "regions",
+                "benefits"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "crisis",
+                "years",
+                "%",
+                "benefits",
+                "news"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "part",
+                "benefits"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "-",
+                "defenders",
+                "benefits"
+            ]
+        }
+    },
+    "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "world",
+                "group",
+                "people"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "world",
+                "trend",
+                "economy",
+                "years",
+                "news",
+                "people",
+                "living"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "world",
+                "-"
+            ]
+        }
+    },
+    "How can we explain the unprecedented heat cut in polar regions?": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "regions",
+                "week",
+                "locations",
+                "days",
+                "region",
+                "area",
+                "places",
+                "world",
+                "account",
+                "question"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "week",
+                "South",
+                "London",
+                "attention",
+                "time",
+                "year",
+                "school",
+                "years",
+                "beginning",
+                "world",
+                "account",
+                "question",
+                "news"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "March",
+                "km",
+                "west",
+                "New"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "heat",
+                "days",
+                "east",
+                "km",
+                "south",
+                "world",
+                "situation"
+            ]
+        }
+    },
+    "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "question",
+                "world",
+                "danger"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "question",
+                "world",
+                "artist"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "March",
+                "image"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "world",
+                "image"
+            ]
+        }
+    },
+    "Dams: Save Last Salmons": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "question",
+                "months"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "research",
+                "time",
+                "question",
+                "living",
+                "years",
+                "production",
+                "months",
+                "year",
+                "%",
+                "news"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "site"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "months",
+                "site",
+                "help",
+                "conditions"
+            ]
+        }
+    },
+    "The fight of NGOs to make the climate exist in the presidential campaign": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "Vladimir",
+                "Putin",
+                "week",
+                "days",
+                "world",
+                "question",
+                "war",
+                "Ukraine",
+                "group",
+                "National",
+                "way",
+                "right",
+                "Marine",
+                "aim"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "media",
+                "time",
+                "%",
+                "week",
+                "world",
+                "future",
+                "question",
+                "survey",
+                "place",
+                "crisis",
+                "pandemic",
+                "news",
+                "television",
+                "journalist",
+                "users",
+                "way"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Putin",
+                "March",
+                "Ukraine",
+                "site"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "media",
+                "Putin",
+                "days",
+                "world",
+                "Ukraine",
+                "site",
+                "round",
+                "interview",
+                "centre"
+            ]
+        }
+    },
+    "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "President",
+                "Marine",
+                "video",
+                "world",
+                "police",
+                "law",
+                "buildings",
+                "lot",
+                "National",
+                "country",
+                "week",
+                "need",
+                "use"
+            ]
+        },
+        "Have we seen peak Netflix?": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.0401860905978553,
+            "subjectivity_Y": 0.1576695668166256,
+            "simil_concepts": [
+                "balance",
+                "sheet",
+                "time",
+                "year",
+                "world",
+                "student",
+                "law",
+                "years",
+                "%",
+                "strategy",
+                "problem",
+                "opposite",
+                "week",
+                "crisis",
+                "economy",
+                "news"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "President",
+                "round",
+                "Thursday",
+                "world",
+                "Convention"
+            ]
+        }
+    }
+}

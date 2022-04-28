@@ -1,0 +1,4374 @@
+{
+    "len_A": 13,
+    "len_B": 23,
+    "coupled_A": 0,
+    "coupled_B": 0,
+    "covered_A_percent": 36.11111111111111,
+    "covered_B_percent": 63.888888888888886,
+    "covered_both_percent": 0.0,
+    "A drought in winter": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "term",
+                "%",
+                "arms"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": [
+                "month",
+                "arms"
+            ]
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": [
+                "operation",
+                "plant",
+                "resistance",
+                "arms"
+            ]
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": [
+                "month",
+                "New"
+            ]
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": []
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "future",
+                "result",
+                "%",
+                "France"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": []
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "operation",
+                "water",
+                "face",
+                "conditions",
+                "technology",
+                "ground",
+                "arms"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": []
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": []
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "order",
+                "danger",
+                "face",
+                "resistance",
+                "%",
+                "France"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "order",
+                "effect",
+                "France"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "operation",
+                "water",
+                "plant",
+                "access",
+                "plants",
+                "face",
+                "anticipation",
+                "chance"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "research",
+                "future"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": [
+                "month"
+            ]
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "wine",
+                "technology"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": [
+                "plant",
+                "resistance",
+                "ground"
+            ]
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": [
+                "month"
+            ]
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": [
+                "resistance",
+                "hour"
+            ]
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": [
+                "%",
+                "France"
+            ]
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "face",
+                "result",
+                "France"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": [
+                "month"
+            ]
+        }
+    },
+    "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "world"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": [
+                "systems",
+                "United",
+                "war",
+                "Ukraine",
+                "people",
+                "change"
+            ]
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": [
+                "Saint"
+            ]
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "change"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "food",
+                "systems",
+                "Ukraine",
+                "people",
+                "world"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": [
+                "Nations"
+            ]
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "de",
+                "Saint",
+                "war",
+                "people"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "Saint",
+                "United",
+                "war",
+                "Ukraine",
+                "people",
+                "world"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "food",
+                "United",
+                "war",
+                "Ukraine",
+                "International",
+                "people",
+                "world"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "people",
+                "change"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": [
+                "United",
+                "Nations",
+                "war",
+                "Ukraine",
+                "people"
+            ]
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "United",
+                "Ukraine"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": [
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": []
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": [
+                "crisis",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": []
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "de",
+                "Saint",
+                "crisis",
+                "people"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        }
+    },
+    "The climate, big forgotten of the presidential campaign": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "opinion",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": [
+                "immigration",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": [
+                "campaign",
+                "opinion",
+                "Ukraine"
+            ]
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": [
+                "French"
+            ]
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": [
+                "war",
+                "emergency"
+            ]
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "French",
+                "opinion",
+                "surveys",
+                "election",
+                "immigration"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": [
+                "place",
+                "power"
+            ]
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "place",
+                "Ukraine"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": []
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "campaign",
+                "French",
+                "immigration",
+                "war"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "opinion",
+                "place",
+                "war",
+                "Ukraine",
+                "energy"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "place",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": [
+                "power",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": [
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": []
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "crisis"
+            ]
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": [
+                "place"
+            ]
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "campaign",
+                "issue",
+                "issues",
+                "crisis"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        }
+    },
+    "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "range",
+                "world",
+                "gas",
+                "today",
+                "%",
+                "vehicles",
+                "flows",
+                "countries"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "economy",
+                "part",
+                "production",
+                "time",
+                "member",
+                "group"
+            ]
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": [
+                "Ukraine",
+                "today",
+                "time",
+                "group"
+            ]
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": [
+                "end"
+            ]
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "part",
+                "end",
+                "future",
+                "today",
+                "%",
+                "-",
+                "time",
+                "France"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": [
+                "world",
+                "policies",
+                "year",
+                "cent",
+                "time",
+                "group"
+            ]
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "years",
+                "Ukraine",
+                "world",
+                "part",
+                "today",
+                "technology",
+                "light",
+                "time",
+                "countries"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": [
+                "dependence",
+                "%"
+            ]
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": [
+                "years",
+                "war",
+                "activist",
+                "vehicles",
+                "group"
+            ]
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": [
+                "war",
+                "form"
+            ]
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "years",
+                "war",
+                "end",
+                "century",
+                "today",
+                "%",
+                "time",
+                "heart",
+                "group",
+                "France"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "humanity",
+                "war",
+                "Ukraine",
+                "world",
+                "Secretary",
+                "General",
+                "end",
+                "member",
+                "Action",
+                "countries",
+                "France"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 19,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "UN",
+                "world",
+                "chance",
+                "gas",
+                "General",
+                "end",
+                "century",
+                "today",
+                "use",
+                "-",
+                "production",
+                "sources",
+                "time",
+                "energy",
+                "bombs",
+                "buildings",
+                "vehicles"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "part",
+                "report",
+                "end",
+                "future",
+                "today"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "end",
+                "year"
+            ]
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "Ukraine",
+                "year",
+                "boss",
+                "technology",
+                "money",
+                "finance"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "vehicles"
+            ]
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": [
+                "years",
+                "century",
+                "year",
+                "time",
+                "marathon"
+            ]
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "end",
+                "century",
+                "time"
+            ]
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": [
+                "today",
+                "%",
+                "time",
+                "France"
+            ]
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "General",
+                "end",
+                "year",
+                "lot",
+                "-",
+                "time",
+                "issue",
+                "France"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": [
+                "years",
+                "Ukraine",
+                "today"
+            ]
+        }
+    },
+    "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "troops",
+                "February"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": [
+                "time",
+                "United",
+                "efforts",
+                "authorities",
+                "east",
+                "part"
+            ]
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": [
+                "time",
+                "efforts",
+                "operation",
+                "troops"
+            ]
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": [
+                "east"
+            ]
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": [
+                "east",
+                "army",
+                "troops",
+                "Ministry"
+            ]
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "time",
+                "citizens",
+                "part",
+                "France"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": [
+                "place",
+                "time"
+            ]
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "water",
+                "years",
+                "place",
+                "time",
+                "citizens",
+                "efforts",
+                "massacres",
+                "part",
+                "operation",
+                "troops",
+                "March",
+                "Ministry",
+                "February"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": [
+                "Nations"
+            ]
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": [
+                "years",
+                "citizens",
+                "capital",
+                "army",
+                "March"
+            ]
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": []
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "years",
+                "time",
+                "inhabitants",
+                "France"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "United",
+                "March",
+                "France"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "access",
+                "water",
+                "place",
+                "time",
+                "United",
+                "authorities",
+                "inhabitants",
+                "capital",
+                "operation",
+                "troops",
+                "territory",
+                "decision",
+                "February"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "place",
+                "example",
+                "efforts",
+                "authorities",
+                "report",
+                "part"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": [
+                "United",
+                "Nations"
+            ]
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "United",
+                "example",
+                "neighbor"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": [
+                "army"
+            ]
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": [
+                "years",
+                "time"
+            ]
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": [
+                "World",
+                "time"
+            ]
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": [
+                "place",
+                "time",
+                "France"
+            ]
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "time",
+                "France"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": [
+                "years",
+                "capital",
+                "February"
+            ]
+        }
+    },
+    "India: the challenge of access to drinking water for all": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "countries",
+                "world",
+                "government",
+                "Minister"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": [
+                "Prime",
+                "Minister",
+                "euros",
+                "program"
+            ]
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": [
+                "health",
+                "Minister"
+            ]
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": []
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": [
+                "Prime",
+                "Minister"
+            ]
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "consequences",
+                "point",
+                "France"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": [
+                "world",
+                "population"
+            ]
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "water",
+                "countries",
+                "world",
+                "population",
+                "Prime",
+                "Minister",
+                "years"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": []
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": []
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "population",
+                "years",
+                "France"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "countries",
+                "world",
+                "government",
+                "France"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "access",
+                "water",
+                "world",
+                "population",
+                "Minister"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "India",
+                "consequences",
+                "government",
+                "Prime",
+                "Minister"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": []
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "India",
+                "government",
+                "Minister"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": []
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": []
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": [
+                "France"
+            ]
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "table",
+                "point",
+                "France"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": [
+                "years"
+            ]
+        }
+    },
+    "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "countries",
+                "Europe",
+                "country",
+                "support",
+                "government",
+                "%",
+                "gas"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": [
+                "part",
+                "group",
+                "Europe",
+                "country",
+                "benefits"
+            ]
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": [
+                "group"
+            ]
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": []
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": [
+                "country"
+            ]
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "-",
+                "part",
+                "Europe",
+                "France",
+                "support",
+                "%",
+                "effects"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": [
+                "group",
+                "rights",
+                "country"
+            ]
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "countries",
+                "part",
+                "defenders",
+                "country",
+                "years"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": [
+                "activist",
+                "group",
+                "years"
+            ]
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": []
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "group",
+                "Europe",
+                "country",
+                "France",
+                "years",
+                "%",
+                "origin"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "countries",
+                "rights",
+                "country",
+                "France",
+                "support",
+                "government",
+                "actions"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "-",
+                "Europe",
+                "defenders",
+                "country",
+                "actions",
+                "gas"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "part",
+                "country",
+                "support",
+                "government"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": [
+                "Europe",
+                "country",
+                "continent"
+            ]
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "country",
+                "government"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": [
+                "support"
+            ]
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": [
+                "crisis",
+                "Europe"
+            ]
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": [
+                "France",
+                "%"
+            ]
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "crisis",
+                "-",
+                "France"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": [
+                "years"
+            ]
+        }
+    },
+    "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "world",
+                "gas",
+                "leaders",
+                "respect"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": [
+                "economy",
+                "group",
+                "April",
+                "people",
+                "freedom"
+            ]
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": [
+                "words",
+                "group"
+            ]
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": []
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": []
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "trend",
+                "-",
+                "April",
+                "France"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": [
+                "world",
+                "group",
+                "rights"
+            ]
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "world",
+                "years",
+                "press",
+                "leaders",
+                "people",
+                "populations"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": [
+                "press"
+            ]
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": [
+                "years",
+                "group"
+            ]
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": []
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "order",
+                "years",
+                "group",
+                "people",
+                "France"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "world",
+                "order",
+                "April",
+                "Secretary",
+                "General",
+                "people",
+                "rights",
+                "France"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "world",
+                "chance",
+                "-",
+                "gas",
+                "leaders",
+                "UN",
+                "General",
+                "people",
+                "network"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "report",
+                "thing",
+                "people"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": [
+                "people"
+            ]
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "press"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": [
+                "leaders"
+            ]
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": [
+                "expression"
+            ]
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": [
+                "France"
+            ]
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "-",
+                "General",
+                "people",
+                "France"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": [
+                "years"
+            ]
+        }
+    },
+    "How can we explain the unprecedented heat cut in polar regions?": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "days",
+                "day",
+                "region",
+                "beginning",
+                "world",
+                "air",
+                "situation",
+                "question"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": [
+                "week",
+                "shores",
+                "days",
+                "time",
+                "east",
+                "area",
+                "west",
+                "north",
+                "account"
+            ]
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": [
+                "days",
+                "fact",
+                "region",
+                "time",
+                "area",
+                "north"
+            ]
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": [
+                "end",
+                "values",
+                "east",
+                "movements",
+                "New",
+                "current"
+            ]
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": [
+                "region",
+                "east",
+                "area",
+                "km",
+                "south"
+            ]
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "end",
+                "France",
+                "rise",
+                "days",
+                "time",
+                "surveys",
+                "consequences"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": [
+                "wave",
+                "days",
+                "time",
+                "year",
+                "school",
+                "world"
+            ]
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "week",
+                "March",
+                "days",
+                "day",
+                "sea",
+                "region",
+                "time",
+                "years",
+                "world",
+                "water",
+                "account",
+                "situation"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": [
+                "days"
+            ]
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": [
+                "March",
+                "years"
+            ]
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": []
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "end",
+                "France",
+                "region",
+                "time",
+                "years",
+                "times",
+                "origin",
+                "north"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "end",
+                "March",
+                "France",
+                "region",
+                "world",
+                "Spain",
+                "others"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "end",
+                "days",
+                "sea",
+                "fact",
+                "time",
+                "world",
+                "water",
+                "event"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "end",
+                "times",
+                "events",
+                "consequences",
+                "situation",
+                "question"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": [
+                "end",
+                "week",
+                "days",
+                "day",
+                "year",
+                "west",
+                "north",
+                "continent"
+            ]
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "London",
+                "year",
+                "side",
+                "times",
+                "activity",
+                "question"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": [
+                "Spain"
+            ]
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": [
+                "days",
+                "time",
+                "year",
+                "school",
+                "years",
+                "question"
+            ]
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": [
+                "end",
+                "days",
+                "day",
+                "fact",
+                "time"
+            ]
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": [
+                "France",
+                "time"
+            ]
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "end",
+                "France",
+                "level",
+                "temperature",
+                "time",
+                "year",
+                "beginning"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": [
+                "years",
+                "beginning",
+                "times",
+                "activity"
+            ]
+        }
+    },
+    "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "question",
+                "world"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": []
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": []
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": []
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": []
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "France"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "occasion",
+                "world",
+                "March",
+                "image"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": []
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": [
+                "activist",
+                "March"
+            ]
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": [
+                "image"
+            ]
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "century",
+                "France",
+                "danger"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "world",
+                "France",
+                "March"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "century",
+                "world"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "question"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": []
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "question"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": []
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": [
+                "question",
+                "century"
+            ]
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": [
+                "century"
+            ]
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": [
+                "France"
+            ]
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "France"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": []
+        }
+    },
+    "Dams: Save Last Salmons": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "Europe",
+                "source",
+                "question",
+                "president",
+                "European",
+                "today",
+                "respect",
+                "addition",
+                "%",
+                "tanks"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": [
+                "Europe",
+                "time",
+                "president",
+                "production",
+                "addition",
+                "help"
+            ]
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": [
+                "time",
+                "president",
+                "today",
+                "fact",
+                "life"
+            ]
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": [
+                "Saint",
+                "end"
+            ]
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": [
+                "life",
+                "addition"
+            ]
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "Europe",
+                "time",
+                "president",
+                "today",
+                "end",
+                "addition",
+                "%",
+                "France"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": [
+                "rights",
+                "time",
+                "return",
+                "year"
+            ]
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "species",
+                "meeting",
+                "appeal",
+                "time",
+                "president",
+                "years",
+                "today",
+                "water",
+                "addition",
+                "months",
+                "conditions"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": [
+                "president",
+                "European",
+                "%"
+            ]
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": [
+                "years",
+                "tanks"
+            ]
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": [
+                "things",
+                "addition"
+            ]
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "century",
+                "Europe",
+                "Saint",
+                "Jean",
+                "time",
+                "president",
+                "years",
+                "today",
+                "end",
+                "%",
+                "hand",
+                "France"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "Saint",
+                "meeting",
+                "rights",
+                "end",
+                "France"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "century",
+                "Europe",
+                "energy",
+                "time",
+                "president",
+                "today",
+                "water",
+                "fact",
+                "end",
+                "production",
+                "tanks"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "research",
+                "question",
+                "today",
+                "end",
+                "addition",
+                "months",
+                "example",
+                "hand"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": [
+                "Europe",
+                "end",
+                "year"
+            ]
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "question",
+                "year",
+                "example"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": [
+                "president"
+            ]
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": [
+                "century",
+                "time",
+                "question",
+                "years",
+                "life",
+                "year"
+            ]
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": [
+                "century",
+                "Europe",
+                "time",
+                "fact",
+                "end"
+            ]
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": [
+                "Jean",
+                "time",
+                "today",
+                "%",
+                "France"
+            ]
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "Saint",
+                "time",
+                "level",
+                "president",
+                "end",
+                "addition",
+                "year",
+                "France"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": [
+                "years",
+                "today"
+            ]
+        }
+    },
+    "The fight of NGOs to make the climate exist in the presidential campaign": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 22,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "debate",
+                "Putin",
+                "NATO",
+                "defence",
+                "conflict",
+                "%",
+                "days",
+                "Sunday",
+                "February",
+                "world",
+                "leaders",
+                "question",
+                "war",
+                "Ukraine",
+                "survey",
+                "January",
+                "flow",
+                "opportunity",
+                "way",
+                "answer",
+                "call",
+                "day"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": [
+                "Putin",
+                "time",
+                "week",
+                "days",
+                "change",
+                "member",
+                "war",
+                "Ukraine",
+                "advantage",
+                "flow",
+                "group",
+                "Marine",
+                "request",
+                "April"
+            ]
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": [
+                "campaign",
+                "Vladimir",
+                "Putin",
+                "time",
+                "days",
+                "release",
+                "Ukraine",
+                "group",
+                "Marine"
+            ]
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": [
+                "end",
+                "French",
+                "Le",
+                "Pen"
+            ]
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 25,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "debate",
+                "candidates",
+                "time",
+                "%",
+                "days",
+                "Sunday",
+                "change",
+                "future",
+                "end",
+                "French",
+                "survey",
+                "Ipsos",
+                "election",
+                "pandemic",
+                "France",
+                "advantage",
+                "National",
+                "right",
+                "Marine",
+                "Le",
+                "Pen",
+                "Emmanuel",
+                "Macron",
+                "round",
+                "April"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": [
+                "cent",
+                "time",
+                "days",
+                "world",
+                "population",
+                "place",
+                "group",
+                "State"
+            ]
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 24,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "midst",
+                "Vladimir",
+                "Putin",
+                "NATO",
+                "defence",
+                "March",
+                "time",
+                "week",
+                "days",
+                "release",
+                "Sunday",
+                "February",
+                "world",
+                "population",
+                "leaders",
+                "Ukraine",
+                "place",
+                "food",
+                "advantage",
+                "possibility",
+                "way",
+                "Marine",
+                "answer",
+                "day"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 17,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": [
+                "debate",
+                "Vladimir",
+                "Putin",
+                "%",
+                "days",
+                "Sunday",
+                "survey",
+                "independence",
+                "advantage",
+                "right",
+                "Marine",
+                "Le",
+                "Pen",
+                "Emmanuel",
+                "Macron",
+                "field",
+                "round"
+            ]
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": [
+                "conflict",
+                "March",
+                "war",
+                "members",
+                "group",
+                "aim"
+            ]
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": [
+                "Vladimir",
+                "Putin",
+                "journalists",
+                "war",
+                "speeches",
+                "way"
+            ]
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 24,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "campaign",
+                "time",
+                "origin",
+                "%",
+                "Sunday",
+                "population",
+                "end",
+                "war",
+                "French",
+                "heart",
+                "France",
+                "advantage",
+                "possibility",
+                "Jean",
+                "group",
+                "right",
+                "Marine",
+                "Le",
+                "Pen",
+                "Luc",
+                "Mélenchon",
+                "Emmanuel",
+                "Macron",
+                "round"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "concern",
+                "midst",
+                "conflict",
+                "March",
+                "world",
+                "member",
+                "end",
+                "war",
+                "Ukraine",
+                "France",
+                "absence",
+                "channels",
+                "Assembly",
+                "justice",
+                "April"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 20,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "Vladimir",
+                "Putin",
+                "conflict",
+                "trap",
+                "time",
+                "days",
+                "February",
+                "world",
+                "population",
+                "leaders",
+                "end",
+                "war",
+                "Ukraine",
+                "place",
+                "January",
+                "members",
+                "food",
+                "energy",
+                "possibility",
+                "request"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "debate",
+                "sanctions",
+                "report",
+                "change",
+                "future",
+                "question",
+                "end",
+                "war",
+                "Ukraine",
+                "place",
+                "Covid-19",
+                "possibility"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": [
+                "week",
+                "days",
+                "end",
+                "war",
+                "Ukraine",
+                "call",
+                "day"
+            ]
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "question",
+                "Ukraine",
+                "pandemic",
+                "side",
+                "interview"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": [
+                "Putin",
+                "conflict",
+                "leaders",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": [
+                "time",
+                "days",
+                "question",
+                "opportunity",
+                "State"
+            ]
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": [
+                "Putin",
+                "time",
+                "days",
+                "end",
+                "war",
+                "Ukraine",
+                "crisis",
+                "World",
+                "day"
+            ]
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": [
+                "time",
+                "%",
+                "place",
+                "France",
+                "Jean",
+                "right",
+                "Marine",
+                "Le",
+                "Pen",
+                "Luc",
+                "Mélenchon",
+                "Emmanuel",
+                "Macron",
+                "round"
+            ]
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 22,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "campaign",
+                "issues",
+                "debate",
+                "candidates",
+                "space",
+                "time",
+                "state",
+                "end",
+                "issue",
+                "crisis",
+                "Valérie",
+                "France",
+                "way",
+                "right",
+                "Marine",
+                "Le",
+                "Pen",
+                "Zemmour",
+                "Emmanuel",
+                "Macron",
+                "Pécresse",
+                "round"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": [
+                "space",
+                "February",
+                "Ukraine"
+            ]
+        }
+    },
+    "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+        "The war in Ukraine blows up Scholz's Chancellery": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.00756921065899037,
+            "subjectivity_Y": 0.23460649842245643,
+            "simil_concepts": [
+                "President",
+                "Marie",
+                "support",
+                "Twitter",
+                "world",
+                "voters",
+                "policy",
+                "%",
+                "gas",
+                "government",
+                "opposition",
+                "Sunday",
+                "country",
+                "term"
+            ]
+        },
+        "Biden doubles military aid to Ukraine and will send more artillery": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.12651716023875118,
+            "subjectivity_Y": 0.29314747857361484,
+            "simil_concepts": [
+                "President",
+                "Marine",
+                "program",
+                "time",
+                "Thursday",
+                "April",
+                "front",
+                "member",
+                "change",
+                "Canada",
+                "country",
+                "week",
+                "systems",
+                "economy"
+            ]
+        },
+        "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.02222027290448343,
+            "subjectivity_Y": 0.25458089668615985,
+            "simil_concepts": [
+                "President",
+                "Marine",
+                "time",
+                "campaign",
+                "need"
+            ]
+        },
+        "The father of the French New Right: “Those who have problems coming to the end of the month are those who vote for Le Pen.”": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.0987641723356009,
+            "subjectivity_Y": 0.355854119425548,
+            "simil_concepts": [
+                "Le",
+                "Pen",
+                "Paris",
+                "ideas"
+            ]
+        },
+        "Shrapnel and emergency operations in Zaporiyia, the city shelter of those fleeing Mariúpol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.08017857142857145,
+            "subjectivity_Y": 0.36940476190476196,
+            "simil_concepts": [
+                "agreement",
+                "country",
+                "lack",
+                "Wednesday"
+            ]
+        },
+        "Macron or Le Pen: who will win the elections in France according to surveys": {
+            "are_similar": false,
+            "similar_concepts_number": 22,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.3041935928654679,
+            "subjectivity_Y": 0.3678615221583972,
+            "simil_concepts": [
+                "President",
+                "Marine",
+                "Le",
+                "Pen",
+                "round",
+                "election",
+                "Emmanuel",
+                "Macron",
+                "time",
+                "France",
+                "April",
+                "support",
+                "voters",
+                "%",
+                "change",
+                "Sunday",
+                "vote",
+                "candidate",
+                "votes",
+                "polls",
+                "National",
+                "Wednesday"
+            ]
+        },
+        "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.034632786195286196,
+            "subjectivity_Y": 0.37418981481481484,
+            "simil_concepts": [
+                "President",
+                "power",
+                "time",
+                "year",
+                "Thursday",
+                "world",
+                "movement",
+                "population",
+                "country"
+            ]
+        },
+        "The double game of Russia: launches a ballistic missile while offering peace to Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": -0.009708239362836171,
+            "subjectivity_Y": 0.2944245880429753,
+            "simil_concepts": [
+                "President",
+                "Marine",
+                "time",
+                "world",
+                "population",
+                "years",
+                "agreement",
+                "Sunday",
+                "view",
+                "country",
+                "lack",
+                "week",
+                "systems"
+            ]
+        },
+        "Macron wins Le Pen in a debate marked by Putin's \"dependence\" accusations of extreme right": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.11007506382506382,
+            "subjectivity_Y": 0.39868326118326114,
+            "simil_concepts": [
+                "Marine",
+                "Le",
+                "Pen",
+                "round",
+                "Emmanuel",
+                "Macron",
+                "Thursday",
+                "%",
+                "EU",
+                "Sunday",
+                "candidate",
+                "view",
+                "radio"
+            ]
+        },
+        "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": -0.06575183213381973,
+            "subjectivity_Y": 0.19483962667192478,
+            "simil_concepts": [
+                "activists",
+                "activist",
+                "members",
+                "years"
+            ]
+        },
+        "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": -0.02037037037037037,
+            "subjectivity_Y": 0.36296296296296293,
+            "simil_concepts": [
+                "promise"
+            ]
+        },
+        "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+            "are_similar": false,
+            "similar_concepts_number": 27,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.05495428240176928,
+            "subjectivity_Y": 0.25633047872357706,
+            "simil_concepts": [
+                "Marine",
+                "Le",
+                "Pen",
+                "round",
+                "Emmanuel",
+                "Macron",
+                "time",
+                "Marie",
+                "France",
+                "Thursday",
+                "Paris",
+                "night",
+                "population",
+                "years",
+                "%",
+                "de",
+                "Sunday",
+                "vote",
+                "left",
+                "candidate",
+                "votes",
+                "polls",
+                "campaign",
+                "country",
+                "Jean",
+                "Luc",
+                "Mélenchon"
+            ]
+        },
+        "Russia is expelled as an observer country of the Organization of American States": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.01342261904761905,
+            "subjectivity_Y": 0.17410714285714282,
+            "simil_concepts": [
+                "France",
+                "Thursday",
+                "April",
+                "support",
+                "world",
+                "concern",
+                "law",
+                "member",
+                "Assembly",
+                "government",
+                "Canada",
+                "votes",
+                "suspension",
+                "country",
+                "humanity"
+            ]
+        },
+        "Russia warns the children of Mariúpol: \"We have come to bring you peace\"": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.00422665617211072,
+            "subjectivity_Y": 0.2536156777005262,
+            "simil_concepts": [
+                "time",
+                "students",
+                "front",
+                "world",
+                "movement",
+                "population",
+                "members",
+                "capacity",
+                "gas",
+                "energy",
+                "buildings",
+                "class",
+                "network",
+                "country",
+                "need",
+                "use",
+                "sources",
+                "Wednesday"
+            ]
+        },
+        "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.07627435064935066,
+            "subjectivity_Y": 0.294491341991342,
+            "simil_concepts": [
+                "support",
+                "police",
+                "law",
+                "voters",
+                "William",
+                "government",
+                "Parliament",
+                "example",
+                "change",
+                "opposition",
+                "vote",
+                "suspension",
+                "country",
+                "report"
+            ]
+        },
+        "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.09275402046783626,
+            "subjectivity_Y": 0.3158351608187134,
+            "simil_concepts": [
+                "power",
+                "year",
+                "law",
+                "radio",
+                "country",
+                "week"
+            ]
+        },
+        "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.15692559074912016,
+            "subjectivity_Y": 0.4192873303167421,
+            "simil_concepts": [
+                "year",
+                "aspirations",
+                "government",
+                "example",
+                "country"
+            ]
+        },
+        "Sanchez is going to war": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.002083333333333335,
+            "subjectivity_Y": 0.1673611111111111,
+            "simil_concepts": [
+                "support",
+                "EU"
+            ]
+        },
+        "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.13404024943310658,
+            "subjectivity_Y": 0.29962698412698413,
+            "simil_concepts": [
+                "time",
+                "year",
+                "years"
+            ]
+        },
+        "The ‘Z’ is the swastika of the 21st century": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.06973484848484848,
+            "subjectivity_Y": 0.3692424242424242,
+            "simil_concepts": [
+                "time",
+                "agreement",
+                "crisis",
+                "ideas"
+            ]
+        },
+        "If the second round were Mélenchon vs. Le Pen, who would win?": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.12804232804232804,
+            "subjectivity_Y": 0.39343584656084657,
+            "simil_concepts": [
+                "Marine",
+                "Le",
+                "Pen",
+                "round",
+                "Emmanuel",
+                "Macron",
+                "time",
+                "France",
+                "voters",
+                "%",
+                "vote",
+                "left",
+                "votes",
+                "Jean",
+                "Luc",
+                "Mélenchon"
+            ]
+        },
+        "Reactions in Paris to the debate among the candidates: “Macron has more level, Le Pen is not up”": {
+            "are_similar": false,
+            "similar_concepts_number": 25,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.1976539903521394,
+            "subjectivity_Y": 0.4051326769172047,
+            "simil_concepts": [
+                "President",
+                "Marine",
+                "Le",
+                "Pen",
+                "round",
+                "issues",
+                "Emmanuel",
+                "Macron",
+                "time",
+                "France",
+                "year",
+                "Sorbonne",
+                "Paris",
+                "night",
+                "level",
+                "de",
+                "ban",
+                "lot",
+                "vote",
+                "left",
+                "candidate",
+                "campaign",
+                "issue",
+                "crisis",
+                "proposal"
+            ]
+        },
+        "Alla, between tragedy and pride: “My husband died and my son was wounded, but thanks to them we remain alive.”": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.07261904761904762,
+            "subjectivity_Y": 0.33915343915343915,
+            "simil_concepts": [
+                "years"
+            ]
+        }
+    }
+}

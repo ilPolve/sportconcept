@@ -1,0 +1,2175 @@
+{
+    "len_A": 25,
+    "len_B": 5,
+    "coupled_A": 4,
+    "coupled_B": 4,
+    "covered_A_percent": 70.0,
+    "covered_B_percent": 3.3333333333333335,
+    "covered_both_percent": 26.66666666666667,
+    "At least 10 people were killed in an attack on a Mazar-i-Sharif mosque in the north of Afghanistan": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.12067307692307692,
+            "subjectivity_X": 0.287232905982906,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "people",
+                "city",
+                "group",
+                "police",
+                "days"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.12067307692307692,
+            "subjectivity_X": 0.287232905982906,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "city"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.12067307692307692,
+            "subjectivity_X": 0.287232905982906,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "police"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.12067307692307692,
+            "subjectivity_X": 0.287232905982906,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "Thursday",
+                "city",
+                "days"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.12067307692307692,
+            "subjectivity_X": 0.287232905982906,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "people",
+                "city",
+                "days"
+            ]
+        }
+    },
+    "Shanghai will introduce a “basket” system for workers": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.1360916860916861,
+            "subjectivity_X": 0.308761655011655,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "people",
+                "aim",
+                "world",
+                "city",
+                "territory",
+                "US",
+                "plant"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.1360916860916861,
+            "subjectivity_X": 0.308761655011655,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "March",
+                "city",
+                "tens",
+                "plant"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.1360916860916861,
+            "subjectivity_X": 0.308761655011655,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "world",
+                "US",
+                "dollars",
+                "home",
+                "office"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.1360916860916861,
+            "subjectivity_X": 0.308761655011655,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "world",
+                "city",
+                "US",
+                "tens",
+                "plant"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.1360916860916861,
+            "subjectivity_X": 0.308761655011655,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "Shanghai",
+                "people",
+                "lockdown",
+                "March",
+                "authorities",
+                "city",
+                "time",
+                "restrictions",
+                "night",
+                "measures",
+                "home"
+            ]
+        }
+    },
+    "In Shanghai three people died for COVID-19: they are the first since the start of the lockdown": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.07951770451770453,
+            "subjectivity_X": 0.23577533577533574,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "people",
+                "city",
+                "week",
+                "days"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.07951770451770453,
+            "subjectivity_X": 0.23577533577533574,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "city",
+                "March"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07951770451770453,
+            "subjectivity_X": 0.23577533577533574,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.07951770451770453,
+            "subjectivity_X": 0.23577533577533574,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "city",
+                "days",
+                "situation"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": true,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.07951770451770453,
+            "subjectivity_X": 0.23577533577533574,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "Shanghai",
+                "people",
+                "lockdown",
+                "authorities",
+                "city",
+                "deaths",
+                "March",
+                "week",
+                "restrictions",
+                "days",
+                "measures",
+                "extension"
+            ]
+        }
+    },
+    "The battle for Donbass began, says Zelensky": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": true,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.07829743008314437,
+            "subjectivity_X": 0.2542139077853363,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Russia",
+                "Ukraine",
+                "days",
+                "Mariupol",
+                "President",
+                "troops",
+                "weeks",
+                "part",
+                "offensive",
+                "regions",
+                "forces",
+                "locations",
+                "Donetsk",
+                "Luhansk",
+                "city"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": true,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.07829743008314437,
+            "subjectivity_X": 0.2542139077853363,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "Mariupol",
+                "President",
+                "troops",
+                "weeks",
+                "part",
+                "forces",
+                "town",
+                "city"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.07829743008314437,
+            "subjectivity_X": 0.2542139077853363,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "weeks",
+                "means",
+                "locations"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.07829743008314437,
+            "subjectivity_X": 0.2542139077853363,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "Russia",
+                "east",
+                "Ukraine",
+                "days",
+                "Mariupol",
+                "President",
+                "troops",
+                "weeks",
+                "forces",
+                "city"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.07829743008314437,
+            "subjectivity_X": 0.2542139077853363,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "days",
+                "night",
+                "fact",
+                "city"
+            ]
+        }
+    },
+    "The accusations of the European Anti-Fraud Office against Le Pen": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.047412367724867725,
+            "subjectivity_X": 0.18057208994708995,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Marine",
+                "National",
+                "total",
+                "right",
+                "people",
+                "city",
+                "allegations",
+                "President"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.047412367724867725,
+            "subjectivity_X": 0.18057208994708995,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "accusations",
+                "statement",
+                "mayor",
+                "city",
+                "March",
+                "politicians",
+                "President"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.047412367724867725,
+            "subjectivity_X": 0.18057208994708995,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "-",
+                "leader",
+                "office",
+                "president",
+                "total",
+                "years",
+                "allegations",
+                "charges"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.047412367724867725,
+            "subjectivity_X": 0.18057208994708995,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "-",
+                "mayor",
+                "city",
+                "allegations",
+                "President"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.047412367724867725,
+            "subjectivity_X": 0.18057208994708995,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "Party",
+                "authorities",
+                "people",
+                "city",
+                "March",
+                "time",
+                "spread"
+            ]
+        }
+    },
+    "A convicted death in South Carolina chose to be killed by a firing squad": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.04093434343434344,
+            "subjectivity_X": 0.4840314913844326,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "murder",
+                "law",
+                "country",
+                "people",
+                "days",
+                "way",
+                "week"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.04093434343434344,
+            "subjectivity_X": 0.4840314913844326,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.04093434343434344,
+            "subjectivity_X": 0.4840314913844326,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "year",
+                "years",
+                "court"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.04093434343434344,
+            "subjectivity_X": 0.4840314913844326,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "situation",
+                "days"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.04093434343434344,
+            "subjectivity_X": 0.4840314913844326,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "problems",
+                "country",
+                "people",
+                "days",
+                "week"
+            ]
+        }
+    },
+    "There are clashes throughout the east of Ukraine": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": true,
+            "similar_concepts_number": 21,
+            "polarity_X": 0.012317460317460317,
+            "subjectivity_X": 0.17000529100529102,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Ukraine",
+                "forces",
+                "attacks",
+                "border",
+                "locations",
+                "region",
+                "days",
+                "Donetsk",
+                "Luhansk",
+                "regions",
+                "city",
+                "troops",
+                "offensive",
+                "bombardment",
+                "country",
+                "people",
+                "Mariupol",
+                "Russia",
+                "area",
+                "steel",
+                "Russians"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": true,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.012317460317460317,
+            "subjectivity_X": 0.17000529100529102,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "forces",
+                "town",
+                "city",
+                "troops",
+                "bombardment",
+                "west",
+                "Mariupol",
+                "Russians"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.012317460317460317,
+            "subjectivity_X": 0.17000529100529102,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "border",
+                "locations",
+                "means"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": true,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.012317460317460317,
+            "subjectivity_X": 0.17000529100529102,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "east",
+                "Ukraine",
+                "forces",
+                "attacks",
+                "eastern",
+                "days",
+                "city",
+                "troops",
+                "Mariupol",
+                "Russia",
+                "steel",
+                "Russians",
+                "interview",
+                "TV"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.012317460317460317,
+            "subjectivity_X": 0.17000529100529102,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "areas",
+                "days",
+                "city",
+                "country",
+                "people",
+                "time"
+            ]
+        }
+    },
+    "China has announced a new security agreement with Solomon Islands": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.0358054226475279,
+            "subjectivity_X": 0.25882509303561935,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "country",
+                "months",
+                "police",
+                "forces",
+                "part",
+                "territory",
+                "buildings"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0358054226475279,
+            "subjectivity_X": 0.25882509303561935,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "forces",
+                "part",
+                "allies"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0358054226475279,
+            "subjectivity_X": 0.25882509303561935,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "government",
+                "police",
+                "dollars"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0358054226475279,
+            "subjectivity_X": 0.25882509303561935,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "months",
+                "forces"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.0358054226475279,
+            "subjectivity_X": 0.25882509303561935,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "China",
+                "country",
+                "government",
+                "fact",
+                "door",
+                "countries",
+                "move",
+                "buildings"
+            ]
+        }
+    },
+    "In Sri Lanka continues to protest against the government": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": -0.062205046415572736,
+            "subjectivity_X": 0.13760785997628103,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "police",
+                "city",
+                "people",
+                "part",
+                "country",
+                "weeks",
+                "President",
+                "group",
+                "area",
+                "months",
+                "food",
+                "medicine",
+                "war",
+                "Ukraine",
+                "week",
+                "days"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.062205046415572736,
+            "subjectivity_X": 0.13760785997628103,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "city",
+                "part",
+                "weeks",
+                "President",
+                "Minister",
+                "town",
+                "food",
+                "Ukraine"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.062205046415572736,
+            "subjectivity_X": 0.13760785997628103,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "government",
+                "police",
+                "weeks",
+                "brother",
+                "means",
+                "investigation",
+                "food"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.062205046415572736,
+            "subjectivity_X": 0.13760785997628103,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "city",
+                "east",
+                "series",
+                "weeks",
+                "President",
+                "months",
+                "food",
+                "situation",
+                "Ukraine",
+                "days"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.062205046415572736,
+            "subjectivity_X": 0.13760785997628103,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "government",
+                "city",
+                "people",
+                "country",
+                "food",
+                "week",
+                "days"
+            ]
+        }
+    },
+    "Russian oligarch Oleg Tinkov against war in Ukraine": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": -0.009759557945041812,
+            "subjectivity_X": 0.2530615292712067,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "President",
+                "Putin",
+                "Russians",
+                "Vladimir",
+                "Russia",
+                "statements",
+                "law",
+                "people",
+                "country",
+                "children",
+                "way"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.009759557945041812,
+            "subjectivity_X": 0.2530615292712067,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "President",
+                "Putin",
+                "Russians",
+                "Kremlin",
+                "officials"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.009759557945041812,
+            "subjectivity_X": 0.2530615292712067,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "years",
+                "government",
+                "Mr"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.009759557945041812,
+            "subjectivity_X": 0.2530615292712067,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "Ukraine",
+                "invasion",
+                "President",
+                "Putin",
+                "Russians",
+                "Russia",
+                "officials",
+                "children",
+                "Mr"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.009759557945041812,
+            "subjectivity_X": 0.2530615292712067,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "addition",
+                "fact",
+                "government",
+                "people",
+                "country",
+                "officials"
+            ]
+        }
+    },
+    "In the United States, masking on planes and public transport is no longer mandatory": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.01986208236208236,
+            "subjectivity_X": 0.25053742553742553,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "places",
+                "week",
+                "country",
+                "President",
+                "people",
+                "safety",
+                "use",
+                "National"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.01986208236208236,
+            "subjectivity_X": 0.25053742553742553,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "March",
+                "President",
+                "New",
+                "York"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.01986208236208236,
+            "subjectivity_X": 0.25053742553742553,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "air",
+                "means",
+                "Administration",
+                "government",
+                "New",
+                "York",
+                "Department"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.01986208236208236,
+            "subjectivity_X": 0.25053742553742553,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "President",
+                "Joe",
+                "Biden"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.01986208236208236,
+            "subjectivity_X": 0.25053742553742553,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "measures",
+                "restrictions",
+                "spread",
+                "week",
+                "health",
+                "authorities",
+                "country",
+                "March",
+                "time",
+                "people",
+                "government"
+            ]
+        }
+    },
+    "The television debate that neither Macron nor Le Pen want to lose": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.029883263985205726,
+            "subjectivity_X": 0.31071659731853907,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Marine",
+                "National",
+                "passage",
+                "war",
+                "Ukraine",
+                "country",
+                "people",
+                "right",
+                "Russia",
+                "Vladimir",
+                "Putin",
+                "question",
+                "part",
+                "President",
+                "days",
+                "weeks"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.029883263985205726,
+            "subjectivity_X": 0.31071659731853907,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "image",
+                "Putin",
+                "part",
+                "President",
+                "weeks"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.029883263985205726,
+            "subjectivity_X": 0.31071659731853907,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "detail",
+                "president",
+                "home",
+                "years",
+                "leader",
+                "weeks"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.029883263985205726,
+            "subjectivity_X": 0.31071659731853907,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "round",
+                "Ukraine",
+                "image",
+                "Russia",
+                "Putin",
+                "weapon",
+                "President",
+                "TV",
+                "days",
+                "weeks"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.029883263985205726,
+            "subjectivity_X": 0.31071659731853907,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "questions",
+                "home",
+                "time",
+                "fact",
+                "country",
+                "people",
+                "strategy",
+                "operation",
+                "problems",
+                "days"
+            ]
+        }
+    },
+    "The fights in Jerusalem are putting the Israeli government into trouble": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": -0.11710214388785817,
+            "subjectivity_X": 0.3376191764584622,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "days",
+                "police",
+                "weeks",
+                "group",
+                "officers",
+                "right",
+                "total",
+                "people",
+                "part",
+                "food",
+                "country",
+                "week",
+                "world",
+                "city"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.11710214388785817,
+            "subjectivity_X": 0.3376191764584622,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Minister",
+                "weeks",
+                "part",
+                "food",
+                "month",
+                "city"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.11710214388785817,
+            "subjectivity_X": 0.3376191764584622,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "government",
+                "police",
+                "weeks",
+                "Friday",
+                "total",
+                "food",
+                "year",
+                "world"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.11710214388785817,
+            "subjectivity_X": 0.3376191764584622,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "days",
+                "weeks",
+                "complex",
+                "food",
+                "world",
+                "city"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.11710214388785817,
+            "subjectivity_X": 0.3376191764584622,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "government",
+                "days",
+                "people",
+                "food",
+                "time",
+                "country",
+                "week",
+                "city"
+            ]
+        }
+    },
+    "Why Mariupol is so important to Russia": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": true,
+            "similar_concepts_number": 32,
+            "polarity_X": 0.177944610034774,
+            "subjectivity_X": 0.5232250293725703,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Mariupol",
+                "Russia",
+                "city",
+                "weeks",
+                "forces",
+                "steel",
+                "fighters",
+                "Azov",
+                "President",
+                "Vladimir",
+                "Putin",
+                "war",
+                "offensive",
+                "region",
+                "part",
+                "plant",
+                "tunnels",
+                "shelters",
+                "civilians",
+                "Russian",
+                "Russians",
+                "bunker",
+                "bombs",
+                "bunkers",
+                "days",
+                "country",
+                "control",
+                "Crimea",
+                "Donetsk",
+                "Luhansk",
+                "Ukraine",
+                "total"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.177944610034774,
+            "subjectivity_X": 0.5232250293725703,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Mariupol",
+                "city",
+                "weeks",
+                "forces",
+                "plans",
+                "President",
+                "Putin",
+                "part",
+                "plant",
+                "civilians",
+                "Russians",
+                "statement",
+                "Ukraine"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.177944610034774,
+            "subjectivity_X": 0.5232250293725703,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "weeks",
+                "sea",
+                "Department",
+                "total",
+                "-",
+                "government"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": true,
+            "similar_concepts_number": 25,
+            "polarity_X": 0.177944610034774,
+            "subjectivity_X": 0.5232250293725703,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "Mariupol",
+                "Russia",
+                "city",
+                "weeks",
+                "forces",
+                "steel",
+                "fighters",
+                "Azov",
+                "plans",
+                "President",
+                "Putin",
+                "plant",
+                "civilians",
+                "Russians",
+                "bunker",
+                "bombs",
+                "targets",
+                "situation",
+                "commander",
+                "days",
+                "Ukraine",
+                "resistance",
+                "men",
+                "-",
+                "media"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.177944610034774,
+            "subjectivity_X": 0.5232250293725703,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "city",
+                "fact",
+                "victory",
+                "days",
+                "country",
+                "government",
+                "media"
+            ]
+        }
+    },
+    "For Algeria to increase gas exports will not be easy": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.1733021839271839,
+            "subjectivity_X": 0.4288196525696526,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Russia",
+                "weeks",
+                "country",
+                "lot",
+                "week",
+                "supplies",
+                "months",
+                "National",
+                "President",
+                "control",
+                "need",
+                "part",
+                "people"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.1733021839271839,
+            "subjectivity_X": 0.4288196525696526,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "plans",
+                "weeks",
+                "President",
+                "part"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.1733021839271839,
+            "subjectivity_X": 0.4288196525696526,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "weeks",
+                "government",
+                "year",
+                "term",
+                "years",
+                "president",
+                "dollars"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.1733021839271839,
+            "subjectivity_X": 0.4288196525696526,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "Russia",
+                "plans",
+                "weeks",
+                "months",
+                "situation",
+                "President"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.1733021839271839,
+            "subjectivity_X": 0.4288196525696526,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "countries",
+                "problems",
+                "country",
+                "distribution",
+                "week",
+                "government",
+                "supplies",
+                "time",
+                "business",
+                "fact",
+                "restrictions",
+                "people"
+            ]
+        }
+    },
+    "A new escalation of violence is feared between Israel and Gaza": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.06860858585858585,
+            "subjectivity_X": 0.3593712121212121,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "war",
+                "attacks",
+                "days",
+                "city",
+                "border",
+                "group",
+                "video",
+                "week",
+                "weeks",
+                "region"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.06860858585858585,
+            "subjectivity_X": 0.3593712121212121,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "month",
+                "city",
+                "site",
+                "weeks"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.06860858585858585,
+            "subjectivity_X": 0.3593712121212121,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "year",
+                "border",
+                "video",
+                "-",
+                "weeks",
+                "government"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.06860858585858585,
+            "subjectivity_X": 0.3593712121212121,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "Thursday",
+                "attacks",
+                "days",
+                "rockets",
+                "city",
+                "complex",
+                "site",
+                "centre",
+                "-",
+                "weeks"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.06860858585858585,
+            "subjectivity_X": 0.3593712121212121,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "days",
+                "night",
+                "city",
+                "areas",
+                "video",
+                "authorities",
+                "week",
+                "government"
+            ]
+        }
+    },
+    "How was the debate between Macron and Le Pen": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.26102020202020204,
+            "subjectivity_X": 0.3542698412698413,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Marine",
+                "National",
+                "control",
+                "Russia",
+                "part",
+                "war",
+                "Ukraine",
+                "blockade",
+                "Crimea",
+                "Putin",
+                "need",
+                "places"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.26102020202020204,
+            "subjectivity_X": 0.3542698412698413,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "part",
+                "plans",
+                "Ukraine",
+                "Putin"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.26102020202020204,
+            "subjectivity_X": 0.3542698412698413,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "years",
+                "president",
+                "leader"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.26102020202020204,
+            "subjectivity_X": 0.3542698412698413,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "round",
+                "Russia",
+                "plans",
+                "Ukraine",
+                "Putin"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.26102020202020204,
+            "subjectivity_X": 0.3542698412698413,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "time",
+                "questions",
+                "measures"
+            ]
+        }
+    },
+    "Nobel Peace Prize José Ramos-Horta won the presidential elections in East Timor": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.024999999999999998,
+            "subjectivity_X": 0.10740740740740741,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "President",
+                "country"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.024999999999999998,
+            "subjectivity_X": 0.10740740740740741,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "President",
+                "March"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.024999999999999998,
+            "subjectivity_X": 0.10740740740740741,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.024999999999999998,
+            "subjectivity_X": 0.10740740740740741,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "President",
+                "round"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.024999999999999998,
+            "subjectivity_X": 0.10740740740740741,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "March",
+                "country"
+            ]
+        }
+    },
+    "The humanitarian aid machine in Moldova and Ukraine": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 26,
+            "polarity_X": 0.024322029822029818,
+            "subjectivity_X": 0.1660944554021477,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Ukraine",
+                "city",
+                "border",
+                "week",
+                "war",
+                "offensive",
+                "weeks",
+                "people",
+                "children",
+                "lot",
+                "area",
+                "camps",
+                "civilians",
+                "Mariupol",
+                "need",
+                "Russians",
+                "food",
+                "regions",
+                "Donetsk",
+                "Luhansk",
+                "country",
+                "way",
+                "total",
+                "use",
+                "supplies",
+                "days"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.024322029822029818,
+            "subjectivity_X": 0.1660944554021477,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "city",
+                "thousands",
+                "March",
+                "weeks",
+                "civilians",
+                "Mariupol",
+                "Russians",
+                "food",
+                "month",
+                "tens",
+                "town",
+                "location"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.024322029822029818,
+            "subjectivity_X": 0.1660944554021477,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "border",
+                "sea",
+                "weeks",
+                "means",
+                "years",
+                "food",
+                "air",
+                "total",
+                "government",
+                "year",
+                "-"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": 0.024322029822029818,
+            "subjectivity_X": 0.1660944554021477,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "Ukraine",
+                "city",
+                "invasion",
+                "thousands",
+                "weeks",
+                "children",
+                "civilians",
+                "Mariupol",
+                "situation",
+                "Russians",
+                "food",
+                "assistance",
+                "help",
+                "families",
+                "tens",
+                "centre",
+                "days",
+                "-"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 23,
+            "polarity_X": 0.024322029822029818,
+            "subjectivity_X": 0.1660944554021477,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "authorities",
+                "city",
+                "week",
+                "March",
+                "problems",
+                "People",
+                "people",
+                "countries",
+                "time",
+                "notice",
+                "restrictions",
+                "areas",
+                "food",
+                "country",
+                "services",
+                "homes",
+                "move",
+                "extension",
+                "centres",
+                "government",
+                "supplies",
+                "fact",
+                "days"
+            ]
+        }
+    },
+    "The proposal of Dragons on the limit to the price of Russian gas": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.028560910307898254,
+            "subjectivity_X": 0.11665997322623828,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "days",
+                "Russia",
+                "weeks",
+                "President",
+                "way",
+                "war",
+                "Ukraine",
+                "aim",
+                "supplies",
+                "exchange",
+                "lot",
+                "part",
+                "country",
+                "Russians",
+                "world",
+                "week"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.028560910307898254,
+            "subjectivity_X": 0.11665997322623828,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "weeks",
+                "President",
+                "Ukraine",
+                "part",
+                "Minister",
+                "Russians",
+                "month"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.028560910307898254,
+            "subjectivity_X": 0.11665997322623828,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "weeks",
+                "exchange",
+                "government",
+                "years",
+                "year",
+                "term",
+                "world"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.028560910307898254,
+            "subjectivity_X": 0.11665997322623828,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "days",
+                "Russia",
+                "weeks",
+                "President",
+                "interview",
+                "Ukraine",
+                "exchange",
+                "Russians",
+                "world"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.028560910307898254,
+            "subjectivity_X": 0.11665997322623828,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "days",
+                "countries",
+                "time",
+                "supplies",
+                "homes",
+                "fact",
+                "government",
+                "country",
+                "week"
+            ]
+        }
+    },
+    "Israel bombed the Gaza Strip in response to the launch of a rocket to Tel Aviv": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.01818181818181818,
+            "subjectivity_X": 0.12272727272727273,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "weapons",
+                "group",
+                "police",
+                "days"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01818181818181818,
+            "subjectivity_X": 0.12272727272727273,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "site"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01818181818181818,
+            "subjectivity_X": 0.12272727272727273,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "police"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.01818181818181818,
+            "subjectivity_X": 0.12272727272727273,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "site",
+                "days",
+                "complex"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01818181818181818,
+            "subjectivity_X": 0.12272727272727273,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "days"
+            ]
+        }
+    },
+    "At least four people were killed in an attack on a Kabul school in Afghanistan": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.09218518518518519,
+            "subjectivity_X": 0.17440740740740743,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "people",
+                "attacks",
+                "country"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.09218518518518519,
+            "subjectivity_X": 0.17440740740740743,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.09218518518518519,
+            "subjectivity_X": 0.17440740740740743,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.09218518518518519,
+            "subjectivity_X": 0.17440740740740743,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "attacks"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.09218518518518519,
+            "subjectivity_X": 0.17440740740740743,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "people",
+                "cases",
+                "government",
+                "country"
+            ]
+        }
+    },
+    "The fears for the nearby Slovenian nuclear power plant": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.1928518420355155,
+            "subjectivity_X": 0.2899792384486262,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "plant",
+                "border",
+                "region",
+                "control",
+                "safety",
+                "regions",
+                "National",
+                "weeks",
+                "care",
+                "area",
+                "group",
+                "Ukraine",
+                "country"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.1928518420355155,
+            "subjectivity_X": 0.2899792384486262,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "plant",
+                "km",
+                "weeks",
+                "Ukraine",
+                "plans"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.1928518420355155,
+            "subjectivity_X": 0.2899792384486262,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "border",
+                "government",
+                "years",
+                "year",
+                "weeks",
+                "detail",
+                "president"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.1928518420355155,
+            "subjectivity_X": 0.2899792384486262,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "plant",
+                "km",
+                "series",
+                "weeks",
+                "ground",
+                "invasion",
+                "Ukraine",
+                "plans"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.1928518420355155,
+            "subjectivity_X": 0.2899792384486262,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "government",
+                "measures",
+                "operation",
+                "extension",
+                "addition",
+                "authorities",
+                "time",
+                "country",
+                "scale"
+            ]
+        }
+    },
+    "From today in Spain there is no longer the obligation of the mask closed": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.04285714285714285,
+            "subjectivity_X": 0.19708994708994707,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "places",
+                "people",
+                "need",
+                "days",
+                "use"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.04285714285714285,
+            "subjectivity_X": 0.19708994708994707,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.04285714285714285,
+            "subjectivity_X": 0.19708994708994707,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "government",
+                "means"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.04285714285714285,
+            "subjectivity_X": 0.19708994708994707,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "situation",
+                "days"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.04285714285714285,
+            "subjectivity_X": 0.19708994708994707,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "cases",
+                "health",
+                "centres",
+                "residences",
+                "people",
+                "distribution",
+                "government",
+                "countries",
+                "days"
+            ]
+        }
+    },
+    "Marion Maréchal, grandson of Marine Le Pen, is the new vice president of Reconquête!, the party of Éric Zemmour": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.056818181818181816,
+            "subjectivity_X": 0.23658459595959594,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Marine",
+                "National",
+                "account"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.056818181818181816,
+            "subjectivity_X": 0.23658459595959594,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "March"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.056818181818181816,
+            "subjectivity_X": 0.23658459595959594,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "president",
+                "Twitter",
+                "account"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.056818181818181816,
+            "subjectivity_X": 0.23658459595959594,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "round"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.056818181818181816,
+            "subjectivity_X": 0.23658459595959594,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "March",
+                "newspaper"
+            ]
+        }
+    }
+}

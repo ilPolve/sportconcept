@@ -1,0 +1,653 @@
+{
+    "len_A": 12,
+    "len_B": 5,
+    "coupled_A": 0,
+    "coupled_B": 0,
+    "covered_A_percent": 70.58823529411765,
+    "covered_B_percent": 29.411764705882355,
+    "covered_both_percent": 0.0,
+    "COVID, CASI (75.020) AND MORTI (166) The rate of positivity rises to 16.8%": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.009103277674706247,
+            "subjectivity_Y": 0.13846526489383634,
+            "simil_concepts": []
+        },
+        "Kardashians deny faking Roblox sex tape scene": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.036312137942572716,
+            "subjectivity_Y": 0.14677180709789406,
+            "simil_concepts": []
+        }
+    },
+    "Kiev:1000 bodies of civilians in obitori180 BIDEN: NO PROVE MARIUPOL SIA CADUTA Other 800 mln in military aid": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.0375,
+            "subjectivity_X": 0.07916666666666666,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "bodies",
+                "civilians"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.0375,
+            "subjectivity_X": 0.07916666666666666,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "bodies",
+                "civilians"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.0375,
+            "subjectivity_X": 0.07916666666666666,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "bodies",
+                "civilians"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.0375,
+            "subjectivity_X": 0.07916666666666666,
+            "polarity_Y": -0.009103277674706247,
+            "subjectivity_Y": 0.13846526489383634,
+            "simil_concepts": []
+        },
+        "Kardashians deny faking Roblox sex tape scene": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.0375,
+            "subjectivity_X": 0.07916666666666666,
+            "polarity_Y": 0.036312137942572716,
+            "subjectivity_Y": 0.14677180709789406,
+            "simil_concepts": []
+        }
+    },
+    "MARIUPOL, PUTIN FERMA ATTACCO ACCIAIERIA \"To preserve life to our soldiers\" \"Save and respected those who surrender\"": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.009103277674706247,
+            "subjectivity_Y": 0.13846526489383634,
+            "simil_concepts": []
+        },
+        "Kardashians deny faking Roblox sex tape scene": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.036312137942572716,
+            "subjectivity_Y": 0.14677180709789406,
+            "simil_concepts": []
+        }
+    },
+    "Note on stock exchange indices": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01875,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "exchange"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01875,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "exchange"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01875,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01875,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": -0.009103277674706247,
+            "subjectivity_Y": 0.13846526489383634,
+            "simil_concepts": [
+                "exchange"
+            ]
+        },
+        "Kardashians deny faking Roblox sex tape scene": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01875,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.036312137942572716,
+            "subjectivity_Y": 0.14677180709789406,
+            "simil_concepts": [
+                "data"
+            ]
+        }
+    },
+    "_": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04295757575757576,
+            "subjectivity_X": 0.14376969696969696,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "days"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04295757575757576,
+            "subjectivity_X": 0.14376969696969696,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "days"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04295757575757576,
+            "subjectivity_X": 0.14376969696969696,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04295757575757576,
+            "subjectivity_X": 0.14376969696969696,
+            "polarity_Y": -0.009103277674706247,
+            "subjectivity_Y": 0.13846526489383634,
+            "simil_concepts": [
+                "president"
+            ]
+        },
+        "Kardashians deny faking Roblox sex tape scene": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04295757575757576,
+            "subjectivity_X": 0.14376969696969696,
+            "polarity_Y": 0.036312137942572716,
+            "subjectivity_Y": 0.14677180709789406,
+            "simil_concepts": []
+        }
+    },
+    "In Brianza, at the height of a quarrel": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.009103277674706247,
+            "subjectivity_Y": 0.13846526489383634,
+            "simil_concepts": []
+        },
+        "Kardashians deny faking Roblox sex tape scene": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.036312137942572716,
+            "subjectivity_Y": 0.14677180709789406,
+            "simil_concepts": []
+        }
+    },
+    "_ For reform recruitment teachers": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.00838068181818182,
+            "subjectivity_X": 0.04984217171717172,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "week",
+                "law"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.00838068181818182,
+            "subjectivity_X": 0.04984217171717172,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "package"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.00838068181818182,
+            "subjectivity_X": 0.04984217171717172,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Minister"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.00838068181818182,
+            "subjectivity_X": 0.04984217171717172,
+            "polarity_Y": -0.009103277674706247,
+            "subjectivity_Y": 0.13846526489383634,
+            "simil_concepts": []
+        },
+        "Kardashians deny faking Roblox sex tape scene": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.00838068181818182,
+            "subjectivity_X": 0.04984217171717172,
+            "polarity_Y": 0.036312137942572716,
+            "subjectivity_Y": 0.14677180709789406,
+            "simil_concepts": [
+                "text",
+                "week"
+            ]
+        }
+    },
+    "DL BOLLETTE, SI' DEFINITIVO DEL SENATO Measures to contain energy costs": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.16666666666666666,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "law"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.16666666666666666,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.16666666666666666,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.16666666666666666,
+            "polarity_Y": -0.009103277674706247,
+            "subjectivity_Y": 0.13846526489383634,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Kardashians deny faking Roblox sex tape scene": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.16666666666666666,
+            "polarity_Y": 0.036312137942572716,
+            "subjectivity_Y": 0.14677180709789406,
+            "simil_concepts": [
+                "text"
+            ]
+        }
+    },
+    "IPSOS,MACRON AL 57.5% AND LE PEN AL 42.5% President would increase advantage": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "President",
+                "Marine"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.009103277674706247,
+            "subjectivity_Y": 0.13846526489383634,
+            "simil_concepts": [
+                "president"
+            ]
+        },
+        "Kardashians deny faking Roblox sex tape scene": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.036312137942572716,
+            "subjectivity_Y": 0.14677180709789406,
+            "simil_concepts": []
+        }
+    },
+    "ATTENT IN AFGHANISTAN, ISIS RIVENDICA In the Shiite mosque, dead and wounded": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.03333333333333333,
+            "subjectivity_X": 0.3166666666666667,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "people",
+                "country",
+                "children"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.03333333333333333,
+            "subjectivity_X": 0.3166666666666667,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "children"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.03333333333333333,
+            "subjectivity_X": 0.3166666666666667,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.03333333333333333,
+            "subjectivity_X": 0.3166666666666667,
+            "polarity_Y": -0.009103277674706247,
+            "subjectivity_Y": 0.13846526489383634,
+            "simil_concepts": []
+        },
+        "Kardashians deny faking Roblox sex tape scene": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.03333333333333333,
+            "subjectivity_X": 0.3166666666666667,
+            "polarity_Y": 0.036312137942572716,
+            "subjectivity_Y": 0.14677180709789406,
+            "simil_concepts": [
+                "people"
+            ]
+        }
+    },
+    "_ \"Enlarge the many gaps\"": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.20026666666666668,
+            "subjectivity_X": 0.32006666666666667,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "children",
+                "people",
+                "President"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.20026666666666668,
+            "subjectivity_X": 0.32006666666666667,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "children",
+                "President"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.20026666666666668,
+            "subjectivity_X": 0.32006666666666667,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.20026666666666668,
+            "subjectivity_X": 0.32006666666666667,
+            "polarity_Y": -0.009103277674706247,
+            "subjectivity_Y": 0.13846526489383634,
+            "simil_concepts": []
+        },
+        "Kardashians deny faking Roblox sex tape scene": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.20026666666666668,
+            "subjectivity_X": 0.32006666666666667,
+            "polarity_Y": 0.036312137942572716,
+            "subjectivity_Y": 0.14677180709789406,
+            "simil_concepts": [
+                "people"
+            ]
+        }
+    },
+    "GAS, ITALIA-CONGO AGREEMENT: 4.5 MLD/MC To reduce dependence on Moscow": {
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.06666666666666667,
+            "polarity_Y": -0.03131012506012507,
+            "subjectivity_Y": 0.26626984126984127,
+            "simil_concepts": [
+                "supplies",
+                "country"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.06666666666666667,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "Moscow"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.06666666666666667,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Moscow",
+                "Minister"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.06666666666666667,
+            "polarity_Y": -0.009103277674706247,
+            "subjectivity_Y": 0.13846526489383634,
+            "simil_concepts": [
+                "tons",
+                "year"
+            ]
+        },
+        "Kardashians deny faking Roblox sex tape scene": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.06666666666666667,
+            "polarity_Y": 0.036312137942572716,
+            "subjectivity_Y": 0.14677180709789406,
+            "simil_concepts": [
+                "production"
+            ]
+        }
+    }
+}

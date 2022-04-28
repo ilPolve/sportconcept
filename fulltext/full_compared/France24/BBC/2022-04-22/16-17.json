@@ -1,0 +1,907 @@
+{
+    "len_A": 10,
+    "len_B": 7,
+    "coupled_A": 2,
+    "coupled_B": 1,
+    "covered_A_percent": 47.05882352941176,
+    "covered_B_percent": 35.294117647058826,
+    "covered_both_percent": 17.64705882352942,
+    "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.03418803418803419,
+            "subjectivity_Y": 0.17264957264957267,
+            "simil_concepts": [
+                "part",
+                "years",
+                "%"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "part",
+                "group",
+                "defenders",
+                "country",
+                "regions"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "society",
+                "country",
+                "years",
+                "news"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.03706896551724137,
+            "subjectivity_Y": 0.19902846195949642,
+            "simil_concepts": [
+                "part",
+                "regions"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.05815909090909092,
+            "subjectivity_Y": 0.2571096681096681,
+            "simil_concepts": [
+                "-",
+                "country",
+                "government",
+                "years",
+                "regions"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "part"
+            ]
+        }
+    },
+    "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.03418803418803419,
+            "subjectivity_Y": 0.17264957264957267,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "question",
+                "world",
+                "danger"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.03706896551724137,
+            "subjectivity_Y": 0.19902846195949642,
+            "simil_concepts": [
+                "Friday"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.05815909090909092,
+            "subjectivity_Y": 0.2571096681096681,
+            "simil_concepts": [
+                "occasion"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "March",
+                "image"
+            ]
+        }
+    },
+    "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.03418803418803419,
+            "subjectivity_Y": 0.17264957264957267,
+            "simil_concepts": [
+                "International",
+                "people"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "people",
+                "world"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "world"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.03706896551724137,
+            "subjectivity_Y": 0.19902846195949642,
+            "simil_concepts": [
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.05815909090909092,
+            "subjectivity_Y": 0.2571096681096681,
+            "simil_concepts": [
+                "International",
+                "people"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        }
+    },
+    "Dams: Save Last Salmons": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.03418803418803419,
+            "subjectivity_Y": 0.17264957264957267,
+            "simil_concepts": [
+                "years",
+                "water",
+                "life",
+                "%"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "question",
+                "life",
+                "months"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "source",
+                "years",
+                "life",
+                "months",
+                "news"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.03706896551724137,
+            "subjectivity_Y": 0.19902846195949642,
+            "simil_concepts": [
+                "Michel",
+                "European",
+                "life"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.05815909090909092,
+            "subjectivity_Y": 0.2571096681096681,
+            "simil_concepts": [
+                "time",
+                "president",
+                "years",
+                "half",
+                "life",
+                "respect",
+                "months"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "life",
+                "site"
+            ]
+        }
+    },
+    "The climate, big forgotten of the presidential campaign": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.03418803418803419,
+            "subjectivity_Y": 0.17264957264957267,
+            "simil_concepts": [
+                "power"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "power",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "place",
+                "power",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.03706896551724137,
+            "subjectivity_Y": 0.19902846195949642,
+            "simil_concepts": [
+                "power",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.05815909090909092,
+            "subjectivity_Y": 0.2571096681096681,
+            "simil_concepts": [
+                "election",
+                "power",
+                "security"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "power",
+                "Ukraine"
+            ]
+        }
+    },
+    "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.03418803418803419,
+            "subjectivity_Y": 0.17264957264957267,
+            "simil_concepts": [
+                "fight",
+                "power",
+                "%"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "country",
+                "power",
+                "plant"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "country",
+                "power",
+                "news"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.03706896551724137,
+            "subjectivity_Y": 0.19902846195949642,
+            "simil_concepts": [
+                "European",
+                "power"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.05815909090909092,
+            "subjectivity_Y": 0.2571096681096681,
+            "simil_concepts": [
+                "fight",
+                "country",
+                "power"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "power",
+                "plant"
+            ]
+        }
+    },
+    "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war",
+                "year"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.03418803418803419,
+            "subjectivity_Y": 0.17264957264957267,
+            "simil_concepts": [
+                "years",
+                "part",
+                "%"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "world",
+                "part",
+                "lot",
+                "use",
+                "bombs",
+                "buildings",
+                "group"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "years",
+                "war",
+                "Ukraine",
+                "range",
+                "world",
+                "news",
+                "future"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.03706896551724137,
+            "subjectivity_Y": 0.19902846195949642,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "part",
+                "states"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.05815909090909092,
+            "subjectivity_Y": 0.2571096681096681,
+            "simil_concepts": [
+                "years",
+                "UN",
+                "-",
+                "time"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "Ukraine",
+                "part"
+            ]
+        }
+    },
+    "India: the challenge of access to drinking water for all": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.03418803418803419,
+            "subjectivity_Y": 0.17264957264957267,
+            "simil_concepts": [
+                "water",
+                "years"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "world",
+                "years",
+                "news"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.03706896551724137,
+            "subjectivity_Y": 0.19902846195949642,
+            "simil_concepts": [
+                "population"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.05815909090909092,
+            "subjectivity_Y": 0.2571096681096681,
+            "simil_concepts": [
+                "government",
+                "point",
+                "years"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "Minister"
+            ]
+        }
+    },
+    "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.03418803418803419,
+            "subjectivity_Y": 0.17264957264957267,
+            "simil_concepts": [
+                "water",
+                "years",
+                "part",
+                "February"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "part",
+                "troops",
+                "territory",
+                ".",
+                "passage"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "World",
+                "years",
+                "place",
+                "citizens",
+                "operation",
+                "army",
+                "troops",
+                "force",
+                "February",
+                "news"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.03706896551724137,
+            "subjectivity_Y": 0.19902846195949642,
+            "simil_concepts": [
+                "part",
+                "troops",
+                "February"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.05815909090909092,
+            "subjectivity_Y": 0.2571096681096681,
+            "simil_concepts": [
+                "years",
+                "time"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "part",
+                "troops",
+                "March"
+            ]
+        }
+    },
+    "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.03418803418803419,
+            "subjectivity_Y": 0.17264957264957267,
+            "simil_concepts": [
+                "years",
+                "people"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": -0.03516313932980601,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "world",
+                "group",
+                "people"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.010962742504409166,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "world",
+                "years",
+                "news",
+                "business",
+                "thing"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.03706896551724137,
+            "subjectivity_Y": 0.19902846195949642,
+            "simil_concepts": [
+                "order"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.05815909090909092,
+            "subjectivity_Y": 0.2571096681096681,
+            "simil_concepts": [
+                "years",
+                "-",
+                "UN",
+                "people",
+                "respect"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.05941558441558442,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": []
+        }
+    }
+}

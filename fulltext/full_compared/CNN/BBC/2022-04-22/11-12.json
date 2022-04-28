@@ -1,0 +1,2494 @@
+{
+    "len_A": 28,
+    "len_B": 7,
+    "coupled_A": 0,
+    "coupled_B": 0,
+    "covered_A_percent": 80.0,
+    "covered_B_percent": 20.0,
+    "covered_both_percent": 0.0,
+    "Teacher raises more than $100,000 for food to keep thousands of children from going hungry over winter break": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "weeks",
+                "text"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "food",
+                "people",
+                "country",
+                "grocery",
+                "result",
+                "time",
+                "days"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "food",
+                "thousands",
+                "children",
+                "weeks",
+                "families",
+                "spokeswoman",
+                "situation",
+                "help",
+                "days"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "food",
+                "children",
+                "need",
+                "weeks",
+                "right",
+                "people",
+                "care",
+                "question",
+                "country",
+                "way",
+                "group",
+                "days",
+                "aim"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "food",
+                "year",
+                "weeks",
+                "years",
+                "head"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "food",
+                "thousands",
+                "weeks",
+                "statement"
+            ]
+        }
+    },
+    "Chinese court sentences US citizen Shadeed Abdulmateen to death for murder": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "court",
+                "face"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "media",
+                "People",
+                "China",
+                "officials",
+                "people"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "US",
+                "Thursday",
+                "media",
+                "officials",
+                "situation",
+                "world",
+                "thousands"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "US",
+                "murder",
+                "law",
+                "world",
+                "people",
+                "crimes"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "court",
+                "US",
+                "year",
+                "revenge",
+                "means",
+                "world",
+                "drug",
+                "drugs"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Times",
+                "officials",
+                "thousands"
+            ]
+        }
+    },
+    "Sign up for our 9-part Italy travel and food newsletter": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "food"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "food"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "part",
+                "food"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "food"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "part",
+                "food"
+            ]
+        }
+    },
+    "Inside London's new $25B 'Super Tube' ": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "city"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "city"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "city",
+                "way"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "city"
+            ]
+        }
+    },
+    "He bought a cruise ship on Craigslist. Here's what happened next": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        }
+    },
+    "The summer of travel chaos just got more chaotic ": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "Covid",
+                "cases",
+                "restrictions"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        }
+    },
+    "Japanese photographer's family portraits are literally breathtaking ": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        }
+    },
+    "Unusual airlines that really existed": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "US"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "US",
+                "control"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "US",
+                "government",
+                "routes"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        }
+    },
+    "The world's skinniest skyscraper completes": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        }
+    },
+    "This 10-year-old asked Santa last year for a Covid cure. This year he has a new request": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "moments",
+                "week"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "Covid",
+                "country",
+                "virus",
+                "Omicron",
+                "variant",
+                "people",
+                "lockdown",
+                "food",
+                "home",
+                "week",
+                "doors",
+                "health",
+                "days"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "world",
+                "US",
+                "children",
+                "help",
+                "plans",
+                "conditions",
+                "food",
+                "Joe",
+                "days"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "world",
+                "US",
+                "children",
+                "country",
+                "people",
+                "control",
+                "way",
+                "lot",
+                "food",
+                "week",
+                "medicine",
+                "care",
+                "days",
+                "police"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "year",
+                "request",
+                "world",
+                "US",
+                "years",
+                "food",
+                "home",
+                "police",
+                "leader",
+                "president"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "plans",
+                "food",
+                "Mayor"
+            ]
+        }
+    },
+    "Meet CNN's Hero of the Year": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "week",
+                "-"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "people",
+                "night",
+                "food",
+                "services",
+                "week",
+                "shop",
+                "home",
+                "People",
+                "time",
+                "residents",
+                "scale",
+                "operation",
+                "supplies",
+                "health",
+                "officials"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "men",
+                "children",
+                "exchange",
+                "food",
+                "thousands",
+                "world",
+                "-",
+                "items",
+                "officials",
+                "help"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "children",
+                "lot",
+                "people",
+                "exchange",
+                "food",
+                "week",
+                "part",
+                "touch",
+                "world",
+                "group",
+                "supplies",
+                "way"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "exchange",
+                "years",
+                "food",
+                "home",
+                "world",
+                "-"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "food",
+                "thousands",
+                "part",
+                "officials"
+            ]
+        }
+    },
+    "Long-lost Charles Darwin notebooks returned with mysterious note": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        }
+    },
+    "Can the world's largest plane ever fly again?": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "images"
+            ]
+        }
+    },
+    "Billionaire heiress Nicola Peltz marries Brooklyn Beckham in a decadent Valentino gown": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        }
+    },
+    "It's official: now avoid credit card interest into 2024": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        }
+    },
+    "These were the best and worst places for air quality in 2021, new report shows": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "country",
+                "health",
+                "countries",
+                "people",
+                "deaths",
+                "communities",
+                "China",
+                "city",
+                "time",
+                "addition",
+                "move"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "world",
+                "US",
+                "miles",
+                "city"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "places",
+                "world",
+                "country",
+                "territory",
+                "US",
+                "need",
+                "people",
+                "regions",
+                "city",
+                "part",
+                "use"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "air",
+                "world",
+                "New",
+                "US",
+                "year"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "New",
+                "miles",
+                "city",
+                "part"
+            ]
+        }
+    },
+    "Germany faces $240 billion hit if Russian gas is cut off": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "week"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "country",
+                "time",
+                "officials",
+                "homes",
+                "week",
+                "newspaper",
+                "supplies"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "Moscow",
+                "Russia",
+                "Ukraine",
+                "round",
+                "officials",
+                "Putin",
+                "interview"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "country",
+                "control",
+                "Russian",
+                "Russia",
+                "Ukraine",
+                "week",
+                "question",
+                "Putin",
+                "war",
+                "supplies"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "years",
+                "year",
+                "term",
+                "president"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Bucha",
+                "Moscow",
+                "Ukraine",
+                "officials",
+                "Minister",
+                "Putin",
+                "month",
+                "politicians",
+                "statement"
+            ]
+        }
+    },
+    "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "week"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "addition",
+                "week",
+                "government",
+                "time",
+                "people",
+                "communities"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "US",
+                "conditions",
+                "months"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "US",
+                "National",
+                "region",
+                "week",
+                "months",
+                "people"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "US",
+                "year",
+                "Administration",
+                "government",
+                "sea",
+                "millions",
+                "Department"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "statement"
+            ]
+        }
+    },
+    "World's top oil trader will stop buying Russian crude ": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "week"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "supplies",
+                "China",
+                "week",
+                "March",
+                "countries"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "world",
+                "situation",
+                "Russia",
+                "Ukraine",
+                "President",
+                "round"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "world",
+                "Russia",
+                "Ukraine",
+                "supplies",
+                "week",
+                "President",
+                "part"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "world",
+                "year",
+                "February"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "President",
+                "part",
+                "March"
+            ]
+        }
+    },
+    "0% intro APR until nearly 2024 is 100% insane": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        }
+    },
+    "3 reasons Shanghai's lockdown matters to the global economy": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": [
+                "east"
+            ]
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "week"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 21,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "Shanghai",
+                "lockdown",
+                "China",
+                "outbreak",
+                "residents",
+                "home",
+                "country",
+                "city",
+                "sign",
+                "government",
+                "restrictions",
+                "Covid",
+                "time",
+                "week",
+                "business",
+                "authorities",
+                "hub",
+                "March",
+                "media",
+                "notice",
+                "addition"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "city",
+                "world",
+                "exchange",
+                "media",
+                "US",
+                "east"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "country",
+                "city",
+                "world",
+                "week",
+                "exchange",
+                "port",
+                "US"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "home",
+                "world",
+                "government",
+                "New",
+                "York",
+                "exchange",
+                "year",
+                "US"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "city",
+                "month",
+                "New",
+                "York",
+                "March"
+            ]
+        }
+    },
+    "Elon Musk says his offer to buy Twitter is about 'the future of civilization,' not making money": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "business",
+                "people",
+                "time"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "Thursday",
+                "interview"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "way",
+                "people"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "Twitter"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        }
+    },
+    "Amazon is adding a 5% fuel and inflation surcharge": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "-"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "time",
+                "restrictions",
+                "services",
+                "March"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "-",
+                "months",
+                "world"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "months",
+                "world"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "-",
+                "world",
+                "year"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "March"
+            ]
+        }
+    },
+    "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "-"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "days",
+                "homes",
+                "time",
+                "communities",
+                "business",
+                "buildings",
+                "distribution",
+                "door",
+                "people",
+                "benefits",
+                "health"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "US",
+                "days",
+                "firm",
+                "help",
+                "world",
+                "site",
+                "-",
+                "benefits"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "US",
+                "lot",
+                "days",
+                "locations",
+                "need",
+                "area",
+                "world",
+                ".",
+                "group",
+                "buildings",
+                "people",
+                "benefits",
+                "way"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "millions",
+                "US",
+                "dollars",
+                "February",
+                "locations",
+                "years",
+                "world",
+                "year",
+                "-",
+                "Justice",
+                "benefits",
+                "New",
+                "York",
+                "air"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "site",
+                "location",
+                "benefits",
+                "New",
+                "York"
+            ]
+        }
+    },
+    "Powerful photo by Pacific Indigenous artist reveals truth about 1899 painting": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "Paul"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        }
+    },
+    "Two of India's biggest celebrities tie the knot": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": []
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "Thursday"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": []
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": []
+        }
+    },
+    "Why Australia and the US care so much about China's security pact with a tiny Pacific island nation": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "week",
+                "Washington",
+                "weeks",
+                "message"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "China",
+                "week",
+                "country",
+                "countries",
+                "move",
+                "government",
+                "home",
+                "result",
+                "people",
+                "questions"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "US",
+                "situation",
+                "weeks",
+                "help",
+                "tank",
+                "miles"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "US",
+                "week",
+                "country",
+                "region",
+                "National",
+                "weeks",
+                "police",
+                "lot",
+                "need",
+                "Sea",
+                "people",
+                "war"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "US",
+                "year",
+                "New",
+                "weeks",
+                "police",
+                "government",
+                "detail",
+                "home",
+                "leader",
+                "years"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "New",
+                "claim",
+                "month",
+                "weeks",
+                "statement",
+                "Minister",
+                "Foreign",
+                "miles",
+                "allies"
+            ]
+        }
+    },
+    "A vitriolic election campaign marked by anti-Islam narratives has left many French Muslims feeling marginalized": {
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Johnny Depp and Amber Heard face off in court": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.11746031746031747,
+            "simil_concepts": [
+                "face",
+                "piece"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "food",
+                "scale",
+                "time",
+                "country",
+                "city",
+                "health",
+                "government",
+                "night",
+                "people",
+                "services",
+                "questions"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": -0.005658436213991774,
+            "subjectivity_Y": 0.1036008230452675,
+            "simil_concepts": [
+                "food",
+                "round",
+                "TV",
+                "forces",
+                "city",
+                "situation",
+                "targets",
+                "bodies",
+                "foreigners"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "food",
+                "question",
+                "Marine",
+                "law",
+                "country",
+                "forces",
+                "border",
+                "city",
+                "part",
+                "places",
+                "control",
+                "bodies",
+                "way",
+                "war",
+                "people"
+            ]
+        },
+        "Honduran ex-leader flown to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": 0.0022937710437710424,
+            "subjectivity_Y": 0.13673540965207634,
+            "simil_concepts": [
+                "food",
+                "year",
+                "border",
+                "president",
+                "office",
+                "detail",
+                "government",
+                "head",
+                "investigation"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "food",
+                "month",
+                "forces",
+                "city",
+                "part",
+                "politicians",
+                "images",
+                "withdrawal",
+                "bodies"
+            ]
+        }
+    }
+}

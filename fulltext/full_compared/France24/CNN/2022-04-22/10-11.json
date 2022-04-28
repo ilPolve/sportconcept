@@ -1,0 +1,2964 @@
+{
+    "len_A": 29,
+    "len_B": 8,
+    "coupled_A": 1,
+    "coupled_B": 1,
+    "covered_A_percent": 75.67567567567568,
+    "covered_B_percent": 18.91891891891892,
+    "covered_both_percent": 5.4054054054054035,
+    "Chinese court sentences US citizen Shadeed Abdulmateen to death for murder": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "rights",
+                "Uganda"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "consequences",
+                "access",
+                "world"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "access",
+                "United",
+                "decision",
+                "citizens"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "rights",
+                "world",
+                "people"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "face",
+                "access"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "University",
+                "year",
+                "times",
+                "consequences",
+                "situation",
+                "world",
+                "South"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "decision"
+            ]
+        }
+    },
+    "He bought a cruise ship on Craigslist. Here's what happened next": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "Sign up for our 9-part Italy travel and food newsletter": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "part"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "part"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": []
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "Teacher raises more than $100,000 for food to keep thousands of children from going hungry over winter break": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "project",
+                "%",
+                "years",
+                "country",
+                "group"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "years",
+                "access"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "army",
+                "efforts",
+                "years",
+                "time",
+                "access"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "people",
+                "thing",
+                "years",
+                "living",
+                "group"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "winter",
+                "%",
+                "living",
+                "result",
+                "access",
+                "spring"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "year",
+                "school",
+                "years",
+                "day",
+                "question",
+                "December",
+                "situation",
+                "time",
+                "days"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "%",
+                "country"
+            ]
+        }
+    },
+    "This 10-year-old asked Santa last year for a Covid cure. This year he has a new request": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "country",
+                "threats",
+                "years"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world",
+                "program",
+                "years",
+                "health"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "example",
+                "years"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "world",
+                "suit",
+                "people",
+                "years",
+                "thing"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "problem",
+                "effect",
+                "conditions"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "year",
+                "world",
+                "season",
+                "Pole",
+                "years",
+                "school",
+                "day",
+                "others",
+                "South",
+                "week",
+                "days",
+                "changes"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "country"
+            ]
+        }
+    },
+    "Meet CNN's Hero of the Year": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "years",
+                "part",
+                "group",
+                "-",
+                "projects"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "place",
+                "protection"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "years",
+                "world",
+                "health",
+                "population"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "years",
+                "part",
+                "place",
+                "time",
+                "efforts",
+                "operation",
+                "report"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "people",
+                "years",
+                "world",
+                "thing",
+                "group",
+                "-",
+                "report"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "trees",
+                "operation"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "years",
+                "week",
+                "day",
+                "world",
+                "events",
+                "time",
+                "times",
+                "rise"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "The summer of travel chaos just got more chaotic ": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "summer"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "Temperatures",
+                "cases",
+                "year"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "Billionaire heiress Nicola Peltz marries Brooklyn Beckham in a decadent Valentino gown": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "designer"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "season",
+                "year"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "Can the world's largest plane ever fly again?": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "Long-lost Charles Darwin notebooks returned with mysterious note": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "University",
+                "years"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "Japanese photographer's family portraits are literally breathtaking ": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": []
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "Unusual airlines that really existed": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": []
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "The world's skinniest skyscraper completes": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "Inside London's new $25B 'Super Tube' ": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "London",
+                "side"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "These were the best and worst places for air quality in 2021, new report shows": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "pollution",
+                "country",
+                "%",
+                "countries",
+                "threats",
+                "regions",
+                "emissions",
+                "climate",
+                "crisis",
+                "part",
+                "warming",
+                "Africa"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "issues",
+                "energy",
+                "climate",
+                "crisis"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world",
+                "health",
+                "India",
+                "countries"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "report",
+                "territory",
+                "United",
+                "capital",
+                "part",
+                "Africa",
+                "time"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "report",
+                "world",
+                "governments",
+                "people",
+                "fuels",
+                "emissions",
+                "trend",
+                "warming",
+                "network",
+                "UN",
+                "order"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "%",
+                "New",
+                "matter",
+                "half",
+                "climate",
+                "warming",
+                "improvement",
+                "order"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "places",
+                "air",
+                "world",
+                "New",
+                "times",
+                "Australia",
+                "year",
+                "regions",
+                "climate",
+                "warming",
+                "Africa",
+                "South",
+                "time"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "country",
+                "%",
+                "energy"
+            ]
+        }
+    },
+    "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "emissions",
+                "%",
+                "gas",
+                "climate",
+                "crisis",
+                "years",
+                "projects",
+                "development",
+                "group",
+                "-",
+                "extraction",
+                "benefits",
+                "environment"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "energy",
+                "power",
+                "campaign",
+                "place",
+                "climate",
+                "crisis",
+                "protection",
+                "environment"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "years",
+                "world",
+                "program",
+                "health"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "February",
+                "report",
+                "example",
+                "time",
+                "place",
+                "years",
+                "decision",
+                ".",
+                "sector",
+                "demand"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "emissions",
+                "fuels",
+                "experts",
+                "planet",
+                "report",
+                "gas",
+                "years",
+                "world",
+                "group",
+                "business",
+                "-",
+                "people",
+                "leaders",
+                "UN"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "solution",
+                "%",
+                "half",
+                "research",
+                "equivalent",
+                "climate",
+                "rain",
+                "plants",
+                "New",
+                "future"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "December",
+                "days",
+                "locations",
+                "time",
+                "climate",
+                "University",
+                "years",
+                "area",
+                "world",
+                "others",
+                "times",
+                "end",
+                "year",
+                "Environmental",
+                "New",
+                "air"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "energy",
+                "%",
+                "electricity",
+                "power",
+                "gas",
+                "decision"
+            ]
+        }
+    },
+    "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "%",
+                "news",
+                "government",
+                "effects",
+                "impacts",
+                "climate"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "climate"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "water",
+                "news",
+                "government",
+                "drinking"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "water",
+                "report",
+                "Monday",
+                "news",
+                "time",
+                "drinking",
+                "Interior"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "report",
+                "Monday",
+                "news",
+                "experts",
+                "people"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "water",
+                "drought",
+                "%",
+                "news",
+                "conditions",
+                "consumption",
+                "irrigation",
+                "future",
+                "science",
+                "climate"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "water",
+                "level",
+                "year",
+                "times",
+                "news",
+                "region",
+                "week",
+                "time",
+                "sea",
+                "climate"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "%",
+                "news",
+                "electricity"
+            ]
+        }
+    },
+    "It's official: now avoid credit card interest into 2024": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": []
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "Amazon is adding a 5% fuel and inflation surcharge": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "%",
+                "-"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "energy"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "time",
+                "example",
+                "March"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "-",
+                "April",
+                "world"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "time",
+                "world",
+                "March",
+                "year"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "%",
+                "energy"
+            ]
+        }
+    },
+    "0% intro APR until nearly 2024 is 100% insane": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": []
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "%"
+            ]
+        }
+    },
+    "A vitriolic election campaign marked by anti-Islam narratives has left many French Muslims feeling marginalized": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "France",
+                "rights",
+                "activist",
+                "country",
+                "%",
+                "society",
+                "part",
+                "support",
+                "Europe",
+                "government",
+                "project",
+                "poverty"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "election",
+                "campaign",
+                "top",
+                "place",
+                "French",
+                "war",
+                "energy"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "water",
+                "France",
+                "consequences",
+                "health",
+                "government"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "water",
+                "France",
+                "time",
+                "part",
+                "place",
+                "citizens",
+                "Sarah"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "France",
+                "rights",
+                "freedom",
+                "April",
+                "order",
+                "words",
+                "beliefs",
+                "people"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "water",
+                "month",
+                "France",
+                "%",
+                "effect",
+                "seasons",
+                "problem",
+                "order",
+                "face",
+                "idea"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "water",
+                "beginning",
+                "year",
+                "France",
+                "question",
+                "time",
+                "consequences",
+                "situation",
+                "values",
+                "places",
+                "University",
+                "specialist"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.10452624066754501,
+            "subjectivity_X": 0.3227838687077818,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "France",
+                "top",
+                "country",
+                "%",
+                "Europe",
+                "energy"
+            ]
+        }
+    },
+    "Powerful photo by Pacific Indigenous artist reveals truth about 1899 painting": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "Two of India's biggest celebrities tie the knot": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "India"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": []
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": []
+        }
+    },
+    "Germany faces $240 billion hit if Russian gas is cut off": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "gas",
+                "country",
+                "years",
+                "%",
+                "Europe",
+                "oil"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "Ukraine",
+                "energy",
+                "war"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "euros",
+                "years",
+                "Minister",
+                "water",
+                "point"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "years",
+                "report",
+                "World",
+                "time",
+                "water"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "gas",
+                "years",
+                "report",
+                "economy",
+                "leaders"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "%",
+                "research",
+                "term",
+                "water",
+                "month",
+                "association"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "years",
+                "event",
+                "year",
+                "Institute",
+                "time",
+                "week",
+                "water",
+                "question",
+                "level",
+                "period"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "gas",
+                "country",
+                "%",
+                "Europe",
+                "European",
+                "EU",
+                "electricity",
+                "energy"
+            ]
+        }
+    },
+    "Elon Musk says his offer to buy Twitter is about 'the future of civilization,' not making money": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "issues"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "point"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "business",
+                "people"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "future",
+                "problem",
+                "%"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "changes",
+                "time"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "%"
+            ]
+        }
+    },
+    "Honduras extradites former president to the US to face drug trafficking charges": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.025843149098963052,
+            "subjectivity_X": 0.1304397798583845,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "country",
+                "news",
+                "government",
+                "countries",
+                "years",
+                "co",
+                "-"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.025843149098963052,
+            "subjectivity_X": 0.1304397798583845,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "power"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.025843149098963052,
+            "subjectivity_X": 0.1304397798583845,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "news",
+                "government",
+                "countries",
+                "years",
+                "consequences"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": -0.025843149098963052,
+            "subjectivity_X": 0.1304397798583845,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "United",
+                "time",
+                "news",
+                "capital",
+                "television",
+                "authorities",
+                "force",
+                "years",
+                "February",
+                "March",
+                "operation",
+                "report"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.025843149098963052,
+            "subjectivity_X": 0.1304397798583845,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "General",
+                "news",
+                "years",
+                "press",
+                "co",
+                "-",
+                "network",
+                "leaders",
+                "report"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.025843149098963052,
+            "subjectivity_X": 0.1304397798583845,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "New",
+                "news",
+                "month",
+                "operation"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.025843149098963052,
+            "subjectivity_X": 0.1304397798583845,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "time",
+                "South",
+                "New",
+                "news",
+                "air",
+                "account",
+                "years",
+                "March",
+                "rise",
+                "consequences"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.025843149098963052,
+            "subjectivity_X": 0.1304397798583845,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "country",
+                "news",
+                "power"
+            ]
+        }
+    },
+    "Why Australia and the US care so much about China's security pact with a tiny Pacific island nation": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "country",
+                "countries",
+                "November",
+                "government",
+                "years"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "security",
+                "power",
+                "issue",
+                "war",
+                "place"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "population",
+                "countries",
+                "government",
+                "Prime",
+                "Minister",
+                "years",
+                "challenge"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "United",
+                "capital",
+                "decision",
+                "Ministry",
+                "place",
+                "years"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "chance",
+                "experts",
+                "order",
+                "reaction",
+                "people",
+                "years"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "New",
+                "month",
+                "chance",
+                "order",
+                "reaction",
+                "result",
+                "damage",
+                "idea"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "Australia",
+                "week",
+                "year",
+                "New",
+                "Zealand",
+                "region",
+                "situation",
+                "University",
+                "others",
+                "Institute",
+                "South",
+                "attention",
+                "years",
+                "rise"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "country",
+                "power",
+                "decision"
+            ]
+        }
+    },
+    "World's top oil trader will stop buying Russian crude ": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "oil",
+                "news",
+                "Europe",
+                "part",
+                "%",
+                "countries"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "energy",
+                "Ukraine"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world",
+                "news",
+                "countries"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "World",
+                "news",
+                "February",
+                "United",
+                "part",
+                "March"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "world",
+                "news",
+                "April"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "product",
+                "news",
+                "%"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "world",
+                "end",
+                "year",
+                "situation",
+                "news",
+                "Australia",
+                "day",
+                "week",
+                "March"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "energy",
+                "news",
+                "Europe",
+                "European",
+                "Commission",
+                "%"
+            ]
+        }
+    },
+    "3 reasons Shanghai's lockdown matters to the global economy": {
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "country",
+                "government",
+                "%",
+                "oil",
+                "impacts"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "place"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world",
+                "government",
+                "population"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "place",
+                "Monday",
+                "time",
+                "authorities",
+                "March",
+                "east"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "economy",
+                "world",
+                "Monday",
+                "business",
+                "General"
+            ]
+        },
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "month",
+                "damage",
+                "%",
+                "New",
+                "plants",
+                "research"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "day",
+                "world",
+                "time",
+                "week",
+                "end",
+                "New",
+                "London",
+                "year",
+                "times",
+                "March",
+                "east"
+            ]
+        },
+        "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.0886111111111111,
+            "subjectivity_Y": 0.32888888888888895,
+            "simil_concepts": [
+                "country",
+                "%"
+            ]
+        }
+    }
+}

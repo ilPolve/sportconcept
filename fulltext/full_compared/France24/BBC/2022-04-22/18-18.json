@@ -1,0 +1,1490 @@
+{
+    "len_A": 15,
+    "len_B": 7,
+    "coupled_A": 2,
+    "coupled_B": 1,
+    "covered_A_percent": 59.09090909090909,
+    "covered_B_percent": 27.27272727272727,
+    "covered_both_percent": 13.63636363636364,
+    "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "part",
+                "troops",
+                "February"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "water",
+                "years",
+                "part",
+                "February"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "part",
+                "troops",
+                "territory",
+                ".",
+                "passage"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "part",
+                "troops",
+                "March"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "World",
+                "years",
+                "place",
+                "citizens",
+                "operation",
+                "army",
+                "troops",
+                "force",
+                "February",
+                "news"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.13472222222222222,
+            "subjectivity_X": 0.6429292929292929,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "years",
+                "part"
+            ]
+        }
+    },
+    "The climate, big forgotten of the presidential campaign": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "power",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "power"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "power",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "power",
+                "Ukraine"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "place",
+                "power",
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1412698412698413,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "campaign",
+                "power",
+                "security"
+            ]
+        }
+    },
+    "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "war",
+                "Ukraine"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "International",
+                "people"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "people",
+                "world"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "world"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03125,
+            "subjectivity_X": 0.07291666666666667,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "people"
+            ]
+        }
+    },
+    "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "Friday"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "question",
+                "world",
+                "danger"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "March",
+                "image"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2733333333333334,
+            "subjectivity_X": 0.3583333333333334,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "Friday"
+            ]
+        }
+    },
+    "India: the challenge of access to drinking water for all": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "population"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "water",
+                "years"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "Minister"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "world",
+                "years",
+                "news"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.033333333333333326,
+            "subjectivity_X": 0.30833333333333335,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "challenge",
+                "years"
+            ]
+        }
+    },
+    "How can we explain the unprecedented heat cut in polar regions?": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "regions",
+                "Friday",
+                "days",
+                "region",
+                "south",
+                "west",
+                "event"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "years",
+                "beginning",
+                "water"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "regions",
+                "week",
+                "locations",
+                "days",
+                "region",
+                "area",
+                "places",
+                "world",
+                "account",
+                "question"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "March",
+                "km",
+                "west",
+                "New"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "years",
+                "side",
+                "world",
+                "events",
+                "news"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.11981614171269343,
+            "subjectivity_X": 0.4585734189182465,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "week",
+                "Friday",
+                "years"
+            ]
+        }
+    },
+    "Dams: Save Last Salmons": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "Michel",
+                "European"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "years",
+                "water",
+                "%"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "question",
+                "months"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "site"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "source",
+                "years",
+                "months",
+                "news"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.050529100529100535,
+            "subjectivity_X": 0.16931216931216933,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "years"
+            ]
+        }
+    },
+    "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "part",
+                "regions"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "part",
+                "years",
+                "%"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "part",
+                "group",
+                "defenders",
+                "country",
+                "regions"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "part"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "society",
+                "country",
+                "years",
+                "news"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.07267676767676766,
+            "subjectivity_X": 0.44409090909090915,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "-",
+                "part",
+                "group",
+                "country",
+                "years"
+            ]
+        }
+    },
+    "A drought in winter": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "order"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "water",
+                "%"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "danger",
+                "plant"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "month",
+                "New",
+                "plant"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "operation",
+                "month",
+                "centre",
+                "future",
+                "result",
+                "news"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.1569404310966811,
+            "subjectivity_X": 0.26450481000481,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": []
+        }
+    },
+    "Renewable energy: Austria at the top of the fight in Europe for green electricity": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "European",
+                "EU",
+                "power"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "fight",
+                "power",
+                "%"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "country",
+                "power",
+                "plant"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "power",
+                "plant"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "country",
+                "power",
+                "news"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0886111111111111,
+            "subjectivity_X": 0.32888888888888895,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "country",
+                "power"
+            ]
+        }
+    },
+    "The fight of NGOs to make the climate exist in the presidential campaign": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "Vladimir",
+                "Putin",
+                "defence",
+                "conflict",
+                "days",
+                "February",
+                "population",
+                "war",
+                "Ukraine",
+                "independence",
+                "way",
+                "call"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "fight",
+                "Putin",
+                "%",
+                "February"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "Vladimir",
+                "Putin",
+                "week",
+                "days",
+                "world",
+                "question",
+                "war",
+                "Ukraine",
+                "group",
+                "National",
+                "way",
+                "right",
+                "Marine",
+                "aim"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "Putin",
+                "March",
+                "Ukraine",
+                "site"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "Vladimir",
+                "Putin",
+                "defence",
+                "state",
+                "February",
+                "world",
+                "future",
+                "war",
+                "Ukraine",
+                "place",
+                "website",
+                "news",
+                "side",
+                "centre",
+                "World"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.01793906325156325,
+            "subjectivity_X": 0.22397994077681574,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "campaign",
+                "Putin",
+                "week",
+                "members",
+                "group",
+                "State"
+            ]
+        }
+    },
+    "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war",
+                "year"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "part",
+                "states"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "years",
+                "part",
+                "%"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "world",
+                "part",
+                "lot",
+                "use",
+                "bombs",
+                "buildings",
+                "group"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "Ukraine",
+                "part"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "years",
+                "war",
+                "Ukraine",
+                "range",
+                "world",
+                "news",
+                "future"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.05357431457431458,
+            "subjectivity_X": 0.4079368286034953,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "years",
+                "UN",
+                "part",
+                "Secretary",
+                "General",
+                "use",
+                "-",
+                "challenge",
+                "group"
+            ]
+        }
+    },
+    "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "order"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "years",
+                "people"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "world",
+                "group",
+                "people"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": []
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "world",
+                "years",
+                "news",
+                "business",
+                "thing"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.17062413349178054,
+            "subjectivity_X": 0.3246300540418187,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "years",
+                "-",
+                "group",
+                "UN",
+                "Secretary",
+                "General",
+                "people"
+            ]
+        }
+    },
+    "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "President",
+                "power",
+                "occupation",
+                "Twitter",
+                "Friday",
+                "population",
+                "Council",
+                "EU",
+                "agreement",
+                "polls"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "power",
+                "video",
+                "night",
+                "police",
+                "years",
+                "%",
+                "subject",
+                "Wednesday"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "President",
+                "Marine",
+                "power",
+                "video",
+                "world",
+                "police",
+                "law",
+                "buildings",
+                "lot",
+                "National",
+                "country",
+                "week",
+                "need",
+                "use"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "President",
+                "power"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "power",
+                "hope",
+                "students",
+                "video",
+                "world",
+                "student",
+                "years",
+                "radio",
+                "country",
+                "website",
+                "products",
+                "news"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.00015408320493065972,
+            "subjectivity_X": 0.185336414997432,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "power",
+                "Thursday",
+                "Friday",
+                "members",
+                "years",
+                "campaign",
+                "country",
+                "week",
+                "use"
+            ]
+        }
+    },
+    "President: What do environmental candidates propose?": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.002826641113354386,
+            "subjectivity_X": 0.23529188371845713,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war",
+                "year"
+            ]
+        },
+        "Russia 'seeks full control' of southern Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.002826641113354386,
+            "subjectivity_X": 0.23529188371845713,
+            "polarity_Y": 0.04253472222222221,
+            "subjectivity_Y": 0.19937996031746033,
+            "simil_concepts": [
+                "President",
+                "war",
+                "Ukraine",
+                "referendum",
+                "power",
+                "areas",
+                "land",
+                "independence",
+                "order",
+                "region",
+                "phase",
+                "agreement",
+                "goal",
+                "Russia"
+            ]
+        },
+        "Mike Tyson punched passenger 'after bottle thrown'": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.002826641113354386,
+            "subjectivity_X": 0.23529188371845713,
+            "polarity_Y": 0.03968253968253969,
+            "subjectivity_Y": 0.18412698412698414,
+            "simil_concepts": [
+                "years",
+                "fight",
+                "power",
+                "%",
+                "International",
+                "night",
+                "Office",
+                "rules",
+                "car",
+                "people",
+                "Department"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.002826641113354386,
+            "subjectivity_X": 0.23529188371845713,
+            "polarity_Y": -0.033399470899470915,
+            "subjectivity_Y": 0.267989417989418,
+            "simil_concepts": [
+                "President",
+                "months",
+                "war",
+                "Ukraine",
+                "right",
+                "power",
+                "law",
+                "buildings",
+                "National",
+                "world",
+                "use",
+                "plant",
+                "region",
+                "people",
+                "Russia",
+                "Marine"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.002826641113354386,
+            "subjectivity_X": 0.23529188371845713,
+            "polarity_Y": 0.06299981380626542,
+            "subjectivity_Y": 0.2396930130801099,
+            "simil_concepts": [
+                "President",
+                "Ukraine",
+                "km",
+                "power",
+                "mayor",
+                "Minister",
+                "plant"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.002826641113354386,
+            "subjectivity_X": 0.23529188371845713,
+            "polarity_Y": 0.01281459435626102,
+            "subjectivity_Y": 0.11849162257495595,
+            "simil_concepts": [
+                "months",
+                "news",
+                "war",
+                "Ukraine",
+                "radio",
+                "years",
+                "products",
+                "power",
+                "place",
+                "world",
+                "state",
+                "companies",
+                "car",
+                "operation",
+                "Russia"
+            ]
+        },
+        "Attack kills scores during prayers at Afghan mosque": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.002826641113354386,
+            "subjectivity_X": 0.23529188371845713,
+            "polarity_Y": 0.006288329725829726,
+            "subjectivity_Y": 0.1295341810966811,
+            "simil_concepts": [
+                "campaign",
+                "years",
+                "power",
+                "use",
+                "leader",
+                "members",
+                "people"
+            ]
+        }
+    }
+}

@@ -1,0 +1,4304 @@
+{
+    "len_A": 10,
+    "len_B": 26,
+    "coupled_A": 4,
+    "coupled_B": 4,
+    "covered_A_percent": 16.666666666666664,
+    "covered_B_percent": 61.111111111111114,
+    "covered_both_percent": 22.22222222222223,
+    "News of the day: Ukraine War, Corona, World Economy": {
+        "A convicted death in South Carolina chose to be killed by a firing squad": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": -0.04093434343434344,
+            "subjectivity_Y": 0.4840314913844326,
+            "simil_concepts": [
+                "situation",
+                "days",
+                "United",
+                "States",
+                "people",
+                "country",
+                "year",
+                "states",
+                "reason",
+                "choice",
+                "April"
+            ]
+        },
+        "Shanghai will introduce a “basket” system for workers": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.1360916860916861,
+            "subjectivity_Y": 0.308761655011655,
+            "simil_concepts": [
+                "day",
+                "night",
+                "world",
+                "city",
+                "example",
+                "inhabitants",
+                "time",
+                "kind",
+                "home",
+                "office",
+                "consequences",
+                "people",
+                "recovery",
+                "weekend",
+                "dollars",
+                "economy",
+                "beginning",
+                "March"
+            ]
+        },
+        "Israel bombed the Gaza Strip in response to the launch of a rocket to Tel Aviv": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": -0.01818181818181818,
+            "subjectivity_Y": 0.12272727272727273,
+            "simil_concepts": [
+                "Tuesday",
+                "army",
+                "days",
+                "attack",
+                "morning",
+                "beginning"
+            ]
+        },
+        "There are clashes throughout the east of Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.012317460317460317,
+            "subjectivity_Y": 0.17000529100529102,
+            "simil_concepts": [
+                "day",
+                "Ukraine",
+                "Mariupol",
+                "city",
+                "Russia",
+                "troops",
+                "time",
+                "army",
+                "days",
+                "forces",
+                "people",
+                "country",
+                "minister",
+                "morning",
+                "beginning",
+                "TV",
+                "Russians",
+                "interview"
+            ]
+        },
+        "The battle for Donbass began, says Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 17,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.07829743008314437,
+            "subjectivity_Y": 0.2542139077853363,
+            "simil_concepts": [
+                "Ukraine",
+                "bombing",
+                "Mariupol",
+                "night",
+                "announcements",
+                "city",
+                "Russia",
+                "President",
+                "weeks",
+                "troops",
+                "Kiev",
+                "army",
+                "days",
+                "forces",
+                "fact",
+                "things",
+                "beginning"
+            ]
+        },
+        "The proposal of Dragons on the limit to the price of Russian gas": {
+            "are_similar": true,
+            "similar_concepts_number": 48,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.028560910307898254,
+            "subjectivity_Y": 0.11665997322623828,
+            "simil_concepts": [
+                "day",
+                "Ukraine",
+                "Economy",
+                "Minister",
+                "prices",
+                "reduction",
+                "times",
+                "government",
+                "world",
+                "pressure",
+                "Russia",
+                "President",
+                "hand",
+                "meeting",
+                "capital",
+                "weeks",
+                "Chancellor",
+                "Olaf",
+                "Scholz",
+                "press",
+                "conference",
+                "war",
+                "Germany",
+                "time",
+                "exchange",
+                "Union",
+                "days",
+                "support",
+                "fact",
+                "term",
+                "consequences",
+                "Lindner",
+                "position",
+                "Christian",
+                "Bank",
+                "country",
+                "economy",
+                "countries",
+                "percent",
+                "year",
+                "energy",
+                "beginning",
+                "agreement",
+                "Russians",
+                "interview",
+                "lot",
+                "April",
+                "growth"
+            ]
+        },
+        "The accusations of the European Anti-Fraud Office against Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 25,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.047412367724867725,
+            "subjectivity_Y": 0.18057208994708995,
+            "simil_concepts": [
+                "politicians",
+                "actions",
+                "city",
+                "President",
+                "president",
+                "time",
+                "Union",
+                "office",
+                "people",
+                "total",
+                "Party",
+                "March",
+                "Office",
+                "election",
+                "MEPs",
+                "party",
+                "leader",
+                "EU",
+                "candidate",
+                "Le",
+                "Pen",
+                "right",
+                "Marine",
+                "-",
+                "April"
+            ]
+        },
+        "In Shanghai three people died for COVID-19: they are the first since the start of the lockdown": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.07951770451770453,
+            "subjectivity_Y": 0.23577533577533574,
+            "simil_concepts": [
+                "situation",
+                "city",
+                "inhabitants",
+                "days",
+                "people",
+                "deaths",
+                "beginning",
+                "March",
+                "protests"
+            ]
+        },
+        "The fights in Jerusalem are putting the Israeli government into trouble": {
+            "are_similar": false,
+            "similar_concepts_number": 25,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": -0.11710214388785817,
+            "subjectivity_Y": 0.3376191764584622,
+            "simil_concepts": [
+                "Minister",
+                "food",
+                "times",
+                "government",
+                "world",
+                "city",
+                "weeks",
+                "one",
+                "time",
+                "story",
+                "days",
+                "United",
+                "things",
+                "people",
+                "total",
+                "Prime",
+                "Christian",
+                "country",
+                "weekend",
+                "year",
+                "beginning",
+                "party",
+                "Parliament",
+                "right",
+                "April"
+            ]
+        },
+        "The fears for the nearby Slovenian nuclear power plant": {
+            "are_similar": false,
+            "similar_concepts_number": 35,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.1928518420355155,
+            "subjectivity_Y": 0.2899792384486262,
+            "simil_concepts": [
+                "Ukraine",
+                "today",
+                "addition",
+                "times",
+                "government",
+                "capital",
+                "weeks",
+                "press",
+                "conference",
+                "president",
+                "one",
+                "impact",
+                "time",
+                "Slovenia",
+                "Union",
+                "plan",
+                "United",
+                "thanks",
+                "life",
+                "position",
+                "International",
+                "country",
+                "minister",
+                "results",
+                "percent",
+                "year",
+                "states",
+                "energy",
+                "risk",
+                "Energy",
+                "associations",
+                "electricity",
+                "Spain",
+                "station",
+                "April"
+            ]
+        },
+        "In Sri Lanka continues to protest against the government": {
+            "are_similar": false,
+            "similar_concepts_number": 26,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": -0.062205046415572736,
+            "subjectivity_Y": 0.13760785997628103,
+            "simil_concepts": [
+                "Ukraine",
+                "Minister",
+                "food",
+                "situation",
+                "prices",
+                "government",
+                "city",
+                "President",
+                "capital",
+                "weeks",
+                "inhabitants",
+                "Tuesday",
+                "war",
+                "one",
+                "days",
+                "United",
+                "consequences",
+                "people",
+                "Prime",
+                "country",
+                "debt",
+                "energy",
+                "protest",
+                "demonstration",
+                "protests",
+                "April"
+            ]
+        },
+        "Russian oligarch Oleg Tinkov against war in Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 24,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": -0.009759557945041812,
+            "subjectivity_Y": 0.2530615292712067,
+            "simil_concepts": [
+                "Ukraine",
+                "addition",
+                "government",
+                "Russia",
+                "President",
+                "Vladimir",
+                "Putin",
+                "Tuesday",
+                "war",
+                "content",
+                "form",
+                "news",
+                "army",
+                "»",
+                "fact",
+                "people",
+                "Bank",
+                "country",
+                "propaganda",
+                "beginning",
+                "beneficiaries",
+                "statements",
+                "Russians",
+                "criticism"
+            ]
+        },
+        "China has announced a new security agreement with Solomon Islands": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.0358054226475279,
+            "subjectivity_Y": 0.25882509303561935,
+            "simil_concepts": [
+                "government",
+                "capital",
+                "press",
+                "Tuesday",
+                "content",
+                "forces",
+                "United",
+                "States",
+                "fact",
+                "country",
+                "minister",
+                "dollars",
+                "countries",
+                "agreement",
+                "hours",
+                "station"
+            ]
+        },
+        "In the United States, masking on planes and public transport is no longer mandatory": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.01986208236208236,
+            "subjectivity_Y": 0.25053742553742553,
+            "simil_concepts": [
+                "government",
+                "example",
+                "President",
+                "time",
+                "board",
+                "United",
+                "States",
+                "Biden",
+                "people",
+                "Health",
+                "Fund",
+                "country",
+                "states",
+                "movement",
+                "March",
+                "reason"
+            ]
+        },
+        "Why Mariupol is so important to Russia": {
+            "are_similar": false,
+            "similar_concepts_number": 26,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.177944610034774,
+            "subjectivity_Y": 0.5232250293725703,
+            "simil_concepts": [
+                "Ukraine",
+                "Mariupol",
+                "situation",
+                "today",
+                "government",
+                "city",
+                "Russia",
+                "President",
+                "Vladimir",
+                "Putin",
+                "capital",
+                "weeks",
+                "civilians",
+                "war",
+                "army",
+                "days",
+                "forces",
+                "fact",
+                "things",
+                "total",
+                "country",
+                "morning",
+                "beginning",
+                "hours",
+                "Russians",
+                "-"
+            ]
+        },
+        "At least four people were killed in an attack on a Kabul school in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": -0.09218518518518519,
+            "subjectivity_Y": 0.17440740740740743,
+            "simil_concepts": [
+                "government",
+                "capital",
+                "Tuesday",
+                "attack",
+                "things",
+                "people",
+                "country",
+                "suicide",
+                "e"
+            ]
+        },
+        "Marion Maréchal, grandson of Marine Le Pen, is the new vice president of Reconquête!, the party of Éric Zemmour": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.056818181818181816,
+            "subjectivity_Y": 0.23658459595959594,
+            "simil_concepts": [
+                "president",
+                "future",
+                "return",
+                "Twitter",
+                "policy",
+                "percent",
+                "movement",
+                "March",
+                "election",
+                "party",
+                "candidate",
+                "Le",
+                "Pen",
+                "grandson",
+                "Marine",
+                "politics"
+            ]
+        },
+        "For Algeria to increase gas exports will not be easy": {
+            "are_similar": false,
+            "similar_concepts_number": 34,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.1733021839271839,
+            "subjectivity_Y": 0.4288196525696526,
+            "simil_concepts": [
+                "situation",
+                "prices",
+                "times",
+                "need",
+                "government",
+                "example",
+                "Government",
+                "Russia",
+                "President",
+                "weeks",
+                "president",
+                "time",
+                "Union",
+                "plan",
+                "fact",
+                "term",
+                "people",
+                "position",
+                "country",
+                "dollars",
+                "countries",
+                "percent",
+                "year",
+                "energy",
+                "predecessor",
+                "Energy",
+                "limits",
+                "electricity",
+                "Spain",
+                "Portugal",
+                "agreement",
+                "lot",
+                "protests",
+                "growth"
+            ]
+        },
+        "From today in Spain there is no longer the obligation of the mask closed": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": -0.04285714285714285,
+            "subjectivity_Y": 0.19708994708994707,
+            "simil_concepts": [
+                "situation",
+                "today",
+                "vaccination",
+                "need",
+                "government",
+                "example",
+                "days",
+                "people",
+                "Health",
+                "morning",
+                "countries",
+                "Spain",
+                "cinemas",
+                "April"
+            ]
+        },
+        "At least 10 people were killed in an attack on a Mazar-i-Sharif mosque in the north of Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": -0.12067307692307692,
+            "subjectivity_Y": 0.287232905982906,
+            "simil_concepts": [
+                "Thursday",
+                "city",
+                "days",
+                "attack",
+                "people",
+                "morning",
+                "station"
+            ]
+        },
+        "The television debate that neither Macron nor Le Pen want to lose": {
+            "are_similar": false,
+            "similar_concepts_number": 46,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.029883263985205726,
+            "subjectivity_Y": 0.31071659731853907,
+            "simil_concepts": [
+                "day",
+                "Ukraine",
+                "evening",
+                "question",
+                "example",
+                "Russia",
+                "President",
+                "Vladimir",
+                "Putin",
+                "hand",
+                "meeting",
+                "weeks",
+                "Tuesday",
+                "president",
+                "war",
+                "time",
+                "kind",
+                "Union",
+                "days",
+                "fact",
+                "home",
+                "people",
+                "position",
+                "trip",
+                "country",
+                "stage",
+                "lies",
+                "morning",
+                "percent",
+                "risk",
+                "beginning",
+                "election",
+                "France",
+                "party",
+                "leader",
+                "house",
+                "TV",
+                "hours",
+                "candidate",
+                "Le",
+                "Pen",
+                "picture",
+                "right",
+                "Marine",
+                "meetings",
+                "April"
+            ]
+        },
+        "The stamp celebrating Ukrainian resistance is going to steal in Kiev": {
+            "are_similar": false,
+            "similar_concepts_number": 26,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": -0.0016144781144781146,
+            "subjectivity_Y": 0.17272643097643095,
+            "simil_concepts": [
+                "day",
+                "Ukraine",
+                "War",
+                "government",
+                "world",
+                "Russia",
+                "President",
+                "Vladimir",
+                "Putin",
+                "war",
+                "Kiev",
+                "army",
+                "days",
+                "Black",
+                "Sea",
+                "fact",
+                "public",
+                "people",
+                "beginning",
+                "March",
+                "Boris",
+                "hours",
+                "Russians",
+                "lot",
+                "-",
+                "April"
+            ]
+        },
+        "Nobel Peace Prize José Ramos-Horta won the presidential elections in East Timor": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": -0.024999999999999998,
+            "subjectivity_Y": 0.10740740740740741,
+            "simil_concepts": [
+                "President",
+                "country",
+                "minister",
+                "results",
+                "percent",
+                "March",
+                "Office"
+            ]
+        },
+        "How was the debate between Macron and Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 38,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.25933353139235493,
+            "subjectivity_Y": 0.3543495175848117,
+            "simil_concepts": [
+                "Ukraine",
+                "VAT",
+                "evening",
+                "times",
+                "citizens",
+                "need",
+                "Russia",
+                "Putin",
+                "hand",
+                "’s",
+                "president",
+                "war",
+                "one",
+                "speech",
+                "arms",
+                "time",
+                "Union",
+                "news",
+                "»",
+                "plan",
+                "support",
+                "position",
+                "percent",
+                "debt",
+                "energy",
+                "beginning",
+                "reason",
+                "election",
+                "France",
+                "party",
+                "leader",
+                "hours",
+                "candidate",
+                "Le",
+                "Pen",
+                "Marine",
+                "idea",
+                "April"
+            ]
+        },
+        "The humanitarian aid machine in Moldova and Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 50,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.024322029822029818,
+            "subjectivity_Y": 0.1660944554021477,
+            "simil_concepts": [
+                "day",
+                "Ukraine",
+                "Mariupol",
+                "food",
+                "situation",
+                "today",
+                "course",
+                "help",
+                "need",
+                "government",
+                "city",
+                "example",
+                "journey",
+                "formation",
+                "corridors",
+                "capital",
+                "weeks",
+                "civilians",
+                "war",
+                "time",
+                "Kiev",
+                "Union",
+                "agencies",
+                "army",
+                "days",
+                "plan",
+                "support",
+                "attack",
+                "fact",
+                "people",
+                "life",
+                "total",
+                "centre",
+                "International",
+                "country",
+                "economy",
+                "countries",
+                "percent",
+                "year",
+                "refugees",
+                "beginning",
+                "March",
+                "associations",
+                "Russians",
+                "station",
+                "experience",
+                "lot",
+                "violence",
+                "-",
+                "accommodation"
+            ]
+        },
+        "A new escalation of violence is feared between Israel and Gaza": {
+            "are_similar": false,
+            "similar_concepts_number": 21,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.06860858585858585,
+            "subjectivity_Y": 0.3593712121212121,
+            "simil_concepts": [
+                "bombing",
+                "Thursday",
+                "night",
+                "evening",
+                "government",
+                "city",
+                "weeks",
+                "war",
+                "one",
+                "news",
+                "army",
+                "days",
+                "Christian",
+                "centre",
+                "morning",
+                "year",
+                "hours",
+                "station",
+                "tension",
+                "violence",
+                "-"
+            ]
+        }
+    },
+    "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+        "A convicted death in South Carolina chose to be killed by a firing squad": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": -0.04093434343434344,
+            "subjectivity_Y": 0.4840314913844326,
+            "simil_concepts": [
+                "country",
+                "situation",
+                "days",
+                "people"
+            ]
+        },
+        "Shanghai will introduce a “basket” system for workers": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.1360916860916861,
+            "subjectivity_Y": 0.308761655011655,
+            "simil_concepts": [
+                "city",
+                "people"
+            ]
+        },
+        "Israel bombed the Gaza Strip in response to the launch of a rocket to Tel Aviv": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": -0.01818181818181818,
+            "subjectivity_Y": 0.12272727272727273,
+            "simil_concepts": [
+                "site",
+                "days",
+                "army"
+            ]
+        },
+        "There are clashes throughout the east of Ukraine": {
+            "are_similar": true,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.012317460317460317,
+            "subjectivity_Y": 0.17000529100529102,
+            "simil_concepts": [
+                "Ukraine",
+                "Mariupol",
+                "country",
+                "Russia",
+                "city",
+                "Ministry",
+                "Defense",
+                "days",
+                "army",
+                "bombardment",
+                "people"
+            ]
+        },
+        "The battle for Donbass began, says Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.07829743008314437,
+            "subjectivity_Y": 0.2542139077853363,
+            "simil_concepts": [
+                "Ukraine",
+                "Mariupol",
+                "Russia",
+                "city",
+                "bombing",
+                "days",
+                "army"
+            ]
+        },
+        "The proposal of Dragons on the limit to the price of Russian gas": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.028560910307898254,
+            "subjectivity_Y": 0.11665997322623828,
+            "simil_concepts": [
+                "Ukraine",
+                "Minister",
+                "country",
+                "Russia",
+                "hand",
+                "meeting",
+                "capital",
+                "government",
+                "days",
+                "pressure",
+                "war",
+                "Chancellor"
+            ]
+        },
+        "The accusations of the European Anti-Fraud Office against Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.047412367724867725,
+            "subjectivity_Y": 0.18057208994708995,
+            "simil_concepts": [
+                "president",
+                "city",
+                "people",
+                "Office",
+                "others"
+            ]
+        },
+        "In Shanghai three people died for COVID-19: they are the first since the start of the lockdown": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.07951770451770453,
+            "subjectivity_Y": 0.23577533577533574,
+            "simil_concepts": [
+                "situation",
+                "city",
+                "days",
+                "people"
+            ]
+        },
+        "The fights in Jerusalem are putting the Israeli government into trouble": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": -0.11710214388785817,
+            "subjectivity_Y": 0.3376191764584622,
+            "simil_concepts": [
+                "Minister",
+                "country",
+                "city",
+                "government",
+                "days",
+                "people"
+            ]
+        },
+        "The fears for the nearby Slovenian nuclear power plant": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.1928518420355155,
+            "subjectivity_Y": 0.2899792384486262,
+            "simil_concepts": [
+                "Ukraine",
+                "control",
+                "country",
+                "president",
+                "capital",
+                "Ministry",
+                "government",
+                "International"
+            ]
+        },
+        "In Sri Lanka continues to protest against the government": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": -0.062205046415572736,
+            "subjectivity_Y": 0.13760785997628103,
+            "simil_concepts": [
+                "Ukraine",
+                "Minister",
+                "country",
+                "situation",
+                "city",
+                "capital",
+                "government",
+                "days",
+                "people",
+                "war"
+            ]
+        },
+        "Russian oligarch Oleg Tinkov against war in Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": -0.009759557945041812,
+            "subjectivity_Y": 0.2530615292712067,
+            "simil_concepts": [
+                "Ukraine",
+                "country",
+                "Russia",
+                "Putin",
+                "government",
+                "army",
+                "people",
+                "war"
+            ]
+        },
+        "China has announced a new security agreement with Solomon Islands": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.0358054226475279,
+            "subjectivity_Y": 0.25882509303561935,
+            "simil_concepts": [
+                "country",
+                "capital",
+                "government"
+            ]
+        },
+        "In the United States, masking on planes and public transport is no longer mandatory": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.01986208236208236,
+            "subjectivity_Y": 0.25053742553742553,
+            "simil_concepts": [
+                "country",
+                "Defense",
+                "government",
+                "people"
+            ]
+        },
+        "Why Mariupol is so important to Russia": {
+            "are_similar": true,
+            "similar_concepts_number": 18,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.177944610034774,
+            "subjectivity_Y": 0.5232250293725703,
+            "simil_concepts": [
+                "Ukraine",
+                "Mariupol",
+                "control",
+                "country",
+                "situation",
+                "Russia",
+                "city",
+                "Putin",
+                "capital",
+                "Russian",
+                "Ministry",
+                "Defense",
+                "units",
+                "government",
+                "civilians",
+                "days",
+                "army",
+                "war"
+            ]
+        },
+        "At least four people were killed in an attack on a Kabul school in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": -0.09218518518518519,
+            "subjectivity_Y": 0.17440740740740743,
+            "simil_concepts": [
+                "country",
+                "capital",
+                "government",
+                "ways",
+                "people"
+            ]
+        },
+        "Marion Maréchal, grandson of Marine Le Pen, is the new vice president of Reconquête!, the party of Éric Zemmour": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.056818181818181816,
+            "subjectivity_Y": 0.23658459595959594,
+            "simil_concepts": [
+                "president"
+            ]
+        },
+        "For Algeria to increase gas exports will not be easy": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.1733021839271839,
+            "subjectivity_Y": 0.4288196525696526,
+            "simil_concepts": [
+                "control",
+                "country",
+                "situation",
+                "Russia",
+                "president",
+                "government",
+                "people"
+            ]
+        },
+        "From today in Spain there is no longer the obligation of the mask closed": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": -0.04285714285714285,
+            "subjectivity_Y": 0.19708994708994707,
+            "simil_concepts": [
+                "situation",
+                "Ministry",
+                "government",
+                "days",
+                "people"
+            ]
+        },
+        "At least 10 people were killed in an attack on a Mazar-i-Sharif mosque in the north of Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": -0.12067307692307692,
+            "subjectivity_Y": 0.287232905982906,
+            "simil_concepts": [
+                "city",
+                "Thursday",
+                "days",
+                "people"
+            ]
+        },
+        "The television debate that neither Macron nor Le Pen want to lose": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.029883263985205726,
+            "subjectivity_Y": 0.31071659731853907,
+            "simil_concepts": [
+                "Ukraine",
+                "country",
+                "Russia",
+                "president",
+                "Putin",
+                "hand",
+                "meeting",
+                "days",
+                "bastion",
+                "people",
+                "brutality",
+                "war"
+            ]
+        },
+        "The stamp celebrating Ukrainian resistance is going to steal in Kiev": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": -0.0016144781144781146,
+            "subjectivity_Y": 0.17272643097643095,
+            "simil_concepts": [
+                "Ukraine",
+                "War",
+                "military",
+                "Ukrainians",
+                "Russia",
+                "Putin",
+                "government",
+                "days",
+                "army",
+                "people",
+                "war"
+            ]
+        },
+        "Nobel Peace Prize José Ramos-Horta won the presidential elections in East Timor": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": -0.024999999999999998,
+            "subjectivity_Y": 0.10740740740740741,
+            "simil_concepts": [
+                "country",
+                "Office"
+            ]
+        },
+        "How was the debate between Macron and Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.25933353139235493,
+            "subjectivity_Y": 0.3543495175848117,
+            "simil_concepts": [
+                "Ukraine",
+                "control",
+                "Russia",
+                "president",
+                "Putin",
+                "hand",
+                "war"
+            ]
+        },
+        "The humanitarian aid machine in Moldova and Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 19,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.024322029822029818,
+            "subjectivity_Y": 0.1660944554021477,
+            "simil_concepts": [
+                "Ukraine",
+                "Mariupol",
+                "country",
+                "situation",
+                "city",
+                "capital",
+                "government",
+                "civilians",
+                "days",
+                "army",
+                "International",
+                "Red",
+                "Cross",
+                "People",
+                "ways",
+                "people",
+                "war",
+                "corridors",
+                "others"
+            ]
+        },
+        "A new escalation of violence is feared between Israel and Gaza": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.06860858585858585,
+            "subjectivity_Y": 0.3593712121212121,
+            "simil_concepts": [
+                "city",
+                "bombing",
+                "Thursday",
+                "site",
+                "government",
+                "days",
+                "army",
+                "war"
+            ]
+        }
+    },
+    "Berlin wants to reduce election age 16": {
+        "A convicted death in South Carolina chose to be killed by a firing squad": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": -0.04093434343434344,
+            "subjectivity_Y": 0.4840314913844326,
+            "simil_concepts": [
+                "years",
+                "year",
+                "state",
+                "people"
+            ]
+        },
+        "Shanghai will introduce a “basket” system for workers": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.1360916860916861,
+            "subjectivity_Y": 0.308761655011655,
+            "simil_concepts": [
+                "time",
+                "people"
+            ]
+        },
+        "Israel bombed the Gaza Strip in response to the launch of a rocket to Tel Aviv": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": -0.01818181818181818,
+            "subjectivity_Y": 0.12272727272727273,
+            "simil_concepts": [
+                "group"
+            ]
+        },
+        "There are clashes throughout the east of Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.012317460317460317,
+            "subjectivity_Y": 0.17000529100529102,
+            "simil_concepts": [
+                "time",
+                "people"
+            ]
+        },
+        "The battle for Donbass began, says Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.07829743008314437,
+            "subjectivity_Y": 0.2542139077853363,
+            "simil_concepts": [
+                "weeks"
+            ]
+        },
+        "The proposal of Dragons on the limit to the price of Russian gas": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.028560910307898254,
+            "subjectivity_Y": 0.11665997322623828,
+            "simil_concepts": [
+                "capital",
+                "years",
+                "year",
+                "leaders",
+                "reduction",
+                "time",
+                "government",
+                "agreement",
+                "weeks",
+                "Mario"
+            ]
+        },
+        "The accusations of the European Anti-Fraud Office against Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.047412367724867725,
+            "subjectivity_Y": 0.18057208994708995,
+            "simil_concepts": [
+                "election",
+                "years",
+                "elections",
+                "politicians",
+                "votes",
+                "time",
+                "MEPs",
+                "members",
+                "people",
+                "Group"
+            ]
+        },
+        "In Shanghai three people died for COVID-19: they are the first since the start of the lockdown": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.07951770451770453,
+            "subjectivity_Y": 0.23577533577533574,
+            "simil_concepts": [
+                "years",
+                "people"
+            ]
+        },
+        "The fights in Jerusalem are putting the Israeli government into trouble": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": -0.11710214388785817,
+            "subjectivity_Y": 0.3376191764584622,
+            "simil_concepts": [
+                "majority",
+                "Parliament",
+                "year",
+                "group",
+                "time",
+                "government",
+                "coalition",
+                "seats",
+                "weeks",
+                "people",
+                "parties"
+            ]
+        },
+        "The fears for the nearby Slovenian nuclear power plant": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.1928518420355155,
+            "subjectivity_Y": 0.2899792384486262,
+            "simil_concepts": [
+                "capital",
+                "years",
+                "year",
+                "state",
+                "group",
+                "referendums",
+                "time",
+                "government",
+                "members",
+                "weeks",
+                "past"
+            ]
+        },
+        "In Sri Lanka continues to protest against the government": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": -0.062205046415572736,
+            "subjectivity_Y": 0.13760785997628103,
+            "simil_concepts": [
+                "capital",
+                "majority",
+                "group",
+                "government",
+                "weeks",
+                "people"
+            ]
+        },
+        "Russian oligarch Oleg Tinkov against war in Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": -0.009759557945041812,
+            "subjectivity_Y": 0.2530615292712067,
+            "simil_concepts": [
+                "years",
+                "government",
+                "people"
+            ]
+        },
+        "China has announced a new security agreement with Solomon Islands": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.0358054226475279,
+            "subjectivity_Y": 0.25882509303561935,
+            "simil_concepts": [
+                "capital",
+                "government",
+                "agreement"
+            ]
+        },
+        "In the United States, masking on planes and public transport is no longer mandatory": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.01986208236208236,
+            "subjectivity_Y": 0.25053742553742553,
+            "simil_concepts": [
+                "majority",
+                "time",
+                "government",
+                "House",
+                "people"
+            ]
+        },
+        "Why Mariupol is so important to Russia": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.177944610034774,
+            "subjectivity_Y": 0.5232250293725703,
+            "simil_concepts": [
+                "capital",
+                "government",
+                "weeks"
+            ]
+        },
+        "At least four people were killed in an attack on a Kabul school in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": -0.09218518518518519,
+            "subjectivity_Y": 0.17440740740740743,
+            "simil_concepts": [
+                "capital",
+                "government",
+                "groups",
+                "past",
+                "people"
+            ]
+        },
+        "Marion Maréchal, grandson of Marine Le Pen, is the new vice president of Reconquête!, the party of Éric Zemmour": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.056818181818181816,
+            "subjectivity_Y": 0.23658459595959594,
+            "simil_concepts": [
+                "election",
+                "elections",
+                "votes"
+            ]
+        },
+        "For Algeria to increase gas exports will not be easy": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.1733021839271839,
+            "subjectivity_Y": 0.4288196525696526,
+            "simil_concepts": [
+                "years",
+                "year",
+                "time",
+                "government",
+                "agreement",
+                "weeks",
+                "people"
+            ]
+        },
+        "From today in Spain there is no longer the obligation of the mask closed": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": -0.04285714285714285,
+            "subjectivity_Y": 0.19708994708994707,
+            "simil_concepts": [
+                "government",
+                "people"
+            ]
+        },
+        "At least 10 people were killed in an attack on a Mazar-i-Sharif mosque in the north of Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": -0.12067307692307692,
+            "subjectivity_Y": 0.287232905982906,
+            "simil_concepts": [
+                "group",
+                "people"
+            ]
+        },
+        "The television debate that neither Macron nor Le Pen want to lose": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.029883263985205726,
+            "subjectivity_Y": 0.31071659731853907,
+            "simil_concepts": [
+                "election",
+                "years",
+                "elections",
+                "leaders",
+                "time",
+                "weeks",
+                "people",
+                "voters"
+            ]
+        },
+        "The stamp celebrating Ukrainian resistance is going to steal in Kiev": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": -0.0016144781144781146,
+            "subjectivity_Y": 0.17272643097643095,
+            "simil_concepts": [
+                "government",
+                "people"
+            ]
+        },
+        "Nobel Peace Prize José Ramos-Horta won the presidential elections in East Timor": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": -0.024999999999999998,
+            "subjectivity_Y": 0.10740740740740741,
+            "simil_concepts": [
+                "state",
+                "elections",
+                "votes"
+            ]
+        },
+        "How was the debate between Macron and Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.25933353139235493,
+            "subjectivity_Y": 0.3543495175848117,
+            "simil_concepts": [
+                "election",
+                "age",
+                "years",
+                "state",
+                "elections",
+                "leaders",
+                "time",
+                "change"
+            ]
+        },
+        "The humanitarian aid machine in Moldova and Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.024322029822029818,
+            "subjectivity_Y": 0.1660944554021477,
+            "simil_concepts": [
+                "capital",
+                "years",
+                "year",
+                "adults",
+                "time",
+                "government",
+                "groups",
+                "weeks",
+                "people"
+            ]
+        },
+        "A new escalation of violence is feared between Israel and Gaza": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.06860858585858585,
+            "subjectivity_Y": 0.3593712121212121,
+            "simil_concepts": [
+                "year",
+                "group",
+                "government",
+                "groups",
+                "weeks",
+                "parties"
+            ]
+        }
+    },
+    "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+        "A convicted death in South Carolina chose to be killed by a firing squad": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": -0.04093434343434344,
+            "subjectivity_Y": 0.4840314913844326,
+            "simil_concepts": [
+                "country",
+                "days",
+                "case"
+            ]
+        },
+        "Shanghai will introduce a “basket” system for workers": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.1360916860916861,
+            "subjectivity_Y": 0.308761655011655,
+            "simil_concepts": [
+                "supply"
+            ]
+        },
+        "Israel bombed the Gaza Strip in response to the launch of a rocket to Tel Aviv": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": -0.01818181818181818,
+            "subjectivity_Y": 0.12272727272727273,
+            "simil_concepts": [
+                "weapons",
+                "army",
+                "morning",
+                "days"
+            ]
+        },
+        "There are clashes throughout the east of Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.012317460317460317,
+            "subjectivity_Y": 0.17000529100529102,
+            "simil_concepts": [
+                "Ukraine",
+                "Russia",
+                "country",
+                "army",
+                "Defense",
+                "morning",
+                "days"
+            ]
+        },
+        "The battle for Donbass began, says Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.07829743008314437,
+            "subjectivity_Y": 0.2542139077853363,
+            "simil_concepts": [
+                "Ukraine",
+                "Russia",
+                "Kiev",
+                "army",
+                "days",
+                "weeks"
+            ]
+        },
+        "The proposal of Dragons on the limit to the price of Russian gas": {
+            "are_similar": true,
+            "similar_concepts_number": 19,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.028560910307898254,
+            "subjectivity_Y": 0.11665997322623828,
+            "simil_concepts": [
+                "Ukraine",
+                "supply",
+                "war",
+                "Russia",
+                "country",
+                "exchange",
+                "Germany",
+                "Union",
+                "government",
+                "Minister",
+                "countries",
+                "days",
+                "weeks",
+                "case",
+                "times",
+                "Chancellor",
+                "pressure",
+                "representatives",
+                "Scholz"
+            ]
+        },
+        "The accusations of the European Anti-Fraud Office against Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.047412367724867725,
+            "subjectivity_Y": 0.18057208994708995,
+            "simil_concepts": [
+                "Union",
+                "details"
+            ]
+        },
+        "In Shanghai three people died for COVID-19: they are the first since the start of the lockdown": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.07951770451770453,
+            "subjectivity_Y": 0.23577533577533574,
+            "simil_concepts": [
+                "days"
+            ]
+        },
+        "The fights in Jerusalem are putting the Israeli government into trouble": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": -0.11710214388785817,
+            "subjectivity_Y": 0.3376191764584622,
+            "simil_concepts": [
+                "country",
+                "government",
+                "Minister",
+                "days",
+                "weeks",
+                "times",
+                "coalition"
+            ]
+        },
+        "The fears for the nearby Slovenian nuclear power plant": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.1928518420355155,
+            "subjectivity_Y": 0.2899792384486262,
+            "simil_concepts": [
+                "Ukraine",
+                "Slovenia",
+                "country",
+                "Union",
+                "government",
+                "weeks",
+                "case",
+                "times"
+            ]
+        },
+        "In Sri Lanka continues to protest against the government": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": -0.062205046415572736,
+            "subjectivity_Y": 0.13760785997628103,
+            "simil_concepts": [
+                "Ukraine",
+                "supply",
+                "war",
+                "country",
+                "government",
+                "Minister",
+                "days",
+                "weeks"
+            ]
+        },
+        "Russian oligarch Oleg Tinkov against war in Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": -0.009759557945041812,
+            "subjectivity_Y": 0.2530615292712067,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "Russia",
+                "country",
+                "news",
+                "government",
+                "army"
+            ]
+        },
+        "China has announced a new security agreement with Solomon Islands": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.0358054226475279,
+            "subjectivity_Y": 0.25882509303561935,
+            "simil_concepts": [
+                "supply",
+                "country",
+                "allies",
+                "government",
+                "countries",
+                "representatives"
+            ]
+        },
+        "In the United States, masking on planes and public transport is no longer mandatory": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.01986208236208236,
+            "subjectivity_Y": 0.25053742553742553,
+            "simil_concepts": [
+                "country",
+                "government",
+                "Defense"
+            ]
+        },
+        "Why Mariupol is so important to Russia": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.177944610034774,
+            "subjectivity_Y": 0.5232250293725703,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "Russia",
+                "country",
+                "type",
+                "government",
+                "army",
+                "Defense",
+                "morning",
+                "days",
+                "weeks",
+                "matter"
+            ]
+        },
+        "At least four people were killed in an attack on a Kabul school in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": -0.09218518518518519,
+            "subjectivity_Y": 0.17440740740740743,
+            "simil_concepts": [
+                "country",
+                "government",
+                "ways"
+            ]
+        },
+        "Marion Maréchal, grandson of Marine Le Pen, is the new vice president of Reconquête!, the party of Éric Zemmour": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.056818181818181816,
+            "subjectivity_Y": 0.23658459595959594,
+            "simil_concepts": [
+                "return"
+            ]
+        },
+        "For Algeria to increase gas exports will not be easy": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.1733021839271839,
+            "subjectivity_Y": 0.4288196525696526,
+            "simil_concepts": [
+                "Government",
+                "supply",
+                "Russia",
+                "country",
+                "Union",
+                "government",
+                "countries",
+                "weeks",
+                "times"
+            ]
+        },
+        "From today in Spain there is no longer the obligation of the mask closed": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": -0.04285714285714285,
+            "subjectivity_Y": 0.19708994708994707,
+            "simil_concepts": [
+                "government",
+                "morning",
+                "countries",
+                "days"
+            ]
+        },
+        "At least 10 people were killed in an attack on a Mazar-i-Sharif mosque in the north of Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": -0.12067307692307692,
+            "subjectivity_Y": 0.287232905982906,
+            "simil_concepts": [
+                "morning",
+                "days"
+            ]
+        },
+        "The television debate that neither Macron nor Le Pen want to lose": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.029883263985205726,
+            "subjectivity_Y": 0.31071659731853907,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "Russia",
+                "country",
+                "Union",
+                "morning",
+                "details",
+                "question",
+                "days",
+                "weeks"
+            ]
+        },
+        "The stamp celebrating Ukrainian resistance is going to steal in Kiev": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": -0.0016144781144781146,
+            "subjectivity_Y": 0.17272643097643095,
+            "simil_concepts": [
+                "Ukraine",
+                "War",
+                "war",
+                "Russia",
+                "Kiev",
+                "government",
+                "army",
+                "days"
+            ]
+        },
+        "Nobel Peace Prize José Ramos-Horta won the presidential elections in East Timor": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": -0.024999999999999998,
+            "subjectivity_Y": 0.10740740740740741,
+            "simil_concepts": [
+                "country"
+            ]
+        },
+        "How was the debate between Macron and Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.25933353139235493,
+            "subjectivity_Y": 0.3543495175848117,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "Russia",
+                "Union",
+                "news",
+                "journalists",
+                "times",
+                "issue"
+            ]
+        },
+        "The humanitarian aid machine in Moldova and Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.024322029822029818,
+            "subjectivity_Y": 0.1660944554021477,
+            "simil_concepts": [
+                "Ukraine",
+                "supply",
+                "war",
+                "country",
+                "Kiev",
+                "Union",
+                "agencies",
+                "government",
+                "army",
+                "ways",
+                "countries",
+                "days",
+                "weeks",
+                "journalists",
+                "case"
+            ]
+        },
+        "A new escalation of violence is feared between Israel and Gaza": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.06860858585858585,
+            "subjectivity_Y": 0.3593712121212121,
+            "simil_concepts": [
+                "war",
+                "news",
+                "government",
+                "army",
+                "morning",
+                "days",
+                "experts",
+                "weeks"
+            ]
+        }
+    },
+    "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+        "A convicted death in South Carolina chose to be killed by a firing squad": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": -0.04093434343434344,
+            "subjectivity_Y": 0.4840314913844326,
+            "simil_concepts": [
+                "April",
+                "people",
+                "years"
+            ]
+        },
+        "Shanghai will introduce a “basket” system for workers": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.1360916860916861,
+            "subjectivity_Y": 0.308761655011655,
+            "simil_concepts": [
+                "US",
+                "world",
+                "people"
+            ]
+        },
+        "Israel bombed the Gaza Strip in response to the launch of a rocket to Tel Aviv": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": -0.01818181818181818,
+            "subjectivity_Y": 0.12272727272727273,
+            "simil_concepts": [
+                "weapons",
+                "police"
+            ]
+        },
+        "There are clashes throughout the east of Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.012317460317460317,
+            "subjectivity_Y": 0.17000529100529102,
+            "simil_concepts": [
+                "Ukraine",
+                "Russia",
+                "place",
+                "people"
+            ]
+        },
+        "The battle for Donbass began, says Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.07829743008314437,
+            "subjectivity_Y": 0.2542139077853363,
+            "simil_concepts": [
+                "Ukraine",
+                "Russia"
+            ]
+        },
+        "The proposal of Dragons on the limit to the price of Russian gas": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.028560910307898254,
+            "subjectivity_Y": 0.11665997322623828,
+            "simil_concepts": [
+                "Ukraine",
+                "Germany",
+                "Russia",
+                "war",
+                "world",
+                "sources",
+                "April",
+                "years"
+            ]
+        },
+        "The accusations of the European Anti-Fraud Office against Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.047412367724867725,
+            "subjectivity_Y": 0.18057208994708995,
+            "simil_concepts": [
+                "-",
+                "April",
+                "people",
+                "party",
+                "years",
+                "members"
+            ]
+        },
+        "In Shanghai three people died for COVID-19: they are the first since the start of the lockdown": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.07951770451770453,
+            "subjectivity_Y": 0.23577533577533574,
+            "simil_concepts": [
+                "protests",
+                "people",
+                "years"
+            ]
+        },
+        "The fights in Jerusalem are putting the Israeli government into trouble": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": -0.11710214388785817,
+            "subjectivity_Y": 0.3376191764584622,
+            "simil_concepts": [
+                "place",
+                "participation",
+                "world",
+                "April",
+                "police",
+                "people",
+                "party"
+            ]
+        },
+        "The fears for the nearby Slovenian nuclear power plant": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.1928518420355155,
+            "subjectivity_Y": 0.2899792384486262,
+            "simil_concepts": [
+                "Ukraine",
+                "place",
+                "addition",
+                "security",
+                "sources",
+                "Reinhard",
+                "April",
+                "data",
+                "years",
+                "members"
+            ]
+        },
+        "In Sri Lanka continues to protest against the government": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": -0.062205046415572736,
+            "subjectivity_Y": 0.13760785997628103,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "protests",
+                "April",
+                "police",
+                "people"
+            ]
+        },
+        "Russian oligarch Oleg Tinkov against war in Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": -0.009759557945041812,
+            "subjectivity_Y": 0.2530615292712067,
+            "simil_concepts": [
+                "Ukraine",
+                "Russia",
+                "war",
+                "addition",
+                "»",
+                "people",
+                "years"
+            ]
+        },
+        "China has announced a new security agreement with Solomon Islands": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.0358054226475279,
+            "subjectivity_Y": 0.25882509303561935,
+            "simil_concepts": [
+                "visit",
+                "security",
+                "police"
+            ]
+        },
+        "In the United States, masking on planes and public transport is no longer mandatory": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.01986208236208236,
+            "subjectivity_Y": 0.25053742553742553,
+            "simil_concepts": [
+                "people",
+                "movement"
+            ]
+        },
+        "Why Mariupol is so important to Russia": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.177944610034774,
+            "subjectivity_Y": 0.5232250293725703,
+            "simil_concepts": [
+                "Ukraine",
+                "Russia",
+                "war",
+                "bombs",
+                "-"
+            ]
+        },
+        "At least four people were killed in an attack on a Kabul school in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": -0.09218518518518519,
+            "subjectivity_Y": 0.17440740740740743,
+            "simil_concepts": [
+                "place",
+                "e",
+                "people"
+            ]
+        },
+        "Marion Maréchal, grandson of Marine Le Pen, is the new vice president of Reconquête!, the party of Éric Zemmour": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.056818181818181816,
+            "subjectivity_Y": 0.23658459595959594,
+            "simil_concepts": [
+                "party",
+                "policy",
+                "movement"
+            ]
+        },
+        "For Algeria to increase gas exports will not be easy": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.1733021839271839,
+            "subjectivity_Y": 0.4288196525696526,
+            "simil_concepts": [
+                "Russia",
+                "protests",
+                "people",
+                "years"
+            ]
+        },
+        "From today in Spain there is no longer the obligation of the mask closed": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": -0.04285714285714285,
+            "subjectivity_Y": 0.19708994708994707,
+            "simil_concepts": [
+                "April",
+                "people"
+            ]
+        },
+        "At least 10 people were killed in an attack on a Mazar-i-Sharif mosque in the north of Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": -0.12067307692307692,
+            "subjectivity_Y": 0.287232905982906,
+            "simil_concepts": [
+                "police",
+                "people"
+            ]
+        },
+        "The television debate that neither Macron nor Le Pen want to lose": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.029883263985205726,
+            "subjectivity_Y": 0.31071659731853907,
+            "simil_concepts": [
+                "Ukraine",
+                "Russia",
+                "war",
+                "place",
+                "April",
+                "people",
+                "party",
+                "years"
+            ]
+        },
+        "The stamp celebrating Ukrainian resistance is going to steal in Kiev": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": -0.0016144781144781146,
+            "subjectivity_Y": 0.17272643097643095,
+            "simil_concepts": [
+                "Ukraine",
+                "War",
+                "Russia",
+                "war",
+                "world",
+                "-",
+                "episode",
+                "April",
+                "police",
+                "people"
+            ]
+        },
+        "Nobel Peace Prize José Ramos-Horta won the presidential elections in East Timor": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": -0.024999999999999998,
+            "subjectivity_Y": 0.10740740740740741,
+            "simil_concepts": [
+                "place"
+            ]
+        },
+        "How was the debate between Macron and Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.25933353139235493,
+            "subjectivity_Y": 0.3543495175848117,
+            "simil_concepts": [
+                "Ukraine",
+                "Russia",
+                "war",
+                "place",
+                "departure",
+                "»",
+                "sources",
+                "April",
+                "party",
+                "years"
+            ]
+        },
+        "The humanitarian aid machine in Moldova and Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.024322029822029818,
+            "subjectivity_Y": 0.1660944554021477,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "-",
+                "people",
+                "years"
+            ]
+        },
+        "A new escalation of violence is feared between Israel and Gaza": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.06860858585858585,
+            "subjectivity_Y": 0.3593712121212121,
+            "simil_concepts": [
+                "war",
+                "place",
+                "security",
+                "-"
+            ]
+        }
+    },
+    "Christian Lindner remains quarantine due to corona infection in USA": {
+        "A convicted death in South Carolina chose to be killed by a firing squad": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": -0.04093434343434344,
+            "subjectivity_Y": 0.4840314913844326,
+            "simil_concepts": [
+                "United",
+                "States"
+            ]
+        },
+        "Shanghai will introduce a “basket” system for workers": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.1360916860916861,
+            "subjectivity_Y": 0.308761655011655,
+            "simil_concepts": [
+                "day",
+                "weekend",
+                "finance",
+                "time",
+                "dollars",
+                "supply"
+            ]
+        },
+        "Israel bombed the Gaza Strip in response to the launch of a rocket to Tel Aviv": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": -0.01818181818181818,
+            "subjectivity_Y": 0.12272727272727273,
+            "simil_concepts": [
+                "site",
+                "weapons",
+                "army"
+            ]
+        },
+        "There are clashes throughout the east of Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.012317460317460317,
+            "subjectivity_Y": 0.17000529100529102,
+            "simil_concepts": [
+                "day",
+                "minister",
+                "time",
+                "Russia",
+                "Ukraine",
+                "Sunday",
+                "army"
+            ]
+        },
+        "The battle for Donbass began, says Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.07829743008314437,
+            "subjectivity_Y": 0.2542139077853363,
+            "simil_concepts": [
+                "part",
+                "Russia",
+                "Ukraine",
+                "Sunday",
+                "army"
+            ]
+        },
+        "The proposal of Dragons on the limit to the price of Russian gas": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.028560910307898254,
+            "subjectivity_Y": 0.11665997322623828,
+            "simil_concepts": [
+                "Christian",
+                "Lindner",
+                "Minister",
+                "day",
+                "time",
+                "part",
+                "meeting",
+                "representatives",
+                "Germany",
+                "Russia",
+                "Ukraine",
+                "supply"
+            ]
+        },
+        "The accusations of the European Anti-Fraud Office against Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.047412367724867725,
+            "subjectivity_Y": 0.18057208994708995,
+            "simil_concepts": [
+                "party",
+                "leader",
+                "time",
+                "Party",
+                "Group",
+                "others",
+                "statement",
+                "period",
+                "Saturday"
+            ]
+        },
+        "In Shanghai three people died for COVID-19: they are the first since the start of the lockdown": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.07951770451770453,
+            "subjectivity_Y": 0.23577533577533574,
+            "simil_concepts": []
+        },
+        "The fights in Jerusalem are putting the Israeli government into trouble": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": -0.11710214388785817,
+            "subjectivity_Y": 0.3376191764584622,
+            "simil_concepts": [
+                "Christian",
+                "Minister",
+                "party",
+                "weekend",
+                "time",
+                "part",
+                "events",
+                "United",
+                "period",
+                "coalition"
+            ]
+        },
+        "The fears for the nearby Slovenian nuclear power plant": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.1928518420355155,
+            "subjectivity_Y": 0.2899792384486262,
+            "simil_concepts": [
+                "minister",
+                "time",
+                "International",
+                "United",
+                "Spain",
+                "addition",
+                "Ukraine",
+                "demand",
+                "acceleration"
+            ]
+        },
+        "In Sri Lanka continues to protest against the government": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": -0.062205046415572736,
+            "subjectivity_Y": 0.13760785997628103,
+            "simil_concepts": [
+                "Minister",
+                "part",
+                "United",
+                "Ukraine",
+                "supply"
+            ]
+        },
+        "Russian oligarch Oleg Tinkov against war in Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": -0.009759557945041812,
+            "subjectivity_Y": 0.2530615292712067,
+            "simil_concepts": [
+                "news",
+                "Russia",
+                "addition",
+                "Ukraine",
+                "army"
+            ]
+        },
+        "China has announced a new security agreement with Solomon Islands": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.0358054226475279,
+            "subjectivity_Y": 0.25882509303561935,
+            "simil_concepts": [
+                "minister",
+                "part",
+                "representatives",
+                "United",
+                "States",
+                "dollars",
+                "supply"
+            ]
+        },
+        "In the United States, masking on planes and public transport is no longer mandatory": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.01986208236208236,
+            "subjectivity_Y": 0.25053742553742553,
+            "simil_concepts": [
+                "time",
+                "agency",
+                "Fund",
+                "United",
+                "States"
+            ]
+        },
+        "Why Mariupol is so important to Russia": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.177944610034774,
+            "subjectivity_Y": 0.5232250293725703,
+            "simil_concepts": [
+                "Wednesday",
+                "part",
+                "Russia",
+                "statement",
+                "Ukraine",
+                "period",
+                "army"
+            ]
+        },
+        "At least four people were killed in an attack on a Kabul school in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": -0.09218518518518519,
+            "subjectivity_Y": 0.17440740740740743,
+            "simil_concepts": []
+        },
+        "Marion Maréchal, grandson of Marine Le Pen, is the new vice president of Reconquête!, the party of Éric Zemmour": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.056818181818181816,
+            "subjectivity_Y": 0.23658459595959594,
+            "simil_concepts": [
+                "party",
+                "Twitter"
+            ]
+        },
+        "For Algeria to increase gas exports will not be easy": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.1733021839271839,
+            "subjectivity_Y": 0.4288196525696526,
+            "simil_concepts": [
+                "time",
+                "part",
+                "Spain",
+                "Russia",
+                "dollars",
+                "period",
+                "demand",
+                "acceleration",
+                "supply"
+            ]
+        },
+        "From today in Spain there is no longer the obligation of the mask closed": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": -0.04285714285714285,
+            "subjectivity_Y": 0.19708994708994707,
+            "simil_concepts": [
+                "agency",
+                "Wednesday",
+                "Spain"
+            ]
+        },
+        "At least 10 people were killed in an attack on a Mazar-i-Sharif mosque in the north of Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": -0.12067307692307692,
+            "subjectivity_Y": 0.287232905982906,
+            "simil_concepts": [
+                "Thursday",
+                "community"
+            ]
+        },
+        "The television debate that neither Macron nor Le Pen want to lose": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.029883263985205726,
+            "subjectivity_Y": 0.31071659731853907,
+            "simil_concepts": [
+                "trip",
+                "party",
+                "day",
+                "leader",
+                "time",
+                "evening",
+                "part",
+                "meeting",
+                "room",
+                "France",
+                "Russia",
+                "Ukraine",
+                "Sunday",
+                "commitment"
+            ]
+        },
+        "The stamp celebrating Ukrainian resistance is going to steal in Kiev": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": -0.0016144781144781146,
+            "subjectivity_Y": 0.17272643097643095,
+            "simil_concepts": [
+                "day",
+                "Russia",
+                "Ukraine",
+                "request",
+                "demand",
+                "army"
+            ]
+        },
+        "Nobel Peace Prize José Ramos-Horta won the presidential elections in East Timor": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": -0.024999999999999998,
+            "subjectivity_Y": 0.10740740740740741,
+            "simil_concepts": [
+                "minister",
+                "commitment"
+            ]
+        },
+        "How was the debate between Macron and Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.25933353139235493,
+            "subjectivity_Y": 0.3543495175848117,
+            "simil_concepts": [
+                "party",
+                "leader",
+                "time",
+                "news",
+                "Wednesday",
+                "evening",
+                "part",
+                "France",
+                "Russia",
+                "attitude",
+                "Ukraine"
+            ]
+        },
+        "The humanitarian aid machine in Moldova and Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.024322029822029818,
+            "subjectivity_Y": 0.1660944554021477,
+            "simil_concepts": [
+                "day",
+                "time",
+                "International",
+                "room",
+                "others",
+                "community",
+                "Ukraine",
+                "period",
+                "supply",
+                "army"
+            ]
+        },
+        "A new escalation of violence is feared between Israel and Gaza": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.06860858585858585,
+            "subjectivity_Y": 0.3593712121212121,
+            "simil_concepts": [
+                "Christian",
+                "site",
+                "news",
+                "Wednesday",
+                "evening",
+                "Thursday",
+                "afternoon",
+                "army"
+            ]
+        }
+    },
+    "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+        "A convicted death in South Carolina chose to be killed by a firing squad": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": -0.04093434343434344,
+            "subjectivity_Y": 0.4840314913844326,
+            "simil_concepts": [
+                "people",
+                "situation",
+                "state"
+            ]
+        },
+        "Shanghai will introduce a “basket” system for workers": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.1360916860916861,
+            "subjectivity_Y": 0.308761655011655,
+            "simil_concepts": [
+                "people",
+                "supply",
+                "day",
+                "city",
+                "world"
+            ]
+        },
+        "Israel bombed the Gaza Strip in response to the launch of a rocket to Tel Aviv": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": -0.01818181818181818,
+            "subjectivity_Y": 0.12272727272727273,
+            "simil_concepts": [
+                "weapons"
+            ]
+        },
+        "There are clashes throughout the east of Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.012317460317460317,
+            "subjectivity_Y": 0.17000529100529102,
+            "simil_concepts": [
+                "Ukraine",
+                "people",
+                "day",
+                "city",
+                "Mariupol",
+                "Russia"
+            ]
+        },
+        "The battle for Donbass began, says Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.07829743008314437,
+            "subjectivity_Y": 0.2542139077853363,
+            "simil_concepts": [
+                "Ukraine",
+                "city",
+                "Mariupol",
+                "Russia",
+                "problem"
+            ]
+        },
+        "The proposal of Dragons on the limit to the price of Russian gas": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.028560910307898254,
+            "subjectivity_Y": 0.11665997322623828,
+            "simil_concepts": [
+                "Olaf",
+                "Scholz",
+                "Ukraine",
+                "meeting",
+                "Chancellor",
+                "supply",
+                "war",
+                "day",
+                "relation",
+                "Russia",
+                "Germany",
+                "sanctions",
+                "world",
+                "government",
+                "money"
+            ]
+        },
+        "The accusations of the European Anti-Fraud Office against Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.047412367724867725,
+            "subjectivity_Y": 0.18057208994708995,
+            "simil_concepts": [
+                "people",
+                "city",
+                "president",
+                "problem",
+                "money",
+                "Marie"
+            ]
+        },
+        "In Shanghai three people died for COVID-19: they are the first since the start of the lockdown": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.07951770451770453,
+            "subjectivity_Y": 0.23577533577533574,
+            "simil_concepts": [
+                "people",
+                "situation",
+                "city"
+            ]
+        },
+        "The fights in Jerusalem are putting the Israeli government into trouble": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": -0.11710214388785817,
+            "subjectivity_Y": 0.3376191764584622,
+            "simil_concepts": [
+                "people",
+                "participation",
+                "city",
+                "world",
+                "government"
+            ]
+        },
+        "The fears for the nearby Slovenian nuclear power plant": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.1928518420355155,
+            "subjectivity_Y": 0.2899792384486262,
+            "simil_concepts": [
+                "Ukraine",
+                "president",
+                "invasion",
+                "state",
+                "material",
+                "problem",
+                "government",
+                "industry",
+                "addition"
+            ]
+        },
+        "In Sri Lanka continues to protest against the government": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": -0.062205046415572736,
+            "subjectivity_Y": 0.13760785997628103,
+            "simil_concepts": [
+                "Ukraine",
+                "people",
+                "supply",
+                "Commission",
+                "war",
+                "situation",
+                "city",
+                "government"
+            ]
+        },
+        "Russian oligarch Oleg Tinkov against war in Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": -0.009759557945041812,
+            "subjectivity_Y": 0.2530615292712067,
+            "simil_concepts": [
+                "Ukraine",
+                "people",
+                "war",
+                "invasion",
+                "Russia",
+                "government",
+                "addition"
+            ]
+        },
+        "China has announced a new security agreement with Solomon Islands": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.0358054226475279,
+            "subjectivity_Y": 0.25882509303561935,
+            "simil_concepts": [
+                "supply",
+                "government"
+            ]
+        },
+        "In the United States, masking on planes and public transport is no longer mandatory": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.01986208236208236,
+            "subjectivity_Y": 0.25053742553742553,
+            "simil_concepts": [
+                "people",
+                "Health",
+                "spokesman",
+                "government"
+            ]
+        },
+        "Why Mariupol is so important to Russia": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.177944610034774,
+            "subjectivity_Y": 0.5232250293725703,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "situation",
+                "city",
+                "Mariupol",
+                "civilians",
+                "Russia",
+                "government"
+            ]
+        },
+        "At least four people were killed in an attack on a Kabul school in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": -0.09218518518518519,
+            "subjectivity_Y": 0.17440740740740743,
+            "simil_concepts": [
+                "people",
+                "government"
+            ]
+        },
+        "Marion Maréchal, grandson of Marine Le Pen, is the new vice president of Reconquête!, the party of Éric Zemmour": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.056818181818181816,
+            "subjectivity_Y": 0.23658459595959594,
+            "simil_concepts": [
+                "president"
+            ]
+        },
+        "For Algeria to increase gas exports will not be easy": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.1733021839271839,
+            "subjectivity_Y": 0.4288196525696526,
+            "simil_concepts": [
+                "people",
+                "supply",
+                "situation",
+                "president",
+                "Russia",
+                "problem",
+                "sanctions",
+                "government",
+                "Government"
+            ]
+        },
+        "From today in Spain there is no longer the obligation of the mask closed": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": -0.04285714285714285,
+            "subjectivity_Y": 0.19708994708994707,
+            "simil_concepts": [
+                "people",
+                "situation",
+                "Health",
+                "government"
+            ]
+        },
+        "At least 10 people were killed in an attack on a Mazar-i-Sharif mosque in the north of Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": -0.12067307692307692,
+            "subjectivity_Y": 0.287232905982906,
+            "simil_concepts": [
+                "people",
+                "city"
+            ]
+        },
+        "The television debate that neither Macron nor Le Pen want to lose": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.029883263985205726,
+            "subjectivity_Y": 0.31071659731853907,
+            "simil_concepts": [
+                "Ukraine",
+                "strategy",
+                "people",
+                "meeting",
+                "war",
+                "day",
+                "brutality",
+                "president",
+                "question",
+                "Russia",
+                "obligations"
+            ]
+        },
+        "The stamp celebrating Ukrainian resistance is going to steal in Kiev": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": -0.0016144781144781146,
+            "subjectivity_Y": 0.17272643097643095,
+            "simil_concepts": [
+                "Ukraine",
+                "people",
+                "war",
+                "day",
+                "invasion",
+                "Russia",
+                "world",
+                "government"
+            ]
+        },
+        "Nobel Peace Prize José Ramos-Horta won the presidential elections in East Timor": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": -0.024999999999999998,
+            "subjectivity_Y": 0.10740740740740741,
+            "simil_concepts": [
+                "state"
+            ]
+        },
+        "How was the debate between Macron and Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.25933353139235493,
+            "subjectivity_Y": 0.3543495175848117,
+            "simil_concepts": [
+                "arms",
+                "Ukraine",
+                "war",
+                "president",
+                "Russia",
+                "state",
+                "attitude",
+                "sanctions",
+                "money"
+            ]
+        },
+        "The humanitarian aid machine in Moldova and Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.024322029822029818,
+            "subjectivity_Y": 0.1660944554021477,
+            "simil_concepts": [
+                "Ukraine",
+                "people",
+                "supply",
+                "Commission",
+                "war",
+                "day",
+                "situation",
+                "city",
+                "Mariupol",
+                "civilians",
+                "invasion",
+                "Protection",
+                "government",
+                "money"
+            ]
+        },
+        "A new escalation of violence is feared between Israel and Gaza": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.06860858585858585,
+            "subjectivity_Y": 0.3593712121212121,
+            "simil_concepts": [
+                "war",
+                "city",
+                "government"
+            ]
+        }
+    },
+    "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+        "A convicted death in South Carolina chose to be killed by a firing squad": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": -0.04093434343434344,
+            "subjectivity_Y": 0.4840314913844326,
+            "simil_concepts": []
+        },
+        "Shanghai will introduce a “basket” system for workers": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.1360916860916861,
+            "subjectivity_Y": 0.308761655011655,
+            "simil_concepts": []
+        },
+        "Israel bombed the Gaza Strip in response to the launch of a rocket to Tel Aviv": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": -0.01818181818181818,
+            "subjectivity_Y": 0.12272727272727273,
+            "simil_concepts": [
+                "group"
+            ]
+        },
+        "There are clashes throughout the east of Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.012317460317460317,
+            "subjectivity_Y": 0.17000529100529102,
+            "simil_concepts": [
+                "minister"
+            ]
+        },
+        "The battle for Donbass began, says Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.07829743008314437,
+            "subjectivity_Y": 0.2542139077853363,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "The proposal of Dragons on the limit to the price of Russian gas": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.028560910307898254,
+            "subjectivity_Y": 0.11665997322623828,
+            "simil_concepts": [
+                "government",
+                "supplies",
+                "President"
+            ]
+        },
+        "The accusations of the European Anti-Fraud Office against Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.047412367724867725,
+            "subjectivity_Y": 0.18057208994708995,
+            "simil_concepts": [
+                "-",
+                "Group",
+                "leader",
+                "President"
+            ]
+        },
+        "In Shanghai three people died for COVID-19: they are the first since the start of the lockdown": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.07951770451770453,
+            "subjectivity_Y": 0.23577533577533574,
+            "simil_concepts": []
+        },
+        "The fights in Jerusalem are putting the Israeli government into trouble": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": -0.11710214388785817,
+            "subjectivity_Y": 0.3376191764584622,
+            "simil_concepts": [
+                "group",
+                "government"
+            ]
+        },
+        "The fears for the nearby Slovenian nuclear power plant": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.1928518420355155,
+            "subjectivity_Y": 0.2899792384486262,
+            "simil_concepts": [
+                "group",
+                "minister",
+                "government"
+            ]
+        },
+        "In Sri Lanka continues to protest against the government": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": -0.062205046415572736,
+            "subjectivity_Y": 0.13760785997628103,
+            "simil_concepts": [
+                "group",
+                "government",
+                "President"
+            ]
+        },
+        "Russian oligarch Oleg Tinkov against war in Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": -0.009759557945041812,
+            "subjectivity_Y": 0.2530615292712067,
+            "simil_concepts": [
+                "government",
+                "President"
+            ]
+        },
+        "China has announced a new security agreement with Solomon Islands": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.0358054226475279,
+            "subjectivity_Y": 0.25882509303561935,
+            "simil_concepts": [
+                "minister",
+                "government"
+            ]
+        },
+        "In the United States, masking on planes and public transport is no longer mandatory": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.01986208236208236,
+            "subjectivity_Y": 0.25053742553742553,
+            "simil_concepts": [
+                "government",
+                "freedom",
+                "President"
+            ]
+        },
+        "Why Mariupol is so important to Russia": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.177944610034774,
+            "subjectivity_Y": 0.5232250293725703,
+            "simil_concepts": [
+                "-",
+                "matter",
+                "government",
+                "President"
+            ]
+        },
+        "At least four people were killed in an attack on a Kabul school in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": -0.09218518518518519,
+            "subjectivity_Y": 0.17440740740740743,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Marion Maréchal, grandson of Marine Le Pen, is the new vice president of Reconquête!, the party of Éric Zemmour": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.056818181818181816,
+            "subjectivity_Y": 0.23658459595959594,
+            "simil_concepts": []
+        },
+        "For Algeria to increase gas exports will not be easy": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.1733021839271839,
+            "subjectivity_Y": 0.4288196525696526,
+            "simil_concepts": [
+                "Government",
+                "government",
+                "supplies",
+                "President"
+            ]
+        },
+        "From today in Spain there is no longer the obligation of the mask closed": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": -0.04285714285714285,
+            "subjectivity_Y": 0.19708994708994707,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "At least 10 people were killed in an attack on a Mazar-i-Sharif mosque in the north of Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": -0.12067307692307692,
+            "subjectivity_Y": 0.287232905982906,
+            "simil_concepts": [
+                "group"
+            ]
+        },
+        "The television debate that neither Macron nor Le Pen want to lose": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.029883263985205726,
+            "subjectivity_Y": 0.31071659731853907,
+            "simil_concepts": [
+                "leader",
+                "President"
+            ]
+        },
+        "The stamp celebrating Ukrainian resistance is going to steal in Kiev": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": -0.0016144781144781146,
+            "subjectivity_Y": 0.17272643097643095,
+            "simil_concepts": [
+                "-",
+                "government",
+                "President"
+            ]
+        },
+        "Nobel Peace Prize José Ramos-Horta won the presidential elections in East Timor": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": -0.024999999999999998,
+            "subjectivity_Y": 0.10740740740740741,
+            "simil_concepts": [
+                "minister",
+                "President"
+            ]
+        },
+        "How was the debate between Macron and Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.25933353139235493,
+            "subjectivity_Y": 0.3543495175848117,
+            "simil_concepts": [
+                "leader",
+                "arms"
+            ]
+        },
+        "The humanitarian aid machine in Moldova and Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.024322029822029818,
+            "subjectivity_Y": 0.1660944554021477,
+            "simil_concepts": [
+                "-",
+                "government",
+                "supplies"
+            ]
+        },
+        "A new escalation of violence is feared between Israel and Gaza": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.06860858585858585,
+            "subjectivity_Y": 0.3593712121212121,
+            "simil_concepts": [
+                "-",
+                "group",
+                "government"
+            ]
+        }
+    },
+    "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+        "A convicted death in South Carolina chose to be killed by a firing squad": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": -0.04093434343434344,
+            "subjectivity_Y": 0.4840314913844326,
+            "simil_concepts": []
+        },
+        "Shanghai will introduce a “basket” system for workers": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.1360916860916861,
+            "subjectivity_Y": 0.308761655011655,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "Israel bombed the Gaza Strip in response to the launch of a rocket to Tel Aviv": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": -0.01818181818181818,
+            "subjectivity_Y": 0.12272727272727273,
+            "simil_concepts": [
+                "weapons"
+            ]
+        },
+        "There are clashes throughout the east of Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.012317460317460317,
+            "subjectivity_Y": 0.17000529100529102,
+            "simil_concepts": [
+                "Ukraine",
+                "time",
+                "Mariupol"
+            ]
+        },
+        "The battle for Donbass began, says Zelensky": {
+            "are_similar": true,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.07829743008314437,
+            "subjectivity_Y": 0.2542139077853363,
+            "simil_concepts": [
+                "Ukraine",
+                "cities",
+                "Mariupol",
+                "Kiev"
+            ]
+        },
+        "The proposal of Dragons on the limit to the price of Russian gas": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.028560910307898254,
+            "subjectivity_Y": 0.11665997322623828,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "time"
+            ]
+        },
+        "The accusations of the European Anti-Fraud Office against Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.047412367724867725,
+            "subjectivity_Y": 0.18057208994708995,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "In Shanghai three people died for COVID-19: they are the first since the start of the lockdown": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.07951770451770453,
+            "subjectivity_Y": 0.23577533577533574,
+            "simil_concepts": []
+        },
+        "The fights in Jerusalem are putting the Israeli government into trouble": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": -0.11710214388785817,
+            "subjectivity_Y": 0.3376191764584622,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "The fears for the nearby Slovenian nuclear power plant": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.1928518420355155,
+            "subjectivity_Y": 0.2899792384486262,
+            "simil_concepts": [
+                "Ukraine",
+                "time"
+            ]
+        },
+        "In Sri Lanka continues to protest against the government": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": -0.062205046415572736,
+            "subjectivity_Y": 0.13760785997628103,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "cities"
+            ]
+        },
+        "Russian oligarch Oleg Tinkov against war in Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": -0.009759557945041812,
+            "subjectivity_Y": 0.2530615292712067,
+            "simil_concepts": [
+                "Ukraine",
+                "war"
+            ]
+        },
+        "China has announced a new security agreement with Solomon Islands": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.0358054226475279,
+            "subjectivity_Y": 0.25882509303561935,
+            "simil_concepts": []
+        },
+        "In the United States, masking on planes and public transport is no longer mandatory": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.01986208236208236,
+            "subjectivity_Y": 0.25053742553742553,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "Why Mariupol is so important to Russia": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.177944610034774,
+            "subjectivity_Y": 0.5232250293725703,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "Mariupol"
+            ]
+        },
+        "At least four people were killed in an attack on a Kabul school in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": -0.09218518518518519,
+            "subjectivity_Y": 0.17440740740740743,
+            "simil_concepts": []
+        },
+        "Marion Maréchal, grandson of Marine Le Pen, is the new vice president of Reconquête!, the party of Éric Zemmour": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.056818181818181816,
+            "subjectivity_Y": 0.23658459595959594,
+            "simil_concepts": []
+        },
+        "For Algeria to increase gas exports will not be easy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.1733021839271839,
+            "subjectivity_Y": 0.4288196525696526,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "From today in Spain there is no longer the obligation of the mask closed": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": -0.04285714285714285,
+            "subjectivity_Y": 0.19708994708994707,
+            "simil_concepts": [
+                "cities"
+            ]
+        },
+        "At least 10 people were killed in an attack on a Mazar-i-Sharif mosque in the north of Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": -0.12067307692307692,
+            "subjectivity_Y": 0.287232905982906,
+            "simil_concepts": []
+        },
+        "The television debate that neither Macron nor Le Pen want to lose": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.029883263985205726,
+            "subjectivity_Y": 0.31071659731853907,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "time"
+            ]
+        },
+        "The stamp celebrating Ukrainian resistance is going to steal in Kiev": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": -0.0016144781144781146,
+            "subjectivity_Y": 0.17272643097643095,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "Kiev"
+            ]
+        },
+        "Nobel Peace Prize José Ramos-Horta won the presidential elections in East Timor": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": -0.024999999999999998,
+            "subjectivity_Y": 0.10740740740740741,
+            "simil_concepts": []
+        },
+        "How was the debate between Macron and Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.25933353139235493,
+            "subjectivity_Y": 0.3543495175848117,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "time"
+            ]
+        },
+        "The humanitarian aid machine in Moldova and Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.024322029822029818,
+            "subjectivity_Y": 0.1660944554021477,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "time",
+                "cities",
+                "Mariupol",
+                "Kiev"
+            ]
+        },
+        "A new escalation of violence is feared between Israel and Gaza": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.06860858585858585,
+            "subjectivity_Y": 0.3593712121212121,
+            "simil_concepts": [
+                "war"
+            ]
+        }
+    },
+    "The Left: Janine Wissler wants to continue party alone": {
+        "A convicted death in South Carolina chose to be killed by a firing squad": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": -0.04093434343434344,
+            "subjectivity_Y": 0.4840314913844326,
+            "simil_concepts": [
+                "history",
+                "problems"
+            ]
+        },
+        "Shanghai will introduce a “basket” system for workers": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.1360916860916861,
+            "subjectivity_Y": 0.308761655011655,
+            "simil_concepts": [
+                "work"
+            ]
+        },
+        "Israel bombed the Gaza Strip in response to the launch of a rocket to Tel Aviv": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": -0.01818181818181818,
+            "subjectivity_Y": 0.12272727272727273,
+            "simil_concepts": []
+        },
+        "There are clashes throughout the east of Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.012317460317460317,
+            "subjectivity_Y": 0.17000529100529102,
+            "simil_concepts": [
+                "place"
+            ]
+        },
+        "The battle for Donbass began, says Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.07829743008314437,
+            "subjectivity_Y": 0.2542139077853363,
+            "simil_concepts": [
+                "things"
+            ]
+        },
+        "The proposal of Dragons on the limit to the price of Russian gas": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.028560910307898254,
+            "subjectivity_Y": 0.11665997322623828,
+            "simil_concepts": [
+                "meeting",
+                "power",
+                "term"
+            ]
+        },
+        "The accusations of the European Anti-Fraud Office against Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.047412367724867725,
+            "subjectivity_Y": 0.18057208994708995,
+            "simil_concepts": [
+                "party",
+                "-",
+                "president",
+                "Party",
+                "National",
+                "persons",
+                "election",
+                "elections",
+                "accusations",
+                "leader"
+            ]
+        },
+        "In Shanghai three people died for COVID-19: they are the first since the start of the lockdown": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.07951770451770453,
+            "subjectivity_Y": 0.23577533577533574,
+            "simil_concepts": []
+        },
+        "The fights in Jerusalem are putting the Israeli government into trouble": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": -0.11710214388785817,
+            "subjectivity_Y": 0.3376191764584622,
+            "simil_concepts": [
+                "party",
+                "crisis",
+                "things",
+                "place"
+            ]
+        },
+        "The fears for the nearby Slovenian nuclear power plant": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.1928518420355155,
+            "subjectivity_Y": 0.2899792384486262,
+            "simil_concepts": [
+                "president",
+                "crisis",
+                "Agency",
+                "place",
+                "National",
+                "documents",
+                "power",
+                "history",
+                "past",
+                "results"
+            ]
+        },
+        "In Sri Lanka continues to protest against the government": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": -0.062205046415572736,
+            "subjectivity_Y": 0.13760785997628103,
+            "simil_concepts": [
+                "resignation",
+                "crisis",
+                "months"
+            ]
+        },
+        "Russian oligarch Oleg Tinkov against war in Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": -0.009759557945041812,
+            "subjectivity_Y": 0.2530615292712067,
+            "simil_concepts": []
+        },
+        "China has announced a new security agreement with Solomon Islands": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.0358054226475279,
+            "subjectivity_Y": 0.25882509303561935,
+            "simil_concepts": [
+                "resignation",
+                "months"
+            ]
+        },
+        "In the United States, masking on planes and public transport is no longer mandatory": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.01986208236208236,
+            "subjectivity_Y": 0.25053742553742553,
+            "simil_concepts": [
+                "spokesman",
+                "National"
+            ]
+        },
+        "Why Mariupol is so important to Russia": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.177944610034774,
+            "subjectivity_Y": 0.5232250293725703,
+            "simil_concepts": [
+                "-",
+                "reasons",
+                "things"
+            ]
+        },
+        "At least four people were killed in an attack on a Kabul school in Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": -0.09218518518518519,
+            "subjectivity_Y": 0.17440740740740743,
+            "simil_concepts": [
+                "things",
+                "place",
+                "e",
+                "past"
+            ]
+        },
+        "Marion Maréchal, grandson of Marine Le Pen, is the new vice president of Reconquête!, the party of Éric Zemmour": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.056818181818181816,
+            "subjectivity_Y": 0.23658459595959594,
+            "simil_concepts": [
+                "party",
+                "president",
+                "National",
+                "election",
+                "elections"
+            ]
+        },
+        "For Algeria to increase gas exports will not be easy": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.1733021839271839,
+            "subjectivity_Y": 0.4288196525696526,
+            "simil_concepts": [
+                "president",
+                "work",
+                "proposals",
+                "National",
+                "months",
+                "problems",
+                "term"
+            ]
+        },
+        "From today in Spain there is no longer the obligation of the mask closed": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": -0.04285714285714285,
+            "subjectivity_Y": 0.19708994708994707,
+            "simil_concepts": []
+        },
+        "At least 10 people were killed in an attack on a Mazar-i-Sharif mosque in the north of Afghanistan": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": -0.12067307692307692,
+            "subjectivity_Y": 0.287232905982906,
+            "simil_concepts": []
+        },
+        "The television debate that neither Macron nor Le Pen want to lose": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.029883263985205726,
+            "subjectivity_Y": 0.31071659731853907,
+            "simil_concepts": [
+                "party",
+                "chaos",
+                "meeting",
+                "president",
+                "crisis",
+                "evening",
+                "place",
+                "proposals",
+                "National",
+                "power",
+                "election",
+                "elections",
+                "problems",
+                "field",
+                "leader"
+            ]
+        },
+        "The stamp celebrating Ukrainian resistance is going to steal in Kiev": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": -0.0016144781144781146,
+            "subjectivity_Y": 0.17272643097643095,
+            "simil_concepts": [
+                "-",
+                "request",
+                "February"
+            ]
+        },
+        "Nobel Peace Prize José Ramos-Horta won the presidential elections in East Timor": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": -0.024999999999999998,
+            "subjectivity_Y": 0.10740740740740741,
+            "simil_concepts": [
+                "place",
+                "results",
+                "elections"
+            ]
+        },
+        "How was the debate between Macron and Le Pen": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.25933353139235493,
+            "subjectivity_Y": 0.3543495175848117,
+            "simil_concepts": [
+                "party",
+                "president",
+                "evening",
+                "place",
+                "proposals",
+                "National",
+                "power",
+                "election",
+                "elections",
+                "leader"
+            ]
+        },
+        "The humanitarian aid machine in Moldova and Ukraine": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.024322029822029818,
+            "subjectivity_Y": 0.1660944554021477,
+            "simil_concepts": [
+                "-",
+                "notice",
+                "crisis",
+                "reasons",
+                "efforts",
+                "photos",
+                "abuse",
+                "problems"
+            ]
+        },
+        "A new escalation of violence is feared between Israel and Gaza": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.11356304985337241,
+            "subjectivity_X": 0.2289915281850766,
+            "polarity_Y": 0.06860858585858585,
+            "subjectivity_Y": 0.3593712121212121,
+            "simil_concepts": [
+                "-",
+                "evening",
+                "place"
+            ]
+        }
+    }
+}

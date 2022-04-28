@@ -1,0 +1,2058 @@
+{
+    "len_A": 20,
+    "len_B": 7,
+    "coupled_A": 2,
+    "coupled_B": 2,
+    "covered_A_percent": 66.66666666666666,
+    "covered_B_percent": 18.51851851851852,
+    "covered_both_percent": 14.814814814814824,
+    "The Suspect of Maddie McCann's Murder: A Sexual Predator Obsessed with Children": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.021763715587245002,
+            "subjectivity_X": 0.5389234302026086,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.021763715587245002,
+            "subjectivity_X": 0.5389234302026086,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "time",
+                "children",
+                "-",
+                "violence"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.021763715587245002,
+            "subjectivity_X": 0.5389234302026086,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "part",
+                "March"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.021763715587245002,
+            "subjectivity_X": 0.5389234302026086,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.021763715587245002,
+            "subjectivity_X": 0.5389234302026086,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "child",
+                "body",
+                "passage",
+                "days",
+                "guards",
+                "video",
+                "children",
+                "torture",
+                "part",
+                "country"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.021763715587245002,
+            "subjectivity_X": 0.5389234302026086,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "home",
+                "years",
+                "video",
+                "information",
+                "place",
+                "aggression",
+                "letter",
+                "country",
+                "Germany"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.021763715587245002,
+            "subjectivity_X": 0.5389234302026086,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "home",
+                "fact",
+                "authorities",
+                "days",
+                "time",
+                "video",
+                "strategy",
+                "media",
+                "March",
+                "page",
+                "country"
+            ]
+        }
+    },
+    "The Biden Government is holding a young man who fled Ukraine and his family at the border.": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.09275402046783626,
+            "subjectivity_X": 0.3158351608187134,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "year",
+                "war"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09275402046783626,
+            "subjectivity_X": 0.3158351608187134,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "children"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.09275402046783626,
+            "subjectivity_X": 0.3158351608187134,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "west",
+                "thousands",
+                "month"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09275402046783626,
+            "subjectivity_X": 0.3158351608187134,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.09275402046783626,
+            "subjectivity_X": 0.3158351608187134,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Ukraine",
+                "border",
+                "war",
+                "country",
+                "Russia",
+                "days",
+                "week",
+                "law",
+                "children",
+                "statements",
+                "people"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.09275402046783626,
+            "subjectivity_X": 0.3158351608187134,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "country",
+                "Russia",
+                "radio",
+                "month",
+                "information",
+                "invasion",
+                "hundreds"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.09275402046783626,
+            "subjectivity_X": 0.3158351608187134,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "country",
+                "days",
+                "week",
+                "people",
+                "hundreds"
+            ]
+        }
+    },
+    "Biden doubles military aid to Ukraine and will send more artillery": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12651716023875118,
+            "subjectivity_X": 0.29314747857361484,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.12651716023875118,
+            "subjectivity_X": 0.29314747857361484,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "President",
+                "president",
+                "benefits",
+                "system",
+                "economy",
+                "time",
+                "history"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.12651716023875118,
+            "subjectivity_X": 0.29314747857361484,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "President",
+                "civilians",
+                "Putin",
+                "benefits",
+                "officials",
+                "month",
+                "forces",
+                "part",
+                "west",
+                "Minister"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12651716023875118,
+            "subjectivity_X": 0.29314747857361484,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": [
+                "east"
+            ]
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 21,
+            "polarity_X": 0.12651716023875118,
+            "subjectivity_X": 0.29314747857361484,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Ukraine",
+                "President",
+                "days",
+                "US",
+                "fighters",
+                "civilians",
+                "country",
+                "Russia",
+                "Putin",
+                "weapons",
+                "Marine",
+                "group",
+                "port",
+                "benefits",
+                "account",
+                "war",
+                "forces",
+                "area",
+                "part",
+                "week",
+                "people"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.12651716023875118,
+            "subjectivity_X": 0.29314747857361484,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "Ukraine",
+                "country",
+                "Russia",
+                "aggression",
+                "Putin",
+                "benefits",
+                "month",
+                "war",
+                "forces"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.12651716023875118,
+            "subjectivity_X": 0.29314747857361484,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "days",
+                "addition",
+                "country",
+                "benefits",
+                "authorities",
+                "officials",
+                "services",
+                "time",
+                "week",
+                "people"
+            ]
+        }
+    },
+    "The Bucha Butcher, the commander who led the massacre in the Ukrainian city": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.06575183213381973,
+            "subjectivity_X": 0.19483962667192478,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.06575183213381973,
+            "subjectivity_X": 0.19483962667192478,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "children"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.06575183213381973,
+            "subjectivity_X": 0.19483962667192478,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Bucha",
+                "city",
+                "March",
+                "forces",
+                "village",
+                "civilians",
+                "Times",
+                "Russians"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.06575183213381973,
+            "subjectivity_X": 0.19483962667192478,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": -0.06575183213381973,
+            "subjectivity_X": 0.19483962667192478,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "city",
+                "forces",
+                "aim",
+                "attacks",
+                "war",
+                "crimes",
+                "group",
+                "civilians",
+                "children",
+                "border",
+                "Russian",
+                "Russians"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.06575183213381973,
+            "subjectivity_X": 0.19483962667192478,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "army",
+                "forces",
+                "war",
+                "citizens",
+                "hundreds",
+                "soldiers",
+                "Russian",
+                "invasion",
+                "information",
+                "years",
+                "home"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.06575183213381973,
+            "subjectivity_X": 0.19483962667192478,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "city",
+                "March",
+                "hundreds",
+                "home",
+                "services"
+            ]
+        }
+    },
+    "A commission will investigate whether Johnson lied to the British Parliament about the partygates.": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.07627435064935066,
+            "subjectivity_X": 0.294491341991342,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "Johnson",
+                "war"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.07627435064935066,
+            "subjectivity_X": 0.294491341991342,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "opposition",
+                "party",
+                "months"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.07627435064935066,
+            "subjectivity_X": 0.294491341991342,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "Minister",
+                "weeks",
+                "part",
+                "BBC",
+                "accusations"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.07627435064935066,
+            "subjectivity_X": 0.294491341991342,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.07627435064935066,
+            "subjectivity_X": 0.294491341991342,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "weeks",
+                "statements",
+                "question",
+                "law",
+                "country",
+                "people",
+                "part",
+                "BBC",
+                "months",
+                "police",
+                "hands"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.07627435064935066,
+            "subjectivity_X": 0.294491341991342,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "events",
+                "weeks",
+                "country",
+                "truth",
+                "place",
+                "months",
+                "thing",
+                "future"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.07627435064935066,
+            "subjectivity_X": 0.294491341991342,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "Party",
+                "addition",
+                "authorities",
+                "government",
+                "country",
+                "people",
+                "BBC",
+                "newspaper"
+            ]
+        }
+    },
+    "Akshata Murty, the very wealthy wife of the British Finance Minister who pays taxes in India": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.15692559074912016,
+            "subjectivity_X": 0.4192873303167421,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "Johnson",
+                "year"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.15692559074912016,
+            "subjectivity_X": 0.4192873303167421,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "party"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.15692559074912016,
+            "subjectivity_X": 0.4192873303167421,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Minister",
+                "Ukraine"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.15692559074912016,
+            "subjectivity_X": 0.4192873303167421,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.15692559074912016,
+            "subjectivity_X": 0.4192873303167421,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "question",
+                "country",
+                "Russia",
+                "Ukraine",
+                "UK"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.15692559074912016,
+            "subjectivity_X": 0.4192873303167421,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "side",
+                "truth",
+                "country",
+                "home",
+                "Russia",
+                "Ukraine"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.15692559074912016,
+            "subjectivity_X": 0.4192873303167421,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "door",
+                "government",
+                "country",
+                "Covid",
+                "home"
+            ]
+        }
+    },
+    "Macron and Le Pen's ferocious sleep in two symbolic bastions of France's history": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.05495428240176928,
+            "subjectivity_X": 0.25633047872357706,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.05495428240176928,
+            "subjectivity_X": 0.25633047872357706,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "history",
+                "president",
+                "referendum",
+                "time",
+                "powers"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.05495428240176928,
+            "subjectivity_X": 0.25633047872357706,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "mayor",
+                "city",
+                "town"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.05495428240176928,
+            "subjectivity_X": 0.25633047872357706,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.05495428240176928,
+            "subjectivity_X": 0.25633047872357706,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Marine",
+                "city",
+                "group",
+                "people",
+                "danger",
+                "war",
+                "right",
+                "offensive",
+                "region",
+                "country"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.05495428240176928,
+            "subjectivity_X": 0.25633047872357706,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "Denis",
+                "years",
+                "war",
+                "offensive",
+                "People",
+                "symbol",
+                "English",
+                "country"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.05495428240176928,
+            "subjectivity_X": 0.25633047872357706,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "night",
+                "city",
+                "people",
+                "People",
+                "time",
+                "country"
+            ]
+        }
+    },
+    "Macron or Le Pen: who will win the elections in France according to surveys": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3041935928654679,
+            "subjectivity_X": 0.3678615221583972,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.3041935928654679,
+            "subjectivity_X": 0.3678615221583972,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "president",
+                "election",
+                "time",
+                "-",
+                "President"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.3041935928654679,
+            "subjectivity_X": 0.3678615221583972,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "part",
+                "President"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3041935928654679,
+            "subjectivity_X": 0.3678615221583972,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.3041935928654679,
+            "subjectivity_X": 0.3678615221583972,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Marine",
+                "right",
+                "days",
+                "part",
+                "National",
+                "Russia",
+                "President"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.3041935928654679,
+            "subjectivity_X": 0.3678615221583972,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "future",
+                "victory",
+                "citizens",
+                "result",
+                "Russia"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.3041935928654679,
+            "subjectivity_X": 0.3678615221583972,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "victory",
+                "days",
+                "time",
+                "result",
+                "addition"
+            ]
+        }
+    },
+    "Russia desist from asaltar the last reduct of resistance of Mariúpol and puts siege": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.02222027290448343,
+            "subjectivity_X": 0.25458089668615985,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.02222027290448343,
+            "subjectivity_X": 0.25458089668615985,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "President",
+                "party",
+                "president",
+                "time"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.02222027290448343,
+            "subjectivity_X": 0.25458089668615985,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "withdrawal",
+                "President",
+                "Putin",
+                "city",
+                "Minister",
+                "forces",
+                "plant",
+                "troops",
+                "Russians",
+                "Ukraine"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.02222027290448343,
+            "subjectivity_X": 0.25458089668615985,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": true,
+            "similar_concepts_number": 25,
+            "polarity_X": 0.02222027290448343,
+            "subjectivity_X": 0.25458089668615985,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Russia",
+                "President",
+                "Vladimir",
+                "Putin",
+                "port",
+                "city",
+                "forces",
+                "Donetsk",
+                "assault",
+                "area",
+                "officers",
+                "need",
+                "fly",
+                "plant",
+                "Azovstal",
+                "fighters",
+                "Azov",
+                "group",
+                "troops",
+                "Marine",
+                "days",
+                "Russians",
+                "region",
+                "weapons",
+                "Ukraine"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.02222027290448343,
+            "subjectivity_X": 0.25458089668615985,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "Russia",
+                "Vladimir",
+                "Putin",
+                "fall",
+                "forces",
+                "self",
+                "People",
+                "soldiers",
+                "operation",
+                "troops",
+                "Ukraine"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.02222027290448343,
+            "subjectivity_X": 0.25458089668615985,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "city",
+                "People",
+                "page",
+                "health",
+                "operation",
+                "time",
+                "days",
+                "fact"
+            ]
+        }
+    },
+    "Sanchez is going to war": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.002083333333333335,
+            "subjectivity_X": 0.1673611111111111,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.002083333333333335,
+            "subjectivity_X": 0.1673611111111111,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "president"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.002083333333333335,
+            "subjectivity_X": 0.1673611111111111,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "Putin",
+                "plant"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.002083333333333335,
+            "subjectivity_X": 0.1673611111111111,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.002083333333333335,
+            "subjectivity_X": 0.1673611111111111,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "Putin",
+                "plant"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.002083333333333335,
+            "subjectivity_X": 0.1673611111111111,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "war",
+                "station",
+                "Ukraine",
+                "Putin",
+                "army"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.002083333333333335,
+            "subjectivity_X": 0.1673611111111111,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": []
+        }
+    },
+    "Russia is expelled as an observer country of the Organization of American States": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.01342261904761905,
+            "subjectivity_X": 0.17410714285714282,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.01342261904761905,
+            "subjectivity_X": 0.17410714285714282,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "deaths",
+                "others"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.01342261904761905,
+            "subjectivity_X": 0.17410714285714282,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "forces",
+                "Bucha",
+                "Mariupol",
+                "statement",
+                "March",
+                "council",
+                "Kremlin"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.01342261904761905,
+            "subjectivity_X": 0.17410714285714282,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.01342261904761905,
+            "subjectivity_X": 0.17410714285714282,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Russia",
+                "country",
+                "Ukraine",
+                "destruction",
+                "Russian",
+                "Federation",
+                "war",
+                "forces",
+                "Mariupol",
+                "crimes",
+                "world",
+                "region",
+                "US",
+                "law",
+                "people"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.01342261904761905,
+            "subjectivity_X": 0.17410714285714282,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "Russia",
+                "country",
+                "invasion",
+                "Ukraine",
+                "aggression",
+                "Russian",
+                "war",
+                "forces",
+                "station",
+                "world",
+                "War",
+                "Kremlin"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.01342261904761905,
+            "subjectivity_X": 0.17410714285714282,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "country",
+                "countries",
+                "deaths",
+                "China",
+                "March",
+                "government",
+                "people"
+            ]
+        }
+    },
+    "bureaucratic procedures, numerous controls and left without a mobile phone, the only way to approach Zelenski": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.02037037037037037,
+            "subjectivity_X": 0.36296296296296293,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.02037037037037037,
+            "subjectivity_X": 0.36296296296296293,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.02037037037037037,
+            "subjectivity_X": 0.36296296296296293,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "image",
+                "town",
+                "street",
+                "Putin",
+                "village"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.02037037037037037,
+            "subjectivity_X": 0.36296296296296293,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.02037037037037037,
+            "subjectivity_X": 0.36296296296296293,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "way",
+                "street",
+                "Vladimir",
+                "Putin",
+                "war"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.02037037037037037,
+            "subjectivity_X": 0.36296296296296293,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "Vladimir",
+                "Putin",
+                "war",
+                "information"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.02037037037037037,
+            "subjectivity_X": 0.36296296296296293,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "addition"
+            ]
+        }
+    },
+    "The war in Ukraine blows up Scholz's Chancellery": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.014230156761778787,
+            "subjectivity_X": 0.23830039249496093,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.014230156761778787,
+            "subjectivity_X": 0.23830039249496093,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "re",
+                "party",
+                "opposition",
+                "president",
+                "respect",
+                "President"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.014230156761778787,
+            "subjectivity_X": 0.23830039249496093,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "Minister",
+                "Foreign",
+                "President",
+                "troops",
+                "Putin"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.014230156761778787,
+            "subjectivity_X": 0.23830039249496093,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.014230156761778787,
+            "subjectivity_X": 0.23830039249496093,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "world",
+                "country",
+                "region",
+                "way",
+                "days",
+                "weapons",
+                "total",
+                "question",
+                "President",
+                "troops",
+                "Putin"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.014230156761778787,
+            "subjectivity_X": 0.23830039249496093,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "war",
+                "Ukraine",
+                "Germany",
+                "Union",
+                "invasion",
+                "victory",
+                "world",
+                "country",
+                "February",
+                "self",
+                "range",
+                "defence",
+                "troops",
+                "Putin",
+                "source"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.014230156761778787,
+            "subjectivity_X": 0.23830039249496093,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "Party",
+                "government",
+                "addition",
+                "victory",
+                "countries",
+                "country",
+                "days",
+                "delivery"
+            ]
+        }
+    },
+    "Tens of deaths in various jihadist attacks against the Shiite minority in Afghanistan": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.034632786195286196,
+            "subjectivity_X": 0.37418981481481484,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.034632786195286196,
+            "subjectivity_X": 0.37418981481481484,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "deaths",
+                "President",
+                "time"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.034632786195286196,
+            "subjectivity_X": 0.37418981481481484,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.034632786195286196,
+            "subjectivity_X": 0.37418981481481484,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.034632786195286196,
+            "subjectivity_X": 0.37418981481481484,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "attacks",
+                "country",
+                "days",
+                "group",
+                "US",
+                "President",
+                "world"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.034632786195286196,
+            "subjectivity_X": 0.37418981481481484,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "country",
+                "place",
+                "world"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.034632786195286196,
+            "subjectivity_X": 0.37418981481481484,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "deaths",
+                "country",
+                "days",
+                "time"
+            ]
+        }
+    },
+    "Macron decamised, the viral photo that has revolutionized social networks": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09796296296296296,
+            "subjectivity_X": 0.24556481481481474,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.09796296296296296,
+            "subjectivity_X": 0.24556481481481474,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "President",
+                "president",
+                "time"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.09796296296296296,
+            "subjectivity_X": 0.24556481481481474,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "President",
+                "images",
+                "image",
+                "month",
+                "Ukraine"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09796296296296296,
+            "subjectivity_X": 0.24556481481481474,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.09796296296296296,
+            "subjectivity_X": 0.24556481481481474,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "President",
+                "Russia",
+                "Ukraine"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.09796296296296296,
+            "subjectivity_X": 0.24556481481481474,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "symbol",
+                "month",
+                "army",
+                "Russia",
+                "Ukraine"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.09796296296296296,
+            "subjectivity_X": 0.24556481481481474,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "media",
+                "time",
+                "fact"
+            ]
+        }
+    },
+    "Valerie, one of the first women to run the Boston Marathon, is back to completion at the age of 75.": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.13404024943310658,
+            "subjectivity_X": 0.29962698412698413,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.13404024943310658,
+            "subjectivity_X": 0.29962698412698413,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.13404024943310658,
+            "subjectivity_X": 0.29962698412698413,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "month"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.13404024943310658,
+            "subjectivity_X": 0.29962698412698413,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.13404024943310658,
+            "subjectivity_X": 0.29962698412698413,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "question",
+                "days"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.13404024943310658,
+            "subjectivity_X": 0.29962698412698413,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "years",
+                "doors",
+                "month"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.13404024943310658,
+            "subjectivity_X": 0.29962698412698413,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "newspaper",
+                "time",
+                "doors",
+                "days"
+            ]
+        }
+    },
+    "Imputed by a German citizen for the disappearance of Madeleine McCann": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.0043288559941520475,
+            "subjectivity_X": 0.17013888888888892,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.0043288559941520475,
+            "subjectivity_X": 0.17013888888888892,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "months",
+                "-"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.0043288559941520475,
+            "subjectivity_X": 0.17013888888888892,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "statement",
+                "city"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.0043288559941520475,
+            "subjectivity_X": 0.17013888888888892,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.0043288559941520475,
+            "subjectivity_X": 0.17013888888888892,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "days",
+                "city",
+                "months",
+                "child",
+                "investigations"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.0043288559941520475,
+            "subjectivity_X": 0.17013888888888892,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "years",
+                "months",
+                "Germany"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.0043288559941520475,
+            "subjectivity_X": 0.17013888888888892,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "days",
+                "authorities",
+                "city",
+                "media"
+            ]
+        }
+    },
+    "The French socialists explore the Mélenchon track in the face of the electoral downturn": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.050150713484046816,
+            "subjectivity_X": 0.23495410958996396,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.050150713484046816,
+            "subjectivity_X": 0.23495410958996396,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "others",
+                "time",
+                "party",
+                "president"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.050150713484046816,
+            "subjectivity_X": 0.23495410958996396,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "mayor",
+                "site",
+                "council",
+                "Minister"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.050150713484046816,
+            "subjectivity_X": 0.23495410958996396,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.050150713484046816,
+            "subjectivity_X": 0.23495410958996396,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "area",
+                "group",
+                "law",
+                "National",
+                "people"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.050150713484046816,
+            "subjectivity_X": 0.23495410958996396,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "result",
+                "future",
+                "fall",
+                "years",
+                "citizens"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.050150713484046816,
+            "subjectivity_X": 0.23495410958996396,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "result",
+                "Party",
+                "time",
+                "measures",
+                "problems",
+                "fact",
+                "health",
+                "strategy",
+                "people"
+            ]
+        }
+    },
+    "Spectacular back from Macron, 15 points above Le Pen, in the final straight of the second round": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04353813827498038,
+            "subjectivity_X": 0.38256373256373255,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.04353813827498038,
+            "subjectivity_X": 0.38256373256373255,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "president",
+                "election",
+                "history",
+                "time",
+                "state"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04353813827498038,
+            "subjectivity_X": 0.38256373256373255,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "month"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04353813827498038,
+            "subjectivity_X": 0.38256373256373255,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.04353813827498038,
+            "subjectivity_X": 0.38256373256373255,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Marine",
+                "days",
+                "law",
+                "lot",
+                "right"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.04353813827498038,
+            "subjectivity_X": 0.38256373256373255,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "result",
+                "month",
+                "victory",
+                "state"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.04353813827498038,
+            "subjectivity_X": 0.38256373256373255,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "days",
+                "result",
+                "victory",
+                "time"
+            ]
+        }
+    },
+    "Ukraine denounces the discovery of a mass grave near Mariúpol with between 3,000 and 6,000 corpses": {
+        "Ukraine war could last to end of next year - Johnson": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08194444444444446,
+            "subjectivity_X": 0.32956349206349206,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.011111111111111112,
+            "simil_concepts": []
+        },
+        "Kenya's first opposition president dies aged 90": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.08194444444444446,
+            "subjectivity_X": 0.32956349206349206,
+            "polarity_Y": 0.11801948051948051,
+            "subjectivity_Y": 0.2690431096681097,
+            "simil_concepts": [
+                "burial",
+                "-",
+                "deaths",
+                "months"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": true,
+            "similar_concepts_number": 17,
+            "polarity_X": 0.08194444444444446,
+            "subjectivity_X": 0.32956349206349206,
+            "polarity_Y": 0.07786332714904144,
+            "subjectivity_Y": 0.23801381158524015,
+            "simil_concepts": [
+                "Ukraine",
+                "grave",
+                "images",
+                "town",
+                "mass",
+                "bodies",
+                "civilians",
+                "city",
+                "graves",
+                "Bucha",
+                "March",
+                "troops",
+                "Moscow",
+                "fighting",
+                "part",
+                "Minister",
+                "village"
+            ]
+        },
+        "Russian gains in east only temporary - Zelensky": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08194444444444446,
+            "subjectivity_X": 0.32956349206349206,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.16666666666666666,
+            "simil_concepts": []
+        },
+        "Mariupol: 'We have wounded and dead inside the bunkers'": {
+            "are_similar": true,
+            "similar_concepts_number": 18,
+            "polarity_X": 0.08194444444444446,
+            "subjectivity_X": 0.32956349206349206,
+            "polarity_Y": -0.025849917081260373,
+            "subjectivity_Y": 0.2654228855721393,
+            "simil_concepts": [
+                "Ukraine",
+                "bodies",
+                "civilians",
+                "offensive",
+                "city",
+                "attacks",
+                "troops",
+                "fighting",
+                "months",
+                "care",
+                "part",
+                "people",
+                "Russia",
+                "evacuation",
+                "control",
+                "group",
+                "fighters",
+                "area"
+            ]
+        },
+        "How has Moscow changed with war in Ukraine?": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.08194444444444446,
+            "subjectivity_X": 0.32956349206349206,
+            "polarity_Y": 0.021996321097883593,
+            "subjectivity_Y": 0.11681506283068786,
+            "simil_concepts": [
+                "Ukraine",
+                "offensive",
+                "troops",
+                "Moscow",
+                "invasion",
+                "February",
+                "months",
+                "Russia"
+            ]
+        },
+        "Shanghai escalates Covid lockdown restrictions": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.08194444444444446,
+            "subjectivity_X": 0.32956349206349206,
+            "polarity_Y": 0.0006459948320413552,
+            "subjectivity_Y": 0.16098191214470284,
+            "simil_concepts": [
+                "city",
+                "March",
+                "deaths",
+                "areas",
+                "people",
+                "evacuation",
+                "government"
+            ]
+        }
+    }
+}

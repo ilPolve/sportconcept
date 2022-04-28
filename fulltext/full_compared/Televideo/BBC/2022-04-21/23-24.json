@@ -1,0 +1,1246 @@
+{
+    "len_A": 16,
+    "len_B": 7,
+    "coupled_A": 2,
+    "coupled_B": 2,
+    "covered_A_percent": 60.86956521739131,
+    "covered_B_percent": 21.73913043478261,
+    "covered_both_percent": 17.39130434782608,
+    "Note on stock exchange indices": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01875,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01875,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": []
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01875,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01875,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01875,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01875,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01875,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": []
+        }
+    },
+    "_ \"Enlarge the many gaps\"": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.20026666666666668,
+            "subjectivity_X": 0.32006666666666667,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.20026666666666668,
+            "subjectivity_X": 0.32006666666666667,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "Covid",
+                "women",
+                "levels",
+                "people",
+                "life",
+                "crisis"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.20026666666666668,
+            "subjectivity_X": 0.32006666666666667,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "children",
+                "people"
+            ]
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.20026666666666668,
+            "subjectivity_X": 0.32006666666666667,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "women",
+                "children"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.20026666666666668,
+            "subjectivity_X": 0.32006666666666667,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "people",
+                "President",
+                "crisis"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.20026666666666668,
+            "subjectivity_X": 0.32006666666666667,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.20026666666666668,
+            "subjectivity_X": 0.32006666666666667,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "President"
+            ]
+        }
+    },
+    "_": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04295757575757576,
+            "subjectivity_X": 0.14376969696969696,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.04295757575757576,
+            "subjectivity_X": 0.14376969696969696,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "Covid",
+                "%",
+                "president"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.04295757575757576,
+            "subjectivity_X": 0.14376969696969696,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "days",
+                "province",
+                "hospital"
+            ]
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04295757575757576,
+            "subjectivity_X": 0.14376969696969696,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "president"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04295757575757576,
+            "subjectivity_X": 0.14376969696969696,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "hospital"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04295757575757576,
+            "subjectivity_X": 0.14376969696969696,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04295757575757576,
+            "subjectivity_X": 0.14376969696969696,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": []
+        }
+    },
+    "In Brianza, at the height of a quarrel": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": []
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": []
+        }
+    },
+    "DL BOLLETTE, SI' DEFINITIVO DEL SENATO Measures to contain energy costs": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.16666666666666666,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.16666666666666666,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "energy",
+                "policies",
+                "government"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.16666666666666666,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.16666666666666666,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "decree",
+                "government"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.16666666666666666,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.16666666666666666,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.16666666666666666,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "law"
+            ]
+        }
+    },
+    "_ No evidence that Mariupol fell": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": true,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.011111111111111108,
+            "subjectivity_X": 0.11203703703703703,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "Biden",
+                "weapons"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.011111111111111108,
+            "subjectivity_X": 0.11203703703703703,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "weapons",
+                "Ukraine"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.011111111111111108,
+            "subjectivity_X": 0.11203703703703703,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.011111111111111108,
+            "subjectivity_X": 0.11203703703703703,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.011111111111111108,
+            "subjectivity_X": 0.11203703703703703,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.011111111111111108,
+            "subjectivity_X": 0.11203703703703703,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Mariupol",
+                "President",
+                "Ukraine",
+                "Putin",
+                "fighting"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.011111111111111108,
+            "subjectivity_X": 0.11203703703703703,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "Mariupol",
+                "weapons",
+                "US",
+                "President",
+                "Ukraine",
+                "Putin"
+            ]
+        }
+    },
+    "G7: IMPEGNO FOR OLTRE 24MLD FOR Rammarico UCRAINA on Moscow presence at forums": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1125,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1125,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "Ukraine",
+                "Russia"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1125,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "community"
+            ]
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1125,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "commitment",
+                "statement"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1125,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1125,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Moscow",
+                "Ukraine",
+                "statement"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.1125,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "Moscow",
+                "Ukraine",
+                "Russia"
+            ]
+        }
+    },
+    "NABIULLINA: \"RUSSIA NON RISK DEFAULT\" Governor central bank": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.02029384756657484,
+            "subjectivity_X": 0.18902662993572084,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.02029384756657484,
+            "subjectivity_X": 0.18902662993572084,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "bank",
+                "Russia",
+                "year",
+                "term",
+                "economy"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.02029384756657484,
+            "subjectivity_X": 0.18902662993572084,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "days"
+            ]
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.02029384756657484,
+            "subjectivity_X": 0.18902662993572084,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.02029384756657484,
+            "subjectivity_X": 0.18902662993572084,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "year",
+                "economy"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.02029384756657484,
+            "subjectivity_X": 0.18902662993572084,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Putin",
+                "Moscow"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.02029384756657484,
+            "subjectivity_X": 0.18902662993572084,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "Russia",
+                "resources",
+                "Putin",
+                "Moscow"
+            ]
+        }
+    },
+    "IPSOS,MACRON AL 57.5% AND LE PEN AL 42.5% President would increase advantage": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "%",
+                "Macron",
+                "Le",
+                "Pen",
+                "polls",
+                "debate",
+                "president",
+                "challenger",
+                "Marine"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "president"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "President",
+                "advantage",
+                "Wednesday",
+                "today"
+            ]
+        }
+    },
+    "_ For reform recruitment teachers": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.00838068181818182,
+            "subjectivity_X": 0.04984217171717172,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.00838068181818182,
+            "subjectivity_X": 0.04984217171717172,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "election"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.00838068181818182,
+            "subjectivity_X": 0.04984217171717172,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "number"
+            ]
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.00838068181818182,
+            "subjectivity_X": 0.04984217171717172,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "decree",
+                "Minister"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.00838068181818182,
+            "subjectivity_X": 0.04984217171717172,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "number",
+                "Minister"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.00838068181818182,
+            "subjectivity_X": 0.04984217171717172,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Minister"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.00838068181818182,
+            "subjectivity_X": 0.04984217171717172,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "law",
+                "day",
+                "Minister"
+            ]
+        }
+    },
+    "PETROLIO, USA:ASSEGNATI 30MLN OF BARILI To cope with energy shortages": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.010000000000000002,
+            "subjectivity_X": 0.13555555555555554,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "Biden"
+            ]
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.010000000000000002,
+            "subjectivity_X": 0.13555555555555554,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "energy",
+                "prices",
+                "sales"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.010000000000000002,
+            "subjectivity_X": 0.13555555555555554,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "spokesman"
+            ]
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.010000000000000002,
+            "subjectivity_X": 0.13555555555555554,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.010000000000000002,
+            "subjectivity_X": 0.13555555555555554,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.010000000000000002,
+            "subjectivity_X": 0.13555555555555554,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Putin"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.010000000000000002,
+            "subjectivity_X": 0.13555555555555554,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "US",
+                "Putin",
+                "resources"
+            ]
+        }
+    },
+    "ATTENT IN AFGHANISTAN, ISIS RIVENDICA In the Shiite mosque, dead and wounded": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.03333333333333333,
+            "subjectivity_X": 0.3166666666666667,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.03333333333333333,
+            "subjectivity_X": 0.3166666666666667,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "people",
+                "country"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": true,
+            "similar_concepts_number": 12,
+            "polarity_X": -0.03333333333333333,
+            "subjectivity_X": 0.3166666666666667,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "mosque",
+                "Afghanistan",
+                "people",
+                "attack",
+                "Mazar",
+                "i",
+                "Sharif",
+                "victims",
+                "explosions",
+                "Kabul",
+                "children",
+                "Kunduz"
+            ]
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.03333333333333333,
+            "subjectivity_X": 0.3166666666666667,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "children"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.03333333333333333,
+            "subjectivity_X": 0.3166666666666667,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "people",
+                "victims",
+                "country"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.03333333333333333,
+            "subjectivity_X": 0.3166666666666667,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.03333333333333333,
+            "subjectivity_X": 0.3166666666666667,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": []
+        }
+    },
+    "COVID, CASI (75.020) AND MORTI (166) The rate of positivity rises to 16.8%": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": []
+        }
+    },
+    "Kiev:1000 bodies of civilians in obitori180 BIDEN: NO PROVE MARIUPOL SIA CADUTA Other 800 mln in military aid": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.0375,
+            "subjectivity_X": 0.07916666666666666,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.0375,
+            "subjectivity_X": 0.07916666666666666,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": []
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.0375,
+            "subjectivity_X": 0.07916666666666666,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.0375,
+            "subjectivity_X": 0.07916666666666666,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.0375,
+            "subjectivity_X": 0.07916666666666666,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.0375,
+            "subjectivity_X": 0.07916666666666666,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "bodies",
+                "civilians"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.0375,
+            "subjectivity_X": 0.07916666666666666,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "civilians"
+            ]
+        }
+    },
+    "GAS, ITALIA-CONGO AGREEMENT: 4.5 MLD/MC To reduce dependence on Moscow": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.06666666666666667,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.06666666666666667,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "country",
+                "year"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.06666666666666667,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.06666666666666667,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": [
+                "Minister"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.06666666666666667,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "country",
+                "year",
+                "Minister"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.06666666666666667,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Moscow",
+                "Minister"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.06666666666666667,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "Moscow",
+                "Republic",
+                "supplies",
+                "Minister"
+            ]
+        }
+    },
+    "MARIUPOL, PUTIN FERMA ATTACCO ACCIAIERIA \"To preserve life to our soldiers\" \"Save and respected those who surrender\"": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "French rivals for presidency clash in TV debate": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03877273820455639,
+            "subjectivity_Y": 0.12255564301018847,
+            "simil_concepts": [
+                "life"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "Belgian minister resigns to care for sick husband": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.18418367346938777,
+            "subjectivity_Y": 0.43182161753590326,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": []
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": []
+        }
+    }
+}

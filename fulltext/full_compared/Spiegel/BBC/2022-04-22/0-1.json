@@ -1,0 +1,1004 @@
+{
+    "len_A": 9,
+    "len_B": 7,
+    "coupled_A": 1,
+    "coupled_B": 1,
+    "covered_A_percent": 50.0,
+    "covered_B_percent": 37.5,
+    "covered_both_percent": 12.5,
+    "Berlin wants to reduce election age 16": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "state",
+                "change",
+                "weeks"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.0034372294372294345,
+            "subjectivity_Y": 0.12001298701298702,
+            "simil_concepts": [
+                "years",
+                "year",
+                "government",
+                "weeks"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "years",
+                "year",
+                "people"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "politicians",
+                "weeks"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "capital",
+                "group",
+                "groups",
+                "members",
+                "people"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12322222222222223,
+            "subjectivity_X": 0.3555277777777777,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "weeks"
+            ]
+        }
+    },
+    "News of the day: Ukraine War, Corona, World Economy": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "war",
+                "Biden"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 34,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "day",
+                "Ukraine",
+                "Minister",
+                "Mariupol",
+                "situation",
+                "Thursday",
+                "today",
+                "need",
+                "world",
+                "city",
+                "corridors",
+                "Russia",
+                "President",
+                "Putin",
+                "evacuation",
+                "port",
+                "meeting",
+                "weeks",
+                "troops",
+                "civilians",
+                "war",
+                "appearance",
+                "Defence",
+                "news",
+                "forces",
+                "plan",
+                "test",
+                "Prime",
+                "centre",
+                "weekend",
+                "Russians",
+                "right",
+                "politics",
+                "-"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.0034372294372294345,
+            "subjectivity_Y": 0.12001298701298702,
+            "simil_concepts": [
+                "government",
+                "weeks",
+                "president",
+                "appearance",
+                "exchange",
+                "Twitter",
+                "home",
+                "office",
+                "term",
+                "total",
+                "dollars",
+                "year",
+                "leader",
+                "politics",
+                "-"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "Minister",
+                "President",
+                "victims",
+                "appearance",
+                "people",
+                "number",
+                "Prime",
+                "country",
+                "plane",
+                "economy",
+                "year",
+                "hospital",
+                "violence",
+                "politics"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 20,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Ukraine",
+                "Foreign",
+                "Minister",
+                "Mariupol",
+                "politicians",
+                "city",
+                "President",
+                "Putin",
+                "weeks",
+                "troops",
+                "civilians",
+                "Mayor",
+                "mass",
+                "graves",
+                "appearance",
+                "steelworks",
+                "forces",
+                "March",
+                "Russians",
+                "politics"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "Thursday",
+                "capital",
+                "victims",
+                "appearance",
+                "news",
+                "AFP",
+                "days",
+                "United",
+                "attack",
+                "Twitter",
+                "people",
+                "deaths",
+                "number",
+                "stage",
+                "leader",
+                "station",
+                "hospital",
+                "politics"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 27,
+            "polarity_X": 0.014690964182243254,
+            "subjectivity_X": 0.3380791581372977,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "Ukraine",
+                "Mariupol",
+                "situation",
+                "Thursday",
+                "help",
+                "world",
+                "city",
+                "Russia",
+                "President",
+                "Putin",
+                "Maria",
+                "weeks",
+                "troops",
+                "civilians",
+                "graves",
+                "appearance",
+                "exchange",
+                "days",
+                "steelworks",
+                "forces",
+                "Biden",
+                "centre",
+                "TV",
+                "Russians",
+                "interview",
+                "politics",
+                "-"
+            ]
+        }
+    },
+    "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "weapons",
+                "war"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "Ukraine",
+                "weapons",
+                "war",
+                "Russia",
+                "news",
+                "Minister",
+                "weeks",
+                "fight",
+                "advantage"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.0034372294372294345,
+            "subjectivity_Y": 0.12001298701298702,
+            "simil_concepts": [
+                "exchange",
+                "government",
+                "weeks"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "country",
+                "Minister"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Ukraine",
+                "allies",
+                "Minister",
+                "weeks"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "news",
+                "AFP",
+                "days"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.13111111111111112,
+            "subjectivity_X": 0.48590693257359924,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "Ukraine",
+                "Russia",
+                "exchange",
+                "days",
+                "weeks",
+                "armour"
+            ]
+        }
+    },
+    "Christian Lindner remains quarantine due to corona infection in USA": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "weapons"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "Minister",
+                "day",
+                "site",
+                "weekend",
+                "news",
+                "Wednesday",
+                "meeting",
+                "Thursday",
+                "Russia",
+                "Ukraine",
+                "weapons"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.0034372294372294345,
+            "subjectivity_Y": 0.12001298701298702,
+            "simil_concepts": [
+                "leader",
+                "Twitter",
+                "dollars",
+                "request"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "Minister"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Minister",
+                "site",
+                "part",
+                "statement",
+                "Ukraine"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "leader",
+                "site",
+                "news",
+                "agency",
+                "Reuters",
+                "part",
+                "Thursday",
+                "United",
+                "Twitter",
+                "community"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.021721525600835945,
+            "subjectivity_X": 0.3648423894113549,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "site",
+                "Thursday",
+                "Russia",
+                "Ukraine"
+            ]
+        }
+    },
+    "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": []
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "-",
+                "fight",
+                "supplies",
+                "President",
+                "demands"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.0034372294372294345,
+            "subjectivity_Y": 0.12001298701298702,
+            "simil_concepts": [
+                "-",
+                "ex",
+                "leader",
+                "government"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "President"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "group",
+                "leader"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.18611111111111112,
+            "subjectivity_X": 0.33888888888888885,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "-",
+                "President"
+            ]
+        }
+    },
+    "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "war",
+                "weapons"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "Donbas",
+                "Mariupol",
+                "weapons"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.0034372294372294345,
+            "subjectivity_Y": 0.12001298701298702,
+            "simil_concepts": []
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": []
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Ukraine",
+                "Mariupol"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": []
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05937499999999999,
+            "subjectivity_X": 0.24791666666666667,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "Ukraine",
+                "Mariupol"
+            ]
+        }
+    },
+    "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "weapons",
+                "war"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "Defence",
+                "Ukraine",
+                "meeting",
+                "weapons",
+                "war",
+                "day",
+                "situation",
+                "city",
+                "Mariupol",
+                "civilians",
+                "Russia",
+                "state",
+                "world"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.0034372294372294345,
+            "subjectivity_Y": 0.12001298701298702,
+            "simil_concepts": [
+                "president",
+                "government"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "people"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Ukraine",
+                "city",
+                "Mariupol",
+                "civilians"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "people",
+                "spokesman"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.0046759259259259245,
+            "subjectivity_X": 0.22379629629629627,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "Ukraine",
+                "situation",
+                "city",
+                "Mariupol",
+                "civilians",
+                "invasion",
+                "Russia",
+                "world"
+            ]
+        }
+    },
+    "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "war"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": true,
+            "similar_concepts_number": 17,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "Ukraine",
+                "Mariupol",
+                "Minister",
+                "situation",
+                "Russia",
+                "evacuation",
+                "port",
+                "city",
+                "Putin",
+                "Thursday",
+                "meeting",
+                "site",
+                "civilians",
+                "People",
+                "bombardment",
+                "war",
+                "corridors"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.0034372294372294345,
+            "subjectivity_Y": 0.12001298701298702,
+            "simil_concepts": [
+                "president",
+                "government",
+                "routes"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "Minister",
+                "country",
+                "people"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Ukraine",
+                "Mariupol",
+                "Foreign",
+                "Minister",
+                "city",
+                "Putin",
+                "site",
+                "civilians",
+                "bombardment"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "Thursday",
+                "capital",
+                "site",
+                "days",
+                "people"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.01585568326947637,
+            "subjectivity_X": 0.17782247765006387,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "Ukraine",
+                "military",
+                "Mariupol",
+                "situation",
+                "Russia",
+                "city",
+                "Putin",
+                "Thursday",
+                "Maria",
+                "site",
+                "civilians",
+                "days"
+            ]
+        }
+    },
+    "The Ukraine War and the US nuclear weapons in Germany – curse or blessing?": {
+        "Biden says war at critical point as he sends more weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.08333333333333333,
+            "subjectivity_Y": 0.21666666666666667,
+            "simil_concepts": [
+                "weapons",
+                "war"
+            ]
+        },
+        "Putin orders troops to seal off Mariupol defenders": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.038113084740068866,
+            "subjectivity_Y": 0.14796128327874358,
+            "simil_concepts": [
+                "Ukraine",
+                "US",
+                "weapons",
+                "Russia",
+                "war",
+                "place",
+                "bombs",
+                "world",
+                "Major",
+                "-",
+                "links",
+                "peace"
+            ]
+        },
+        "Honduran ex-leader extradited to US on drug charges": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.0034372294372294345,
+            "subjectivity_Y": 0.12001298701298702,
+            "simil_concepts": [
+                "US",
+                "-",
+                "police",
+                "years"
+            ]
+        },
+        "Six die after plane crashes on to busy road": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.07429428210678211,
+            "subjectivity_Y": 0.2015827922077922,
+            "simil_concepts": [
+                "people",
+                "years"
+            ]
+        },
+        "Images suggest mass graves dug near Mariupol": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": 0.06737331296154826,
+            "subjectivity_Y": 0.23885175282234106,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "'Blood and fear everywhere' after deadly IS blast": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": -0.05638837353123068,
+            "subjectivity_Y": 0.2264378478664193,
+            "simil_concepts": [
+                "security",
+                "police",
+                "people",
+                "members"
+            ]
+        },
+        "Ukraine round-up: Putin backs off Mariupol storming": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.003496168582375478,
+            "subjectivity_X": 0.10793650793650794,
+            "polarity_Y": -0.013334830787660982,
+            "subjectivity_Y": 0.10411799940101829,
+            "simil_concepts": [
+                "Ukraine",
+                "US",
+                "Russia",
+                "bombs",
+                "world",
+                "-"
+            ]
+        }
+    }
+}

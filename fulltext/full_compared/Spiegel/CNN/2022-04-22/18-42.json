@@ -1,0 +1,3342 @@
+{
+    "len_A": 27,
+    "len_B": 10,
+    "coupled_A": 1,
+    "coupled_B": 1,
+    "covered_A_percent": 70.27027027027027,
+    "covered_B_percent": 24.324324324324326,
+    "covered_both_percent": 5.4054054054054035,
+    "CNN Heroes salutes the strength and courage of Ukraine": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "Ukraine",
+                "people",
+                "democracy",
+                "invasion",
+                "John"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": []
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        }
+    },
+    "Sign up for our 9-part Italy travel and food newsletter": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": []
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": []
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": []
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "CNN Hero of the Year Shirley Raines has more to give to the 'Kings' and 'Queens' of Skid Row": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.22139650472983807,
+            "subjectivity_X": 0.33842191758858425,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "time",
+                "-",
+                "group",
+                "media",
+                "things"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.22139650472983807,
+            "subjectivity_X": 0.33842191758858425,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.22139650472983807,
+            "subjectivity_X": 0.33842191758858425,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.22139650472983807,
+            "subjectivity_X": 0.33842191758858425,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.22139650472983807,
+            "subjectivity_X": 0.33842191758858425,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "Year",
+                "New",
+                "time"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 17,
+            "polarity_X": 0.22139650472983807,
+            "subjectivity_X": 0.33842191758858425,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "time",
+                "people",
+                "-",
+                "week",
+                "attention",
+                "goal",
+                "decades",
+                "world",
+                "life",
+                "events",
+                "work",
+                "times",
+                "Kelly",
+                "child",
+                "things",
+                "team",
+                "story"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.22139650472983807,
+            "subjectivity_X": 0.33842191758858425,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "money"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.22139650472983807,
+            "subjectivity_X": 0.33842191758858425,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "time",
+                "Instagram",
+                "work",
+                "care"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.22139650472983807,
+            "subjectivity_X": 0.33842191758858425,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.22139650472983807,
+            "subjectivity_X": 0.33842191758858425,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": [
+                "week",
+                "woman"
+            ]
+        }
+    },
+    "Hong Kong and Shanghai lose their international luster as Covid restrictions bite": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "government",
+                "year",
+                "West",
+                "media",
+                "business",
+                "future",
+                "country",
+                "state",
+                "time"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "cities",
+                "time"
+            ]
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "policy",
+                "crisis",
+                "situation"
+            ]
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "weeks",
+                "government",
+                "year",
+                "policy",
+                "month",
+                "crisis",
+                "end",
+                "years",
+                "country",
+                "situation",
+                "time"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 31,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "Shanghai",
+                "restrictions",
+                "measures",
+                "week",
+                "government",
+                "year",
+                "West",
+                "world",
+                "city",
+                "March",
+                "people",
+                "president",
+                "pandemic",
+                "school",
+                "policy",
+                "cases",
+                "virus",
+                "story",
+                "business",
+                "end",
+                "headquarters",
+                "future",
+                "question",
+                "years",
+                "country",
+                "April",
+                "patience",
+                "bans",
+                "name",
+                "situation",
+                "time"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "city",
+                "European",
+                "Union",
+                "policy",
+                "money"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "government",
+                "year",
+                "president",
+                "care",
+                "user",
+                "country",
+                "April",
+                "time"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": [
+                "policy"
+            ]
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": [
+                "week"
+            ]
+        }
+    },
+    "The Ukrainian refugee crisis is the latest mission for a CNN Hero, who leads teams of mobile medics responding to global disasters": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.03475071225071225,
+            "subjectivity_X": 0.5028346124774696,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "Ukraine",
+                "country",
+                "group",
+                "time",
+                "things",
+                "year"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.03475071225071225,
+            "subjectivity_X": 0.5028346124774696,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "Ukraine",
+                "time",
+                "disaster",
+                "war",
+                "weapons",
+                "cities"
+            ]
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.03475071225071225,
+            "subjectivity_X": 0.5028346124774696,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.03475071225071225,
+            "subjectivity_X": 0.5028346124774696,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "crisis",
+                "situation",
+                "Ukraine",
+                "war",
+                "weapons"
+            ]
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": -0.03475071225071225,
+            "subjectivity_X": 0.5028346124774696,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "crisis",
+                "situation",
+                "quarter",
+                "Ukraine",
+                "population",
+                "country",
+                "month",
+                "years",
+                "time",
+                "Poland",
+                "war",
+                "weapons",
+                "year"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 29,
+            "polarity_X": -0.03475071225071225,
+            "subjectivity_X": 0.5028346124774696,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "invasion",
+                "situation",
+                "Ukraine",
+                "population",
+                "people",
+                "country",
+                "world",
+                "volunteers",
+                "family",
+                "years",
+                "US",
+                "work",
+                "assistance",
+                "time",
+                "war",
+                "zone",
+                "case",
+                "weapons",
+                "team",
+                "university",
+                "March",
+                "challenge",
+                "mother",
+                "conversation",
+                "things",
+                "school",
+                "TV",
+                "life",
+                "year"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.03475071225071225,
+            "subjectivity_X": 0.5028346124774696,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "Ukraine",
+                "hundreds",
+                "countries",
+                "war",
+                "island"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.03475071225071225,
+            "subjectivity_X": 0.5028346124774696,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "country",
+                "care",
+                "family",
+                "members",
+                "work",
+                "days",
+                "time",
+                "disaster",
+                "version",
+                "year",
+                "island"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.03475071225071225,
+            "subjectivity_X": 0.5028346124774696,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": [
+                "Ukraine",
+                "War"
+            ]
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.03475071225071225,
+            "subjectivity_X": 0.5028346124774696,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": [
+                "Ukraine",
+                "woman"
+            ]
+        }
+    },
+    "He bought a cruise ship on Craigslist. Here's what happened next": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "The summer of travel chaos just got more chaotic ": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "cases",
+                "restrictions",
+                "year"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "The world's skinniest skyscraper completes": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": []
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": []
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "Inside London's new $25B 'Super Tube' ": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": []
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "city"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "meeting",
+                "city"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": []
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "Billionaire heiress Nicola Peltz marries Brooklyn Beckham in a decadent Valentino gown": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "year",
+                "weekend",
+                "family"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "year",
+                "family"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "Unusual airlines that really existed": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "US",
+                "government"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "Can the world's largest plane ever fly again?": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": []
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": []
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "Japanese photographer's family portraits are literally breathtaking ": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": []
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "family"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "family"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "DeSantis vs. Disney: Homophobia and hate are beneath the surface of high-minded, right-wing talking points": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.12482697343808456,
+            "subjectivity_X": 0.6206115386670942,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "business",
+                "media",
+                "country",
+                "state",
+                "year",
+                "government",
+                "company",
+                "time"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.12482697343808456,
+            "subjectivity_X": 0.6206115386670942,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.12482697343808456,
+            "subjectivity_X": 0.6206115386670942,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.12482697343808456,
+            "subjectivity_X": 0.6206115386670942,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.12482697343808456,
+            "subjectivity_X": 0.6206115386670942,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "course",
+                "country",
+                "night",
+                "year",
+                "government",
+                "New",
+                "change",
+                "time",
+                "years",
+                "weeks"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 22,
+            "polarity_X": -0.12482697343808456,
+            "subjectivity_X": 0.6206115386670942,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "business",
+                "events",
+                "child",
+                "abuse",
+                "people",
+                "country",
+                "night",
+                "year",
+                "employees",
+                "criticism",
+                "government",
+                "change",
+                "June",
+                "lot",
+                "time",
+                "campaign",
+                "past",
+                "story",
+                "Washington",
+                "escalation",
+                "years",
+                "nation"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.12482697343808456,
+            "subjectivity_X": 0.6206115386670942,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "past",
+                "money",
+                "elections"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.12482697343808456,
+            "subjectivity_X": 0.6206115386670942,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "version",
+                "course",
+                "country",
+                "year",
+                "employees",
+                "government",
+                "company",
+                "time",
+                "campaign",
+                "elections"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.12482697343808456,
+            "subjectivity_X": 0.6206115386670942,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.12482697343808456,
+            "subjectivity_X": 0.6206115386670942,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": [
+                "course",
+                "criticism"
+            ]
+        }
+    },
+    "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "year",
+                "government",
+                "time",
+                "supply",
+                "West",
+                "future",
+                "climate"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": [
+                "Interior"
+            ]
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "year",
+                "months",
+                "government",
+                "time",
+                "electricity",
+                "climate",
+                "change"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 20,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "US",
+                "year",
+                "times",
+                "news",
+                "week",
+                "nation",
+                "government",
+                "time",
+                "states",
+                "January",
+                "people",
+                "West",
+                "understanding",
+                "future",
+                "assistant",
+                "Department",
+                "Interior",
+                "statement",
+                "climate",
+                "change"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "states",
+                "information"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "year",
+                "news",
+                "government",
+                "time",
+                "information"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": [
+                "week"
+            ]
+        }
+    },
+    "Budweiser brewer AB InBev is selling its stake in 11 Russian breweries": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.07335758377425045,
+            "subjectivity_X": 0.1533289241622575,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "Ukraine",
+                "operation",
+                "interest",
+                "discussions",
+                "business",
+                "Germany"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07335758377425045,
+            "subjectivity_X": 0.1533289241622575,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.07335758377425045,
+            "subjectivity_X": 0.1533289241622575,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.07335758377425045,
+            "subjectivity_X": 0.1533289241622575,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "Russia",
+                "Ukraine"
+            ]
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.07335758377425045,
+            "subjectivity_X": 0.1533289241622575,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "quarter",
+                "Belgium",
+                "Russia",
+                "Ukraine",
+                "operation",
+                "decision",
+                "exit",
+                "Germany",
+                "France",
+                "Netherlands"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.07335758377425045,
+            "subjectivity_X": 0.1533289241622575,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "Friday",
+                "world",
+                "March",
+                "invasion",
+                "Ukraine",
+                "today",
+                "statement",
+                "people",
+                "business",
+                "Germany",
+                "initiative"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.07335758377425045,
+            "subjectivity_X": 0.1533289241622575,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "Russia",
+                "Ukraine",
+                "euros",
+                "countries"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07335758377425045,
+            "subjectivity_X": 0.1533289241622575,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "Friday"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.07335758377425045,
+            "subjectivity_X": 0.1533289241622575,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": [
+                "Russia",
+                "Ukraine",
+                "Moscow"
+            ]
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.07335758377425045,
+            "subjectivity_X": 0.1533289241622575,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        }
+    },
+    "Long-lost Charles Darwin notebooks returned with mysterious note": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "note",
+                "years"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "University",
+                "years"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": []
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "It's official: now avoid credit card interest into 2024": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "interest"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": []
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": []
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": []
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "0% intro APR until nearly 2024 is 100% insane": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": []
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": []
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": []
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "Two of India's biggest celebrities tie the knot": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": []
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": []
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": []
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "These were the best and worst places for air quality in 2021, new report shows": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "company",
+                "country",
+                "year",
+                "energy",
+                "climate",
+                "time",
+                "reports"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "cities",
+                "time"
+            ]
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "crisis"
+            ]
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "country",
+                "New",
+                "year",
+                "fuel",
+                "energy",
+                "change",
+                "climate",
+                "crisis",
+                "time",
+                "reason"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "places",
+                "world",
+                "country",
+                "US",
+                "guidelines",
+                "times",
+                "North",
+                "people",
+                "year",
+                "Act",
+                "change",
+                "capital",
+                "city",
+                "climate",
+                "time"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "countries",
+                "city"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "company",
+                "country",
+                "North",
+                "year",
+                "July",
+                "time"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "Why Tesla's stock is still defying gravity": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.0797557634164777,
+            "subjectivity_X": 0.2766010015117158,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "future",
+                "year",
+                "interest",
+                "supply",
+                "climate",
+                "reasons",
+                "company",
+                "time",
+                "investors",
+                "Ukraine",
+                "energy",
+                "business",
+                "power",
+                "Federal"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0797557634164777,
+            "subjectivity_X": 0.2766010015117158,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time",
+                "Ukraine"
+            ]
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0797557634164777,
+            "subjectivity_X": 0.2766010015117158,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0797557634164777,
+            "subjectivity_X": 0.2766010015117158,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "Russia",
+                "Ukraine"
+            ]
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.0797557634164777,
+            "subjectivity_X": 0.2766010015117158,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "year",
+                "quarter",
+                "months",
+                "climate",
+                "reasons",
+                "time",
+                "years",
+                "month",
+                "Russia",
+                "Ukraine",
+                "energy",
+                "degree",
+                "day",
+                "households",
+                "power",
+                "Federal"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 24,
+            "polarity_X": 0.0797557634164777,
+            "subjectivity_X": 0.2766010015117158,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "pandemic",
+                "future",
+                "year",
+                "pressure",
+                "climate",
+                "Shanghai",
+                "time",
+                "years",
+                "invasion",
+                "Ukraine",
+                "decades",
+                "base",
+                "John",
+                "business",
+                "events",
+                "day",
+                "March",
+                "colleague",
+                "week",
+                "Federal",
+                "US",
+                "today",
+                "post",
+                "tomorrow"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.0797557634164777,
+            "subjectivity_X": 0.2766010015117158,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "Russia",
+                "Ukraine",
+                "list",
+                "investment"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0797557634164777,
+            "subjectivity_X": 0.2766010015117158,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "year",
+                "company",
+                "time",
+                "day",
+                "version"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0797557634164777,
+            "subjectivity_X": 0.2766010015117158,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": [
+                "Russia",
+                "Ukraine"
+            ]
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0797557634164777,
+            "subjectivity_X": 0.2766010015117158,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": [
+                "Ukraine",
+                "week"
+            ]
+        }
+    },
+    "Why Australia and the US care so much about China's security pact with a tiny Pacific island nation": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "country",
+                "year",
+                "power",
+                "influence",
+                "government",
+                "Prime",
+                "Minister",
+                "interests",
+                "expert",
+                "Sea",
+                "majority",
+                "things"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "disaster",
+                "war"
+            ]
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": [
+                "Minister"
+            ]
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "situation",
+                "policy",
+                "war"
+            ]
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "country",
+                "population",
+                "year",
+                "New",
+                "power",
+                "month",
+                "situation",
+                "minister",
+                "weeks",
+                "government",
+                "decision",
+                "plan",
+                "Minister",
+                "party",
+                "policy",
+                "war",
+                "turn",
+                "years"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 35,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "US",
+                "security",
+                "nation",
+                "week",
+                "country",
+                "population",
+                "year",
+                "base",
+                "details",
+                "situation",
+                "partners",
+                "University",
+                "minister",
+                "Washington",
+                "capital",
+                "government",
+                "statement",
+                "Minister",
+                "party",
+                "lot",
+                "policy",
+                "damage",
+                "people",
+                "war",
+                "criticism",
+                "majority",
+                "place",
+                "opposition",
+                "things",
+                "family",
+                "attention",
+                "questions",
+                "past",
+                "years",
+                "challenge"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "island",
+                "countries",
+                "party",
+                "policy",
+                "war",
+                "symbol",
+                "past"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "island",
+                "country",
+                "year",
+                "disaster",
+                "government",
+                "Minister",
+                "party",
+                "place",
+                "opposition",
+                "family"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": [
+                "party",
+                "policy"
+            ]
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": [
+                "week",
+                "defense",
+                "criticism"
+            ]
+        }
+    },
+    "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "energy",
+                "power",
+                "gas",
+                "time",
+                "climate",
+                "company",
+                "year",
+                "group",
+                "suspicion",
+                "business",
+                "protection",
+                "construction",
+                "-",
+                "things",
+                "future"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "crisis",
+                "policy"
+            ]
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 22,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "energy",
+                "electricity",
+                "power",
+                "gas",
+                "time",
+                "climate",
+                "crisis",
+                "fuel",
+                "policy",
+                "years",
+                "site",
+                "wind",
+                "decision",
+                "end",
+                "year",
+                "quarter",
+                "change",
+                "plants",
+                "reason",
+                "answer",
+                "New",
+                "manager"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 39,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "stores",
+                "US",
+                "lot",
+                "space",
+                "Environment",
+                "Group",
+                "example",
+                "conflicts",
+                "campaign",
+                "time",
+                "place",
+                "climate",
+                "University",
+                "policy",
+                "years",
+                "work",
+                "nation",
+                "world",
+                "times",
+                "end",
+                "year",
+                "Richard",
+                "officer",
+                "business",
+                "case",
+                "change",
+                "construction",
+                "today",
+                "goal",
+                "-",
+                "people",
+                "things",
+                "decades",
+                "Justice",
+                "jobs",
+                "program",
+                "zone",
+                "one",
+                "future"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "example",
+                "policy",
+                "money",
+                "investment"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "process",
+                "days",
+                "Environment",
+                "Group",
+                "director",
+                "campaign",
+                "time",
+                "place",
+                "work",
+                "company",
+                "year",
+                "members",
+                "leaders"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": [
+                "policy"
+            ]
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    },
+    "Elon Musk's The Boring Company now valued at nearly $5.7 billion": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.2770060664958624,
+            "subjectivity_X": 0.6745111464499219,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.2770060664958624,
+            "subjectivity_X": 0.6745111464499219,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "cities"
+            ]
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.2770060664958624,
+            "subjectivity_X": 0.6745111464499219,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.2770060664958624,
+            "subjectivity_X": 0.6745111464499219,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.2770060664958624,
+            "subjectivity_X": 0.6745111464499219,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "government",
+                "years"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.2770060664958624,
+            "subjectivity_X": 0.6745111464499219,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "capital",
+                "point",
+                "people",
+                "Washington",
+                "government",
+                "right",
+                "city",
+                "post",
+                "years",
+                "one",
+                "week"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.2770060664958624,
+            "subjectivity_X": 0.6745111464499219,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "investment",
+                "city"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.2770060664958624,
+            "subjectivity_X": 0.6745111464499219,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "government",
+                "request"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.2770060664958624,
+            "subjectivity_X": 0.6745111464499219,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.2770060664958624,
+            "subjectivity_X": 0.6745111464499219,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": [
+                "right",
+                "week"
+            ]
+        }
+    },
+    "Forget the FAANGs. It's a stock picker's market now": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0514690170940171,
+            "subjectivity_X": 0.3061800468050468,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": [
+                "investors",
+                "head",
+                "business",
+                "group",
+                "company"
+            ]
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0514690170940171,
+            "subjectivity_X": 0.3061800468050468,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0514690170940171,
+            "subjectivity_X": 0.3061800468050468,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0514690170940171,
+            "subjectivity_X": 0.3061800468050468,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0514690170940171,
+            "subjectivity_X": 0.3061800468050468,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "UK",
+                "quarter",
+                "reason"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.0514690170940171,
+            "subjectivity_X": 0.3061800468050468,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "week",
+                "news",
+                "head",
+                "team",
+                "business",
+                "view",
+                "world",
+                "officer"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0514690170940171,
+            "subjectivity_X": 0.3061800468050468,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": [
+                "investment",
+                "mistakes"
+            ]
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0514690170940171,
+            "subjectivity_X": 0.3061800468050468,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "news",
+                "leaders",
+                "company"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0514690170940171,
+            "subjectivity_X": 0.3061800468050468,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0514690170940171,
+            "subjectivity_X": 0.3061800468050468,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": [
+                "week"
+            ]
+        }
+    },
+    "Powerful photo by Pacific Indigenous artist reveals truth about 1899 painting": {
+        "Mecklenburg-Vorpommern: Erwin Sellering wants to receive controversial climate foundation": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.21633384536610345,
+            "subjectivity_Y": 0.4626536098310292,
+            "simil_concepts": []
+        },
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "Saxony: That's why Interior Minister Roland Wöller had to go": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.0,
+            "subjectivity_Y": 0.3666666666666667,
+            "simil_concepts": []
+        },
+        "Olaf Scholz on Ukraine war in the SPIEGEL interview: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "Atomic exit: Our three nuclear weapons against Vladimir Putin - Column": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.03895872645872645,
+            "subjectivity_Y": 0.3855968105968106,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "News of the day: Olaf Scholz on his war policy, Corona measures, Roland Wöller": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.03021871646871646,
+            "subjectivity_Y": 0.24397975481308812,
+            "simil_concepts": [
+                "artist",
+                "day"
+            ]
+        },
+        "»Golden passports«: EU warns of loopholes for rich Russians": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.1268595041322314,
+            "subjectivity_Y": 0.3325757575757576,
+            "simil_concepts": []
+        },
+        "Ursula Heinen-Esser complains her daughter's tipping on Instagram": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.023693834900731455,
+            "subjectivity_Y": 0.15235109717868336,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "SPD and the Ukraine War: The Sense Crisis of Social Democracy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.007407407407407407,
+            "subjectivity_Y": 0.24074074074074073,
+            "simil_concepts": []
+        },
+        "FDP politician Strack-Zimmermann: The spike in the carpenter's meat": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.11507936507936507,
+            "subjectivity_Y": 0.17804232804232803,
+            "simil_concepts": []
+        }
+    }
+}

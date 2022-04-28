@@ -1,0 +1,4765 @@
+{
+    "len_A": 26,
+    "len_B": 13,
+    "coupled_A": 5,
+    "coupled_B": 5,
+    "covered_A_percent": 53.84615384615385,
+    "covered_B_percent": 20.51282051282051,
+    "covered_both_percent": 25.641025641025635,
+    "Sign up for our 9-part Italy travel and food newsletter": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "food"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "part"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "part"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "part"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": []
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": []
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": []
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "food"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": []
+        }
+    },
+    "Meet CNN's Hero of the Year": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "trees",
+                "operation"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "people",
+                "food",
+                "world"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "place",
+                "protection"
+            ]
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "lot",
+                "years",
+                "part",
+                "world",
+                "group",
+                "-",
+                "time",
+                "scale",
+                "Lee",
+                "report"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "years",
+                "part",
+                "place",
+                "time",
+                "efforts",
+                "operation",
+                "report"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "years",
+                "world",
+                "health",
+                "population"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "years",
+                "part",
+                "group",
+                "-",
+                "projects"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "people",
+                "years",
+                "world",
+                "thing",
+                "group",
+                "-",
+                "report"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "years",
+                "week",
+                "day",
+                "world",
+                "events",
+                "time",
+                "times",
+                "rise"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "work",
+                "world"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "work",
+                "years",
+                "life",
+                "time",
+                "help"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "Sunday",
+                "food",
+                "week",
+                "pandemic",
+                "day",
+                "world",
+                "group",
+                "place",
+                "time",
+                "Covid-19",
+                "way",
+                "population",
+                "January",
+                "report"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "Sunday",
+                "lot",
+                "night",
+                "voters",
+                "years",
+                "week",
+                "world",
+                "products",
+                "time",
+                "population",
+                "hope",
+                "report"
+            ]
+        }
+    },
+    "Teacher raises more than $100,000 for food to keep thousands of children from going hungry over winter break": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "winter",
+                "%",
+                "living",
+                "result",
+                "access",
+                "spring"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "food",
+                "people"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "year",
+                "money",
+                "%",
+                "years",
+                "time",
+                "group"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "army",
+                "efforts",
+                "years",
+                "time",
+                "access"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "years",
+                "access"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "project",
+                "%",
+                "years",
+                "country",
+                "group"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "people",
+                "thing",
+                "years",
+                "living",
+                "group"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "year",
+                "school",
+                "years",
+                "day",
+                "question",
+                "December",
+                "situation",
+                "time",
+                "days"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "question"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "year",
+                "%",
+                "source",
+                "years",
+                "life",
+                "question",
+                "living",
+                "time",
+                "help"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "food",
+                "right",
+                "%",
+                "day",
+                "question",
+                "way",
+                "time",
+                "group",
+                "days",
+                "\"The",
+                "aim"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "class",
+                "students",
+                "year",
+                "need",
+                "%",
+                "years",
+                "action",
+                "promise",
+                "student",
+                "country",
+                "collective",
+                "time"
+            ]
+        }
+    },
+    "Macron vs. Le Pen: The French presidential election runoff explained": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "France",
+                "%",
+                "measures",
+                "month",
+                "technology",
+                "result",
+                "living",
+                "climate",
+                "future"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "Ukraine",
+                "war",
+                "crisis",
+                "people"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "election",
+                "place",
+                "campaign",
+                "energy",
+                "surveys",
+                "Ukraine",
+                "war",
+                "crisis",
+                "immigration",
+                "issues",
+                "climate",
+                "environment",
+                "issue",
+                "power"
+            ]
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 17,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "France",
+                "%",
+                "year",
+                "energy",
+                "heart",
+                "years",
+                "Ukraine",
+                "war",
+                "policies",
+                "experts",
+                "technology",
+                "climate",
+                "electricity",
+                "issue",
+                "future",
+                "end",
+                "report"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "France",
+                "place",
+                "reporting",
+                "March",
+                "years",
+                "report"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "France",
+                "years",
+                "government"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "France",
+                "country",
+                "%",
+                "support",
+                "years",
+                "Europe",
+                "crisis",
+                "government",
+                "climate",
+                "environment",
+                "development"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "France",
+                "April",
+                "years",
+                "respect",
+                "experts",
+                "living",
+                "people",
+                "report"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "France",
+                "year",
+                "event",
+                "day",
+                "surveys",
+                "March",
+                "years",
+                "times",
+                "week",
+                "climate",
+                "end"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "France",
+                "March",
+                "image",
+                "climate"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "France",
+                "%",
+                "year",
+                "energy",
+                "Jean",
+                "years",
+                "Europe",
+                "European",
+                "respect",
+                "living",
+                "environment",
+                "end"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": true,
+            "similar_concepts_number": 52,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "Macron",
+                "Le",
+                "Pen",
+                "election",
+                "France",
+                "right",
+                "Marine",
+                "Emmanuel",
+                "candidates",
+                "April",
+                "%",
+                "Sunday",
+                "place",
+                "debate",
+                "campaign",
+                "energy",
+                "Vladimir",
+                "Putin",
+                "day",
+                "media",
+                "round",
+                "March",
+                "advantage",
+                "heart",
+                "Jean",
+                "Luc",
+                "Zemmour",
+                "Ukraine",
+                "war",
+                "Anne",
+                "Hidalgo",
+                "Valérie",
+                "Pécresse",
+                "Covid-19",
+                "pandemic",
+                "crisis",
+                "experts",
+                "National",
+                "answer",
+                "proposals",
+                "issues",
+                "answers",
+                "way",
+                "conflict",
+                "week",
+                "climate",
+                "concern",
+                "environment",
+                "issue",
+                "future",
+                "end",
+                "report"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": true,
+            "similar_concepts_number": 50,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "Macron",
+                "Le",
+                "Pen",
+                "election",
+                "France",
+                "Marine",
+                "Emmanuel",
+                "votes",
+                "President",
+                "voters",
+                "polls",
+                "vote",
+                "April",
+                "country",
+                "%",
+                "Sunday",
+                "year",
+                "campaign",
+                "measures",
+                "energy",
+                "support",
+                "round",
+                "candidate",
+                "Jean",
+                "Luc",
+                "years",
+                "Paris",
+                "movement",
+                "policy",
+                "crisis",
+                "experts",
+                "strategy",
+                "Marie",
+                "National",
+                "class",
+                "proposals",
+                "EU",
+                "issues",
+                "government",
+                "week",
+                "climate",
+                "concern",
+                "electricity",
+                "environment",
+                "issue",
+                "wind",
+                "power",
+                "subsidies",
+                "visions",
+                "report"
+            ]
+        }
+    },
+    "This 10-year-old asked Santa last year for a Covid cure. This year he has a new request": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "problem",
+                "effect",
+                "conditions"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "world",
+                "people",
+                "Research",
+                "food"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "year",
+                "world",
+                "years",
+                "lot",
+                "decisions",
+                "money"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "example",
+                "years"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world",
+                "program",
+                "years",
+                "health"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "country",
+                "threats",
+                "years"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "world",
+                "suit",
+                "people",
+                "years",
+                "thing"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "year",
+                "world",
+                "season",
+                "Pole",
+                "years",
+                "school",
+                "day",
+                "others",
+                "South",
+                "week",
+                "days",
+                "changes"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "year",
+                "help",
+                "example",
+                "years",
+                "conditions",
+                "things",
+                "president"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "request",
+                "world",
+                "pandemic",
+                "way",
+                "day",
+                "food",
+                "week",
+                "members",
+                "days",
+                "Covid-19"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "year",
+                "world",
+                "program",
+                "country",
+                "example",
+                "problem",
+                "years",
+                "lot",
+                "week",
+                "members",
+                "police"
+            ]
+        }
+    },
+    "He bought a cruise ship on Craigslist. Here's what happened next": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": []
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": []
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": []
+        }
+    },
+    "Inside London's new $25B 'Super Tube' ": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "London",
+                "side"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": []
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "meeting"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "side",
+                "way"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": []
+        }
+    },
+    "Can the world's largest plane ever fly again?": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": []
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "world"
+            ]
+        }
+    },
+    "The summer of travel chaos just got more chaotic ": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "summer"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "Temperatures",
+                "cases",
+                "year"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": []
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": []
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "year"
+            ]
+        }
+    },
+    "Japanese photographer's family portraits are literally breathtaking ": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": []
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": []
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": []
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": []
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": []
+        }
+    },
+    "Unusual airlines that really existed": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "industry"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": []
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": []
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": []
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": []
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "government"
+            ]
+        }
+    },
+    "Grammy Awards 2022: Best fashion on the red carpet ": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": []
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": []
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": []
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "Sunday"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "Sunday"
+            ]
+        }
+    },
+    "Long-lost Charles Darwin notebooks returned with mysterious note": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "University",
+                "years"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": []
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": []
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "years"
+            ]
+        }
+    },
+    "The world's skinniest skyscraper completes": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": []
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "world"
+            ]
+        }
+    },
+    "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "solution",
+                "%",
+                "half",
+                "research",
+                "equivalent",
+                "climate",
+                "rain",
+                "plants",
+                "New",
+                "future"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "conflicts",
+                "crisis",
+                "world",
+                "change",
+                "systems",
+                "people"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "energy",
+                "power",
+                "campaign",
+                "place",
+                "climate",
+                "crisis",
+                "protection",
+                "environment"
+            ]
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 30,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "emissions",
+                "fuels",
+                "energy",
+                "sources",
+                "experts",
+                "lot",
+                "planet",
+                "%",
+                "electricity",
+                "report",
+                "gas",
+                "dependence",
+                "time",
+                "production",
+                "climate",
+                "fossil",
+                "years",
+                "world",
+                "end",
+                "year",
+                "industry",
+                "group",
+                "buildings",
+                "today",
+                "-",
+                "money",
+                "transition",
+                "housing",
+                "UN",
+                "future"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "February",
+                "report",
+                "example",
+                "time",
+                "place",
+                "years",
+                "decision",
+                ".",
+                "sector",
+                "demand"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "years",
+                "world",
+                "program",
+                "health"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "emissions",
+                "%",
+                "gas",
+                "climate",
+                "crisis",
+                "years",
+                "projects",
+                "development",
+                "group",
+                "-",
+                "extraction",
+                "benefits",
+                "environment"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "emissions",
+                "fuels",
+                "experts",
+                "planet",
+                "report",
+                "gas",
+                "years",
+                "world",
+                "group",
+                "business",
+                "-",
+                "people",
+                "leaders",
+                "UN"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "December",
+                "days",
+                "locations",
+                "time",
+                "climate",
+                "University",
+                "years",
+                "area",
+                "world",
+                "others",
+                "times",
+                "end",
+                "year",
+                "Environmental",
+                "New",
+                "air"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "director",
+                "climate",
+                "work",
+                "world"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 19,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "energy",
+                "%",
+                "half",
+                "research",
+                "example",
+                "director",
+                "time",
+                "production",
+                "help",
+                "years",
+                "work",
+                "site",
+                "end",
+                "year",
+                "construction",
+                "today",
+                "things",
+                "utility",
+                "environment"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 28,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "emissions",
+                "energy",
+                "experts",
+                "space",
+                "planet",
+                "%",
+                "days",
+                "February",
+                "half",
+                "report",
+                "campaign",
+                "time",
+                "place",
+                "climate",
+                "crisis",
+                "world",
+                "site",
+                "end",
+                "group",
+                "change",
+                "challenges",
+                "answer",
+                "way",
+                "members",
+                "justice",
+                "leaders",
+                "environment",
+                "future"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 39,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "emissions",
+                "energy",
+                "sources",
+                "experts",
+                "lot",
+                "planet",
+                "%",
+                "electricity",
+                "power",
+                "report",
+                "gas",
+                "example",
+                "campaign",
+                "time",
+                "programs",
+                "climate",
+                "crisis",
+                "fossil",
+                "need",
+                "policy",
+                "years",
+                "world",
+                "wind",
+                "capacity",
+                "year",
+                "trade",
+                "Energy",
+                "buildings",
+                "change",
+                "installation",
+                "systems",
+                "transition",
+                "members",
+                "program",
+                "housing",
+                "manager",
+                "action",
+                "renewables",
+                "environment"
+            ]
+        }
+    },
+    "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "water",
+                "drought",
+                "%",
+                "news",
+                "conditions",
+                "consumption",
+                "irrigation",
+                "future",
+                "science",
+                "climate"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "people",
+                "change"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "climate"
+            ]
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "%",
+                "storage",
+                "report",
+                "year",
+                "Monday",
+                "news",
+                "experts",
+                "time",
+                "states",
+                "electricity",
+                "future",
+                "impacts",
+                "climate"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "water",
+                "report",
+                "Monday",
+                "news",
+                "time",
+                "drinking",
+                "Interior"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "water",
+                "news",
+                "government",
+                "drinking"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "%",
+                "news",
+                "government",
+                "effects",
+                "impacts",
+                "climate"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "report",
+                "Monday",
+                "news",
+                "experts",
+                "people"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "water",
+                "level",
+                "year",
+                "times",
+                "news",
+                "region",
+                "week",
+                "time",
+                "sea",
+                "climate"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "climate"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "water",
+                "level",
+                "%",
+                "Dam",
+                "addition",
+                "year",
+                "news",
+                "conditions",
+                "months",
+                "time"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "%",
+                "report",
+                "National",
+                "Monday",
+                "news",
+                "experts",
+                "week",
+                "time",
+                "January",
+                "future",
+                "challenges",
+                "impacts",
+                "climate",
+                "change"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "level",
+                "capacity",
+                "%",
+                "report",
+                "year",
+                "National",
+                "news",
+                "experts",
+                "week",
+                "government",
+                "time",
+                "consumption",
+                "supply",
+                "electricity",
+                "climate",
+                "change"
+            ]
+        }
+    },
+    "These were the best and worst places for air quality in 2021, new report shows": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "%",
+                "New",
+                "matter",
+                "half",
+                "climate",
+                "warming",
+                "improvement",
+                "order"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "world",
+                "United",
+                "CEO",
+                "people",
+                "change",
+                "crisis"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "issues",
+                "energy",
+                "climate",
+                "crisis"
+            ]
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 21,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "report",
+                "world",
+                "%",
+                "governments",
+                "countries",
+                "year",
+                "policies",
+                "sources",
+                "fuels",
+                "fossil",
+                "energy",
+                "production",
+                "emissions",
+                "climate",
+                "carbon",
+                "part",
+                "warming",
+                "time",
+                "UN",
+                "Climate",
+                "use"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "report",
+                "territory",
+                "United",
+                "capital",
+                "part",
+                "Africa",
+                "time"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world",
+                "health",
+                "India",
+                "countries"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "pollution",
+                "country",
+                "%",
+                "countries",
+                "threats",
+                "regions",
+                "emissions",
+                "climate",
+                "crisis",
+                "part",
+                "warming",
+                "Africa"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "report",
+                "world",
+                "governments",
+                "people",
+                "fuels",
+                "emissions",
+                "trend",
+                "warming",
+                "network",
+                "UN",
+                "order"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "places",
+                "air",
+                "world",
+                "New",
+                "times",
+                "Australia",
+                "year",
+                "regions",
+                "climate",
+                "warming",
+                "Africa",
+                "South",
+                "time"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "world",
+                "climate"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "%",
+                "year",
+                "energy",
+                "production",
+                "half",
+                "ecosystem",
+                "time",
+                "addition"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "report",
+                "world",
+                "%",
+                "issues",
+                "\"The",
+                "energy",
+                "emissions",
+                "change",
+                "half",
+                "climate",
+                "crisis",
+                "warming",
+                "time",
+                "Climate"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 22,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "report",
+                "world",
+                "country",
+                "%",
+                "Canada",
+                "need",
+                "year",
+                "sources",
+                "issues",
+                "fossil",
+                "energy",
+                "emissions",
+                "change",
+                "climate",
+                "crisis",
+                "warming",
+                "time",
+                "network",
+                "Climate",
+                "use",
+                "benefit",
+                "action"
+            ]
+        }
+    },
+    "3 reasons Shanghai's lockdown matters to the global economy": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "month",
+                "damage",
+                "%",
+                "New",
+                "plants",
+                "research"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "world",
+                "International"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "place"
+            ]
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "economy",
+                "world",
+                "%",
+                "Monday",
+                "time",
+                "end",
+                "oil",
+                "year",
+                "industry",
+                "General",
+                "production",
+                "impacts",
+                "vehicles"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "place",
+                "Monday",
+                "time",
+                "authorities",
+                "March",
+                "east"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world",
+                "government",
+                "population"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "country",
+                "government",
+                "%",
+                "oil",
+                "impacts"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "economy",
+                "world",
+                "Monday",
+                "business",
+                "General"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "day",
+                "world",
+                "time",
+                "week",
+                "end",
+                "New",
+                "London",
+                "year",
+                "times",
+                "March",
+                "east"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "world",
+                "March"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "%",
+                "time",
+                "end",
+                "year",
+                "production",
+                "addition",
+                "research"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "Covid-19",
+                "day",
+                "world",
+                "concern",
+                "place",
+                "population",
+                "%",
+                "Monday",
+                "time",
+                "week",
+                "end",
+                "state",
+                "answer",
+                "March",
+                "State",
+                "media",
+                "January",
+                "impacts"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "reasons",
+                "economy",
+                "country",
+                "world",
+                "government",
+                "concern",
+                "population",
+                "%",
+                "time",
+                "week",
+                "oil",
+                "trade",
+                "year",
+                "suspension",
+                "supply"
+            ]
+        }
+    },
+    "Amazon is adding a 5% fuel and inflation surcharge": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "energy"
+            ]
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "%",
+                "time",
+                "-",
+                "world",
+                "energy",
+                "year"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "time",
+                "example",
+                "March"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "%",
+                "-"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "-",
+                "April",
+                "world"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "time",
+                "world",
+                "March",
+                "year"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "world",
+                "March"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "%",
+                "time",
+                "months",
+                "return",
+                "example",
+                "energy",
+                "year"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "%",
+                "time",
+                "April",
+                "Covid-19",
+                "world",
+                "challenges",
+                "energy",
+                "March"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "%",
+                "Wednesday",
+                "time",
+                "April",
+                "world",
+                "products",
+                "example",
+                "energy",
+                "year"
+            ]
+        }
+    },
+    "Billionaire heiress Nicola Peltz marries Brooklyn Beckham in a decadent Valentino gown": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "designer"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "season",
+                "year"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": []
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "weekend"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "year"
+            ]
+        }
+    },
+    "Germany faces $240 billion hit if Russian gas is cut off": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "%",
+                "research",
+                "term",
+                "water",
+                "month",
+                "association"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "Ukraine",
+                "International",
+                "war"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "Ukraine",
+                "energy",
+                "war"
+            ]
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "gas",
+                "years",
+                "report",
+                "%",
+                "year",
+                "economy",
+                "time",
+                "Ukraine",
+                "coal",
+                "oil",
+                "electricity",
+                "energy",
+                "heart",
+                "war",
+                "industry"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "years",
+                "report",
+                "World",
+                "time",
+                "water"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "euros",
+                "years",
+                "Minister",
+                "water",
+                "point"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "gas",
+                "country",
+                "years",
+                "%",
+                "Europe",
+                "oil"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "gas",
+                "years",
+                "report",
+                "economy",
+                "leaders"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "years",
+                "event",
+                "year",
+                "Institute",
+                "time",
+                "week",
+                "water",
+                "question",
+                "level",
+                "period"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "director",
+                "question"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": true,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "years",
+                "%",
+                "year",
+                "Europe",
+                "research",
+                "director",
+                "European",
+                "time",
+                "source",
+                "energy",
+                "water",
+                "question",
+                "level",
+                "utility",
+                "president"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "report",
+                "%",
+                "World",
+                "time",
+                "Ukraine",
+                "leaders",
+                "round",
+                "sanctions",
+                "week",
+                "energy",
+                "question",
+                "Putin",
+                "interview",
+                "heart",
+                "war",
+                "association"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 23,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "gas",
+                "supply",
+                "country",
+                "Wednesday",
+                "years",
+                "report",
+                "%",
+                "year",
+                "economy",
+                "time",
+                "EU",
+                "coal",
+                "round",
+                "action",
+                "oil",
+                "ban",
+                "term",
+                "Energy",
+                "electricity",
+                "week",
+                "energy",
+                "level",
+                "Marie"
+            ]
+        }
+    },
+    "It's official: now avoid credit card interest into 2024": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": []
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": []
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": []
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": []
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": []
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": []
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": []
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": []
+        }
+    },
+    "0% intro APR until nearly 2024 is 100% insane": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": []
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": []
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": []
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": []
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": []
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": []
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": []
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "%"
+            ]
+        }
+    },
+    "World's top oil trader will stop buying Russian crude ": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "product",
+                "news",
+                "%"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "world",
+                "Ukraine",
+                "United",
+                "International"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "energy",
+                "Ukraine"
+            ]
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "oil",
+                "world",
+                "end",
+                "year",
+                "energy",
+                "news",
+                "Ukraine",
+                "economies",
+                "part",
+                "%",
+                "member",
+                "countries"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "World",
+                "news",
+                "February",
+                "United",
+                "part",
+                "March"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "world",
+                "news",
+                "countries"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "oil",
+                "news",
+                "Europe",
+                "part",
+                "%",
+                "countries"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "world",
+                "news",
+                "April"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "world",
+                "end",
+                "year",
+                "situation",
+                "news",
+                "Australia",
+                "day",
+                "week",
+                "March"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "world",
+                "March"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "end",
+                "year",
+                "source",
+                "energy",
+                "news",
+                "signs",
+                "Europe",
+                "European",
+                "%"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "World",
+                "world",
+                "end",
+                "energy",
+                "news",
+                "Ukraine",
+                "February",
+                "sanctions",
+                "day",
+                "April",
+                "website",
+                "week",
+                "round",
+                "%",
+                "March",
+                "member"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 17,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "oil",
+                "world",
+                "products",
+                "year",
+                "energy",
+                "news",
+                "Canada",
+                "Energy",
+                "Wednesday",
+                "April",
+                "website",
+                "week",
+                "President",
+                "round",
+                "%",
+                "supply",
+                "member"
+            ]
+        }
+    },
+    "Macron spars with French presidential challenger Le Pen in fiery TV debate": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "living",
+                "hour",
+                "France",
+                "problem",
+                "climate"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "crisis",
+                "people",
+                "Ukraine",
+                "war"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "crisis",
+                "campaign",
+                "energy",
+                "Ukraine",
+                "climate",
+                "election",
+                "war"
+            ]
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "industry",
+                "years",
+                "money",
+                "energy",
+                "France",
+                "Ukraine",
+                "time",
+                "oil",
+                "gas",
+                "suffering",
+                "climate",
+                "policies",
+                "transition",
+                "countries",
+                "war"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "years",
+                "France",
+                "time",
+                "reporting"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "years",
+                "France",
+                "health",
+                "countries"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "crisis",
+                "years",
+                "France",
+                "support",
+                "country",
+                "oil",
+                "gas",
+                "actions",
+                "climate",
+                "Europe",
+                "countries"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "living",
+                "people",
+                "years",
+                "France",
+                "leaders",
+                "gas",
+                "populations"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "years",
+                "France",
+                "time",
+                "climate",
+                "day"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": [
+                "France",
+                "climate"
+            ]
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "European",
+                "living",
+                "president",
+                "years",
+                "energy",
+                "France",
+                "time",
+                "Europe"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": true,
+            "similar_concepts_number": 30,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "Macron",
+                "Le",
+                "Pen",
+                "debate",
+                "Emmanuel",
+                "Marine",
+                "Sunday",
+                "right",
+                "National",
+                "crisis",
+                "sovereignty",
+                "priority",
+                "campaign",
+                "energy",
+                "candidates",
+                "France",
+                "leaders",
+                "Vladimir",
+                "Putin",
+                "Ukraine",
+                "time",
+                "NATO",
+                "sanctions",
+                "climate",
+                "topic",
+                "election",
+                "war",
+                "\"The",
+                "day",
+                "media"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 31,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "Macron",
+                "Le",
+                "Pen",
+                "President",
+                "Emmanuel",
+                "Marine",
+                "Wednesday",
+                "night",
+                "Sunday",
+                "National",
+                "crisis",
+                "years",
+                "campaign",
+                "VAT",
+                "energy",
+                "France",
+                "problem",
+                "time",
+                "polls",
+                "support",
+                "country",
+                "ban",
+                "oil",
+                "gas",
+                "action",
+                "voters",
+                "climate",
+                "transition",
+                "election",
+                "EU",
+                "vote"
+            ]
+        }
+    },
+    "Elon Musk says his offer to buy Twitter is about 'the future of civilization,' not making money": {
+        "A drought in winter": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.1569404310966811,
+            "subjectivity_Y": 0.26450481000481,
+            "simil_concepts": [
+                "future",
+                "problem",
+                "%"
+            ]
+        },
+        "Elisabeth Claverie de Saint Martin: \"We must radically change food systems\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.03125,
+            "subjectivity_Y": 0.07291666666666667,
+            "simil_concepts": [
+                "CEO",
+                "people"
+            ]
+        },
+        "The climate, big forgotten of the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.03333333333333333,
+            "subjectivity_Y": 0.1412698412698413,
+            "simil_concepts": [
+                "issues"
+            ]
+        },
+        "According to the Giec, humanity has three years to reduce its CO2 emissions": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.05357431457431458,
+            "subjectivity_Y": 0.4079368286034953,
+            "simil_concepts": [
+                "future",
+                "money",
+                "conference",
+                "decisions",
+                "%",
+                "time"
+            ]
+        },
+        "World Water Forum in Senegal: only one in four Africans has access to drinking water": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.13472222222222222,
+            "subjectivity_Y": 0.6429292929292929,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "India: the challenge of access to drinking water for all": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.033333333333333326,
+            "subjectivity_Y": 0.30833333333333335,
+            "simil_concepts": [
+                "point"
+            ]
+        },
+        "Vanessa Nakate: \"The rich and responsible countries must pay for the climate crisis\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.07267676767676766,
+            "subjectivity_Y": 0.44409090909090915,
+            "simil_concepts": [
+                "%"
+            ]
+        },
+        "L'actu en dessin : le Giec Alert sur le climat ? So you have to \"suppress the Giec\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.17062413349178054,
+            "subjectivity_Y": 0.3246300540418187,
+            "simil_concepts": [
+                "business",
+                "people"
+            ]
+        },
+        "How can we explain the unprecedented heat cut in polar regions?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.11981614171269343,
+            "subjectivity_Y": 0.4585734189182465,
+            "simil_concepts": [
+                "changes",
+                "time"
+            ]
+        },
+        "Cyril Dion, writer: \"The ecological question is the great cause of the twenty-first century\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.2733333333333334,
+            "subjectivity_Y": 0.3583333333333334,
+            "simil_concepts": []
+        },
+        "Dams: Save Last Salmons": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.050529100529100535,
+            "subjectivity_Y": 0.16931216931216933,
+            "simil_concepts": [
+                "things",
+                "%",
+                "time"
+            ]
+        },
+        "The fight of NGOs to make the climate exist in the presidential campaign": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.01793906325156325,
+            "subjectivity_Y": 0.22397994077681574,
+            "simil_concepts": [
+                "future",
+                "interview",
+                "platform",
+                "way",
+                "\"The",
+                "issues",
+                "%",
+                "time"
+            ]
+        },
+        "President: with Marine Le Pen in power, \"there would be no hope\" for the planet": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.00015408320493065972,
+            "subjectivity_Y": 0.185336414997432,
+            "simil_concepts": [
+                "Twitter",
+                "Thursday",
+                "democracy",
+                "lack",
+                "problem",
+                "issues",
+                "%",
+                "bid",
+                "ideas",
+                "time"
+            ]
+        }
+    }
+}

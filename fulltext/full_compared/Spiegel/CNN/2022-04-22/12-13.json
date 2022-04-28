@@ -1,0 +1,2562 @@
+{
+    "len_A": 28,
+    "len_B": 7,
+    "coupled_A": 1,
+    "coupled_B": 1,
+    "covered_A_percent": 77.14285714285715,
+    "covered_B_percent": 17.142857142857142,
+    "covered_both_percent": 5.714285714285708,
+    "This 10-year-old asked Santa last year for a Covid cure. This year he has a new request": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 21,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "world",
+                "pandemic",
+                "country",
+                "holiday",
+                "Florida",
+                "help",
+                "virus",
+                "people",
+                "son",
+                "problem",
+                "way",
+                "effect",
+                "day",
+                "week",
+                "ones",
+                "members",
+                "start",
+                "care",
+                "case",
+                "president",
+                "thing"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "July",
+                "conditions",
+                "case",
+                "lawyer",
+                "leader"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "world",
+                "moments",
+                "problem",
+                "years",
+                "day",
+                "servant"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "world",
+                "example",
+                "way",
+                "years",
+                "lot",
+                "day",
+                "week",
+                "members",
+                "equipment",
+                "care",
+                "things",
+                "leader",
+                "decisions",
+                "money"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "North",
+                "example",
+                "years",
+                "day",
+                "July",
+                "family",
+                "members",
+                "start",
+                "police",
+                "president",
+                "decisions"
+            ]
+        }
+    },
+    "Chinese court sentences US citizen Shadeed Abdulmateen to death for murder": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "death",
+                "state",
+                "times",
+                "consequences",
+                "situation",
+                "world",
+                "people",
+                "drug"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "Court",
+                "decision"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "situation"
+            ]
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "state",
+                "consequences",
+                "world"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "defense",
+                "world"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.05551346801346801,
+            "subjectivity_X": 0.11081649831649831,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": []
+        }
+    },
+    "He bought a cruise ship on Craigslist. Here's what happened next": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "day"
+            ]
+        }
+    },
+    "Can the world's largest plane ever fly again?": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": []
+        }
+    },
+    "Japanese photographer's family portraits are literally breathtaking ": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": []
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "family"
+            ]
+        }
+    },
+    "Long-lost Charles Darwin notebooks returned with mysterious note": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": []
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "years"
+            ]
+        }
+    },
+    "Unusual airlines that really existed": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "government",
+                "industry"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "government"
+            ]
+        }
+    },
+    "Billionaire heiress Nicola Peltz marries Brooklyn Beckham in a decadent Valentino gown": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "son",
+                "Florida"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "player",
+                "weekend"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "family"
+            ]
+        }
+    },
+    "Teacher raises more than $100,000 for food to keep thousands of children from going hungry over winter break": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "weeks",
+                "right",
+                "people",
+                "thing",
+                "care",
+                "case",
+                "holiday",
+                "word",
+                "day",
+                "country",
+                "way",
+                "situation",
+                "time",
+                "help",
+                "spring"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "case",
+                "question"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "situation"
+            ]
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "years",
+                "day"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "money",
+                "care",
+                "years",
+                "action",
+                "day",
+                "way",
+                "time",
+                "group"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "North",
+                "district",
+                "statement",
+                "years",
+                "day",
+                "student",
+                "family",
+                "result"
+            ]
+        }
+    },
+    "The world's skinniest skyscraper completes": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": []
+        }
+    },
+    "It's official: now avoid credit card interest into 2024": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "interest"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "official"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": []
+        }
+    },
+    "The summer of travel chaos just got more chaotic ": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": []
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": []
+        }
+    },
+    "0% intro APR until nearly 2024 is 100% insane": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": []
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": []
+        }
+    },
+    "Inside London's new $25B 'Super Tube' ": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "way"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "side"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "side",
+                "way",
+                "traffic"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": []
+        }
+    },
+    "Meet CNN's Hero of the Year": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "men",
+                "son",
+                "people",
+                "week",
+                "team",
+                "pandemic",
+                "day",
+                "death",
+                "world",
+                "thing",
+                "place",
+                "-",
+                "time",
+                "times",
+                "sense",
+                "help",
+                "way",
+                "hope"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "January"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "work",
+                "years",
+                "day",
+                "world",
+                "protection",
+                "vaccination"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "lot",
+                "years",
+                "week",
+                "day",
+                "world",
+                "group",
+                "time",
+                "supplies",
+                "rise",
+                "way"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "work",
+                "years",
+                "day",
+                "protection",
+                "population",
+                "report"
+            ]
+        }
+    },
+    "Powerful photo by Pacific Indigenous artist reveals truth about 1899 painting": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "morning",
+                "day"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "morning",
+                "day"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.08703703703703702,
+            "subjectivity_X": 0.42407407407407405,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "day"
+            ]
+        }
+    },
+    "Two of India's biggest celebrities tie the knot": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": []
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": []
+        }
+    },
+    "3 reasons Shanghai's lockdown matters to the global economy": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "cities",
+                "time"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "day",
+                "country",
+                "world",
+                "government",
+                "place",
+                "cities",
+                "time",
+                "week",
+                "state",
+                "times",
+                "port",
+                "east",
+                "research"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "end",
+                "January"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "day",
+                "world",
+                "state"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "day",
+                "world",
+                "government",
+                "time",
+                "week",
+                "end",
+                "pressure",
+                "supply",
+                "industry",
+                "March"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "day",
+                "government",
+                "population",
+                "units",
+                "pressure"
+            ]
+        }
+    },
+    "Amazon is adding a 5% fuel and inflation surcharge": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "time",
+                "-",
+                "world",
+                "News",
+                "energy",
+                "Bureau"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "time",
+                "world",
+                "spokesman",
+                "Patrick",
+                "example",
+                "energy",
+                "March",
+                "partners"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "spokesman",
+                "example"
+            ]
+        }
+    },
+    "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 25,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "energy",
+                "dollars",
+                "process",
+                "Environment",
+                "research",
+                "gas",
+                "time",
+                "place",
+                "revolution",
+                "climate",
+                "policy",
+                "help",
+                "world",
+                "development",
+                "times",
+                "location",
+                "case",
+                "change",
+                "sense",
+                "today",
+                "-",
+                "people",
+                "way",
+                "members",
+                "one"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "decision",
+                "end",
+                "case"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "crisis",
+                "policy"
+            ]
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "climate",
+                "crisis",
+                "years",
+                "work",
+                "world",
+                "protection"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 19,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "energy",
+                "lot",
+                "Group",
+                "example",
+                "director",
+                "time",
+                "training",
+                "years",
+                "world",
+                "end",
+                "industry",
+                "group",
+                "things",
+                "money",
+                "way",
+                "members",
+                "manner",
+                "action",
+                "air"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "power",
+                "report",
+                "example",
+                "crisis",
+                "years",
+                "work",
+                "protection",
+                "systems",
+                "today",
+                "decades",
+                "members",
+                "units",
+                "demand"
+            ]
+        }
+    },
+    "These were the best and worst places for air quality in 2021, new report shows": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "cities",
+                "time"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "world",
+                "country",
+                "cities",
+                "times",
+                "people",
+                "energy",
+                "change",
+                "climate",
+                "time"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "July"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "crisis"
+            ]
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "world",
+                "climate",
+                "crisis"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "air",
+                "world",
+                "countries",
+                "CEO",
+                "energy",
+                "terms",
+                "time",
+                "network",
+                "action"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "report",
+                "countries",
+                "North",
+                "July",
+                "crisis"
+            ]
+        }
+    },
+    "Sign up for our 9-part Italy travel and food newsletter": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": []
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": []
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": []
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": []
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": []
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": []
+        }
+    },
+    "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "Bureau",
+                "times",
+                "news",
+                "week",
+                "government",
+                "time",
+                "sea",
+                "people",
+                "climate",
+                "change"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "conditions",
+                "August",
+                "January"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": []
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "climate"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "week",
+                "government",
+                "time",
+                "threshold",
+                "supply",
+                "information"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "report",
+                "National",
+                "government",
+                "information",
+                "Interior",
+                "statement"
+            ]
+        }
+    },
+    "Germany faces $240 billion hit if Russian gas is cut off": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "Kiev",
+                "time",
+                "Ukraine",
+                "war"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 19,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "gas",
+                "country",
+                "Europe",
+                "research",
+                "Moscow",
+                "Russia",
+                "time",
+                "Ukraine",
+                "week",
+                "Finance",
+                "Minister",
+                "Christian",
+                "Lindner",
+                "energy",
+                "point",
+                "Putin",
+                "war",
+                "Federal",
+                "president"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "August",
+                "question",
+                "Federal"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "Russia",
+                "Ukraine",
+                "interview",
+                "war",
+                "Office"
+            ]
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "years",
+                "ban",
+                "Federal",
+                "Office"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": true,
+            "similar_concepts_number": 22,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "Germany",
+                "supply",
+                "years",
+                "director",
+                "World",
+                "European",
+                "Union",
+                "time",
+                "Ukraine",
+                "action",
+                "Agency",
+                "week",
+                "energy",
+                "Putin",
+                "newspaper",
+                "embargo",
+                "war",
+                "supplies",
+                "Federal",
+                "Office",
+                "industry",
+                "Marie"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "euros",
+                "years",
+                "report",
+                "Ukraine",
+                "Minister",
+                "war",
+                "Federal",
+                "Office",
+                "president",
+                "statement"
+            ]
+        }
+    },
+    "World's top oil trader will stop buying Russian crude ": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "Ukraine"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 10,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "world",
+                "situation",
+                "energy",
+                "news",
+                "Russia",
+                "Ukraine",
+                "day",
+                "Europe",
+                "week",
+                "President"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "end",
+                "May",
+                "President",
+                "member"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "situation",
+                "Russia",
+                "Ukraine"
+            ]
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "world",
+                "article",
+                "day"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 16,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "World",
+                "Group",
+                "world",
+                "end",
+                "energy",
+                "Ukraine",
+                "embargo",
+                "Agency",
+                "supplies",
+                "day",
+                "European",
+                "Union",
+                "week",
+                "supply",
+                "March",
+                "countries"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "Ukraine",
+                "day",
+                "member",
+                "countries"
+            ]
+        }
+    },
+    "Hong Kong and Shanghai lose their international luster as Covid restrictions bite": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "cities",
+                "time"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 22,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "weeks",
+                "measures",
+                "cities",
+                "week",
+                "government",
+                "world",
+                "people",
+                "president",
+                "pandemic",
+                "British",
+                "policy",
+                "virus",
+                "care",
+                "story",
+                "death",
+                "sense",
+                "country",
+                "state",
+                "feeling",
+                "hope",
+                "situation",
+                "time"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "Chamber",
+                "end",
+                "question",
+                "leader"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "policy",
+                "crisis",
+                "situation"
+            ]
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "world",
+                "crisis",
+                "vaccination",
+                "years",
+                "state"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "week",
+                "government",
+                "air",
+                "world",
+                "traffic",
+                "March",
+                "European",
+                "Union",
+                "care",
+                "supplies",
+                "money",
+                "end",
+                "years",
+                "leader",
+                "time"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.0003583012298608648,
+            "subjectivity_X": 0.23034578062101,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "government",
+                "president",
+                "report",
+                "crisis",
+                "years"
+            ]
+        }
+    },
+    "Why Australia and the US care so much about China's security pact with a tiny Pacific island nation": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "disaster",
+                "war"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "week",
+                "country",
+                "protests",
+                "situation",
+                "Washington",
+                "weeks",
+                "help",
+                "government",
+                "islands",
+                "Minister",
+                "policy",
+                "people",
+                "war",
+                "place",
+                "opposition"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "decision",
+                "party",
+                "leader"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "situation",
+                "policy",
+                "war"
+            ]
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "party",
+                "years"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "security",
+                "week",
+                "countries",
+                "partners",
+                "defense",
+                "government",
+                "Foreign",
+                "party",
+                "lot",
+                "expert",
+                "tank",
+                "terms",
+                "war",
+                "criticism",
+                "leader",
+                "things",
+                "years",
+                "rise"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 18,
+            "polarity_X": -0.04800861347157644,
+            "subjectivity_X": 0.39744063207026176,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "population",
+                "countries",
+                "power",
+                "National",
+                "minister",
+                "police",
+                "personnel",
+                "disaster",
+                "November",
+                "government",
+                "statement",
+                "Prime",
+                "Minister",
+                "critics",
+                "result",
+                "war",
+                "family",
+                "years"
+            ]
+        }
+    },
+    "Elon Musk says his offer to buy Twitter is about 'the future of civilization,' not making money": {
+        "Weapons to Ukraine: The war doesn't stop because it \"must\"": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.05937499999999999,
+            "subjectivity_Y": 0.24791666666666667,
+            "simil_concepts": [
+                "time"
+            ]
+        },
+        "News: Vladimir Putin, Brunsbüttel, Christian Lindner, Mallorca affair": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.1623465952037381,
+            "subjectivity_Y": 0.4926365697794269,
+            "simil_concepts": [
+                "conference",
+                "point",
+                "way",
+                "sense",
+                "people",
+                "problem",
+                "case",
+                "time"
+            ]
+        },
+        "Andreas Kalbitz: Berlin Regional Court confirms AfD exclusion": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.04746031746031746,
+            "subjectivity_Y": 0.18714285714285714,
+            "simil_concepts": [
+                "chief",
+                "case"
+            ]
+        },
+        "Olaf Scholz and the Ukraine War: \"There must be no nuclear war\"": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.06666666666666667,
+            "subjectivity_Y": 0.3222222222222222,
+            "simil_concepts": [
+                "interview",
+                "errors"
+            ]
+        },
+        "How Hans-Georg Maaßen drifted to the right outside - Podcast": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.17029478458049885,
+            "subjectivity_Y": 0.387953514739229,
+            "simil_concepts": [
+                "democracy",
+                "problem"
+            ]
+        },
+        "Ukraine War: Lars Klingbeil defends Olaf Scholz' Ukraine Course": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.041151053013798115,
+            "subjectivity_Y": 0.34724763979665946,
+            "simil_concepts": [
+                "money",
+                "terms",
+                "way",
+                "CEO",
+                "decisions",
+                "things",
+                "time"
+            ]
+        },
+        "Saxony: Interior Minister Roland Wöller is released": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.045906576588394775,
+            "subjectivity_Y": 0.17019764747037477,
+            "simil_concepts": [
+                "decisions"
+            ]
+        }
+    }
+}

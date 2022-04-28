@@ -1,0 +1,3570 @@
+{
+    "len_A": 27,
+    "len_B": 10,
+    "coupled_A": 2,
+    "coupled_B": 2,
+    "covered_A_percent": 67.56756756756756,
+    "covered_B_percent": 21.62162162162162,
+    "covered_both_percent": 10.810810810810807,
+    "Macron vs. Le Pen: The French presidential election runoff explained": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "France",
+                "Sunday",
+                "evening",
+                "Russia",
+                "day",
+                "Ukraine",
+                "party"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "President",
+                "government"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "election",
+                "elections",
+                "place",
+                "evening",
+                "handling",
+                "crisis",
+                "National",
+                "party",
+                "proposals",
+                "problems",
+                "power"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "election",
+                "votes",
+                "voters",
+                "year",
+                "elections",
+                "years",
+                "parties",
+                "government",
+                "people"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": [
+                "start",
+                "Ukraine",
+                "war",
+                "EU"
+            ]
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "country",
+                "Russia",
+                "Putin",
+                "Ukraine",
+                "war",
+                "government",
+                "people"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "Russia",
+                "day",
+                "Ukraine",
+                "war",
+                "strategy",
+                "Marie",
+                "government",
+                "people"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "country",
+                "Russia",
+                "advantage",
+                "Ukraine",
+                "war",
+                "Union",
+                "experts",
+                "times",
+                "government",
+                "issue",
+                "allies"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "June",
+                "parties",
+                "handling",
+                "party",
+                "people"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 49,
+            "polarity_X": -0.03690048391563545,
+            "subjectivity_X": 0.2639333449939511,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "Le",
+                "Pen",
+                "election",
+                "France",
+                "right",
+                "Marine",
+                "affair",
+                "President",
+                "April",
+                "country",
+                "year",
+                "evening",
+                "inflation",
+                "energy",
+                "prices",
+                "Russia",
+                "support",
+                "Vladimir",
+                "Putin",
+                "day",
+                "March",
+                "candidate",
+                "TV",
+                "Ukraine",
+                "war",
+                "politics",
+                "Mayor",
+                "office",
+                "plan",
+                "Union",
+                "home",
+                "movement",
+                "protests",
+                "pandemic",
+                "policy",
+                "vaccination",
+                "rates",
+                "position",
+                "predecessor",
+                "party",
+                "public",
+                "EU",
+                "result",
+                "times",
+                "government",
+                "people",
+                "electricity",
+                "kind",
+                "future"
+            ]
+        }
+    },
+    "Sign up for our 9-part Italy travel and food newsletter": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "part"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "food"
+            ]
+        }
+    },
+    "Teacher raises more than $100,000 for food to keep thousands of children from going hungry over winter break": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "community",
+                "army",
+                "statement",
+                "day",
+                "time",
+                "\"The"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "group"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "efforts",
+                "\"The"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "year",
+                "weeks",
+                "people",
+                "years",
+                "time",
+                "group"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "people",
+                "army",
+                "country",
+                "situation",
+                "days",
+                "\"The"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "Public",
+                "money",
+                "people",
+                "day",
+                "question",
+                "situation",
+                "\"The"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "weeks",
+                "army",
+                "case",
+                "question",
+                "country",
+                "days"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "people",
+                "situation",
+                "group",
+                "days"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 19,
+            "polarity_X": 0.2344129503653313,
+            "subjectivity_X": 0.3076639791719156,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "food",
+                "year",
+                "need",
+                "weeks",
+                "right",
+                "people",
+                "army",
+                "life",
+                "\"I",
+                "day",
+                "promise",
+                "question",
+                "country",
+                "situation",
+                "result",
+                "time",
+                "help",
+                "days",
+                "spring"
+            ]
+        }
+    },
+    "This 10-year-old asked Santa last year for a Covid cure. This year he has a new request": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "request",
+                "virus",
+                "community",
+                "day",
+                "others",
+                "leader"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "leader"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "request",
+                "things",
+                "leader",
+                "president",
+                "past"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "year",
+                "people",
+                "years",
+                "age",
+                "members",
+                "past"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": [
+                "US",
+                "others",
+                "start"
+            ]
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "country",
+                "people",
+                "control",
+                "others",
+                "ways",
+                "days",
+                "president"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "world",
+                "letter",
+                "people",
+                "problem",
+                "day",
+                "president",
+                "camp",
+                "money"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "country",
+                "variant",
+                "ways",
+                "equipment",
+                "case",
+                "days"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "plans",
+                "people",
+                "effect",
+                "days",
+                "leader"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 22,
+            "polarity_X": 0.20118185486829554,
+            "subjectivity_X": 0.37166984616137166,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "year",
+                "world",
+                "pandemic",
+                "country",
+                "help",
+                "virus",
+                "people",
+                "example",
+                "feelings",
+                "lot",
+                "impact",
+                "day",
+                "birthday",
+                "food",
+                "home",
+                "doctor",
+                "hospital",
+                "Mayor",
+                "things",
+                "days",
+                "leader",
+                "president"
+            ]
+        }
+    },
+    "The summer of travel chaos just got more chaotic ": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": []
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "chaos"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "cases"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.3111111111111111,
+            "subjectivity_X": 0.4444444444444445,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "year"
+            ]
+        }
+    },
+    "Meet CNN's Hero of the Year": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "Sunday",
+                "part",
+                "day",
+                "events",
+                "time",
+                "community"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "group",
+                "-",
+                "supplies"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "work",
+                "place",
+                "-",
+                "efforts"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "people",
+                "voters",
+                "years",
+                "group",
+                "time",
+                "groups"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "people",
+                "People",
+                "ways"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "people",
+                "day",
+                "world"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "exchange",
+                "times",
+                "ways"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "people",
+                "group",
+                "-"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 21,
+            "polarity_X": 0.1400811287477954,
+            "subjectivity_X": 0.26252616108171667,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "lot",
+                "people",
+                "exchange",
+                "night",
+                "food",
+                "home",
+                "pandemic",
+                "day",
+                "grief",
+                "world",
+                "\"I",
+                "life",
+                "-",
+                "time",
+                "times",
+                "vaccination",
+                "rates",
+                "rise",
+                "help",
+                "hope",
+                "reason"
+            ]
+        }
+    },
+    "Inside London's new $25B 'Super Tube' ": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "meeting"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "meeting"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "meeting",
+                "city"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "meeting",
+                "city"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.09564393939393939,
+            "subjectivity_X": 0.2708964646464646,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "hours",
+                "meeting",
+                "side",
+                "city",
+                "traffic",
+                "plane"
+            ]
+        }
+    },
+    "Can the world's largest plane ever fly again?": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": []
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.26666666666666666,
+            "subjectivity_X": 0.3,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "world",
+                "plane"
+            ]
+        }
+    },
+    "Japanese photographer's family portraits are literally breathtaking ": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": []
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.19999999999999998,
+            "subjectivity_X": 0.4375,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "house"
+            ]
+        }
+    },
+    "Unusual airlines that really existed": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "entry"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": true,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": [
+                "US"
+            ]
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "government",
+                "control",
+                "routes"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "government",
+                "industry"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0393939393939394,
+            "subjectivity_X": 0.37575757575757573,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "government",
+                "entry"
+            ]
+        }
+    },
+    "The world's skinniest skyscraper completes": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": []
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "world"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.10606060606060606,
+            "subjectivity_X": 0.24242424242424243,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "world"
+            ]
+        }
+    },
+    "Grammy Awards 2022: Best fashion on the red carpet ": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "Sunday",
+                "evening"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "evening"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.203125,
+            "subjectivity_X": 0.16458333333333333,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "evening"
+            ]
+        }
+    },
+    "Long-lost Charles Darwin notebooks returned with mysterious note": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": []
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "years"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.041666666666666664,
+            "subjectivity_X": 0.4875,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": []
+        }
+    },
+    "He bought a cruise ship on Craigslist. Here's what happened next": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "day"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "day"
+            ]
+        }
+    },
+    "Germany faces $240 billion hit if Russian gas is cut off": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "Germany",
+                "supply",
+                "Wednesday",
+                "Russia",
+                "time",
+                "Ukraine",
+                "International",
+                "Finance",
+                "Minister",
+                "Christian",
+                "Lindner",
+                "period",
+                "statement"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "supplies"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "term",
+                "Agency",
+                "Federal",
+                "president"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "years",
+                "year",
+                "time",
+                "leaders",
+                "politicians"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": [
+                "Ukraine",
+                "EU",
+                "war",
+                "Federal"
+            ]
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": true,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "country",
+                "control",
+                "Russian",
+                "Russia",
+                "Ukraine",
+                "International",
+                "Minister",
+                "stop",
+                "Putin",
+                "war",
+                "Federal",
+                "Office",
+                "president"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "Germany",
+                "supply",
+                "Russia",
+                "Ukraine",
+                "sanctions",
+                "question",
+                "war",
+                "Consumer",
+                "Federal",
+                "industry",
+                "Marie",
+                "president"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 11,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "Germany",
+                "supply",
+                "country",
+                "Kiev",
+                "Union",
+                "Russia",
+                "Ukraine",
+                "Minister",
+                "question",
+                "war",
+                "Federal"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "director",
+                "Federal",
+                "association",
+                "politicians"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 32,
+            "polarity_X": 0.05353986291486292,
+            "subjectivity_X": 0.2323683261183261,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "Germany",
+                "country",
+                "year",
+                "economy",
+                "World",
+                "Economy",
+                "Kiev",
+                "Union",
+                "Russia",
+                "time",
+                "Ukraine",
+                "EU",
+                "term",
+                "International",
+                "Energy",
+                "electricity",
+                "Finance",
+                "Minister",
+                "Christian",
+                "Lindner",
+                "energy",
+                "stop",
+                "question",
+                "Putin",
+                "interview",
+                "war",
+                "prices",
+                "Federal",
+                "Office",
+                "plan",
+                "politicians",
+                "president"
+            ]
+        }
+    },
+    "World's top oil trader will stop buying Russian crude ": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "Group",
+                "news",
+                "Russia",
+                "Ukraine",
+                "United",
+                "States",
+                "Canada",
+                "International",
+                "Wednesday",
+                "day",
+                "agency",
+                "part",
+                "supply"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "Group",
+                "supplies",
+                "President"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "February",
+                "insurance",
+                "Agency"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "Group",
+                "year"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": [
+                "Ukraine",
+                "countries"
+            ]
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "situation",
+                "Russia",
+                "Ukraine",
+                "International"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "world",
+                "situation",
+                "Russia",
+                "Ukraine",
+                "sanctions",
+                "day",
+                "purchases",
+                "Commission",
+                "supply"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "news",
+                "Russia",
+                "Ukraine",
+                "Union",
+                "supply",
+                "countries"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "situation"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 20,
+            "polarity_X": -0.05927288031833485,
+            "subjectivity_X": 0.4155182889501072,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "World",
+                "world",
+                "year",
+                "situation",
+                "energy",
+                "news",
+                "Russia",
+                "Ukraine",
+                "United",
+                "States",
+                "International",
+                "Energy",
+                "day",
+                "April",
+                "Union",
+                "President",
+                "impact",
+                "prices",
+                "March",
+                "countries"
+            ]
+        }
+    },
+    "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "addition",
+                "news",
+                "time",
+                "supply",
+                "statement"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "National",
+                "months"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "year",
+                "government",
+                "time",
+                "people",
+                "change"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": [
+                "US"
+            ]
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "government",
+                "people"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "addition",
+                "government",
+                "supply",
+                "people"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "times",
+                "news",
+                "experts",
+                "government",
+                "supply"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "people"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 12,
+            "polarity_X": 0.04306457431457431,
+            "subjectivity_X": 0.6494678932178932,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "addition",
+                "year",
+                "times",
+                "news",
+                "rate",
+                "government",
+                "time",
+                "states",
+                "people",
+                "electricity",
+                "future",
+                "science"
+            ]
+        }
+    },
+    "0% intro APR until nearly 2024 is 100% insane": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": []
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.15,
+            "subjectivity_X": 0.2333333333333333,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": []
+        }
+    },
+    "3 reasons Shanghai's lockdown matters to the global economy": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "day",
+                "sign",
+                "time",
+                "International",
+                "supply",
+                "addition",
+                "Japan"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "government"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "reasons",
+                "place",
+                "insurance",
+                "notice"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "government",
+                "time",
+                "state",
+                "year"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": [
+                "US"
+            ]
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "country",
+                "city",
+                "government",
+                "units",
+                "International",
+                "port",
+                "pressure",
+                "factory"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "day",
+                "city",
+                "world",
+                "government",
+                "state",
+                "supply",
+                "industry",
+                "addition"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "country",
+                "government",
+                "exchange",
+                "times",
+                "pressure",
+                "supply"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "reasons",
+                "state"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 22,
+            "polarity_X": 0.0846705586644611,
+            "subjectivity_X": 0.19776375837351448,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "economy",
+                "day",
+                "home",
+                "country",
+                "city",
+                "world",
+                "sign",
+                "government",
+                "time",
+                "number",
+                "exchange",
+                "statistics",
+                "year",
+                "times",
+                "International",
+                "port",
+                "pressure",
+                "March",
+                "high",
+                "addition",
+                "Apple",
+                "iPhone"
+            ]
+        }
+    },
+    "Amazon is adding a 5% fuel and inflation surcharge": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "Wednesday",
+                "time"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "-"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "history",
+                "e",
+                "-",
+                "months",
+                "spokesman",
+                "News"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "time",
+                "year"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "partners"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "world",
+                "spokesman",
+                "Consumer",
+                "increases"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "return",
+                "partners"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "-",
+                "spokesman"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 15,
+            "polarity_X": 0.12324033990700657,
+            "subjectivity_X": 0.3047899631232964,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "inflation",
+                "time",
+                "e",
+                "-",
+                "April",
+                "return",
+                "world",
+                "rates",
+                "News",
+                "example",
+                "energy",
+                "prices",
+                "March",
+                "year",
+                "impact"
+            ]
+        }
+    },
+    "These were the best and worst places for air quality in 2021, new report shows": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "United",
+                "States",
+                "Canada",
+                "Japan",
+                "\"The",
+                "part",
+                "time",
+                "addition"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "matter"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "\"The",
+                "crisis"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "people",
+                "year",
+                "change",
+                "capital",
+                "time"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": [
+                "US",
+                "countries"
+            ]
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "country",
+                "people",
+                "\"The",
+                "capital",
+                "city"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "world",
+                "people",
+                "\"The",
+                "city",
+                "addition"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "country",
+                "countries",
+                "times",
+                "matter"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "people"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 20,
+            "polarity_X": -0.01039757877107276,
+            "subjectivity_X": 0.5331231129423901,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "levels",
+                "world",
+                "country",
+                "United",
+                "States",
+                "countries",
+                "times",
+                "need",
+                "people",
+                "year",
+                "concentration",
+                "number",
+                "deaths",
+                "energy",
+                "impact",
+                "capital",
+                "city",
+                "time",
+                "addition",
+                "reason"
+            ]
+        }
+    },
+    "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "dollars",
+                "Group",
+                "time",
+                "site",
+                "others",
+                "community",
+                "participants",
+                "demand"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "Group",
+                "group",
+                "-"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "February",
+                "power",
+                "place",
+                "crisis",
+                "work",
+                "Association",
+                "-",
+                "things"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 9,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "Group",
+                "time",
+                "years",
+                "year",
+                "group",
+                "change",
+                "people",
+                "members",
+                "leaders"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": [
+                "US",
+                "others"
+            ]
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "days",
+                "site",
+                "others",
+                "people",
+                "units",
+                "ways"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "Environment",
+                "world",
+                "industry",
+                "people",
+                "money"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 6,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "experts",
+                "days",
+                "training",
+                "times",
+                "case",
+                "ways"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "days",
+                "director",
+                "training",
+                "decision",
+                "group",
+                "-",
+                "people"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 27,
+            "polarity_X": 0.25592505941770644,
+            "subjectivity_X": 0.48123532241179295,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "energy",
+                "lot",
+                "dollars",
+                "days",
+                "electricity",
+                "example",
+                "time",
+                "growth",
+                "need",
+                "policy",
+                "help",
+                "hours",
+                "world",
+                "times",
+                "impact",
+                "year",
+                "Energy",
+                "Association",
+                "today",
+                "-",
+                "people",
+                "things",
+                "reason",
+                "position",
+                "bill",
+                "one",
+                "future"
+            ]
+        }
+    },
+    "Elon Musk says his offer to buy Twitter is about 'the future of civilization,' not making money": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "Twitter",
+                "Thursday",
+                "\"The",
+                "time"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "\"The",
+                "things"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "people",
+                "time"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "Thursday",
+                "\"The",
+                "people"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "money",
+                "\"The",
+                "people",
+                "problem"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "case"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 3,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "Thursday",
+                "chief",
+                "people"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": -0.009861111111111098,
+            "subjectivity_X": 0.23741071428571425,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "Twitter",
+                "future",
+                "Thursday",
+                "stage",
+                "interview",
+                "conference",
+                "speech",
+                "content",
+                "people",
+                "test",
+                "tweet",
+                "things",
+                "plan",
+                "time"
+            ]
+        }
+    },
+    "Billionaire heiress Nicola Peltz marries Brooklyn Beckham in a decadent Valentino gown": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "weekend"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "year"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.016666666666666666,
+            "subjectivity_X": 0.05833333333333333,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "thanks",
+                "year",
+                "David",
+                "weekend"
+            ]
+        }
+    },
+    "Two of India's biggest celebrities tie the knot": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "Thursday"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "Thursday"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 1,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "Thursday"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.06666666666666667,
+            "subjectivity_X": 0.19999999999999998,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "Thursday",
+                "cinema"
+            ]
+        }
+    },
+    "Macron spars with French presidential challenger Le Pen in fiery TV debate": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 13,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": [
+                "Wednesday",
+                "Sunday",
+                "commitment",
+                "leader",
+                "party",
+                "France",
+                "Russia",
+                "Ukraine",
+                "time",
+                "trip",
+                "nations",
+                "\"The",
+                "day"
+            ]
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 2,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": [
+                "President",
+                "leader"
+            ]
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": [
+                "leader",
+                "National",
+                "party",
+                "crisis",
+                "president",
+                "election",
+                "\"The"
+            ]
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": [
+                "people",
+                "years",
+                "leaders",
+                "time",
+                "voters",
+                "groups",
+                "election",
+                "majority"
+            ]
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 5,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": [
+                "Ukraine",
+                "US",
+                "countries",
+                "EU",
+                "war"
+            ]
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 8,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": [
+                "people",
+                "president",
+                "Russia",
+                "Putin",
+                "Ukraine",
+                "country",
+                "war",
+                "\"The"
+            ]
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 14,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": [
+                "industry",
+                "people",
+                "president",
+                "money",
+                "Russia",
+                "problem",
+                "Ukraine",
+                "alliance",
+                "material",
+                "sanctions",
+                "suffering",
+                "war",
+                "\"The",
+                "day"
+            ]
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 7,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": [
+                "Union",
+                "exchange",
+                "Russia",
+                "Ukraine",
+                "country",
+                "countries",
+                "war"
+            ]
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 4,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": [
+                "leader",
+                "party",
+                "people",
+                "course"
+            ]
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 35,
+            "polarity_X": 0.03296031746031747,
+            "subjectivity_X": 0.1066825396825397,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": [
+                "Le",
+                "Pen",
+                "TV",
+                "President",
+                "Marine",
+                "night",
+                "Union",
+                "leader",
+                "right",
+                "party",
+                "voice",
+                "public",
+                "people",
+                "president",
+                "VAT",
+                "energy",
+                "exchange",
+                "France",
+                "Russia",
+                "Vladimir",
+                "Putin",
+                "Ukraine",
+                "time",
+                "trip",
+                "support",
+                "country",
+                "course",
+                "actions",
+                "countries",
+                "election",
+                "EU",
+                "\"I",
+                "war",
+                "one",
+                "day"
+            ]
+        }
+    },
+    "It's official: now avoid credit card interest into 2024": {
+        "Christian Lindner remains quarantine due to corona infection in USA": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.021721525600835945,
+            "subjectivity_Y": 0.3648423894113549,
+            "simil_concepts": []
+        },
+        "Ex-Green Group Chief of the Government Critic: What's the matter with Anton Hofreiter?": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.18611111111111112,
+            "subjectivity_Y": 0.33888888888888885,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler wants to continue party alone": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.11356304985337241,
+            "subjectivity_Y": 0.2289915281850766,
+            "simil_concepts": []
+        },
+        "Berlin wants to reduce election age 16": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.12322222222222223,
+            "subjectivity_Y": 0.3555277777777777,
+            "simil_concepts": []
+        },
+        "Ukraine War: How the USA Declassify the EU in Help": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0625,
+            "subjectivity_Y": 0.14583333333333334,
+            "simil_concepts": []
+        },
+        "Ukraine War: Annalena Baerbock calls for stop of bombing Mariupols": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.01585568326947637,
+            "subjectivity_Y": 0.17782247765006387,
+            "simil_concepts": []
+        },
+        "Dispute on arms deliveries: Olaf Scholz is to declare himself in the Defence Committee": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.0046759259259259245,
+            "subjectivity_Y": 0.22379629629629627,
+            "simil_concepts": []
+        },
+        "Ukraine War: Federal Government plans to trade with Slovenia for supply of heavy weapons": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": -0.13111111111111112,
+            "subjectivity_Y": 0.48590693257359924,
+            "simil_concepts": []
+        },
+        "The Left: Janine Wissler, according to Hessen-Landesverband, does not blame MeToo's accusations": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.018898443898443907,
+            "subjectivity_Y": 0.12185367185367184,
+            "simil_concepts": []
+        },
+        "News of the day: Ukraine War, Corona, World Economy": {
+            "are_similar": false,
+            "similar_concepts_number": 0,
+            "polarity_X": 0.0,
+            "subjectivity_X": 0.0,
+            "polarity_Y": 0.014690964182243254,
+            "subjectivity_Y": 0.3380791581372977,
+            "simil_concepts": []
+        }
+    }
+}
