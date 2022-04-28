@@ -9,6 +9,7 @@ from collections import defaultdict
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from datetime import datetime, timedelta
 
 #The nlp pipeline used in order to get nouns
 NLP = spacy.load("en_core_web_sm")
@@ -26,7 +27,7 @@ COMPARED = f"./full_compared"
 ENGLISH_PREFIX = "en_"
 
 #Scraped hour range for comparison (in hour)
-HOUR_RANGE = 1
+HOUR_RANGE = 24
 
 #Field to conceptualize before comparison
 FIELDS_TO_NLP = ["en_title", "en_subtitle", "en_content"]
@@ -41,6 +42,10 @@ SIMIL_LOWER_BOUND = 10
 
 #Percentage of similarity needed for cosine algorithm to be considered similar
 COSINE_SIMIL_LOWER_BOUND = 80
+
+VISUAL_PATH = f"./st_to_visual.json"
+
+VISUAL_FILE = defaultdict(dict)
 
 #Words-Count vector
 count_vect = CountVectorizer()
@@ -61,11 +66,22 @@ def main():
             full_comparer(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
 
 def full_comparer(newsp_A, newsp_B, date, hour, cosine=False):
+    VISUAL_FILE = to_visual_getter()
     news_A = multi_news_getter(newsp_A, int(hour), date)
     news_B = multi_news_getter(newsp_B, int(hour), date)
-    comparison = news_comparer(news_A, news_B, cosine)
-    jsonizer(comparison, path_formatter(newsp_A, newsp_B, date, hour, cosine))
+    VISUAL_FILE, comparison = news_comparer(news_A, news_B, cosine)
+    #jsonizer(comparison, path_formatter(newsp_A, newsp_B, date, hour, cosine))
+    print(VISUAL_FILE)
+    jsonizer(VISUAL_FILE, VISUAL_PATH)
 
+def to_visual_getter():
+    to_ret = {}
+    with open(VISUAL_PATH, "r") as f:
+        try:
+            to_ret = json.load(f)
+        except:
+            raise Exception("Could not read file from the given directory: " + VISUAL_PATH + ".")
+    return to_ret
 
 def multi_news_getter(newsp, start_hour, date):
     got_titles= []
@@ -73,14 +89,25 @@ def multi_news_getter(newsp, start_hour, date):
 
     multi_path = []
 
+    dates = []
+    dates.append(date)
+    if final_hour > 23:
+        first_date  = datetime.strptime(date, "%Y-%m-%d")
+        next_day = first_date + timedelta(days = 1)
+        dates.append(next_day.strftime("%Y-%m-%d"))
+
     for subdir in os.scandir(f"{BASE_DIR}/{newsp}"):
         filename = subdir.name
         scrape_date = filename.split("T")[0]
         scrape_time = filename.split("T")[1].split("E")[0]
         scrape_hour = int(scrape_time.split(".")[0])
 
-        if scrape_date == date:
+        if scrape_date == dates[0]:
             if scrape_hour in range(start_hour, final_hour):
+                multi_path.append(filename)
+        
+        if scrape_date == dates[1]:
+            if scrape_hour in range(0, final_hour - 24):
                 multi_path.append(filename)
         
     to_ret = []
@@ -139,11 +166,10 @@ def news_comparer(news_A, news_B, cosine=False):
     to_ret["covered_A_percent"] = (len(found_A) - to_ret["coupled_A"]) / total_news * 100
     to_ret["covered_B_percent"] = (len(found_B) - to_ret["coupled_B"]) / total_news * 100
     to_ret["covered_both_percent"] = (100 - (to_ret['covered_A_percent'] + to_ret['covered_B_percent']))
-
-    return to_ret
+    return VISUAL_FILE, to_ret
 
 def single_comparer(news_A, news_B, concepts_A, concepts_B):
-    return concepts_comparison(concepts_A, news_A['overall_polarity'], news_A['overall_subjectivity'], concepts_B, news_B['overall_polarity'], news_B['overall_subjectivity'])
+    return concepts_comparison(concepts_A, news_A, concepts_B, news_B)
 
 def cosine_comparer(news_A, news_B):
     total_similarity = []
@@ -168,7 +194,7 @@ def cosine_comparer(news_A, news_B):
 
 
 
-    return comparison_object_constructor(news_A["overall_polarity"], news_A["overall_subjectivity"], news_B["overall_polarity"], news_B["overall_subjectivity"], medium_similarity, [], cosine= True)
+    return comparison_object_constructor(news_A, news_B, medium_similarity, [], cosine= True)
 
 
 def get_concepts(news):
@@ -182,18 +208,24 @@ def get_concepts(news):
     return to_ret
 
 
-def concepts_comparison(concepts_A, polarity_A, subjectivity_A, concepts_B, polarity_B, subjectivity_B):
+def concepts_comparison(concepts_A, news_A, concepts_B, news_B):
     simil_concepts= []
     for concept_A in concepts_A:
         for concept_B in concepts_B:
             if concept_A == concept_B and concept_A not in simil_concepts:
                 simil_concepts.append(concept_A)
     
-    return comparison_object_constructor(polarity_A, subjectivity_A, polarity_B, subjectivity_B, len(simil_concepts), simil_concepts, cosine=False, max_news_len=(len(concepts_A) + len(concepts_B))/2)
+    return comparison_object_constructor(news_A, news_B, len(simil_concepts), simil_concepts, cosine=False, max_news_len=(len(concepts_A) + len(concepts_B))/2)
 
 
-def comparison_object_constructor(polarity_A, subjectivity_A, polarity_B, subjectivity_B, simil_concepts_length, simil_concepts, cosine= False, max_news_len= 0):
+def comparison_object_constructor(news_A, news_B, simil_concepts_length, simil_concepts, cosine= False, max_news_len= 0):
     to_ret= {}
+
+    polarity_A = news_A['overall_polarity']
+    subjectivity_A = news_A['overall_subjectivity']
+
+    polarity_B = news_B['overall_polarity']
+    subjectivity_B = news_B['overall_subjectivity']
 
     to_ret["are_similar"] = True if ((not cosine and are_similar_naive(simil_concepts_length, max_news_len)) or (cosine and simil_concepts_length >= COSINE_SIMIL_LOWER_BOUND)) else False
     to_ret["similar_concepts_number" if not cosine else "similarity_percentage"] = simil_concepts_length
@@ -202,6 +234,28 @@ def comparison_object_constructor(polarity_A, subjectivity_A, polarity_B, subjec
     to_ret["polarity_Y"] = polarity_B
     to_ret["subjectivity_Y"] = subjectivity_B
     to_ret["simil_concepts"] = simil_concepts
+
+    if ((not cosine and are_similar_naive(simil_concepts_length, max_news_len)) or (cosine and simil_concepts_length >= COSINE_SIMIL_LOWER_BOUND)):
+        my_obj = {}
+        if not VISUAL_FILE[news_A["source"]]:
+            VISUAL_FILE[news_A["source"]] = defaultdict(dict)
+        if not VISUAL_FILE[news_B["source"]]:
+            VISUAL_FILE[news_B["source"]] = defaultdict(dict)
+        if not news_A["en_title"] in VISUAL_FILE[news_A["source"]]:
+            VISUAL_FILE[news_A["source"]][news_A["en_title"]]= []
+        elif VISUAL_FILE[news_A["source"]][news_A["en_title"]] == "not paired":
+            VISUAL_FILE[news_A["source"]][news_A["en_title"]]= []
+        if not news_B["en_title"] in VISUAL_FILE[news_B["source"]]:
+            VISUAL_FILE[news_B["source"]][news_B["en_title"]] = []
+        elif VISUAL_FILE[news_B["source"]][news_B["en_title"]] == "not paired":
+            VISUAL_FILE[news_B["source"]][news_B["en_title"]] = []
+        VISUAL_FILE[news_A["source"]][news_A["en_title"]].append({"url_A": news_A["news_url"], "news_B": news_B["en_title"], "url_B": news_B["news_url"]})
+        VISUAL_FILE[news_B["source"]][news_B["en_title"]].append({"url_A": news_B["news_url"], "news_B": news_A["en_title"], "url_B": news_A["news_url"]})
+    else:
+        if news_A["en_title"] not in VISUAL_FILE[news_A["source"]]:
+            VISUAL_FILE[news_A["source"]][news_A["en_title"]] = "not paired"
+        if news_B["en_title"] not in VISUAL_FILE[news_B["source"]]:
+            VISUAL_FILE[news_B["source"]][news_B["en_title"]] = "not paired"
 
     return to_ret
 
@@ -229,7 +283,7 @@ def path_formatter(path_A, path_B, date, hour, cosine=False):
     newsp_A = newsp_A[len(newsp_A)-1]
     newsp_B = newsp_B[len(newsp_B)-1]
     final_hour = str(int(hour) + HOUR_RANGE)
-    to_ret = f"{OUT_DIR}/{max(newsp_A, newsp_B)}/{min(newsp_A, newsp_B)}/{date}/{'cos_' if cosine else ''}{hour}-{final_hour}.json"
+    to_ret = f"{OUT_DIR}/{max(newsp_A, newsp_B)}/{min(newsp_A, newsp_B)}/{date}/{'cos_' if cosine else ''}{hour}-{str((int(final_hour)))}.json"
     return to_ret
 
 if __name__ == "__main__":
