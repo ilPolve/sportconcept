@@ -11,7 +11,7 @@ import numpy as np
 
 BASE_URL = f"full_compared/"
 
-TO_DO = ["ANSA_ITA", "AGI_ITA"]
+TO_DO = ["ANSA", "AGI"]
 
 
 DATES = ["2022-04-28", "2022-04-29"]
@@ -62,11 +62,11 @@ def two_visualizer(path, newsp_A, newsp_B):
         cov_A_st.append(curr_comp["covered_A_percent"])
         cov_B_st.append(curr_comp["covered_B_percent"])
 
-        # sent_sub = get_sent_sub_avg(curr_comp)
-        # sent_A.append(sent_sub["sent_A"])
-        # sub_A.append(sent_sub["sub_A"])
-        # sent_B.append(sent_sub["sent_B"])
-        # sub_B.append(sent_sub["sub_B"])
+        sent_sub = get_sent_sub_avg(curr_comp)
+        sent_A.append(sent_sub["sent_A"])
+        sub_A.append(sent_sub["sub_A"])
+        sent_B.append(sent_sub["sent_B"])
+        sub_B.append(sent_sub["sub_B"])
 
         hours.append(curr_hour)
         curr_hour+=1
@@ -80,24 +80,13 @@ def two_visualizer(path, newsp_A, newsp_B):
 
     avg_both_st = sum(both_cov_standard) / len(both_cov_standard)
     avg_both_cos = sum(both_cov_cos) / len(both_cov_cos)
-    if avg_both_cos <= 0:
-        avg_both_cos = 0
     
     df = pd.DataFrame(np.array([both_cov_standard, both_cov_cos]).transpose(), index=range(0, 24), columns= ["standard", "cosine"])
 
     df2 = pd.DataFrame(np.array([cov_A_st, cov_A_cos, cov_B_st, cov_B_cos]).transpose(), index=range(0, 24), columns= [f"{newsp_A} standard", f"{newsp_A} cosine", f"{newsp_B} standard", f"{newsp_B} cosine"])
 
-    # df3 = pd.DataFrame(np.array([sent_A, sent_B]).transpose(), index=range(0, 24), columns= [f"{newsp_A}", f"{newsp_B}"])
-    # df4 = pd.DataFrame(np.array([sub_A, sub_B]).transpose(), index=range(0, 24), columns= [f"{newsp_A} ", f"{newsp_B}"])
-
-    print(avg_A_st)
-    print(avg_A_cos)
-    
-    print(avg_B_st)
-    print(avg_B_cos)
-
-    print(avg_both_st)
-    print(sum(both_cov_cos))
+    df3 = pd.DataFrame(np.array([sent_A, sent_B]).transpose(), index=range(0, 24), columns= [f"{newsp_A}", f"{newsp_B}"])
+    df4 = pd.DataFrame(np.array([sub_A, sub_B]).transpose(), index=range(0, 24), columns= [f"{newsp_A} ", f"{newsp_B}"])
 
     df5 = pd.DataFrame({'standard': [avg_A_st, avg_B_st, avg_both_st], 'cosine': [avg_A_cos, avg_B_cos, avg_both_cos]}, index=[newsp_A, newsp_B, "Both"])
 
@@ -107,10 +96,10 @@ def two_visualizer(path, newsp_A, newsp_B):
     plt.xticks(df.index, hours)
     df2.plot(title=f"Coverage Graph")
     plt.xticks(df.index, hours)
-    # df3.plot(title=f"Average Sentiment Graph")
-    # plt.xticks(df.index, hours)
-    # df4.plot(title=f"Average Subjectivity Graph")
-    # plt.xticks(df.index, hours)
+    df3.plot(title=f"Average Sentiment Graph")
+    plt.xticks(df.index, hours)
+    df4.plot(title=f"Average Subjectivity Graph")
+    plt.xticks(df.index, hours)
 
     df5.plot.pie(subplots=True, figsize=(11, 6), title=f"Average Coverage", autopct='%1.0f%%')
 
