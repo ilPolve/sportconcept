@@ -11,12 +11,12 @@ import numpy as np
 
 BASE_URL = f"full_compared/"
 
-TO_DO = ["CNN", "France24", "Spiegel", "ilPost", "Televideo", "ABC", "BBC"]
+TO_DO = ["ANSA", "AGI"]
 
 
-DATES = ["2022-04-21", "2022-04-22"]
+DATES = ["2022-04-28", "2022-04-29"]
 
-START_HOUR = 18
+START_HOUR = 22
 
 def main():
     plt.close()

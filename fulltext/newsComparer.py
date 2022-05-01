@@ -73,7 +73,7 @@ def full_comparer(newsp_A, newsp_B, date, hour, cosine=False):
     VISUAL_FILE, comparison = news_comparer(news_A, news_B, cosine)
     jsonizer(comparison, path_formatter(newsp_A, newsp_B, date, hour, cosine))
     #print(VISUAL_FILE)
-    jsonizer(VISUAL_FILE, VISUAL_PATH)
+    #jsonizer(VISUAL_FILE, VISUAL_PATH)
 
 def to_visual_getter():
     to_ret = {}

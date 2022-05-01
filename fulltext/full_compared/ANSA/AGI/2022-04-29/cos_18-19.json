@@ -1,0 +1,2953 @@
+{
+    "len_A": 32,
+    "len_B": 10,
+    "coupled_A": 5,
+    "coupled_B": 1,
+    "covered_A_percent": 64.28571428571429,
+    "covered_B_percent": 21.428571428571427,
+    "covered_both_percent": 14.285714285714278,
+    "Use: Obama returns to attack social media, we learn from Europe": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 21.93454263420092,
+            "polarity_X": 0.0015903078403078398,
+            "subjectivity_X": 0.1282369829244829,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 25.716758272634216,
+            "polarity_X": 0.0015903078403078398,
+            "subjectivity_X": 0.1282369829244829,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 58.03661865436271,
+            "polarity_X": 0.0015903078403078398,
+            "subjectivity_X": 0.1282369829244829,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 59.74545380969154,
+            "polarity_X": 0.0015903078403078398,
+            "subjectivity_X": 0.1282369829244829,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 48.01719746064918,
+            "polarity_X": 0.0015903078403078398,
+            "subjectivity_X": 0.1282369829244829,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 59.50143346918691,
+            "polarity_X": 0.0015903078403078398,
+            "subjectivity_X": 0.1282369829244829,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 68.71725722718297,
+            "polarity_X": 0.0015903078403078398,
+            "subjectivity_X": 0.1282369829244829,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 56.54489297373689,
+            "polarity_X": 0.0015903078403078398,
+            "subjectivity_X": 0.1282369829244829,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 56.75118129556979,
+            "polarity_X": 0.0015903078403078398,
+            "subjectivity_X": 0.1282369829244829,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 55.20932832698324,
+            "polarity_X": 0.0015903078403078398,
+            "subjectivity_X": 0.1282369829244829,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Iss, Russian cosmonauts expose Victory banner": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 27.597989819858746,
+            "polarity_X": 0.01510989010989011,
+            "subjectivity_X": 0.05137362637362638,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 32.72371830253604,
+            "polarity_X": 0.01510989010989011,
+            "subjectivity_X": 0.05137362637362638,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 74.80144099012547,
+            "polarity_X": 0.01510989010989011,
+            "subjectivity_X": 0.05137362637362638,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 71.41805839764733,
+            "polarity_X": 0.01510989010989011,
+            "subjectivity_X": 0.05137362637362638,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 56.62424605852151,
+            "polarity_X": 0.01510989010989011,
+            "subjectivity_X": 0.05137362637362638,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 64.956223214045,
+            "polarity_X": 0.01510989010989011,
+            "subjectivity_X": 0.05137362637362638,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": true,
+            "similarity_percentage": 81.4127145507083,
+            "polarity_X": 0.01510989010989011,
+            "subjectivity_X": 0.05137362637362638,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 70.71074282690093,
+            "polarity_X": 0.01510989010989011,
+            "subjectivity_X": 0.05137362637362638,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 65.17739586310027,
+            "polarity_X": 0.01510989010989011,
+            "subjectivity_X": 0.05137362637362638,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 59.87818528569161,
+            "polarity_X": 0.01510989010989011,
+            "subjectivity_X": 0.05137362637362638,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Ok Congress law to speed up sending weapons to Kiev": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 23.195017961366123,
+            "polarity_X": 0.20039682539682538,
+            "subjectivity_X": 0.24404761904761907,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 27.473180527790962,
+            "polarity_X": 0.20039682539682538,
+            "subjectivity_X": 0.24404761904761907,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 60.96749619051054,
+            "polarity_X": 0.20039682539682538,
+            "subjectivity_X": 0.24404761904761907,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 60.63687922464233,
+            "polarity_X": 0.20039682539682538,
+            "subjectivity_X": 0.24404761904761907,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 45.800302802212144,
+            "polarity_X": 0.20039682539682538,
+            "subjectivity_X": 0.24404761904761907,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 58.96111498713884,
+            "polarity_X": 0.20039682539682538,
+            "subjectivity_X": 0.24404761904761907,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 69.53452973449795,
+            "polarity_X": 0.20039682539682538,
+            "subjectivity_X": 0.24404761904761907,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 58.60607450486752,
+            "polarity_X": 0.20039682539682538,
+            "subjectivity_X": 0.24404761904761907,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 51.257967863835475,
+            "polarity_X": 0.20039682539682538,
+            "subjectivity_X": 0.24404761904761907,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 51.05742509446283,
+            "polarity_X": 0.20039682539682538,
+            "subjectivity_X": 0.24404761904761907,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Ukraine:exercises in Eastern Europe, from Gb 8,000 soldiers": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 30.17140854049833,
+            "polarity_X": 0.007575757575757573,
+            "subjectivity_X": 0.10303030303030303,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 26.654163916061485,
+            "polarity_X": 0.007575757575757573,
+            "subjectivity_X": 0.10303030303030303,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 62.61118922927199,
+            "polarity_X": 0.007575757575757573,
+            "subjectivity_X": 0.10303030303030303,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 54.70222903988837,
+            "polarity_X": 0.007575757575757573,
+            "subjectivity_X": 0.10303030303030303,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 49.05814422386596,
+            "polarity_X": 0.007575757575757573,
+            "subjectivity_X": 0.10303030303030303,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 55.489038673962874,
+            "polarity_X": 0.007575757575757573,
+            "subjectivity_X": 0.10303030303030303,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 66.52209356858498,
+            "polarity_X": 0.007575757575757573,
+            "subjectivity_X": 0.10303030303030303,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 62.62277051017352,
+            "polarity_X": 0.007575757575757573,
+            "subjectivity_X": 0.10303030303030303,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 54.92200770367578,
+            "polarity_X": 0.007575757575757573,
+            "subjectivity_X": 0.10303030303030303,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 49.17309846786166,
+            "polarity_X": 0.007575757575757573,
+            "subjectivity_X": 0.10303030303030303,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Covid: in China lockdown in 46 cities for 343 mln of people": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 28.546889007621957,
+            "polarity_X": 0.005277777777777777,
+            "subjectivity_X": 0.14780864197530863,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 28.711404663576467,
+            "polarity_X": 0.005277777777777777,
+            "subjectivity_X": 0.14780864197530863,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 75.03652292392162,
+            "polarity_X": 0.005277777777777777,
+            "subjectivity_X": 0.14780864197530863,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 73.71494367644362,
+            "polarity_X": 0.005277777777777777,
+            "subjectivity_X": 0.14780864197530863,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 57.4677657320848,
+            "polarity_X": 0.005277777777777777,
+            "subjectivity_X": 0.14780864197530863,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 65.94652419608592,
+            "polarity_X": 0.005277777777777777,
+            "subjectivity_X": 0.14780864197530863,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": true,
+            "similarity_percentage": 83.50076440867088,
+            "polarity_X": 0.005277777777777777,
+            "subjectivity_X": 0.14780864197530863,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 72.39317204253611,
+            "polarity_X": 0.005277777777777777,
+            "subjectivity_X": 0.14780864197530863,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 69.68948850576565,
+            "polarity_X": 0.005277777777777777,
+            "subjectivity_X": 0.14780864197530863,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 61.96776225783269,
+            "polarity_X": 0.005277777777777777,
+            "subjectivity_X": 0.14780864197530863,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Guterres, shocked by the raid on Kiev": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 11.17528397353482,
+            "polarity_X": -0.3499999999999999,
+            "subjectivity_X": 0.4000000000000001,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 23.587295404069973,
+            "polarity_X": -0.3499999999999999,
+            "subjectivity_X": 0.4000000000000001,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 34.768413584721834,
+            "polarity_X": -0.3499999999999999,
+            "subjectivity_X": 0.4000000000000001,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 31.792756431100464,
+            "polarity_X": -0.3499999999999999,
+            "subjectivity_X": 0.4000000000000001,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 29.14125095836708,
+            "polarity_X": -0.3499999999999999,
+            "subjectivity_X": 0.4000000000000001,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 33.473425697330796,
+            "polarity_X": -0.3499999999999999,
+            "subjectivity_X": 0.4000000000000001,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 39.570970266793466,
+            "polarity_X": -0.3499999999999999,
+            "subjectivity_X": 0.4000000000000001,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 35.59415601642305,
+            "polarity_X": -0.3499999999999999,
+            "subjectivity_X": 0.4000000000000001,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 31.90165626980307,
+            "polarity_X": -0.3499999999999999,
+            "subjectivity_X": 0.4000000000000001,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 29.29767868765355,
+            "polarity_X": -0.3499999999999999,
+            "subjectivity_X": 0.4000000000000001,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Ukraine: Onu, 2,829 civilians killed since the beginning of the offensive": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 15.054167523135058,
+            "polarity_X": -0.03481481481481482,
+            "subjectivity_X": 0.46814814814814815,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 20.72470618700925,
+            "polarity_X": -0.03481481481481482,
+            "subjectivity_X": 0.46814814814814815,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 47.93130799147961,
+            "polarity_X": -0.03481481481481482,
+            "subjectivity_X": 0.46814814814814815,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 47.31541121133262,
+            "polarity_X": -0.03481481481481482,
+            "subjectivity_X": 0.46814814814814815,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 36.05852136153661,
+            "polarity_X": -0.03481481481481482,
+            "subjectivity_X": 0.46814814814814815,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 46.09483961438251,
+            "polarity_X": -0.03481481481481482,
+            "subjectivity_X": 0.46814814814814815,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 53.15117780070133,
+            "polarity_X": -0.03481481481481482,
+            "subjectivity_X": 0.46814814814814815,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 50.108948182361424,
+            "polarity_X": -0.03481481481481482,
+            "subjectivity_X": 0.46814814814814815,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 45.83685153474036,
+            "polarity_X": -0.03481481481481482,
+            "subjectivity_X": 0.46814814814814815,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 41.629971057099496,
+            "polarity_X": -0.03481481481481482,
+            "subjectivity_X": 0.46814814814814815,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "France: Le Pen candidate for legislation in the north": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 18.220302105506452,
+            "polarity_X": 0.04696969696969697,
+            "subjectivity_X": 0.1671717171717172,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 33.39418107172866,
+            "polarity_X": 0.04696969696969697,
+            "subjectivity_X": 0.1671717171717172,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 67.66493518127263,
+            "polarity_X": 0.04696969696969697,
+            "subjectivity_X": 0.1671717171717172,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 66.43313272084532,
+            "polarity_X": 0.04696969696969697,
+            "subjectivity_X": 0.1671717171717172,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 50.07942216982926,
+            "polarity_X": 0.04696969696969697,
+            "subjectivity_X": 0.1671717171717172,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 65.620550439596,
+            "polarity_X": 0.04696969696969697,
+            "subjectivity_X": 0.1671717171717172,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 76.64393920406917,
+            "polarity_X": 0.04696969696969697,
+            "subjectivity_X": 0.1671717171717172,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 64.78587207673723,
+            "polarity_X": 0.04696969696969697,
+            "subjectivity_X": 0.1671717171717172,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 55.13366226843639,
+            "polarity_X": 0.04696969696969697,
+            "subjectivity_X": 0.1671717171717172,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 56.174231376800755,
+            "polarity_X": 0.04696969696969697,
+            "subjectivity_X": 0.1671717171717172,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Covid: South Korea removes from Monday obligation on mask": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 31.72024782278797,
+            "polarity_X": 0.1851010101010101,
+            "subjectivity_X": 0.30328282828282827,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 32.47398742457125,
+            "polarity_X": 0.1851010101010101,
+            "subjectivity_X": 0.30328282828282827,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 76.6584862840958,
+            "polarity_X": 0.1851010101010101,
+            "subjectivity_X": 0.30328282828282827,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 72.17519342989675,
+            "polarity_X": 0.1851010101010101,
+            "subjectivity_X": 0.30328282828282827,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 60.46895290606429,
+            "polarity_X": 0.1851010101010101,
+            "subjectivity_X": 0.30328282828282827,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 72.78265164616494,
+            "polarity_X": 0.1851010101010101,
+            "subjectivity_X": 0.30328282828282827,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": true,
+            "similarity_percentage": 81.40603075018474,
+            "polarity_X": 0.1851010101010101,
+            "subjectivity_X": 0.30328282828282827,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 70.97483640956082,
+            "polarity_X": 0.1851010101010101,
+            "subjectivity_X": 0.30328282828282827,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 65.71342767167998,
+            "polarity_X": 0.1851010101010101,
+            "subjectivity_X": 0.30328282828282827,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 66.06920384547362,
+            "polarity_X": 0.1851010101010101,
+            "subjectivity_X": 0.30328282828282827,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "At least 10 wounded in the raid on a palace in Kiev": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 11.035970093394107,
+            "polarity_X": -0.21388888888888888,
+            "subjectivity_X": 0.3962962962962963,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 23.822335451413547,
+            "polarity_X": -0.21388888888888888,
+            "subjectivity_X": 0.3962962962962963,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 35.00919092049145,
+            "polarity_X": -0.21388888888888888,
+            "subjectivity_X": 0.3962962962962963,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 32.05380381179734,
+            "polarity_X": -0.21388888888888888,
+            "subjectivity_X": 0.3962962962962963,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 32.29395123288828,
+            "polarity_X": -0.21388888888888888,
+            "subjectivity_X": 0.3962962962962963,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 37.32674543423381,
+            "polarity_X": -0.21388888888888888,
+            "subjectivity_X": 0.3962962962962963,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 38.67018171870677,
+            "polarity_X": -0.21388888888888888,
+            "subjectivity_X": 0.3962962962962963,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 37.91175464083996,
+            "polarity_X": -0.21388888888888888,
+            "subjectivity_X": 0.3962962962962963,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 31.310083108872078,
+            "polarity_X": -0.21388888888888888,
+            "subjectivity_X": 0.3962962962962963,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 29.841548585034616,
+            "polarity_X": -0.21388888888888888,
+            "subjectivity_X": 0.3962962962962963,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Sights on Spianata in Jerusalem last Friday Ramadan": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 27.707612883600056,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.07777777777777778,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 29.694044496903487,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.07777777777777778,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 75.27983404602938,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.07777777777777778,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 71.35557957277932,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.07777777777777778,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 57.08862517141443,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.07777777777777778,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 68.10586092530824,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.07777777777777778,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 79.31232567293969,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.07777777777777778,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 71.05173434551463,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.07777777777777778,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 61.1804907102279,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.07777777777777778,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 58.80010668908716,
+            "polarity_X": 0.04,
+            "subjectivity_X": 0.07777777777777778,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Zelensky, Russian raid on Kiev to humiliate the UN": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 20.201829308540795,
+            "polarity_X": 0.17407407407407408,
+            "subjectivity_X": 0.35185185185185186,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 30.601332838008304,
+            "polarity_X": 0.17407407407407408,
+            "subjectivity_X": 0.35185185185185186,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 60.226895634007946,
+            "polarity_X": 0.17407407407407408,
+            "subjectivity_X": 0.35185185185185186,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 58.06359352274514,
+            "polarity_X": 0.17407407407407408,
+            "subjectivity_X": 0.35185185185185186,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 43.31121815761153,
+            "polarity_X": 0.17407407407407408,
+            "subjectivity_X": 0.35185185185185186,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 54.39865123458132,
+            "polarity_X": 0.17407407407407408,
+            "subjectivity_X": 0.35185185185185186,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 67.18582767524893,
+            "polarity_X": 0.17407407407407408,
+            "subjectivity_X": 0.35185185185185186,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 59.73784841480219,
+            "polarity_X": 0.17407407407407408,
+            "subjectivity_X": 0.35185185185185186,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 52.108320627155145,
+            "polarity_X": 0.17407407407407408,
+            "subjectivity_X": 0.35185185185185186,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 47.323185452147065,
+            "polarity_X": 0.17407407407407408,
+            "subjectivity_X": 0.35185185185185186,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Kiev, knocked in vain NATO door,debted to security": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 20.40126933715996,
+            "polarity_X": 0.005555555555555557,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 23.485481362981986,
+            "polarity_X": 0.005555555555555557,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 45.353623803521224,
+            "polarity_X": 0.005555555555555557,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 40.559463993412955,
+            "polarity_X": 0.005555555555555557,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 36.02293031719771,
+            "polarity_X": 0.005555555555555557,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 44.70433525415724,
+            "polarity_X": 0.005555555555555557,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 50.23949473191068,
+            "polarity_X": 0.005555555555555557,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 43.14913884757386,
+            "polarity_X": 0.005555555555555557,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 34.314929386129016,
+            "polarity_X": 0.005555555555555557,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 37.78151049130148,
+            "polarity_X": 0.005555555555555557,
+            "subjectivity_X": 0.052083333333333336,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Erdogan in Saudi Arabia, 'Opens a new era'": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 19.46985131146426,
+            "polarity_X": 0.04254079254079254,
+            "subjectivity_X": 0.24864024864024867,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 36.69279180055713,
+            "polarity_X": 0.04254079254079254,
+            "subjectivity_X": 0.24864024864024867,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 50.6837235782994,
+            "polarity_X": 0.04254079254079254,
+            "subjectivity_X": 0.24864024864024867,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 57.41570500967924,
+            "polarity_X": 0.04254079254079254,
+            "subjectivity_X": 0.24864024864024867,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 46.77215223557988,
+            "polarity_X": 0.04254079254079254,
+            "subjectivity_X": 0.24864024864024867,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 50.9234111177878,
+            "polarity_X": 0.04254079254079254,
+            "subjectivity_X": 0.24864024864024867,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 56.76122257652183,
+            "polarity_X": 0.04254079254079254,
+            "subjectivity_X": 0.24864024864024867,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 48.777007910702544,
+            "polarity_X": 0.04254079254079254,
+            "subjectivity_X": 0.24864024864024867,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 42.64602027681348,
+            "polarity_X": 0.04254079254079254,
+            "subjectivity_X": 0.24864024864024867,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 43.064852507155074,
+            "polarity_X": 0.04254079254079254,
+            "subjectivity_X": 0.24864024864024867,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Zelensky, thanks to the US for the new aid package": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 13.193124303651224,
+            "polarity_X": 0.1209155844155844,
+            "subjectivity_X": 0.2391233766233766,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 23.703161119617135,
+            "polarity_X": 0.1209155844155844,
+            "subjectivity_X": 0.2391233766233766,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 32.828984223349515,
+            "polarity_X": 0.1209155844155844,
+            "subjectivity_X": 0.2391233766233766,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 32.84852507718862,
+            "polarity_X": 0.1209155844155844,
+            "subjectivity_X": 0.2391233766233766,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 31.99509869402044,
+            "polarity_X": 0.1209155844155844,
+            "subjectivity_X": 0.2391233766233766,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 40.682393737285196,
+            "polarity_X": 0.1209155844155844,
+            "subjectivity_X": 0.2391233766233766,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 44.056783190940564,
+            "polarity_X": 0.1209155844155844,
+            "subjectivity_X": 0.2391233766233766,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 35.118260436763585,
+            "polarity_X": 0.1209155844155844,
+            "subjectivity_X": 0.2391233766233766,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 30.045703682435683,
+            "polarity_X": 0.1209155844155844,
+            "subjectivity_X": 0.2391233766233766,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 32.867974863458635,
+            "polarity_X": 0.1209155844155844,
+            "subjectivity_X": 0.2391233766233766,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Ukraine: Borrell, shocked, from Moscow blatant contempt": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 11.803645873969453,
+            "polarity_X": -0.35799999999999993,
+            "subjectivity_X": 0.44883333333333336,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 22.779160020782935,
+            "polarity_X": -0.35799999999999993,
+            "subjectivity_X": 0.44883333333333336,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 36.264157870239906,
+            "polarity_X": -0.35799999999999993,
+            "subjectivity_X": 0.44883333333333336,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 35.20051769310007,
+            "polarity_X": -0.35799999999999993,
+            "subjectivity_X": 0.44883333333333336,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 32.55405357110682,
+            "polarity_X": -0.35799999999999993,
+            "subjectivity_X": 0.44883333333333336,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 33.83879181653261,
+            "polarity_X": -0.35799999999999993,
+            "subjectivity_X": 0.44883333333333336,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 44.17915079612798,
+            "polarity_X": -0.35799999999999993,
+            "subjectivity_X": 0.44883333333333336,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 38.06415007074978,
+            "polarity_X": -0.35799999999999993,
+            "subjectivity_X": 0.44883333333333336,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 36.46167623609532,
+            "polarity_X": -0.35799999999999993,
+            "subjectivity_X": 0.44883333333333336,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 30.33512857189942,
+            "polarity_X": -0.35799999999999993,
+            "subjectivity_X": 0.44883333333333336,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Beijing, from Covid and Ukraine risks and challenges for the economy": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 25.63708595609858,
+            "polarity_X": -0.020238095238095243,
+            "subjectivity_X": 0.1130952380952381,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 33.95087861409509,
+            "polarity_X": -0.020238095238095243,
+            "subjectivity_X": 0.1130952380952381,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 75.85571728176804,
+            "polarity_X": -0.020238095238095243,
+            "subjectivity_X": 0.1130952380952381,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 73.19567244729903,
+            "polarity_X": -0.020238095238095243,
+            "subjectivity_X": 0.1130952380952381,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 55.25006433811591,
+            "polarity_X": -0.020238095238095243,
+            "subjectivity_X": 0.1130952380952381,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 64.02342986471346,
+            "polarity_X": -0.020238095238095243,
+            "subjectivity_X": 0.1130952380952381,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": true,
+            "similarity_percentage": 83.8958866869819,
+            "polarity_X": -0.020238095238095243,
+            "subjectivity_X": 0.1130952380952381,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 71.74384193941015,
+            "polarity_X": -0.020238095238095243,
+            "subjectivity_X": 0.1130952380952381,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 62.57495242745599,
+            "polarity_X": -0.020238095238095243,
+            "subjectivity_X": 0.1130952380952381,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 56.24950127655697,
+            "polarity_X": -0.020238095238095243,
+            "subjectivity_X": 0.1130952380952381,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Ukraine: the number of children left killed rises to 219": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 28.810854888221847,
+            "polarity_X": 0.05952380952380953,
+            "subjectivity_X": 0.14047619047619048,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 21.24279643542932,
+            "polarity_X": 0.05952380952380953,
+            "subjectivity_X": 0.14047619047619048,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 67.64843922350991,
+            "polarity_X": 0.05952380952380953,
+            "subjectivity_X": 0.14047619047619048,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 62.29410950065035,
+            "polarity_X": 0.05952380952380953,
+            "subjectivity_X": 0.14047619047619048,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 46.2653040081266,
+            "polarity_X": 0.05952380952380953,
+            "subjectivity_X": 0.14047619047619048,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 57.45494050237823,
+            "polarity_X": 0.05952380952380953,
+            "subjectivity_X": 0.14047619047619048,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 72.17104206676052,
+            "polarity_X": 0.05952380952380953,
+            "subjectivity_X": 0.14047619047619048,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 67.64430316890258,
+            "polarity_X": 0.05952380952380953,
+            "subjectivity_X": 0.14047619047619048,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 54.92692837477714,
+            "polarity_X": 0.05952380952380953,
+            "subjectivity_X": 0.14047619047619048,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 53.07766732310023,
+            "polarity_X": 0.05952380952380953,
+            "subjectivity_X": 0.14047619047619048,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Borrell, Mariupol is the European Aleppo, city rasa to the ground": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 16.548326764707625,
+            "polarity_X": 0.00972222222222222,
+            "subjectivity_X": 0.09027777777777778,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 37.5149010744267,
+            "polarity_X": 0.00972222222222222,
+            "subjectivity_X": 0.09027777777777778,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 49.0951947297738,
+            "polarity_X": 0.00972222222222222,
+            "subjectivity_X": 0.09027777777777778,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 44.59902819409535,
+            "polarity_X": 0.00972222222222222,
+            "subjectivity_X": 0.09027777777777778,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 41.758862976842714,
+            "polarity_X": 0.00972222222222222,
+            "subjectivity_X": 0.09027777777777778,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 52.470630315149926,
+            "polarity_X": 0.00972222222222222,
+            "subjectivity_X": 0.09027777777777778,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 54.70303207409658,
+            "polarity_X": 0.00972222222222222,
+            "subjectivity_X": 0.09027777777777778,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 48.11968006411475,
+            "polarity_X": 0.00972222222222222,
+            "subjectivity_X": 0.09027777777777778,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 38.28612418076163,
+            "polarity_X": 0.00972222222222222,
+            "subjectivity_X": 0.09027777777777778,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 43.31041935031206,
+            "polarity_X": 0.00972222222222222,
+            "subjectivity_X": 0.09027777777777778,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Erdogan in Saudi Arabia, pilgrimage to Mecca": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 25.162376350939187,
+            "polarity_X": 0.08636363636363636,
+            "subjectivity_X": 0.16287878787878787,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 23.292022967161497,
+            "polarity_X": 0.08636363636363636,
+            "subjectivity_X": 0.16287878787878787,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 57.49048038740524,
+            "polarity_X": 0.08636363636363636,
+            "subjectivity_X": 0.16287878787878787,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 65.30511545314829,
+            "polarity_X": 0.08636363636363636,
+            "subjectivity_X": 0.16287878787878787,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 42.66106151447253,
+            "polarity_X": 0.08636363636363636,
+            "subjectivity_X": 0.16287878787878787,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 48.17676828354344,
+            "polarity_X": 0.08636363636363636,
+            "subjectivity_X": 0.16287878787878787,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 60.336140019237085,
+            "polarity_X": 0.08636363636363636,
+            "subjectivity_X": 0.16287878787878787,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 52.19450225904143,
+            "polarity_X": 0.08636363636363636,
+            "subjectivity_X": 0.16287878787878787,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 49.0606024712736,
+            "polarity_X": 0.08636363636363636,
+            "subjectivity_X": 0.16287878787878787,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 43.79947895704737,
+            "polarity_X": 0.08636363636363636,
+            "subjectivity_X": 0.16287878787878787,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "He resigns the director of Frontex Fabrice Legendri": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 10.75823298327658,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.3333333333333333,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 19.129994248943362,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.3333333333333333,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 44.03620246706738,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.3333333333333333,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 47.0495314088328,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.3333333333333333,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 30.69310098325651,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.3333333333333333,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 35.63904382310966,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.3333333333333333,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 50.58705566320767,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.3333333333333333,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 43.02506085661184,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.3333333333333333,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 39.25403533458482,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.3333333333333333,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 32.233369554165286,
+            "polarity_X": 0.16666666666666666,
+            "subjectivity_X": 0.3333333333333333,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Gb: Still scandals on Scotland Yard, rape accused officer": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 32.48858119700538,
+            "polarity_X": 0.02866710584101888,
+            "subjectivity_X": 0.0867808519982433,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 25.329518661870615,
+            "polarity_X": 0.02866710584101888,
+            "subjectivity_X": 0.0867808519982433,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 61.35283967395873,
+            "polarity_X": 0.02866710584101888,
+            "subjectivity_X": 0.0867808519982433,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 56.09316800511298,
+            "polarity_X": 0.02866710584101888,
+            "subjectivity_X": 0.0867808519982433,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 50.88226340360594,
+            "polarity_X": 0.02866710584101888,
+            "subjectivity_X": 0.0867808519982433,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 52.97005306047306,
+            "polarity_X": 0.02866710584101888,
+            "subjectivity_X": 0.0867808519982433,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 65.2661821848181,
+            "polarity_X": 0.02866710584101888,
+            "subjectivity_X": 0.0867808519982433,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 55.527314422476216,
+            "polarity_X": 0.02866710584101888,
+            "subjectivity_X": 0.0867808519982433,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 59.46043205694542,
+            "polarity_X": 0.02866710584101888,
+            "subjectivity_X": 0.0867808519982433,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 50.978323097856695,
+            "polarity_X": 0.02866710584101888,
+            "subjectivity_X": 0.0867808519982433,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "India: hot still rising in the north, over 45 degrees": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 28.82015526105168,
+            "polarity_X": 0.09776936026936027,
+            "subjectivity_X": 0.4311447811447812,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 28.25371461261711,
+            "polarity_X": 0.09776936026936027,
+            "subjectivity_X": 0.4311447811447812,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 71.2585212274121,
+            "polarity_X": 0.09776936026936027,
+            "subjectivity_X": 0.4311447811447812,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 68.9547843972532,
+            "polarity_X": 0.09776936026936027,
+            "subjectivity_X": 0.4311447811447812,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 57.29918785402002,
+            "polarity_X": 0.09776936026936027,
+            "subjectivity_X": 0.4311447811447812,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 65.73465389198368,
+            "polarity_X": 0.09776936026936027,
+            "subjectivity_X": 0.4311447811447812,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 77.85815557100861,
+            "polarity_X": 0.09776936026936027,
+            "subjectivity_X": 0.4311447811447812,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 67.83869444727105,
+            "polarity_X": 0.09776936026936027,
+            "subjectivity_X": 0.4311447811447812,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 64.70823049878601,
+            "polarity_X": 0.09776936026936027,
+            "subjectivity_X": 0.4311447811447812,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 59.97386124008709,
+            "polarity_X": 0.09776936026936027,
+            "subjectivity_X": 0.4311447811447812,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Announcement of the mayor of Monaco, Oktoberfest returns after two years": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 24.43086542775591,
+            "polarity_X": -0.041666666666666664,
+            "subjectivity_X": 0.125,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 11.600019060838365,
+            "polarity_X": -0.041666666666666664,
+            "subjectivity_X": 0.125,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 51.94437330725808,
+            "polarity_X": -0.041666666666666664,
+            "subjectivity_X": 0.125,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 46.897552329607436,
+            "polarity_X": -0.041666666666666664,
+            "subjectivity_X": 0.125,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 36.85634760002585,
+            "polarity_X": -0.041666666666666664,
+            "subjectivity_X": 0.125,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 40.722123967866686,
+            "polarity_X": -0.041666666666666664,
+            "subjectivity_X": 0.125,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 50.73819136671149,
+            "polarity_X": -0.041666666666666664,
+            "subjectivity_X": 0.125,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 44.494996081411244,
+            "polarity_X": -0.041666666666666664,
+            "subjectivity_X": 0.125,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 44.74950497364767,
+            "polarity_X": -0.041666666666666664,
+            "subjectivity_X": 0.125,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 37.38504571693528,
+            "polarity_X": -0.041666666666666664,
+            "subjectivity_X": 0.125,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Media, Intercontinental Hotel plans to leave Russia": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 24.579289445656098,
+            "polarity_X": 0.006666666666666667,
+            "subjectivity_X": 0.04,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 26.637560867478427,
+            "polarity_X": 0.006666666666666667,
+            "subjectivity_X": 0.04,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 53.796136136533136,
+            "polarity_X": 0.006666666666666667,
+            "subjectivity_X": 0.04,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 51.09010178476871,
+            "polarity_X": 0.006666666666666667,
+            "subjectivity_X": 0.04,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 43.512193421790684,
+            "polarity_X": 0.006666666666666667,
+            "subjectivity_X": 0.04,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 52.16792880983638,
+            "polarity_X": 0.006666666666666667,
+            "subjectivity_X": 0.04,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 60.40386906159051,
+            "polarity_X": 0.006666666666666667,
+            "subjectivity_X": 0.04,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 55.798142615311065,
+            "polarity_X": 0.006666666666666667,
+            "subjectivity_X": 0.04,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 51.159817618517735,
+            "polarity_X": 0.006666666666666667,
+            "subjectivity_X": 0.04,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 46.9835994783242,
+            "polarity_X": 0.006666666666666667,
+            "subjectivity_X": 0.04,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Syria: USA, Assad heritage more than a billion dollars": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 41.29920940461724,
+            "polarity_X": 0.19851851851851854,
+            "subjectivity_X": 0.4117592592592592,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 29.319327085264067,
+            "polarity_X": 0.19851851851851854,
+            "subjectivity_X": 0.4117592592592592,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 63.99433345665988,
+            "polarity_X": 0.19851851851851854,
+            "subjectivity_X": 0.4117592592592592,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 59.439365156691395,
+            "polarity_X": 0.19851851851851854,
+            "subjectivity_X": 0.4117592592592592,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 51.29257216621899,
+            "polarity_X": 0.19851851851851854,
+            "subjectivity_X": 0.4117592592592592,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 56.024228438443345,
+            "polarity_X": 0.19851851851851854,
+            "subjectivity_X": 0.4117592592592592,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 68.14251626777185,
+            "polarity_X": 0.19851851851851854,
+            "subjectivity_X": 0.4117592592592592,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 59.89349250038567,
+            "polarity_X": 0.19851851851851854,
+            "subjectivity_X": 0.4117592592592592,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 56.938615922999844,
+            "polarity_X": 0.19851851851851854,
+            "subjectivity_X": 0.4117592592592592,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 51.7879352753124,
+            "polarity_X": 0.19851851851851854,
+            "subjectivity_X": 0.4117592592592592,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Amb. Iran, Israel aims to remove all Palestinians": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 34.076076864803014,
+            "polarity_X": 0.030000000000000002,
+            "subjectivity_X": 0.18759259259259256,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 30.185209877456604,
+            "polarity_X": 0.030000000000000002,
+            "subjectivity_X": 0.18759259259259256,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 77.63642732149114,
+            "polarity_X": 0.030000000000000002,
+            "subjectivity_X": 0.18759259259259256,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 73.4193802213428,
+            "polarity_X": 0.030000000000000002,
+            "subjectivity_X": 0.18759259259259256,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 58.27792807062705,
+            "polarity_X": 0.030000000000000002,
+            "subjectivity_X": 0.18759259259259256,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 69.36206150227186,
+            "polarity_X": 0.030000000000000002,
+            "subjectivity_X": 0.18759259259259256,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": true,
+            "similarity_percentage": 82.30595027190391,
+            "polarity_X": 0.030000000000000002,
+            "subjectivity_X": 0.18759259259259256,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 71.14507658593837,
+            "polarity_X": 0.030000000000000002,
+            "subjectivity_X": 0.18759259259259256,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 66.94611564870443,
+            "polarity_X": 0.030000000000000002,
+            "subjectivity_X": 0.18759259259259256,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 64.63144550819617,
+            "polarity_X": 0.030000000000000002,
+            "subjectivity_X": 0.18759259259259256,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "France: Jean-Marie Le Pen, 'for Macron victory squallida'": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 24.60609648923418,
+            "polarity_X": 0.007653061224489795,
+            "subjectivity_X": 0.1552721088435374,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 27.991311385663053,
+            "polarity_X": 0.007653061224489795,
+            "subjectivity_X": 0.1552721088435374,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 60.811060028829964,
+            "polarity_X": 0.007653061224489795,
+            "subjectivity_X": 0.1552721088435374,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 60.673583470276505,
+            "polarity_X": 0.007653061224489795,
+            "subjectivity_X": 0.1552721088435374,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 47.987055346911056,
+            "polarity_X": 0.007653061224489795,
+            "subjectivity_X": 0.1552721088435374,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 58.342678709828476,
+            "polarity_X": 0.007653061224489795,
+            "subjectivity_X": 0.1552721088435374,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 70.39210956381432,
+            "polarity_X": 0.007653061224489795,
+            "subjectivity_X": 0.1552721088435374,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 61.559126209049765,
+            "polarity_X": 0.007653061224489795,
+            "subjectivity_X": 0.1552721088435374,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 52.78592656842712,
+            "polarity_X": 0.007653061224489795,
+            "subjectivity_X": 0.1552721088435374,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 52.419501693468106,
+            "polarity_X": 0.007653061224489795,
+            "subjectivity_X": 0.1552721088435374,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Jewelry in the coat from Italy, Kiev makes them": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 22.596064072694574,
+            "polarity_X": 0.05234888568221902,
+            "subjectivity_X": 0.15502645502645504,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 27.382032293439558,
+            "polarity_X": 0.05234888568221902,
+            "subjectivity_X": 0.15502645502645504,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 55.525507069089905,
+            "polarity_X": 0.05234888568221902,
+            "subjectivity_X": 0.15502645502645504,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 50.37644527466796,
+            "polarity_X": 0.05234888568221902,
+            "subjectivity_X": 0.15502645502645504,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 52.58514638002455,
+            "polarity_X": 0.05234888568221902,
+            "subjectivity_X": 0.15502645502645504,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 64.23657927359318,
+            "polarity_X": 0.05234888568221902,
+            "subjectivity_X": 0.15502645502645504,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 57.6915616588344,
+            "polarity_X": 0.05234888568221902,
+            "subjectivity_X": 0.15502645502645504,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 50.96642624348293,
+            "polarity_X": 0.05234888568221902,
+            "subjectivity_X": 0.15502645502645504,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 46.96789837665992,
+            "polarity_X": 0.05234888568221902,
+            "subjectivity_X": 0.15502645502645504,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 58.54474360290509,
+            "polarity_X": 0.05234888568221902,
+            "subjectivity_X": 0.15502645502645504,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Gb: Tory suspend MP accused of watching porn in court": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 26.307453072918253,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.09166666666666667,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 23.327111700945647,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.09166666666666667,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 63.210881916723714,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.09166666666666667,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 58.115458237374185,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.09166666666666667,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 48.056423329245725,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.09166666666666667,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 54.77580722823067,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.09166666666666667,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 67.8521135413796,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.09166666666666667,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 58.623861706089464,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.09166666666666667,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 53.15013933168198,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.09166666666666667,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 50.18076044911276,
+            "polarity_X": 0.03333333333333333,
+            "subjectivity_X": 0.09166666666666667,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "France: for new government 'at least another week'": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 25.084225329603598,
+            "polarity_X": 0.03896103896103895,
+            "subjectivity_X": 0.43463203463203465,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 28.02031233046024,
+            "polarity_X": 0.03896103896103895,
+            "subjectivity_X": 0.43463203463203465,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 70.43005391682476,
+            "polarity_X": 0.03896103896103895,
+            "subjectivity_X": 0.43463203463203465,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 67.9520456028671,
+            "polarity_X": 0.03896103896103895,
+            "subjectivity_X": 0.43463203463203465,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 51.8750167241227,
+            "polarity_X": 0.03896103896103895,
+            "subjectivity_X": 0.43463203463203465,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 62.332310233628895,
+            "polarity_X": 0.03896103896103895,
+            "subjectivity_X": 0.43463203463203465,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 79.49783897185053,
+            "polarity_X": 0.03896103896103895,
+            "subjectivity_X": 0.43463203463203465,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 65.86259890526878,
+            "polarity_X": 0.03896103896103895,
+            "subjectivity_X": 0.43463203463203465,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 59.48336401996147,
+            "polarity_X": 0.03896103896103895,
+            "subjectivity_X": 0.43463203463203465,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 56.63437857181598,
+            "polarity_X": 0.03896103896103895,
+            "subjectivity_X": 0.43463203463203465,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    },
+    "Moscow, U.S. Expropriation of Dangerous Previous Russian Assets": {
+        "Boris Becker sentenced to 2 and a half years for bankruptcy": {
+            "are_similar": false,
+            "similarity_percentage": 22.148730988634206,
+            "polarity_X": -0.13518518518518519,
+            "subjectivity_X": 0.2247685185185185,
+            "polarity_Y": -0.08703703703703702,
+            "subjectivity_Y": 0.13148148148148148,
+            "simil_concepts": []
+        },
+        "Born: \"Intercept Russian jets near our borders.\" Macron tonight hears Zelensky: \"To avoid escalation\"": {
+            "are_similar": false,
+            "similarity_percentage": 14.634138962845173,
+            "polarity_X": -0.13518518518518519,
+            "subjectivity_X": 0.2247685185185185,
+            "polarity_Y": -0.08369047619047619,
+            "subjectivity_Y": 0.17134920634920636,
+            "simil_concepts": []
+        },
+        "Bucha will soon be twinned with Bergamo": {
+            "are_similar": false,
+            "similarity_percentage": 46.83468688804338,
+            "polarity_X": -0.13518518518518519,
+            "subjectivity_X": 0.2247685185185185,
+            "polarity_Y": 0.04140211640211639,
+            "subjectivity_Y": 0.09523809523809523,
+            "simil_concepts": []
+        },
+        "The handshake between Erdogan and Mohammed Bin Salman, 4 years later": {
+            "are_similar": false,
+            "similarity_percentage": 44.16470350653893,
+            "polarity_X": -0.13518518518518519,
+            "subjectivity_X": 0.2247685185185185,
+            "polarity_Y": 0.026932225480612578,
+            "subjectivity_Y": 0.13784457478005865,
+            "simil_concepts": []
+        },
+        "In Kiev the resistance is also done with the 'sold coffee'": {
+            "are_similar": false,
+            "similarity_percentage": 34.02222063358889,
+            "polarity_X": -0.13518518518518519,
+            "subjectivity_X": 0.2247685185185185,
+            "polarity_Y": 0.016111111111111114,
+            "subjectivity_Y": 0.11347222222222224,
+            "simil_concepts": []
+        },
+        "A day in the emergency clinic, where refugees can finally cry": {
+            "are_similar": false,
+            "similarity_percentage": 40.07159256941678,
+            "polarity_X": -0.13518518518518519,
+            "subjectivity_X": 0.2247685185185185,
+            "polarity_Y": 0.050090702947845796,
+            "subjectivity_Y": 0.48892403628117914,
+            "simil_concepts": []
+        },
+        "Browse: Biden's new aid to Ukraine in the spotlight": {
+            "are_similar": false,
+            "similarity_percentage": 52.69391626654972,
+            "polarity_X": -0.13518518518518519,
+            "subjectivity_X": 0.2247685185185185,
+            "polarity_Y": 0.058697301655048134,
+            "subjectivity_Y": 0.260812987221438,
+            "simil_concepts": []
+        },
+        "Dial: clashes to the east, plane to evacuate civilians from Azovstal": {
+            "are_similar": false,
+            "similarity_percentage": 44.43187565194141,
+            "polarity_X": -0.13518518518518519,
+            "subjectivity_X": 0.2247685185185185,
+            "polarity_Y": 0.012199374699374696,
+            "subjectivity_Y": 0.08746993746993748,
+            "simil_concepts": []
+        },
+        "Russian war misinformation passes through Chinese media Facebook pages": {
+            "are_similar": false,
+            "similarity_percentage": 42.528166555778085,
+            "polarity_X": -0.13518518518518519,
+            "subjectivity_X": 0.2247685185185185,
+            "polarity_Y": 0.0066571325499896914,
+            "subjectivity_Y": 0.1074198618841476,
+            "simil_concepts": []
+        },
+        "The stigma of blindness in Africa": {
+            "are_similar": false,
+            "similarity_percentage": 38.934651970472665,
+            "polarity_X": -0.13518518518518519,
+            "subjectivity_X": 0.2247685185185185,
+            "polarity_Y": -0.021761855568673744,
+            "subjectivity_Y": 0.14098124098124099,
+            "simil_concepts": []
+        }
+    }
+}
