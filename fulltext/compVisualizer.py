@@ -20,23 +20,32 @@ START_HOUR = 22
 
 def main():
     plt.close()
-    for i in range(0, len(TO_DO)):
-        for j in range(i+1, len(TO_DO)):
-            two_visualizer(f"{BASE_URL}{max(TO_DO[i], TO_DO[j])}/{min(TO_DO[i], TO_DO[j])}/", max(TO_DO[i], TO_DO[j]), min(TO_DO[i], TO_DO[j]))
+    # for i in range(0, len(TO_DO)):
+    #     for j in range(i+1, len(TO_DO)):
+    #         two_visualizer(f"{BASE_URL}{max(TO_DO[i], TO_DO[j])}/{min(TO_DO[i], TO_DO[j])}/", max(TO_DO[i], TO_DO[j]), min(TO_DO[i], TO_DO[j]))
+    if len(sys.argv) < 3:
+        raise Exception("Too few arguments.")
+    else:
+        sent= False
+        if len(sys.argv) > 3 and sys.argv[3] == "-s":
+            sent= True
+        two_visualizer(f"{BASE_URL}{max(sys.argv[1], sys.argv[2])}/{min(sys.argv[1], sys.argv[2])}/", max(sys.argv[1], sys.argv[2]), min(sys.argv[1], sys.argv[2]), sent)
 
-def two_visualizer(path, newsp_A, newsp_B):
+def two_visualizer(path, newsp_A, newsp_B, sent=False):
     both_cov_standard = []
     both_cov_cos = []
 
     cov_A_st = []
     cov_A_cos = []
-    sent_A = []
-    sub_A = []
 
     cov_B_st = []
     cov_B_cos = []
-    sent_B = []
-    sub_B = []
+
+    if sent:
+        sent_A = []
+        sub_A = []
+        sent_B = []
+        sub_B = []
 
     hours = []
     curr_date = DATES[0]
@@ -62,16 +71,16 @@ def two_visualizer(path, newsp_A, newsp_B):
         cov_A_st.append(curr_comp["covered_A_percent"])
         cov_B_st.append(curr_comp["covered_B_percent"])
 
-        sent_sub = get_sent_sub_avg(curr_comp)
-        sent_A.append(sent_sub["sent_A"])
-        sub_A.append(sent_sub["sub_A"])
-        sent_B.append(sent_sub["sent_B"])
-        sub_B.append(sent_sub["sub_B"])
+        if sent:
+            sent_sub = get_sent_sub_avg(curr_comp)
+            sent_A.append(sent_sub["sent_A"])
+            sub_A.append(sent_sub["sub_A"])
+            sent_B.append(sent_sub["sent_B"])
+            sub_B.append(sent_sub["sub_B"])
 
         hours.append(curr_hour)
         curr_hour+=1
         
-    print(hours)
     avg_A_st = sum(cov_A_st) / len(cov_A_st)
     avg_A_cos = sum(cov_A_cos) / len(cov_A_cos)
 
@@ -80,13 +89,16 @@ def two_visualizer(path, newsp_A, newsp_B):
 
     avg_both_st = sum(both_cov_standard) / len(both_cov_standard)
     avg_both_cos = sum(both_cov_cos) / len(both_cov_cos)
+
+    if avg_both_cos <= 0:
+        avg_both_cos = 0
     
     df = pd.DataFrame(np.array([both_cov_standard, both_cov_cos]).transpose(), index=range(0, 24), columns= ["standard", "cosine"])
 
     df2 = pd.DataFrame(np.array([cov_A_st, cov_A_cos, cov_B_st, cov_B_cos]).transpose(), index=range(0, 24), columns= [f"{newsp_A} standard", f"{newsp_A} cosine", f"{newsp_B} standard", f"{newsp_B} cosine"])
-
-    df3 = pd.DataFrame(np.array([sent_A, sent_B]).transpose(), index=range(0, 24), columns= [f"{newsp_A}", f"{newsp_B}"])
-    df4 = pd.DataFrame(np.array([sub_A, sub_B]).transpose(), index=range(0, 24), columns= [f"{newsp_A} ", f"{newsp_B}"])
+    if sent:
+        df3 = pd.DataFrame(np.array([sent_A, sent_B]).transpose(), index=range(0, 24), columns= [f"{newsp_A}", f"{newsp_B}"])
+        df4 = pd.DataFrame(np.array([sub_A, sub_B]).transpose(), index=range(0, 24), columns= [f"{newsp_A} ", f"{newsp_B}"])
 
     df5 = pd.DataFrame({'standard': [avg_A_st, avg_B_st, avg_both_st], 'cosine': [avg_A_cos, avg_B_cos, avg_both_cos]}, index=[newsp_A, newsp_B, "Both"])
 
@@ -96,10 +108,12 @@ def two_visualizer(path, newsp_A, newsp_B):
     plt.xticks(df.index, hours)
     df2.plot(title=f"Coverage Graph")
     plt.xticks(df.index, hours)
-    df3.plot(title=f"Average Sentiment Graph")
-    plt.xticks(df.index, hours)
-    df4.plot(title=f"Average Subjectivity Graph")
-    plt.xticks(df.index, hours)
+
+    if sent:
+        df3.plot(title=f"Average Sentiment Graph")
+        plt.xticks(df.index, hours)
+        df4.plot(title=f"Average Subjectivity Graph")
+        plt.xticks(df.index, hours)
 
     df5.plot.pie(subplots=True, figsize=(11, 6), title=f"Average Coverage", autopct='%1.0f%%')
 
