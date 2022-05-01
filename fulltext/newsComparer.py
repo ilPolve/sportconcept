@@ -14,6 +14,8 @@ from datetime import datetime, timedelta
 #The nlp pipeline used in order to get nouns
 NLP = spacy.load("en_core_web_sm")
 
+#The nlp pipeline used for ansa-agi testing in original language
+TEST_NLP = spacy.load("it_core_news_md")
 
 #The output base directory
 OUT_DIR = f"./full_compared"
@@ -22,7 +24,7 @@ OUT_DIR = f"./full_compared"
 BASE_DIR = f"./NER"
 
 #The output base directory
-COMPARED = f"./full_compared"
+COMPARED = f"./full_compared/"
 
 #The english-to translated fields' prefix
 ENGLISH_PREFIX = "en_"
@@ -34,6 +36,10 @@ HOUR_RANGE = 1
 FIELDS_TO_NLP = ["en_title", "en_subtitle", "en_content"]
 
 COSINE_FIELDS_TO_NLP = ["en_content"]
+
+TEST_FIELDS = ["title", "subtitle", "content"]
+
+TEST_COSINE_FIELDS = ["content"]
 
 #Pos-Tagging right positions for comparison
 COMP_POS = ["NOUN", "PROPN"]
@@ -58,22 +64,39 @@ vectorizer = TfidfVectorizer()
 
 #Called with arguments like: path_newspaper_A path_newspaper_B date hour
 def main():
-    if len(sys.argv) < 5:
-        raise Exception("Too few arguments.")
-    else:
-        if len(sys.argv) > 5 and sys.argv[5] == "-c":
-            full_comparer(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], cosine=True)
-        else:
-            full_comparer(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
+    # if len(sys.argv) < 5:
+    #     raise Exception("Too few arguments.")
+    # else:
+    #     if len(sys.argv) > 5 and sys.argv[5] == "-c":
+    #         full_comparer(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], cosine=True)
+    #     else:
+    #         full_comparer(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
+    test_comparer_launch("flow/IT/ANSA_2/2022-04-29T22.25.01E1651271101.850048.json", "flow/IT/AGI_2/2022-04-29T22.33.03E1651271583.013622.json")
 
 def full_comparer(newsp_A, newsp_B, date, hour, cosine=False):
     VISUAL_FILE = to_visual_getter()
     news_A = multi_news_getter(newsp_A, int(hour), date)
     news_B = multi_news_getter(newsp_B, int(hour), date)
-    VISUAL_FILE, comparison = news_comparer(news_A, news_B, cosine)
+    comparison = test_comparer(news_A, news_B, cosine)
     jsonizer(comparison, path_formatter(newsp_A, newsp_B, date, hour, cosine))
     #print(VISUAL_FILE)
     #jsonizer(VISUAL_FILE, VISUAL_PATH)
+
+def test_comparer_launch(newsp_A, newsp_B, date, hour, cosine=False):
+    news_A = test_getter(newsp_A)
+    news_B = test_getter(newsp_B)
+    comparison = test_comparer(news_A, news_B, cosine=False)
+    jsonizer(comparison, "")
+
+def test_getter(path):
+    to_get_dir = f"{BASE_DIR}/{path}"
+    to_get = {}
+    with open(to_get_dir, "r") as f:
+        try:
+            to_get = json.load(f)
+        except:
+            raise Exception("Could not read file from the given directory: " + to_get_dir + ".")
+    return to_get
 
 def to_visual_getter():
     to_ret = {}
@@ -126,10 +149,126 @@ def news_getter(subdir, to_append, got_titles):
         except:
             raise Exception("Could not read file from the given directory: " + to_get_dir + ".")
     for single_news in to_get:
-        if not single_news['en_title'] in got_titles:
-            got_titles.append(single_news['en_title'])
+        if not single_news['title'] in got_titles:
+            got_titles.append(single_news['title'])
             to_append.append(single_news)
     return to_append
+
+
+def test_comparer(news_A, news_B, cosine=False):
+    to_ret = defaultdict(dict)
+    found_A = [False] * len(news_A)
+    found_B = [False] * len(news_B)
+    to_ret["len_A"] = len(news_A)
+    to_ret["len_B"] = len(news_B)
+    to_ret["coupled_A"] = 0
+    to_ret["coupled_B"] = 0
+    to_ret["covered_A_percent"] = 0
+    to_ret["covered_B_percent"] = 0
+    to_ret["covered_both_percent"] = 0
+
+    for i in range(len(news_A)):
+        if not cosine:
+            concepts_A = test_get_concepts(news_A[i])
+
+        for j in range(len(news_B)):
+            if not cosine:
+                concepts_B = test_get_concepts(news_B[j])
+
+            if not cosine:
+                to_ret[news_A[i]["title"]][news_B[j]["title"]] = test_single_comparer(concepts_A, news_A[i], concepts_B, news_B[j])
+            else:
+                to_ret[news_A[i]["title"]][news_B[j]["title"]] = test_cosine_comparer(news_A[i], news_B[j])
+
+            if to_ret[news_A[i]["title"]][news_B[j]["title"]]["are_similar"]:
+                found_A[i] = found_B[j] = True
+    
+    to_ret["coupled_A"] = sum(found_A)
+    to_ret["coupled_B"] = sum(found_B)
+    
+    total_news = len(news_A) + len(news_B)
+        
+    to_ret["covered_A_percent"] = (len(found_A) - to_ret["coupled_A"]) / total_news * 100
+    to_ret["covered_B_percent"] = (len(found_B) - to_ret["coupled_B"]) / total_news * 100
+    to_ret["covered_both_percent"] = (100 - (to_ret['covered_A_percent'] + to_ret['covered_B_percent']))
+    return to_ret
+
+def test_get_concepts(news):
+    to_ret = []
+    for field in TEST_FIELDS:
+        if field in news:
+            doc_title = TEST_NLP(news[field])
+            for t_token in doc_title:
+                if t_token.pos_ in COMP_POS and t_token.text:
+                    to_ret.append(t_token.text)
+    return to_ret
+
+def test_single_comparer(concepts_A, news_A, concepts_B, news_B):
+    simil_concepts= []
+    for concept_A in concepts_A:
+        for concept_B in concepts_B:
+            if concept_A == concept_B and concept_A not in simil_concepts:
+                simil_concepts.append(concept_A)
+    
+    return test_comparison_object_constructor(simil_concepts, len(simil_concepts), cosine=False, max_news_len=(len(concepts_A) + len(concepts_B))/2)
+
+def test_cosine_comparer(news_A, news_B):
+    total_similarity = []
+    for field in TEST_COSINE_FIELDS:
+        if news_A[field] != "" and news_B[field] != "":
+            field_A = news_A[field]
+            field_B = news_B[field]
+            corpus = [field_A, field_B]
+            X_train_counts = count_vect.fit_transform(corpus)
+            pd.DataFrame(X_train_counts.toarray(), columns = count_vect.get_feature_names_out(), index=['field_A', 'field_B'])
+
+            trsfm = vectorizer.fit_transform(corpus)
+            pd.DataFrame(trsfm.toarray(), columns = vectorizer.get_feature_names_out(), index=['field_A', 'field_B'])
+
+            similarity = cosine_similarity(trsfm[0:1], trsfm)
+            total_similarity.append(similarity[0][1] * 100)
+    medium_similarity = 0
+    if len(total_similarity) > 0:
+        for single_simil in total_similarity:
+            medium_similarity += single_simil
+        medium_similarity = medium_similarity / len(total_similarity)
+
+
+
+    return test_comparison_object_constructor([], medium_similarity, cosine= True)
+
+
+def test_comparison_object_constructor(simil_concepts, simil_concepts_length, cosine= False, max_news_len= 0):
+    to_ret= {}
+
+
+    to_ret["are_similar"] = True if ((not cosine and are_similar_naive(simil_concepts_length, max_news_len)) or (cosine and simil_concepts_length >= COSINE_SIMIL_LOWER_BOUND)) else False
+    to_ret["similar_concepts_number" if not cosine else "similarity_percentage"] = simil_concepts_length
+    to_ret["simil_concepts"] = simil_concepts
+    # if ((not cosine and are_similar_naive(simil_concepts_length, max_news_len)) or (cosine and simil_concepts_length >= COSINE_SIMIL_LOWER_BOUND)):
+    #     my_obj = {}
+    #     if not VISUAL_FILE[news_A["source"]]:
+    #         VISUAL_FILE[news_A["source"]] = defaultdict(dict)
+    #     if not VISUAL_FILE[news_B["source"]]:
+    #         VISUAL_FILE[news_B["source"]] = defaultdict(dict)
+    #     if not news_A["en_title"] in VISUAL_FILE[news_A["source"]]:
+    #         VISUAL_FILE[news_A["source"]][news_A["en_title"]]= []
+    #     elif VISUAL_FILE[news_A["source"]][news_A["en_title"]] == "not paired":
+    #         VISUAL_FILE[news_A["source"]][news_A["en_title"]]= []
+    #     if not news_B["en_title"] in VISUAL_FILE[news_B["source"]]:
+    #         VISUAL_FILE[news_B["source"]][news_B["en_title"]] = []
+    #     elif VISUAL_FILE[news_B["source"]][news_B["en_title"]] == "not paired":
+    #         VISUAL_FILE[news_B["source"]][news_B["en_title"]] = []
+    #     VISUAL_FILE[news_A["source"]][news_A["en_title"]].append({"url_A": news_A["news_url"], "news_B": news_B["en_title"], "url_B": news_B["news_url"]})
+    #     VISUAL_FILE[news_B["source"]][news_B["en_title"]].append({"url_A": news_B["news_url"], "news_B": news_A["en_title"], "url_B": news_A["news_url"]})
+    # else:
+    #     if news_A["en_title"] not in VISUAL_FILE[news_A["source"]]:
+    #         VISUAL_FILE[news_A["source"]][news_A["en_title"]] = "not paired"
+    #     if news_B["en_title"] not in VISUAL_FILE[news_B["source"]]:
+    #         VISUAL_FILE[news_B["source"]][news_B["en_title"]] = "not paired"
+
+    return to_ret
+
 
 
 def news_comparer(news_A, news_B, cosine=False):

@@ -6,7 +6,7 @@ from newsComparer import full_comparer
 
 BASE_URL = f"flow/"
 
-TO_DO = ["IT/ANSA", "IT/AGI"]
+TO_DO = ["IT/ANSA_ITA", "IT/AGI_ITA"]
 
 DATES = ["2022-04-29", "2022-04-28"]
 
