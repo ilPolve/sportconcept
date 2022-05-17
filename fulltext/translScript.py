@@ -13,7 +13,7 @@ CHECK_DIR = "./translated"
 
 #TO_DO = ["EN/CNN", "FR/France24", "DE/Spiegel", "IT/ilPost", "IT/Televideo", "ES/ABC", "EN/BBC"]
 
-TO_DO = ["IT/AGI", "IT/ANSA"]
+TO_DO = ["IT/AGI_Cronaca", "IT/AGI_Esteri", "IT/AGI_Politica", "IT/ANSA_Cronaca", "IT/ANSA_Esteri", "IT/ANSA_Politica",]
 
 def main():
     for mydir in TO_DO:
@@ -23,7 +23,7 @@ def dir_translator(dir):
     for subdir in os.scandir(f"{GET_DIR}/{dir}"):
         print(subdir.name[len(subdir.name)-5:])
         if new_trans_check(dir, subdir.name):
-            if "2022" in subdir.name and "04" in subdir.name:
+            if "2022" in subdir.name and "05" in subdir.name:
                 print(subdir.name)
                 full_translator(f"{dir}/{subdir.name}")
                 full_recognizer(f"{dir}/{subdir.name}", sentiment=1)
