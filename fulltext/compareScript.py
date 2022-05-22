@@ -6,15 +6,11 @@ from newsComparer import full_comparer
 
 BASE_URL = f"flow/"
 
-TO_DO = [[["IT/ANSA_Cronaca", "IT/ANSA_Politica", "IT/ANSA_Esteri"], ["IT/AGI_Cronaca", "IT/AGI_Politica", "IT/AGI_Esteri"]],
-        [["IT/ANSA_Cronaca"], ["IT/AGI_Cronaca"]],
-        [["IT/ANSA_Politica"], ["IT/AGI_Politica"]],
-        [["IT/ANSA_Esteri"], ["IT/AGI_Esteri"]]]
+TO_DO = [[["IT/ANSA_Cronaca", "IT/ANSA_Politica"], ["IT/AGI_Cronaca", "IT/AGI_Politica"]],
+         [["IT/ANSA_Esteri", "IT/ANSA_Politica"], ["IT/AGI_Politica", "IT/AGI_Esteri"]]]
     
-PATHS = [["IT/ANSA_CrEsPo", "IT/AGI_CrEsPo"],
-         ["IT/ANSA_Cronaca", "IT/AGI_Cronaca"],
-         ["IT/ANSA_Politica", "IT/AGI_Politica"],
-         ["IT/ANSA_Esteri", "IT/AGI_Esteri"]]
+PATHS = [["IT/ANSA_CrPo", "IT/AGI_CrPo"],
+         ["IT/ANSA_EsPo", "IT/AGI_EsPo"]]
 
 DATES = ["2022-05-11", "2022-05-12"]
 
@@ -25,14 +21,13 @@ DONE = []
 def main():
     z= 0
     for couple in TO_DO:
-        for slice in range(1,8):
-            for i in range(0, len(couple)):
-                for j in range(i+1, len(couple)):
-                    if f"{BASE_URL}{couple[i]} - {BASE_URL}{couple[j]}" not in DONE:
-                        print(f"{couple[i]} - {couple[j]}")
-                        #np_comparer(TO_DO[i], TO_DO[j])
-                        fullday_comparer(couple[i], couple[j], PATHS[z][0], PATHS[z][1], slice)
-        z+=1
+        for i in range(0, len(couple)):
+            for j in range(i+1, len(couple)):
+                if f"{BASE_URL}{couple[i]} - {BASE_URL}{couple[j]}" not in DONE:
+                    print(f"{couple[i]} - {couple[j]}")
+                    #np_comparer(TO_DO[i], TO_DO[j])
+                    fullday_comparer(couple[i], couple[j], PATHS[z][0], PATHS[z][1], 8)
+    z+=1
 
 def np_comparer(newsp_A, newsp_B):
     curr_date = DATES[0]

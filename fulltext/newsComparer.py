@@ -54,7 +54,7 @@ count_vect = CountVectorizer()
 #Sklearn Vectorizer
 vectorizer = TfidfVectorizer()
 
-CURRENT_LONGER = "AGI"
+CURRENT_LONGER = "ANSA"
 CURRENT_SLICE = 1
 
 #Called with arguments like: path_newspaper_A path_newspaper_B date hour
@@ -88,7 +88,7 @@ def full_comparer(newsp_A, newsp_B, date, hour, cosine=False, PATH_A="", PATH_B=
         VISUAL_PATH = VISUAL_PATH.replace("st", "cos")
     else:
         VISUAL_PATH = VISUAL_PATH.replace("cos", "st")
-    jsonizer(VISUAL_FILE, f"{OUT_DIR}/{max(PATH_A, PATH_B)}/{min(PATH_A, PATH_B)}/{date}/{VISUAL_PATH}")
+    #jsonizer(VISUAL_FILE, f"{OUT_DIR}/{max(PATH_A, PATH_B)}/{min(PATH_A, PATH_B)}/{date}/{VISUAL_PATH}")
 
 def to_visual_getter(vispath):
     to_ret = {}
@@ -268,27 +268,27 @@ def comparison_object_constructor(news_A, news_B, simil_concepts_length, simil_c
     to_ret["subjectivity_Y"] = subjectivity_B
     to_ret["simil_concepts"] = simil_concepts
 
-    if ((not cosine and are_similar_naive(simil_concepts_length, max_news_len)) or (cosine and simil_concepts_length >= COSINE_SIMIL_LOWER_BOUND)):
-        my_obj = {}
-        if not VISUAL_FILE[news_A["source"]]:
-            VISUAL_FILE[news_A["source"]] = defaultdict(dict)
-        if not VISUAL_FILE[news_B["source"]]:
-            VISUAL_FILE[news_B["source"]] = defaultdict(dict)
-        if not news_A["en_title"] in VISUAL_FILE[news_A["source"]]:
-            VISUAL_FILE[news_A["source"]][news_A["en_title"]]= []
-        elif VISUAL_FILE[news_A["source"]][news_A["en_title"]] == "not paired":
-            VISUAL_FILE[news_A["source"]][news_A["en_title"]]= []
-        if not news_B["en_title"] in VISUAL_FILE[news_B["source"]]:
-            VISUAL_FILE[news_B["source"]][news_B["en_title"]] = []
-        elif VISUAL_FILE[news_B["source"]][news_B["en_title"]] == "not paired":
-            VISUAL_FILE[news_B["source"]][news_B["en_title"]] = []
-        VISUAL_FILE[news_A["source"]][news_A["en_title"]].append({"url_A": news_A["news_url"], "placed_A": news_A["placed"], "hour_A": news_A["date_raw"], "news_B": news_B["en_title"], "url_B": news_B["news_url"], "placed_B": news_B["placed"], "hour_B": news_B["date_raw"]})
-        VISUAL_FILE[news_B["source"]][news_B["en_title"]].append({"url_A": news_B["news_url"], "placed_A": news_B["placed"], "hour_A": news_B["date_raw"], "news_B": news_A["en_title"], "url_B": news_A["news_url"], "placed_B": news_A["placed"], "hour_B": news_A["date_raw"]})
-    else:
-        if news_A["en_title"] not in VISUAL_FILE[news_A["source"]]:
-            VISUAL_FILE[news_A["source"]][news_A["en_title"]] = "not paired"
-        if news_B["en_title"] not in VISUAL_FILE[news_B["source"]]:
-            VISUAL_FILE[news_B["source"]][news_B["en_title"]] = "not paired"
+    # if ((not cosine and are_similar_naive(simil_concepts_length, max_news_len)) or (cosine and simil_concepts_length >= COSINE_SIMIL_LOWER_BOUND)):
+    #     my_obj = {}
+    #     if not VISUAL_FILE[news_A["source"]]:
+    #         VISUAL_FILE[news_A["source"]] = defaultdict(dict)
+    #     if not VISUAL_FILE[news_B["source"]]:
+    #         VISUAL_FILE[news_B["source"]] = defaultdict(dict)
+    #     if not news_A["en_title"] in VISUAL_FILE[news_A["source"]]:
+    #         VISUAL_FILE[news_A["source"]][news_A["en_title"]]= []
+    #     elif VISUAL_FILE[news_A["source"]][news_A["en_title"]] == "not paired":
+    #         VISUAL_FILE[news_A["source"]][news_A["en_title"]]= []
+    #     if not news_B["en_title"] in VISUAL_FILE[news_B["source"]]:
+    #         VISUAL_FILE[news_B["source"]][news_B["en_title"]] = []
+    #     elif VISUAL_FILE[news_B["source"]][news_B["en_title"]] == "not paired":
+    #         VISUAL_FILE[news_B["source"]][news_B["en_title"]] = []
+    #     VISUAL_FILE[news_A["source"]][news_A["en_title"]].append({"url_A": news_A["news_url"], "placed_A": news_A["placed"], "hour_A": news_A["date_raw"], "news_B": news_B["en_title"], "url_B": news_B["news_url"], "placed_B": news_B["placed"], "hour_B": news_B["date_raw"]})
+    #     VISUAL_FILE[news_B["source"]][news_B["en_title"]].append({"url_A": news_B["news_url"], "placed_A": news_B["placed"], "hour_A": news_B["date_raw"], "news_B": news_A["en_title"], "url_B": news_A["news_url"], "placed_B": news_A["placed"], "hour_B": news_A["date_raw"]})
+    # else:
+    #     if news_A["en_title"] not in VISUAL_FILE[news_A["source"]]:
+    #         VISUAL_FILE[news_A["source"]][news_A["en_title"]] = "not paired"
+    #     if news_B["en_title"] not in VISUAL_FILE[news_B["source"]]:
+    #         VISUAL_FILE[news_B["source"]][news_B["en_title"]] = "not paired"
 
     return to_ret
 
