@@ -1,0 +1,584 @@
+[
+    {
+        "title": "Austria:risolto il giallo dello scheletro in tenda in Tirolo",
+        "date_raw": "Thu, 12 May 2022 15:45:49 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2022/05/12/austriarisolto-il-giallo-dello-scheletro-in-tenda-in-tirolo_b0626e1b-cccf-4853-9451-6f5e779160f5.html",
+        "subtitle": "Era un ladro in fuga, morto alcuni anni fa",
+        "content": "\n            \n            (ANSA) - BOLZANO, 12 MAG - E' risolto il giallo dello\nscheletro trovato tre settimane fa da alcuni rocciatori in una\ntenda ai piedi di una parete in Tirolo. I resti umani\nappartengono a un ladro in fuga. Il decesso - così le autorità\naustriache - risale ad alcuni anni fa.   \n\t\t\t\t    Il malvivente, nato nel 1963, era stato condannato nel 2015\nin contumacia a due anni di carcere per furti in casa, ma non si\nera mai presentato in carcere per scontare la pena. L'uomo\n'travestito' da climber probabilmente aveva sperato di far\nperdere le sue tracce. Evidentemente viveva nella tenda ai piedi\ndella Martinswand nei pressi di Innsbruck, dove è deceduto per\nmotivi ancora non noti. Gli inquirenti escludono comunque un\ndelitto. La salma è stata identificata grazie all'esame del dna.   \n\t\t\t\t\"Nel posto, nel quale è stata trovata la tenda, in cent'anni non\npassa nessuno\", racconta una persona del luogo al tabloid Kronen\nZeitung. (ANSA).   \n\t\t\t\t          ",
+        "ranked": 11,
+        "placed": "Esteri",
+        "epoch": 1652392036.501299,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Austria:Resolved yellow skeleton in tent in Tirol",
+        "en_content": "(ANSA) - BOLZANO, 12 MAG - The yellow of\nskeleton found three weeks ago by some rockers in a\ntent at the foot of a wall in Tyrol. Human remains\nbelong to a thief on the run. The death - so the authorities\nAustrian - dates back to a few years ago.\nThe Malvivent, born in 1963, had been convicted in 2015\nin contumacia to two years in prison for theft in the house, but you do not\nHe was never put in jail to take the penalty. The man\n'travestite' by climber probably had hoped to make\nlose his tracks. Evidently he lived in the tent at his feet\nMartinswand near Innsbruck, where he died for\nreasons still not known. The polluters still exclude a\nRight. The body has been identified thanks to the DNA exam.\n\"In the place, where the tent was found, in hundred years not\npasses no one\", tells a person of the place at the tabloid Kronen\nZeitung. (ANSA).\n",
+        "en_subtitle": "He was a running thief, dead a few years ago.",
+        "overall_polarity": -0.04682539682539683,
+        "overall_subjectivity": 0.14206349206349206,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Austria",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tirol",
+                "start_char": 44,
+                "end_char": 49,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_polarity": -0.2,
+        "subtitle_subjectivity": 0.25,
+        "subtitle_NER": [
+            {
+                "word": "a few years ago",
+                "start_char": 29,
+                "end_char": 44,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_polarity": 0.05952380952380951,
+        "content_subjectivity": 0.17619047619047618,
+        "content_NER": [
+            {
+                "word": "12",
+                "start_char": 18,
+                "end_char": 20,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG",
+                "start_char": 21,
+                "end_char": 24,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "three weeks ago",
+                "start_char": 56,
+                "end_char": 71,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Tyrol",
+                "start_char": 123,
+                "end_char": 128,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Austrian",
+                "start_char": 205,
+                "end_char": 213,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "a few years ago",
+                "start_char": 230,
+                "end_char": 245,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1963",
+                "start_char": 270,
+                "end_char": 274,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2015",
+                "start_char": 298,
+                "end_char": 302,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two years",
+                "start_char": 320,
+                "end_char": 329,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Innsbruck",
+                "start_char": 561,
+                "end_char": 570,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "hundred years",
+                "start_char": 749,
+                "end_char": 762,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Kronen",
+                "start_char": 826,
+                "end_char": 832,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    },
+    {
+        "title": "Zelensky, pronto a parlare con Putin ma senza ultimatum",
+        "date_raw": "Thu, 12 May 2022 16:21:42 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2022/05/12/zelensky-pronto-a-parlare-con-putin-ma-senza-ultimatum_5bb85a33-fea4-488d-909d-057909d2012d.html",
+        "subtitle": "Ma la questione si complica ogni giorno con uccisioni e torture",
+        "content": "\n            \n            (ANSA) - ROMA, 12 MAG - \"Per quel che riguarda le trattative\ncon la Russia, la questione si complica ogni giorno perché ogni\ngiorno i russi occupano villaggi, perché molte persone hanno\nlasciato le loro case, sono state uccise dai russi e vedo tracce\ndi torture e uccisioni. Questo complica molto la possibilità di\ncondurre trattative, vogliamo che capiate che la nostra società\nè molto pacifica, da otto anni volevamo fare una trattativa. Io\nsono pronto a parlare con Putin, ma senza ultimatum\". Lo ha\ndetto il premier ucraino Volodymyr Zelensky intervistato da\nBruna Vespa a Porta a Porta.   \n\t\t\t\t\"Noi non dobbiamo cercare una via d'uscita per la Russia. So che\nPutin voleva portare a casa qualche risultato ma non lo ha\ntrovato. Proporre a noi di cedere qualcosa per salvare la faccia\ndel presidente russo non è corretto da parte di alcuni leader,\nnon siamo pronti a salvare la faccia a qualcuno pagando con i\nnostri territori, non penso sia una cosa giusta\". Lo ha detto il\npremier ucraino Volodymyr Zelensky intervistato da Bruno Vespa a\nPorta a Porta. (ANSA).   \n\t\t\t\t          ",
+        "ranked": 10,
+        "placed": "Esteri",
+        "epoch": 1652392036.5863612,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Zelensky, ready to talk to Putin but without ultimatum",
+        "en_content": "(ANSA) - ROMA, 12 MAG - \"As regards negotiations\nwith Russia, the question gets complicated every day because every\nday the Russians occupy villages, because many people have\nleft their homes, were killed by the Russians and I see traces\ntorture and murder. This complicates the possibility of\nconduct negotiations, we want you to understand that our society\nIt is very peaceful, for eight years we wanted to make a negotiation. I\nI'm ready to talk to Putin, but without ultimatum.\" He did.\nsaid Ukrainian Premier Volodymyr Zelensky interviewed by\nVespa to Porta a Porta.\n\"We don't have to look for a way out for Russia. I know\nPutin wanted to bring home some results but he didn't.\nfound. Propose us to give up something to save the face\nof the Russian president is not correct by some leaders,\nwe are not ready to save someone's face by paying with\nI don't think it's right.\" He said that\nUkrainian Premier Volodymyr Zelensky interviewed by Bruno Vespa to\nTake the door. (ANSA).\n",
+        "en_subtitle": "But the matter gets complicated every day with killing and torture",
+        "overall_polarity": -0.08108465608465608,
+        "overall_subjectivity": 0.6365079365079365,
+        "title_polarity": 0.2,
+        "title_subjectivity": 0.5,
+        "title_NER": [
+            {
+                "word": "Zelensky",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Putin",
+                "start_char": 27,
+                "end_char": 32,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_polarity": -0.5,
+        "subtitle_subjectivity": 1.0,
+        "subtitle_NER": [
+            {
+                "word": "every day",
+                "start_char": 32,
+                "end_char": 41,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_polarity": 0.05674603174603174,
+        "content_subjectivity": 0.4095238095238095,
+        "content_NER": [
+            {
+                "word": "12",
+                "start_char": 15,
+                "end_char": 17,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG",
+                "start_char": 18,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russia",
+                "start_char": 54,
+                "end_char": 60,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "every day",
+                "start_char": 92,
+                "end_char": 101,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Russians",
+                "start_char": 124,
+                "end_char": 132,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russians",
+                "start_char": 212,
+                "end_char": 220,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "eight years",
+                "start_char": 384,
+                "end_char": 395,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Putin",
+                "start_char": 452,
+                "end_char": 457,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 496,
+                "end_char": 505,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Volodymyr Zelensky",
+                "start_char": 514,
+                "end_char": 532,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Porta a Porta",
+                "start_char": 557,
+                "end_char": 570,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 613,
+                "end_char": 619,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Putin",
+                "start_char": 628,
+                "end_char": 633,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russian",
+                "start_char": 746,
+                "end_char": 753,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 891,
+                "end_char": 900,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Volodymyr Zelensky",
+                "start_char": 909,
+                "end_char": 927,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bruno Vespa",
+                "start_char": 943,
+                "end_char": 954,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Zelensky, non riconosceremo mai la Crimea russa",
+        "date_raw": "Thu, 12 May 2022 16:35:37 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2022/05/12/zelensky-non-riconosceremo-mai-la-crimea-russa_d6d126cf-9c9f-4270-b405-4e8ccd1eae94.html",
+        "subtitle": "'Mai detto questo,semmai lasciare la questione da parte per ora'",
+        "content": "\n            \n            (ANSA) - ROMA, 12 MAG - \"Non ho mai parlato di riconoscere\nl'indipendenza della Crimea, non la riconosceremo mai come parte\ndella Federazione russa\". Lo ha detto il premier ucraino\nVolodymyr Zelensky intervistato da Bruno Vespa a Porta a Porta.   \n\t\t\t\t\"Anche prima della guerra - ha aggiunto - la Crimea aveva\nautonomia, ma è sempre stato territorio ucraino. Noi abbiamo\ndetto che siamo pronti a parlare con la Russia. Ora non possiamo\ndeliberare una decisione sulla Crimea perché c'è la guerra, la\nlasciamo da parte se ostacola l'incontro e credo che questa\nproposta sia stata giusta\". (ANSA).   \n\t\t\t\t          ",
+        "ranked": 9,
+        "placed": "Esteri",
+        "epoch": 1652392036.6001875,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Zelensky, we will never recognize the Russian Crimea",
+        "en_content": "(ANSA) - ROMA, 12 MAG - \"I have never talked about recognizing\nthe independence of Crimea, we will never recognize it as part\nof the Russian Federation.\" That's what the Ukrainian prime minister said.\nVolodymyr Zelensky interviewed by Bruno Vespa at Porta a Porta.\n\"Even before the war - he added - Crimea had\nautonomy, but it has always been Ukrainian territory. We have\nsaid we are ready to talk to Russia. Now we can't\ndeliberate a decision on Crimea because there is war, the\nWe leave aside if it hinders the meeting and I believe this\nit was right.\" (ANSA).\n",
+        "en_subtitle": "'Never said this, if anything leave the matter aside for now'",
+        "overall_polarity": 0.05396825396825397,
+        "overall_subjectivity": 0.11507936507936506,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Zelensky",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russian",
+                "start_char": 38,
+                "end_char": 45,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": 0.1619047619047619,
+        "content_subjectivity": 0.3452380952380952,
+        "content_NER": [
+            {
+                "word": "12",
+                "start_char": 15,
+                "end_char": 17,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG",
+                "start_char": 18,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Crimea",
+                "start_char": 83,
+                "end_char": 89,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Russian Federation",
+                "start_char": 129,
+                "end_char": 151,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 170,
+                "end_char": 179,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Volodymyr Zelensky",
+                "start_char": 201,
+                "end_char": 219,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bruno Vespa",
+                "start_char": 235,
+                "end_char": 246,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Porta a Porta",
+                "start_char": 250,
+                "end_char": 263,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 343,
+                "end_char": 352,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russia",
+                "start_char": 401,
+                "end_char": 407,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Crimea",
+                "start_char": 447,
+                "end_char": 453,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Israele approva oltre 4.000 case in insediamenti ebraici",
+        "date_raw": "Thu, 12 May 2022 17:42:58 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2022/05/12/israele-approva-oltre-4.000-case-in-insediamenti-ebraici_2c6a159d-c218-46ab-a89c-6ef7b52710a7.html",
+        "subtitle": "Lo riferisce Haaretz",
+        "content": "\n            \n            (ANSAmed) - TEL AVIV, 12 MAG - Oltre 4.000 alloggi per\nisraeliani residenti in Cisgiordania sono stati approvati oggi\ndalla Commissione suprema per la progettazione, un ente che\ndipende dal ministero della difesa israeliano. Lo riferisce\nHaaretz. Di questi, 2.684 hanno ricevuto una approvazione\ndefinitiva, mentre per altri 1.636 si tratta solo della fase\npreliminare di un iter burocratico. Haaretz aggiunge che in\nquesta occasione è stato anche formalizzato lo status di tre\npiccoli avamposti ebraici, in uno dei quali sarà costruito un\nalbergo con 180 stanze. (ANSAmed).   \n\t\t\t\t          ",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1652392036.6131036,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Israel approves over 4,000 Jewish settlement houses",
+        "en_content": "(ANSAmed) - TEL AVIV, 12 MAG - More than 4,000 accommodation units\nIsraeli residents in the West Bank were approved today\nby the Supreme Commission for Design, a body which\ndepends on the Israeli defense ministry. It refers\nHaaretz. Of these, 2.684 received approval\nthe final, while for another 1.636 it is only the phase\na bureaucratic iter. Haaretz adds that in\nthis occasion was also formalized the status of three\nsmall Jewish outposts, in one of which will be built a\nhotel with 180 rooms. (ANSAmed).\n",
+        "en_subtitle": "Haaretz reports",
+        "overall_polarity": 0.016666666666666666,
+        "overall_subjectivity": 0.19333333333333333,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Israel",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "4,000",
+                "start_char": 21,
+                "end_char": 26,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Jewish",
+                "start_char": 27,
+                "end_char": 33,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": 0.05,
+        "content_subjectivity": 0.58,
+        "content_NER": [
+            {
+                "word": "12",
+                "start_char": 22,
+                "end_char": 24,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG",
+                "start_char": 25,
+                "end_char": 28,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "More than 4,000",
+                "start_char": 31,
+                "end_char": 46,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Israeli",
+                "start_char": 67,
+                "end_char": 74,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the West Bank",
+                "start_char": 88,
+                "end_char": 101,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 116,
+                "end_char": 121,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Supreme Commission for Design",
+                "start_char": 125,
+                "end_char": 158,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Israeli",
+                "start_char": 188,
+                "end_char": 195,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "2.684",
+                "start_char": 243,
+                "end_char": 248,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1.636",
+                "start_char": 296,
+                "end_char": 301,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Haaretz",
+                "start_char": 344,
+                "end_char": 351,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "three",
+                "start_char": 413,
+                "end_char": 418,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Jewish",
+                "start_char": 425,
+                "end_char": 431,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "one",
+                "start_char": 445,
+                "end_char": 448,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "180",
+                "start_char": 485,
+                "end_char": 488,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    }
+]

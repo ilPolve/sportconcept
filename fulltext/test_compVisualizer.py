@@ -8,6 +8,7 @@ import errno
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+from matplotlib.gridspec import GridSpec
 
 BASE_URL = f"full_compared/"
 
@@ -44,6 +45,9 @@ def two_visualizer(path, longer, analyzed, pre_title):
     excl_st = []
     excl_cos = []
 
+    len_a = []
+    len_b = 0
+
     slices= [f"{START_HOUR}+-{str(slice)}" for slice in SLICES_RANGE]
 
     pathnames_st = get_pathnames(path, "", longer)
@@ -56,10 +60,12 @@ def two_visualizer(path, longer, analyzed, pre_title):
         excl_st.append(get_exclusivity(curr_comp_st, analyzed))
         excl_cos.append(get_exclusivity(curr_comp_cos, analyzed))
 
-    df = pd.DataFrame(np.array([excl_st, excl_cos]).transpose(), index= range(0, 7), columns= [f"{analyzed} exclusivity standard", f"{analyzed} exclusivity cosine"])
+        changed, len_b = get_length(curr_comp_st, longer, analyzed)
 
-    plt.figure()
-    plt.subplot()
+        len_a.append(changed)
+
+
+    df = pd.DataFrame(np.array([excl_st, excl_cos]).transpose(), index= range(0, 7), columns= [f"Standard Algorithm", f"Cosine Algorithm"])
 
     cell_text= []
     for row in range(len(df)):
@@ -70,12 +76,27 @@ def two_visualizer(path, longer, analyzed, pre_title):
     table.set_fontsize(14)
     table.scale(1, 3)
 
-    plt.subplot()
+    fig = plt.figure(constrained_layout=True)
 
-    df.plot(title=f"{pre_title} {longer} Longer Slices")
-    plt.xticks(df.index, slices)
+    gs= GridSpec(2,2, figure=fig)
 
-    
+
+    fig.suptitle(f"\n{pre_title} cluster: {longer} grower, {analyzed} pivot\n", fontsize=16)
+    fig.tight_layout()
+    ax1= fig.add_subplot(gs[0:, 0])
+    ax2= fig.add_subplot(gs[0, 1])
+    ax3= fig.add_subplot(gs[1, 1])
+
+    plt1 = df.plot(title=f"{analyzed} exclusivity percentage\n", ax=ax1, style='o-')
+    ax1.set_xticks(df.index, slices)
+    table2 = ax2.table(cellText= np.array([len_a]).transpose(), colLabels=[f"Changing number of {longer} news"], rowLabels=slices, colWidths=[0.9], loc='center')
+    ax2.axis('off')
+    table2.auto_set_font_size(False)
+    table2.set_fontsize(12)
+    table2.auto_set_column_width(col=list(range(1)))
+    table2.scale(1, 2)
+    ax3.text(0.4, 0.8, f"Number of {analyzed} news: {len_b}", va="center", ha="center", size=14)
+    ax3.axis('off')
     plt.show()
 
 def get_pathnames(base, prefix, longer):
@@ -94,6 +115,9 @@ def file_open(path):
 
 def get_exclusivity(comp, analyzed):
     return comp[f"exclusivity_{LONG_TO_AB[analyzed]}_percent"]
+
+def get_length(comp, longer, analyzed):
+    return comp[f"len_{LONG_TO_AB[longer]}"], comp[f"len_{LONG_TO_AB[analyzed]}"]
 
 if __name__ == '__main__':
     main()

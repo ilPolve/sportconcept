@@ -1,0 +1,539 @@
+[
+    {
+        "title": "Mosca, sale rischio scontro Russia-Nato e guerra nucleare",
+        "date_raw": "Thu, 12 May 2022 11:02:58 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2022/05/12/mosca-sale-rischio-scontro-russia-nato-e-guerra-nucleare_1ca0e251-28da-4acd-bacf-c472c4aa6d79.html",
+        "subtitle": "Medvedev, 'se la Nato continua ad armare Kiev'",
+        "content": "\n            \n            (ANSA) - ROMA, 12 MAG - \"Riempire l'Ucraina di armi dei Paesi\nNato, addestrare le sue truppe all'uso di equipaggiamenti\noccidentali, schierare mercenari e tenere esercitazioni ai\nconfini aumenta la probabilità di un conflitto aperto e diretto\ntra Russia e Nato\". Lo ha detto il vice presidente del Consiglio\ndi sicurezza russo Dmitry Medvedev, secondo quanto riportano\nTass e Interfax, aggiungendo che \"un simile conflitto ha sempre\nil rischio di trasformarsi in una guerra nucleare totale.   \n\t\t\t\tSarebbe uno scenario disastroso per tutti\". (ANSA).   \n\t\t\t\t          ",
+        "ranked": 8,
+        "placed": "Esteri",
+        "epoch": 1652363105.9877613,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Moscow, Russia-Nato risk salt and nuclear war",
+        "en_content": "(ANSA) - ROMA, 12 MAG - \" Filling Ukraine with arms from countries\nBorn, train his troops to use equipment\nWesterners, deploy mercenaries and hold exercises to\nborders increases the likelihood of an open and direct conflict\nbetween Russia and NATO.\" The Vice President of the Council said so.\nof Russian security Dmitry Medvedev, according to the\nTass and Interfax, adding that \"a similar conflict always has\nthe risk of turning into a total nuclear war.\nIt would be a disaster for everyone.\" (ANSA).\n",
+        "en_subtitle": "Medvedev, 'if NATO continues to arm Kiev'",
+        "overall_polarity": 0.006666666666666667,
+        "overall_subjectivity": 0.13666666666666666,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Moscow",
+                "start_char": 0,
+                "end_char": 6,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russia",
+                "start_char": 8,
+                "end_char": 14,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Nato",
+                "start_char": 15,
+                "end_char": 19,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "subtitle_NER": [
+            {
+                "word": "Medvedev",
+                "start_char": 0,
+                "end_char": 8,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "NATO",
+                "start_char": 14,
+                "end_char": 18,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kiev",
+                "start_char": 36,
+                "end_char": 40,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_polarity": 0.02,
+        "content_subjectivity": 0.41,
+        "content_NER": [
+            {
+                "word": "12",
+                "start_char": 15,
+                "end_char": 17,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG",
+                "start_char": 18,
+                "end_char": 21,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Westerners",
+                "start_char": 107,
+                "end_char": 117,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russia",
+                "start_char": 232,
+                "end_char": 238,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "NATO",
+                "start_char": 243,
+                "end_char": 247,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Council",
+                "start_char": 276,
+                "end_char": 283,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 296,
+                "end_char": 303,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Dmitry Medvedev",
+                "start_char": 313,
+                "end_char": 328,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Tass",
+                "start_char": 347,
+                "end_char": 351,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Interfax",
+                "start_char": 356,
+                "end_char": 364,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Corte Ue condanna Italia, violati limiti qualità dell'aria",
+        "date_raw": "Thu, 12 May 2022 11:00:56 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2022/05/12/corte-ue-condanna-italia-violati-limiti-qualita-dellaria_88dad6c4-3161-488f-8f7a-5a6435958900.html",
+        "subtitle": "'Roma non ha sistematicamente rispettato valori biossido azoto'",
+        "content": "\n            \n            (ANSA) - BRUXELLES, 12 MAG - La Corte di Giustizia Ue ha\naccolto il ricorso della Commissione Ue e ha dichiarato\nl'inadempimento (infrazione) dell'Italia sia per il mancato\nrispetto, \"sistematico e continuativo\", del valore limite\nannuale fissato per il biossido d'azoto in varie zone\nconcernente la qualità dell'aria, sia per la mancata adozione, a\npartire dall'11 giugno 2011, di misure atte a garantire il\nrispetto nelle stesse zone dei valori limite di  NO2.  L'Italia,\nrecita la sentenza della Corte, ha violato gli obblighi. tra le\nzone citate,  negli agglomerati di Torino, Brescia, Milano,\nBergamo, Genova, Roma e Firenze. (ANSA).   \n\t\t\t\t          ",
+        "ranked": 9,
+        "placed": "Esteri",
+        "epoch": 1652363106.0158021,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Court EU condemns Italy, violated air quality limits",
+        "en_content": "(ANSA) - BRUSSELS, 12 MAG - The EU Court of Justice has\nreceived the appeal of the EU Commission and declared\nItaly's failure to fulfil its obligations\nrespect, \"systematic and continuous\", of the limit value\nannual set for nitrogen dioxide in various areas\non air quality, both for failure to adopt,\nfrom 11 June 2011, measures to ensure the\nrespect in the same areas as the NO2 limit values. Italy,\nthe judgment of the Court, has infringed the obligations. between\nareas mentioned, in the agglomerations of Turin, Brescia, Milan,\nBergamo, Genoa, Rome and Florence. (ANSA).\n",
+        "en_subtitle": "'Rome has not systematically respected nitrogen dioxide values'",
+        "overall_polarity": -0.052777777777777785,
+        "overall_subjectivity": 0.10208333333333335,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "EU",
+                "start_char": 6,
+                "end_char": 8,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 18,
+                "end_char": 23,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "subtitle_NER": [
+            {
+                "word": "Rome",
+                "start_char": 1,
+                "end_char": 5,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_polarity": -0.15833333333333335,
+        "content_subjectivity": 0.30625,
+        "content_NER": [
+            {
+                "word": "12",
+                "start_char": 19,
+                "end_char": 21,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG",
+                "start_char": 22,
+                "end_char": 25,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "The EU Court of Justice",
+                "start_char": 28,
+                "end_char": 51,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the EU Commission",
+                "start_char": 79,
+                "end_char": 96,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 110,
+                "end_char": 115,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "annual",
+                "start_char": 209,
+                "end_char": 215,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "11 June 2011",
+                "start_char": 306,
+                "end_char": 318,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "NO2",
+                "start_char": 376,
+                "end_char": 379,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 394,
+                "end_char": 399,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Court",
+                "start_char": 421,
+                "end_char": 426,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Turin",
+                "start_char": 509,
+                "end_char": 514,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Brescia",
+                "start_char": 516,
+                "end_char": 523,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Milan",
+                "start_char": 525,
+                "end_char": 530,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bergamo",
+                "start_char": 532,
+                "end_char": 539,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Genoa",
+                "start_char": 541,
+                "end_char": 546,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rome",
+                "start_char": 548,
+                "end_char": 552,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Florence",
+                "start_char": 557,
+                "end_char": 565,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Finlandia: governo dice 'sì' a ingresso nella Nato",
+        "date_raw": "Thu, 12 May 2022 11:06:30 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2022/05/12/finlandia-governo-dice-si-a-ingresso-nella-nato_59591698-9ff9-4593-9c50-a6f757ef05f3.html",
+        "subtitle": "Governo, adesione \"senza idugio\". Svezia verso domanda lunedì",
+        "content": "\n            \n            (ANSA) - HELSINKY, 12 MAG - Il presidente e il premier\nfinlandesi hanno annunciato oggi in un comunicato di volere\nl'adesione alla Nato \"senza indugio\". La decisione definitiva\nverrà annunciata domenica.   \n\t\t\t\t   Intanto il governo svedese, secondo quanto scrive il\nquotidiano svedese Expressen, che cita fonti anonime, ha\nconvocato una riunione straordinaria per lunedì prossimo per\nprendere una decisione formale sulla domanda di adesione alla\nNato. Immediatamente dopo l'incontro, a meno di imprevisti,\nverrà presentata la domanda. (ANSA).   \n\t\t\t\t          ",
+        "ranked": 7,
+        "placed": "Esteri",
+        "epoch": 1652363106.079539,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Finland: Government says 'yes' in NATO",
+        "en_content": "(ANSA) - HELSINKY, 12 MAG - The President and the Premier\nFinnish have announced today in a communiqué of will\njoining NATO \"without delay\". The final decision\nwill be announced on Sunday.\nIn the meantime, the Swedish government writes\nSwedish daily Expressen, who cites anonymous sources, has\nconvened an extraordinary meeting for next Monday\ntake a formal decision on the application for membership\nBorn. Immediately after the meeting, unless unexpected,\nthe question will be submitted. (ANSA).\n",
+        "en_subtitle": "Government, adhesion \"without idugy\". Sweden on Monday",
+        "overall_polarity": 0.02888888888888889,
+        "overall_subjectivity": 0.19999999999999998,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Finland",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "NATO",
+                "start_char": 34,
+                "end_char": 38,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "subtitle_NER": [
+            {
+                "word": "Sweden",
+                "start_char": 38,
+                "end_char": 44,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Monday",
+                "start_char": 48,
+                "end_char": 54,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "content_polarity": 0.08666666666666667,
+        "content_subjectivity": 0.6,
+        "content_NER": [
+            {
+                "word": "12",
+                "start_char": 19,
+                "end_char": 21,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG",
+                "start_char": 22,
+                "end_char": 25,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Premier",
+                "start_char": 50,
+                "end_char": 57,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Finnish",
+                "start_char": 58,
+                "end_char": 65,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "today",
+                "start_char": 81,
+                "end_char": 86,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "NATO",
+                "start_char": 119,
+                "end_char": 123,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sunday",
+                "start_char": 181,
+                "end_char": 187,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Swedish",
+                "start_char": 210,
+                "end_char": 217,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Swedish",
+                "start_char": 236,
+                "end_char": 243,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "daily Expressen",
+                "start_char": 244,
+                "end_char": 259,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "next Monday",
+                "start_char": 332,
+                "end_char": 343,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    },
+    {
+        "title": "Nato, l'adesione della Finlandia avverrà rapidamente",
+        "date_raw": "Thu, 12 May 2022 12:56:12 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/europa/2022/05/12/nato-ladesione-della-finlandia-avverra-rapidamente_f5b3dc53-8cf3-4286-9d67-04597c0d8889.html",
+        "subtitle": "Lo ha detto il segretario Stoltenberg",
+        "content": "\n            \n            (ANSA) - BRUXELLES, 12 MAG - L'adesione della Finlandia alla\nNato avverrà \"senza intoppi\" e rapidamente: lo ha detto oggi il\nsegretario generale dell'Alleanza, Jens Stoltenberg. (ANSA).   \n\t\t\t\t          ",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1652363106.0986762,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "NATO, Finland's accession will soon",
+        "en_content": "(ANSA) - BRUSSELS, 12 MAG - Finland's accession to\nBorn will happen \"without jams\" and quickly: it said today\nSecretary-General of the Alliance, Jens Stoltenberg. (ANSA).\n",
+        "en_subtitle": "Secretary Stoltenberg said so.",
+        "overall_polarity": 0.1111111111111111,
+        "overall_subjectivity": 0.16666666666666666,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "NATO",
+                "start_char": 0,
+                "end_char": 4,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Finland",
+                "start_char": 6,
+                "end_char": 13,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "subtitle_NER": [
+            {
+                "word": "Stoltenberg",
+                "start_char": 10,
+                "end_char": 21,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "content_polarity": 0.3333333333333333,
+        "content_subjectivity": 0.5,
+        "content_NER": [
+            {
+                "word": "12",
+                "start_char": 19,
+                "end_char": 21,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG - Finland's",
+                "start_char": 22,
+                "end_char": 37,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 104,
+                "end_char": 109,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Alliance",
+                "start_char": 135,
+                "end_char": 143,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Jens Stoltenberg",
+                "start_char": 145,
+                "end_char": 161,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]

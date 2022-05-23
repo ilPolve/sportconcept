@@ -68,27 +68,28 @@ def main():
             full_comparer(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
 
 def full_comparer(newsp_A, newsp_B, date, hour, cosine=False, PATH_A="", PATH_B="", curr_slice= 0):
-    if PATH_A == "":
-        PATH_A = newsp_A
-    if PATH_B == "":
-        PATH_B = newsp_B
     global CURRENT_SLICE
     CURRENT_SLICE = curr_slice
     print(curr_slice)
     print(CURRENT_SLICE)
-    global VISUAL_PATH
-    #VISUAL_FILE = to_visual_getter(f"{OUT_DIR}/{max(newsp_A, newsp_B)}/{min(newsp_A, newsp_B)}/{date}/{VISUAL_PATH}")
-    VISUAL_FILE = {}
-    VISUAL_FILE= defaultdict(dict)
-    news_A = multi_news_getter(newsp_A, int(hour), date)
-    news_B = multi_news_getter(newsp_B, int(hour), date)
-    VISUAL_FILE, comparison = news_comparer(news_A, news_B, cosine, start_hour= hour)
-    jsonizer(comparison, path_formatter(PATH_A, PATH_B, date, hour, cosine))
-    if cosine:
-        VISUAL_PATH = VISUAL_PATH.replace("st", "cos")
-    else:
-        VISUAL_PATH = VISUAL_PATH.replace("cos", "st")
-    #jsonizer(VISUAL_FILE, f"{OUT_DIR}/{max(PATH_A, PATH_B)}/{min(PATH_A, PATH_B)}/{date}/{VISUAL_PATH}")
+    if not os.path.exists(path_formatter(PATH_A, PATH_B, date, hour, cosine)):
+        if PATH_A == "":
+            PATH_A = newsp_A
+        if PATH_B == "":
+            PATH_B = newsp_B
+        # global VISUAL_PATH
+        # VISUAL_FILE = to_visual_getter(f"{OUT_DIR}/{max(newsp_A, newsp_B)}/{min(newsp_A, newsp_B)}/{date}/{VISUAL_PATH}")
+        # VISUAL_FILE = {}
+        # VISUAL_FILE= defaultdict(dict)
+        news_A = multi_news_getter(newsp_A, int(hour), date)
+        news_B = multi_news_getter(newsp_B, int(hour), date)
+        VISUAL_FILE, comparison = news_comparer(news_A, news_B, cosine, start_hour= hour)
+        jsonizer(comparison, path_formatter(PATH_A, PATH_B, date, hour, cosine))
+        # if cosine:
+        #     VISUAL_PATH = VISUAL_PATH.replace("st", "cos")
+        # else:
+        #     VISUAL_PATH = VISUAL_PATH.replace("cos", "st")
+        #jsonizer(VISUAL_FILE, f"{OUT_DIR}/{max(PATH_A, PATH_B)}/{min(PATH_A, PATH_B)}/{date}/{VISUAL_PATH}")
 
 def to_visual_getter(vispath):
     to_ret = {}

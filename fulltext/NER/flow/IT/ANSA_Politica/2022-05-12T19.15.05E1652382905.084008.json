@@ -1,0 +1,695 @@
+[
+    {
+        "title": "Ucraina: Conte, pace fatta con Draghi? Assolutamente no",
+        "date_raw": "Thu, 12 May 2022 08:23:12 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2022/05/11/ucraina-conte-pace-fatta-con-draghi-assolutamente-no_718182e7-5640-4588-abd4-6f4504c8755a.html",
+        "subtitle": "Conte aggiunge che 'non vuole far cadere il governo  ma che sia rispettato il contributo della maggioranza relativa in Parlamento?",
+        "content": "\"Pace fatta con Draghi? Assolutamente no . Io ho posto questioni politiche con cui mi interrogo con il partito di maggioranza relativa in Parlamento e la popolazione italiana. Chiedere che Draghi venga in Parlamento dopo un'emergenza del genere non è irrituale, è un dovere\". .  La questione del riarmo, la domanda se gli interessi italiani siano sovrapponibili con quelli di Usa e Gb e l'obiettivo che si vuole raggiungere nei confronti con la Russia: sono questi, secondo il leader M5s Giuseppe Conte, le questioni che il premier deve venire a riferire al Parlamento. \"Questo conflitto bellico ci sfida, ci sono varie questioni che vanno chiarite e risolte. Sicuramente un confronto parlamentare può aiutarci a farlo\" anzi \"in questo momento è più necessario che mai \" ha detto il leader del M5s, Giuseppe Conte a Porta e Porta. \"",
+        "ranked": 8,
+        "placed": "Politica",
+        "epoch": 1652375836.8898098,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Ukraine: Count, peace with Dragons? Absolutely not.",
+        "en_content": "\"Peace made with Dragons? I have placed political questions with which I am intercepted with the relevant majority party in Parliament and the Italian people. Asking for Draghi to come to Parliament after such an emergency is not irritional, it is a duty.\" . The question of the rearmament, the question whether the Italian interests are superimposed with those of Usa and Gb and the goal that we want to achieve towards Russia: These are, according to the leader M5s Giuseppe Conte, the issues that the prime minister must refer to Parliament. \"This war conflict challenges us, there are various issues that need to be clarified and resolved. Surely a parliamentary confrontation can help us to do so\" indeed \"at this moment it is more necessary than ever \" said the leader of the M5s, Giuseppe Conte a Porta and Porta. \"",
+        "en_subtitle": "Mr President, I should like to congratulate the rapporteur on his report.",
+        "overall_polarity": 0.018518518518518517,
+        "overall_subjectivity": 0.46255144032921813,
+        "title_polarity": -0.1,
+        "title_subjectivity": 0.9,
+        "title_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Dragons",
+                "start_char": 27,
+                "end_char": 34,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": 0.15555555555555556,
+        "content_subjectivity": 0.4876543209876544,
+        "content_NER": [
+            {
+                "word": "Dragons",
+                "start_char": 17,
+                "end_char": 24,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 124,
+                "end_char": 134,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 143,
+                "end_char": 150,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 188,
+                "end_char": 198,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 316,
+                "end_char": 323,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Usa",
+                "start_char": 365,
+                "end_char": 368,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Gb",
+                "start_char": 373,
+                "end_char": 375,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russia",
+                "start_char": 421,
+                "end_char": 427,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "M5s Giuseppe Conte",
+                "start_char": 464,
+                "end_char": 482,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Parliament",
+                "start_char": 533,
+                "end_char": 543,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "M5s",
+                "start_char": 782,
+                "end_char": 785,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "Giuseppe Conte",
+                "start_char": 787,
+                "end_char": 801,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Porta",
+                "start_char": 804,
+                "end_char": 809,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Porta",
+                "start_char": 814,
+                "end_char": 819,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Draghi, Ucraina ha bisogno di piano Marshall",
+        "date_raw": "Thu, 12 May 2022 03:01:58 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2022/05/12/draghi-ucraina-ha-bisogno-di-piano-marshall_3aef038f-1f29-45fe-9c66-59d226edf43c.html",
+        "subtitle": "Lo ha detto in Usa ricevendo il premio dell' Atlantic Council",
+        "content": "\n            \n            (ANSA) - WASHINGTON, 11 MAG - \"L'Ucraina ha bisogno di un\npiano Marshall per la ricostruzione\": lo ha proposto il premier\nMario Draghi ritirando il premio di politico dell'anno\nall'Atlantic Council a Washington.   \n\t\t\t\t   \"Dobbiamo continuare - ha sottolineato Draghi - a sostenere\nil coraggio degli ucraini, che combattono per la loro libertà e\nper la sicurezza di tutti noi. Dobbiamo continuare a infliggere\ncosti alla Russia, muovendoci rapidamente con il nostro ultimo\npacchetto di sanzioni. Ma dobbiamo anche fare tutto il possibile\nper raggiungere un cessate il fuoco e una pace duratura.   \n\t\t\t\tSpetterà agli ucraini decidere i termini di questa pace - e\nnessun altro. Nel frattempo, dobbiamo prepararci per il mondo in\ncui vivremo domani. Dobbiamo essere pronti a continuare a stare\ncon l'Ucraina molto tempo dopo la fine della guerra. La\ndistruzione delle sue città, dei suoi impianti industriali, dei\nsuoi campi richiederà un enorme sostegno finanziario. L'Ucraina\navrà bisogno di un Piano Marshall, proprio come quello che ha\ncontribuito alle relazioni speciali tra Europa e Stati Uniti. E\ndovremo garantire che le sue istituzioni democratiche rimangano\nforti, stabili, vivaci. L'Ucraina è nostra amica. L'Ucraina\nrimarrà nostra amica\".   \n\t\t\t\t  \"Voglio condividere questo premio con il governo, con l'Italia\ne con gli italiani - ha poi affermato il premier -. L'Italia ha\nvissuto momenti molto difficili con la pandemia di Covid eppure\nsi è rialzata\".   \n\t\t\t\t   \"Questa è l'ora dell'Europa e dobbiamo coglierla\", ha detto\nancora. \"Le scelte che la Ue ha di fronte - ha spiegato - sono\nbrutalmente semplici. Possiamo essere artefici del nostro\ndestino o schiavi delle decisioni altrui. Quello che mi rende\nottimista è che non siamo soli. In un momento di profondo\ncambiamento, alcune cose restano uguali: la stretta relazione\ntra la Ue e gli Usa, il legame senza tempo che rafforza\nentrambi\". (ANSA).   \n\t\t\t\t          ",
+        "ranked": 7,
+        "placed": "Politica",
+        "epoch": 1652375836.9074848,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Dragons, Ukraine needs plan Marshall",
+        "en_content": "(ANSA) - WASHINGTON, 11 MAG - \"Ukraine needs a\nMarshall Plan for Reconstruction: the premier\nMario Draghi withdrawing the political prize of the year\nat the Atlantic Council in Washington.\n\"We must continue - said Draghi - to support\nthe courage of the Ukrainians, who fight for their freedom and\nfor the safety of all of us. We must continue to inflict\ncost to Russia, moving quickly with our last\npackage of sanctions. But we must also do everything possible\nto reach a ceasefire and lasting peace.\nIt will be up to the Ukrainians to decide the terms of this peace - and\nNo one else. In the meantime, we must prepare ourselves for the world in\nwhich we will live tomorrow. We have to be ready to continue to stay\nwith Ukraine long after the end of the war. The\ndestruction of its cities, industrial plants,\nits fields will require enormous financial support. Ukraine\nwill need a Marshall Plan, just like what it has\ncontributed to the special relations between Europe and the United States. And\nWe must ensure that its democratic institutions remain\nstrong, stable, lively. Ukraine is our friend. Ukraine\nwill remain our friend.\"\n\"I want to share this award with the government, with Italy\nand with the Italians - he then affirmed the premier -. Italy has\nexperienced very difficult moments with Covid's pandemic yet\nShe got up.\"\n\"This is Europe's time and we have to catch it,\" he said.\nAgain. \"The choices that the EU has in front - it has explained - are\nbrutally simple. We can be craftsmen of ours\ndestiny or slaves of others' decisions. What makes me\noptimistic is that we are not alone. In a deep moment\nchange, some things remain equal: The close relationship\nbetween the EU and the US, the timeless bond that strengthens\nboth.\" (ANSA).\n",
+        "en_subtitle": "He said it in the US receiving the Atlantic Council award",
+        "overall_polarity": 0.03141734808401476,
+        "overall_subjectivity": 0.16071428571428573,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 9,
+                "end_char": 16,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Marshall",
+                "start_char": 28,
+                "end_char": 36,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "subtitle_NER": [
+            {
+                "word": "US",
+                "start_char": 18,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Atlantic Council",
+                "start_char": 35,
+                "end_char": 51,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_polarity": 0.09425204425204428,
+        "content_subjectivity": 0.48214285714285715,
+        "content_NER": [
+            {
+                "word": "11",
+                "start_char": 21,
+                "end_char": 23,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG",
+                "start_char": 24,
+                "end_char": 27,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 31,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Marshall",
+                "start_char": 47,
+                "end_char": 55,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mario Draghi",
+                "start_char": 93,
+                "end_char": 105,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Atlantic Council",
+                "start_char": 153,
+                "end_char": 173,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Washington",
+                "start_char": 177,
+                "end_char": 187,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainians",
+                "start_char": 253,
+                "end_char": 263,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russia",
+                "start_char": 362,
+                "end_char": 368,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainians",
+                "start_char": 522,
+                "end_char": 532,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 720,
+                "end_char": 727,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 861,
+                "end_char": 868,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 963,
+                "end_char": 969,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the United States",
+                "start_char": 974,
+                "end_char": 991,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1076,
+                "end_char": 1083,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1099,
+                "end_char": 1106,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 1186,
+                "end_char": 1191,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italians",
+                "start_char": 1205,
+                "end_char": 1213,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 1248,
+                "end_char": 1253,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Covid",
+                "start_char": 1298,
+                "end_char": 1303,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 1341,
+                "end_char": 1347,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "EU",
+                "start_char": 1419,
+                "end_char": 1421,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 1682,
+                "end_char": 1684,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 1693,
+                "end_char": 1695,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Stati Generali della natalità, appelli di Papa e Mattarella per la famiglia",
+        "date_raw": "Thu, 12 May 2022 10:49:09 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2022/05/11/mattarella-il-calo-della-natalita-preoccupa-tutelare-la-famiglia-_485cc8b6-c4eb-435b-aa8b-34be813b2e51.html",
+        "subtitle": "Il presidente: 'Lo prescrive anche la Costituzione'. Allarme dell'Istat,nel 2050 rischio 5 milioni di italiani in meno",
+        "content": "\"Il tema della natalità rappresenta una vera e propria emergenza sociale. Non è immediatamente percepibile, come altri problemi che occupano la cronaca, ma è molto urgente: nascono sempre meno bambini e questo significa impoverire il futuro di tutti; l'Italia, l'Europa e l'Occidente si stanno impoverendo di avvenire\". Lo afferma nel saluto inviato ai partecipanti alla seconda edizione degli Stati Generali della Natalità, che hanno luogo oggi e domani presso l'Auditorium della Conciliazione a Roma, di cui viene data lettura all'apertura dei lavori. \"C'è una periferia esistenziale in Occidente, poco vistosa, che non si nota immediatamente. È quella delle donne e degli uomini che hanno il desiderio di un figlio, ma non riescono a realizzarlo\", afferma papa Francesco. \"Molti giovani faticano a concretizzare il loro sogno familiare - sottolinea il Pontefice -. E allora si abbassa l'asticella del desiderio e ci si accontenta di surrogati mediocri, come gli affari, la macchina, i viaggi, la custodia gelosa del tempo libero… La bellezza di una famiglia ricca di figli rischia di diventare un'utopia, un sogno difficile da realizzare\". \"Questa è una nuova povertà che mi spaventa - osserva Francesco -. È la povertà generativa di chi fa lo sconto al desiderio di felicità che ha nel cuore, di chi si rassegna ad annacquare le aspirazioni più grandi, di chi si accontenta di poco e smette di sperare in grande\". \"Sì, è una povertà tragica - aggiunge -, perché colpisce gli esseri umani nella loro ricchezza più grande: mettere al mondo vite per prendersene cura, trasmettere ad altri con amore l'esistenza ricevuta\". \"Non vedere il problema della denatalità è un atteggiamento miope; è rinunciare a vedere lontano, a guardare avanti. È girarsi dall'altra parte, pensando che i problemi siano sempre troppo complessi e che non si possa fare nulla. È, in una parola, arrendersi. Per questo - prosegue il Pontefice - mi piace il titolo del vostro evento, organizzato dalla Fondazione per la Natalità e promosso dal Forum delle Famiglie: 'Si può fare'. È il titolo di chi non si rassegna. È il titolo di chi spera contro ogni speranza, contro numeri che inesorabilmente peggiorano di anno in anno\". Secondo Francesco, \"si può fare vuol dire non accettare passivamente che le cose non possano cambiare\", e \"le cose possono cambiare se senza paura, andando oltre gli interessi di parte e gli steccati ideologici, ci si impegna insieme\".\"La accentuata diminuzione della natalità rappresenta uno degli aspetti più preoccupanti delle dinamiche sociali contemporanee e segnala una difficoltà\" e dunque occorre \"assumere con determinazione l'obiettivo di affrontare la crisi della struttura demografica del Paese\", favorendo la \"famiglia e l'adempimento dei relativi compiti\" come \"prescrive l'art.31 della Costituzione, che ci richiama, conseguentemente, alla tutela della maternità, dell'infanzia e della gioventù\". Così in un messaggio inviato al Presidente della Fondazione per la Natalita' e del Forum delle Associazioni Familiari, Gianluigi De Palo.\"La struttura demografica del Paese soffre di gravi squilibri che incidono in modo significativo sullo sviluppo della nostra società\", scrive il presidente della Repubblica.\"Un fenomeno - evidenzia Mattarella - accentuatosi con la pandemia e che ha generato nuove disuguaglianze e una diffusa precarietà che scoraggia i giovani nella costruzione di una famiglia. Le azioni previste nell'ambito della legge delega 32/2022, recentemente approvata dal Parlamento, meritano di essere rapidamente rese esecutive, per contribuire alla ripartenza del Paese\".Per il Capo dello Stato \"occorre insistere nel perseguire condizioni che consentano alle giovani generazioni di costruire il proprio futuro e, in questo senso, va garantita piena dignità ai giovani, alle donne, alle famiglie\". Le \"istituzioni a tutti i livelli\" hanno la \"responsabilità\", ricorda, di tutelare \"la maternità, l'infanzia e la gioventù favorendo gli istituti necessari a tale scopo\". Le donne \"devono affrontare ancora oggi troppi impedimenti e difficoltà per raggiungere una piena parità e un apporto essenziale può venire dalla conciliazione dei tempi di cura della famiglia e dei tempi di lavoro. È questione che interpella anche le imprese e la loro funzione sociale. Non può esservi opposizione tra impegno professionale, attività lavorativa e scelta di maternità. Le politiche per la famiglia sono un contributo essenziale allo sviluppo\" del Paese.Se non verrà invertita la rotta della natalità con misure strutturali nel 2050 l'Italia avrà 5 milioni di abitanti in meno: solo poco più di una persona su due sarebbe in età da lavoro, con un 52% di persone tra i 20-66 anni che dovrebbero provvedere sia alla cura e alla formazione delle persone sotto i venti anni (16%), sia alla produzione di adeguate risorse per il mantenimento e l'assistenza ai pensionati (32%). In questo quadro le nascite annue potrebbero scendere nel 2050 a 298 mila unità. Sono alcuni dei dati illustrati dal agli Stati Generali della Natalità.",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1652375836.9191408,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "General states of birth, appeals of Pope and Mattarella for the family",
+        "en_content": "\"The theme of birth is a real social emergency. It is not immediately perceptible, like other problems that occupy the news, but it is very urgent: less children are born and this means impoverishing the future of all; Italy, Europe and the West are impoverishing to take place.\" It says in the greeting sent to the participants in the second edition of the General States of Christmas, which take place today and tomorrow at the Auditorium of the Conciliation in Rome, of which it is given reading at the opening of the works. \"There is an existential periphery in the West, unseen, which you do not notice immediately. It is that of women and men who have the desire of a child, but cannot realize it,\" says Pope Francis. \"Many young people struggle to realize their family dream - the Pontiff emphasizes -. And then we lower the asticella of desire and we settle for mediocre surrogates, such as business, machine, travel, jealous custody of leisure... The beauty of a family rich in children is likely to become a utopia, a difficult dream to achieve\". \"This is a new poverty that frightens me - Francis observes -. It is the generative poverty of those who make the discount to the desire for happiness that has in the heart, of those who resign themselves to water the greatest aspirations, of those who settle for little and stop hope in great\". \"Yes, it is a tragic poverty - he adds -, because it affects humans in their greatest wealth: put lives to the world to take care of it, transmit to others with love the received existence\". \"Do not see the problem of denatility is a myopic attitude; it is to give up to see far, to look forward. It is turning on the other side, thinking that the problems are always too complex and that nothing can be done. It is, in a word, surrender. For this - the Pontiff continues - I like the title of your event, organized by the Foundation for Christmas and promoted by the Family Forum: 'You can do'. It is the title of those who do not resign. It is the title of those who hope against every hope, against numbers that inexorably worsen from year to year.\" According to Francis, \"you can do it means not accept passively that things cannot change\", and \"things can change if without fear, going beyond the interests of part and the ideological fences, you engage together\". \"The marked decrease in birth is one of the most worrying aspects of contemporary social dynamics and signals a difficulty\" and therefore it is necessary to \"absorb with determination the goal of facing the crisis of the demographic structure of the country\", favoring the \"family and the fulfillment of its tasks\" as \"prescribes Article 31 of the Constitution, which consequently calls us to the protection of motherhood, childhood and youth\". In a message sent to the President of the Foundation for Christmas and the Forum for Family Associations, Gianluigi De Palo.\"The demographic structure of the country suffers from serious imbalances that significantly affect the development of our society,\" writes the President of the Republic. \"A phenomenon - Mattarella points out - accentuated with the pandemic and that has generated new inequalities and a widespread precariousness that discourages young people in the construction of a family. The actions envisaged under the Law of Delegation 32/2022, recently approved by Parliament, deserve to be quickly enforced, to contribute to the country's reparation.\" For the Head of State \"it is necessary to insist on pursuing conditions that allow young generations to build their future and, in this sense, full dignity must be guaranteed to young people, women, families\". The \"institutions at all levels\" have the \"responsibility\", remembers, to protect \"maternity, childhood and youth by promoting the institutions necessary for this purpose\". Women \"must face too many obstacles and difficulties to achieve full equality and an essential contribution can come from the conciliation of the times of care of the family and working times. It is a question that also calls on enterprises and their social function. There can be no opposition between professional commitment, work and choice of motherhood. Family policies are an essential contribution to the development of the country. If the route of birth will not be reversed with structural measures in 2050 Italy will have 5 million inhabitants less: Only a little more than one person on two would be at work age, with a 52% of people between 20-66 years who should provide both the care and training of people under twenty (16%), and the production of adequate resources for the maintenance and assistance to pensioners (32%). In this context the annual births could descend in 2050 to 298 thousand units. These are some of the data illustrated by the General States of Christmas.",
+        "en_subtitle": "The President: 'It also prescribes the Constitution'. Istat alarm, in 2050 risk 5 million Italians in less",
+        "overall_polarity": -0.0050730519480519515,
+        "overall_subjectivity": 0.3556592712842712,
+        "title_polarity": 0.05000000000000002,
+        "title_subjectivity": 0.5,
+        "title_NER": [
+            {
+                "word": "Pope",
+                "start_char": 36,
+                "end_char": 40,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 45,
+                "end_char": 55,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_polarity": -0.16666666666666666,
+        "subtitle_subjectivity": 0.06666666666666667,
+        "subtitle_NER": [
+            {
+                "word": "Constitution",
+                "start_char": 39,
+                "end_char": 51,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "2050",
+                "start_char": 70,
+                "end_char": 74,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "5 million",
+                "start_char": 80,
+                "end_char": 89,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italians",
+                "start_char": 90,
+                "end_char": 98,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_polarity": 0.10144751082251079,
+        "content_subjectivity": 0.5003111471861471,
+        "content_NER": [
+            {
+                "word": "Italy",
+                "start_char": 219,
+                "end_char": 224,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 226,
+                "end_char": 232,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "West",
+                "start_char": 241,
+                "end_char": 245,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "second",
+                "start_char": 336,
+                "end_char": 342,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the General States of Christmas",
+                "start_char": 354,
+                "end_char": 385,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 404,
+                "end_char": 409,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 414,
+                "end_char": 422,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Auditorium of the Conciliation",
+                "start_char": 426,
+                "end_char": 460,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 464,
+                "end_char": 468,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "West",
+                "start_char": 570,
+                "end_char": 574,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Pope Francis",
+                "start_char": 710,
+                "end_char": 722,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pontiff",
+                "start_char": 788,
+                "end_char": 795,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Francis",
+                "start_char": 1100,
+                "end_char": 1107,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pontiff",
+                "start_char": 1807,
+                "end_char": 1814,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "the Foundation for Christmas",
+                "start_char": 1872,
+                "end_char": 1900,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Family Forum: '",
+                "start_char": 1917,
+                "end_char": 1936,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "year",
+                "start_char": 2091,
+                "end_char": 2095,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Francis",
+                "start_char": 2119,
+                "end_char": 2126,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Article 31 of the Constitution",
+                "start_char": 2653,
+                "end_char": 2683,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "the Foundation for Christmas",
+                "start_char": 2806,
+                "end_char": 2834,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Forum for Family Associations",
+                "start_char": 2839,
+                "end_char": 2872,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gianluigi De Palo",
+                "start_char": 2874,
+                "end_char": 2891,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Law of Delegation 32/2022",
+                "start_char": 3296,
+                "end_char": 3325,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Parliament",
+                "start_char": 3348,
+                "end_char": 3358,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2050",
+                "start_char": 4330,
+                "end_char": 4334,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 4335,
+                "end_char": 4340,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "5 million",
+                "start_char": 4351,
+                "end_char": 4360,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 4417,
+                "end_char": 4420,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "52%",
+                "start_char": 4450,
+                "end_char": 4453,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "20-66 years",
+                "start_char": 4472,
+                "end_char": 4483,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "16%",
+                "start_char": 4554,
+                "end_char": 4557,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "32%",
+                "start_char": 4651,
+                "end_char": 4654,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "annual",
+                "start_char": 4677,
+                "end_char": 4683,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2050",
+                "start_char": 4708,
+                "end_char": 4712,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "298 thousand",
+                "start_char": 4716,
+                "end_char": 4728,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the General States of Christmas",
+                "start_char": 4778,
+                "end_char": 4809,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    }
+]
