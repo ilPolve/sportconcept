@@ -1,0 +1,1220 @@
+[
+    {
+        "title": "Ucraina, mogli dei soldati Azov dal Papa, speriamo di salvare loro le vite",
+        "date_raw": "Thu, 12 May 2022 08:33:46 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2022/05/11/mogli-soldati-azov-dal-papa-speriamo-salvare-loro-vite_a02f65b7-5a2c-4296-85fc-25805dcc8d63.html",
+        "subtitle": "Incontro del Pontefice con Katarina e Yulia: 'Ha detto farà il possibile'",
+        "content": "L'incontro con il Papa è stato \"un momento storico. Speriamo tutti insieme che questo possa aiutare a salvare i nostri mariti, i soldati che sono nella Azovstal a Mariupol. Noi speriamo che questo incontro ci dia una chance per salvare le loro vite\". Così Katarina e Yulia, due mogli dei soldati del battaglione Azov che hanno incontrato Papa Francesco e che sperano che sia data ai loro soldati la possibilità di evacuare dall'acciaieria. Papa Francesco \"ha detto che pregherà per noi e che farà il possibile\". \"Gli abbiamo chiesto di venire in Ucraina e di parlare con Putin perché se ne vada\", su questo \"non ha risposto. Ha detto che pregherà per noi\", riferiscono Katarina e Yulia. \"Spero che tutti possano sopravvivere e noi faremo ogni cosa possibile per salvare le loro vite\", dice Katarina. Nell'acciaieria \"molti di loro sono morti e non abbiamo potuto seppellirli secondo la tradizione cristiana. Abbiamo chiesto al Papa di aiutarci affinché ci siano per loro 'corridoi verdi'\" per uscire dalla Azovstal di Mariupol, aggiunge Yulia.\r\n\r\n\"Pensiamo ci siano ancora civili dentro\" l'acciaieria di Azovstal a Mariupol \"perché ci sono le famiglie dei militari. Hanno paura ad essere evacuati perché hanno paura che i militari russi non li lasciano andare nei territori ucraini perché le persone che vengono evacuate da Azovstal vanno prima nei campi russi e la Federazione russa poi non lascia andare via da lì. Hanno paura di essere torturati e uccisi\", affermano le due mogli di due soldati del battaglione Azov.\"Non hanno cibo, acqua, medicine e cure sanitarie. E' una situazione terribile. Anche l'acqua dei tubi dell'acciaieria sta finendo. Non possiamo stare seduti a guardare queste terribili notizie. Ogni giorno uno o due soldati feriti stanno morendo\". Questa la situazione nella Azovstal di Mariupol secondo il racconto di Katarina e Yulia, mogli di due soldati del battaglione Azov che hanno incontrato il Papa. \"Ci sono sei-settecento soldati feriti che devono essere evacuati immediatamente per essere curati\" riferiscono le due donne.\r\n\r\n ",
+        "ranked": 11,
+        "placed": "Politica",
+        "epoch": 1652353207.2858262,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Ukraine, wives of Azov soldiers from the Pope, we hope to save their lives",
+        "en_content": "The meeting with the Pope was \"a historical moment. We all hope that this will help save our husbands, the soldiers who are in the Azovstal to Mariupol. We hope that this meeting will give us a chance to save their lives.\" So Katarina and Yulia, two wives of the soldiers of the Azov battalion who met Pope Francis and who hope that their soldiers will be given the opportunity to evacuate from the steel mill. Pope Francis \"said he will pray for us and will do everything possible\". \"We asked him to come to Ukraine and talk to Putin to go,\" he said. He said he'll pray for us,\" Katarina and Yulia report. \"I hope everyone can survive and we will do everything we can to save their lives,\" says Katarina. In the steel mill \"many of them died and we could not bury them according to the Christian tradition. We asked the Pope to help us to 'green corridors' for them to leave Mariupol's Azovstal, adds Yulia.\n\n\"We think there are still civilians inside\" the Azovstal steel mill in Mariupol \"because there are military families. They are afraid to be evacuated because they are afraid that the Russian military do not let them go to the Ukrainian territories because the people who are evacuated from Azovstal go first into the Russian camps and the Russian Federation then does not let go from there. They are afraid of being tortured and killed,\" said the two wives of two soldiers of the Azov battalion. \"They have no food, water, medicine and health care. It's a terrible situation. The water in the steel tubes is also finishing. We can't sit down and watch these terrible news. Every day one or two wounded soldiers are dying.\" This situation in the Azovstal of Mariupol according to the story of Katarina and Yulia, wives of two soldiers of the Azov battalion who met the Pope. \"There are six-seven hundred wounded soldiers who must be evacuated immediately to be cured,\" the two women report.\n\n",
+        "en_subtitle": "Meeting of the Pontiff with Katarina and Yulia: 'He said he will do everything possible'",
+        "overall_polarity": -0.0704732510288066,
+        "overall_subjectivity": 0.4689300411522634,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 0,
+                "end_char": 7,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Azov",
+                "start_char": 18,
+                "end_char": 22,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 1.0,
+        "subtitle_NER": [
+            {
+                "word": "Yulia",
+                "start_char": 41,
+                "end_char": 46,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_polarity": -0.21141975308641978,
+        "content_subjectivity": 0.40679012345679016,
+        "content_NER": [
+            {
+                "word": "Pope",
+                "start_char": 21,
+                "end_char": 25,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Azovstal",
+                "start_char": 131,
+                "end_char": 139,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mariupol",
+                "start_char": 143,
+                "end_char": 151,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Katarina",
+                "start_char": 226,
+                "end_char": 234,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yulia",
+                "start_char": 239,
+                "end_char": 244,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 246,
+                "end_char": 249,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Azov",
+                "start_char": 279,
+                "end_char": 283,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pope Francis",
+                "start_char": 302,
+                "end_char": 314,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pope Francis",
+                "start_char": 411,
+                "end_char": 423,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 509,
+                "end_char": 516,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Putin",
+                "start_char": 529,
+                "end_char": 534,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Katarina",
+                "start_char": 580,
+                "end_char": 588,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Yulia",
+                "start_char": 593,
+                "end_char": 598,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Katarina",
+                "start_char": 696,
+                "end_char": 704,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Christian",
+                "start_char": 787,
+                "end_char": 796,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Pope",
+                "start_char": 821,
+                "end_char": 825,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mariupol",
+                "start_char": 876,
+                "end_char": 884,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Azovstal",
+                "start_char": 887,
+                "end_char": 895,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Yulia",
+                "start_char": 902,
+                "end_char": 907,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Mariupol",
+                "start_char": 981,
+                "end_char": 989,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Russian",
+                "start_char": 1093,
+                "end_char": 1100,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 1136,
+                "end_char": 1145,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Azovstal",
+                "start_char": 1200,
+                "end_char": 1208,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 1212,
+                "end_char": 1217,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Russian",
+                "start_char": 1227,
+                "end_char": 1234,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the Russian Federation",
+                "start_char": 1245,
+                "end_char": 1267,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 1357,
+                "end_char": 1360,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 1370,
+                "end_char": 1373,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Azov",
+                "start_char": 1390,
+                "end_char": 1394,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Every day",
+                "start_char": 1583,
+                "end_char": 1592,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "one",
+                "start_char": 1593,
+                "end_char": 1596,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 1600,
+                "end_char": 1603,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Azovstal",
+                "start_char": 1655,
+                "end_char": 1663,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Mariupol",
+                "start_char": 1667,
+                "end_char": 1675,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Katarina",
+                "start_char": 1702,
+                "end_char": 1710,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Yulia",
+                "start_char": 1715,
+                "end_char": 1720,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 1731,
+                "end_char": 1734,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Azov",
+                "start_char": 1751,
+                "end_char": 1755,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "six-seven hundred",
+                "start_char": 1795,
+                "end_char": 1812,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 1882,
+                "end_char": 1885,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Stati Generali della natalità, appelli di Papa e Mattarella per la famiglia",
+        "date_raw": "Thu, 12 May 2022 10:49:09 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2022/05/11/mattarella-il-calo-della-natalita-preoccupa-tutelare-la-famiglia-_485cc8b6-c4eb-435b-aa8b-34be813b2e51.html",
+        "subtitle": "Il presidente: 'Lo prescrive anche la Costituzione'. Allarme dell'Istat,nel 2050 rischio 5 milioni di italiani in meno",
+        "content": "\"Il tema della natalità rappresenta una vera e propria emergenza sociale. Non è immediatamente percepibile, come altri problemi che occupano la cronaca, ma è molto urgente: nascono sempre meno bambini e questo significa impoverire il futuro di tutti; l'Italia, l'Europa e l'Occidente si stanno impoverendo di avvenire\". Lo afferma nel saluto inviato ai partecipanti alla seconda edizione degli Stati Generali della Natalità, che hanno luogo oggi e domani presso l'Auditorium della Conciliazione a Roma, di cui viene data lettura all'apertura dei lavori. \"C'è una periferia esistenziale in Occidente, poco vistosa, che non si nota immediatamente. È quella delle donne e degli uomini che hanno il desiderio di un figlio, ma non riescono a realizzarlo\", afferma papa Francesco. \"Molti giovani faticano a concretizzare il loro sogno familiare - sottolinea il Pontefice -. E allora si abbassa l'asticella del desiderio e ci si accontenta di surrogati mediocri, come gli affari, la macchina, i viaggi, la custodia gelosa del tempo libero… La bellezza di una famiglia ricca di figli rischia di diventare un'utopia, un sogno difficile da realizzare\". \"Questa è una nuova povertà che mi spaventa - osserva Francesco -. È la povertà generativa di chi fa lo sconto al desiderio di felicità che ha nel cuore, di chi si rassegna ad annacquare le aspirazioni più grandi, di chi si accontenta di poco e smette di sperare in grande\". \"Sì, è una povertà tragica - aggiunge -, perché colpisce gli esseri umani nella loro ricchezza più grande: mettere al mondo vite per prendersene cura, trasmettere ad altri con amore l'esistenza ricevuta\". \"Non vedere il problema della denatalità è un atteggiamento miope; è rinunciare a vedere lontano, a guardare avanti. È girarsi dall'altra parte, pensando che i problemi siano sempre troppo complessi e che non si possa fare nulla. È, in una parola, arrendersi. Per questo - prosegue il Pontefice - mi piace il titolo del vostro evento, organizzato dalla Fondazione per la Natalità e promosso dal Forum delle Famiglie: 'Si può fare'. È il titolo di chi non si rassegna. È il titolo di chi spera contro ogni speranza, contro numeri che inesorabilmente peggiorano di anno in anno\". Secondo Francesco, \"si può fare vuol dire non accettare passivamente che le cose non possano cambiare\", e \"le cose possono cambiare se senza paura, andando oltre gli interessi di parte e gli steccati ideologici, ci si impegna insieme\".\"La accentuata diminuzione della natalità rappresenta uno degli aspetti più preoccupanti delle dinamiche sociali contemporanee e segnala una difficoltà\" e dunque occorre \"assumere con determinazione l'obiettivo di affrontare la crisi della struttura demografica del Paese\", favorendo la \"famiglia e l'adempimento dei relativi compiti\" come \"prescrive l'art.31 della Costituzione, che ci richiama, conseguentemente, alla tutela della maternità, dell'infanzia e della gioventù\". Così in un messaggio inviato al Presidente della Fondazione per la Natalita' e del Forum delle Associazioni Familiari, Gianluigi De Palo.\"La struttura demografica del Paese soffre di gravi squilibri che incidono in modo significativo sullo sviluppo della nostra società\", scrive il presidente della Repubblica.\"Un fenomeno - evidenzia Mattarella - accentuatosi con la pandemia e che ha generato nuove disuguaglianze e una diffusa precarietà che scoraggia i giovani nella costruzione di una famiglia. Le azioni previste nell'ambito della legge delega 32/2022, recentemente approvata dal Parlamento, meritano di essere rapidamente rese esecutive, per contribuire alla ripartenza del Paese\".Per il Capo dello Stato \"occorre insistere nel perseguire condizioni che consentano alle giovani generazioni di costruire il proprio futuro e, in questo senso, va garantita piena dignità ai giovani, alle donne, alle famiglie\". Le \"istituzioni a tutti i livelli\" hanno la \"responsabilità\", ricorda, di tutelare \"la maternità, l'infanzia e la gioventù favorendo gli istituti necessari a tale scopo\". Le donne \"devono affrontare ancora oggi troppi impedimenti e difficoltà per raggiungere una piena parità e un apporto essenziale può venire dalla conciliazione dei tempi di cura della famiglia e dei tempi di lavoro. È questione che interpella anche le imprese e la loro funzione sociale. Non può esservi opposizione tra impegno professionale, attività lavorativa e scelta di maternità. Le politiche per la famiglia sono un contributo essenziale allo sviluppo\" del Paese.Se non verrà invertita la rotta della natalità con misure strutturali nel 2050 l'Italia avrà 5 milioni di abitanti in meno: solo poco più di una persona su due sarebbe in età da lavoro, con un 52% di persone tra i 20-66 anni che dovrebbero provvedere sia alla cura e alla formazione delle persone sotto i venti anni (16%), sia alla produzione di adeguate risorse per il mantenimento e l'assistenza ai pensionati (32%). In questo quadro le nascite annue potrebbero scendere nel 2050 a 298 mila unità. Sono alcuni dei dati illustrati dal agli Stati Generali della Natalità.",
+        "ranked": 4,
+        "placed": "Politica",
+        "epoch": 1652353207.3784797,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "General states of birth, appeals of Pope and Mattarella for the family",
+        "en_content": "\"The theme of birth is a real social emergency. It is not immediately perceptible, like other problems that occupy the news, but it is very urgent: less children are born and this means impoverishing the future of all; Italy, Europe and the West are impoverishing to take place.\" It says in the greeting sent to the participants in the second edition of the General States of Christmas, which take place today and tomorrow at the Auditorium of the Conciliation in Rome, of which it is given reading at the opening of the works. \"There is an existential periphery in the West, unseen, which you do not notice immediately. It is that of women and men who have the desire of a child, but cannot realize it,\" says Pope Francis. \"Many young people struggle to realize their family dream - the Pontiff emphasizes -. And then we lower the asticella of desire and we settle for mediocre surrogates, such as business, machine, travel, jealous custody of leisure... The beauty of a family rich in children is likely to become a utopia, a difficult dream to achieve\". \"This is a new poverty that frightens me - Francis observes -. It is the generative poverty of those who make the discount to the desire for happiness that has in the heart, of those who resign themselves to water the greatest aspirations, of those who settle for little and stop hope in great\". \"Yes, it is a tragic poverty - he adds -, because it affects humans in their greatest wealth: put lives to the world to take care of it, transmit to others with love the received existence\". \"Do not see the problem of denatility is a myopic attitude; it is to give up to see far, to look forward. It is turning on the other side, thinking that the problems are always too complex and that nothing can be done. It is, in a word, surrender. For this - the Pontiff continues - I like the title of your event, organized by the Foundation for Christmas and promoted by the Family Forum: 'You can do'. It is the title of those who do not resign. It is the title of those who hope against every hope, against numbers that inexorably worsen from year to year.\" According to Francis, \"you can do it means not accept passively that things cannot change\", and \"things can change if without fear, going beyond the interests of part and the ideological fences, you engage together\". \"The marked decrease in birth is one of the most worrying aspects of contemporary social dynamics and signals a difficulty\" and therefore it is necessary to \"absorb with determination the goal of facing the crisis of the demographic structure of the country\", favoring the \"family and the fulfillment of its tasks\" as \"prescribes Article 31 of the Constitution, which consequently calls us to the protection of motherhood, childhood and youth\". In a message sent to the President of the Foundation for Christmas and the Forum for Family Associations, Gianluigi De Palo.\"The demographic structure of the country suffers from serious imbalances that significantly affect the development of our society,\" writes the President of the Republic. \"A phenomenon - Mattarella points out - accentuated with the pandemic and that has generated new inequalities and a widespread precariousness that discourages young people in the construction of a family. The actions envisaged under the Law of Delegation 32/2022, recently approved by Parliament, deserve to be quickly enforced, to contribute to the country's reparation.\" For the Head of State \"it is necessary to insist on pursuing conditions that allow young generations to build their future and, in this sense, full dignity must be guaranteed to young people, women, families\". The \"institutions at all levels\" have the \"responsibility\", remembers, to protect \"maternity, childhood and youth by promoting the institutions necessary for this purpose\". Women \"must face too many obstacles and difficulties to achieve full equality and an essential contribution can come from the conciliation of the times of care of the family and working times. It is a question that also calls on enterprises and their social function. There can be no opposition between professional commitment, work and choice of motherhood. Family policies are an essential contribution to the development of the country. If the route of birth will not be reversed with structural measures in 2050 Italy will have 5 million inhabitants less: Only a little more than one person on two would be at work age, with a 52% of people between 20-66 years who should provide both the care and training of people under twenty (16%), and the production of adequate resources for the maintenance and assistance to pensioners (32%). In this context the annual births could descend in 2050 to 298 thousand units. These are some of the data illustrated by the General States of Christmas.",
+        "en_subtitle": "The President: 'It also prescribes the Constitution'. Istat alarm, in 2050 risk 5 million Italians in less",
+        "overall_polarity": -0.0050730519480519515,
+        "overall_subjectivity": 0.3556592712842712,
+        "title_polarity": 0.05000000000000002,
+        "title_subjectivity": 0.5,
+        "title_NER": [
+            {
+                "word": "Pope",
+                "start_char": 36,
+                "end_char": 40,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mattarella",
+                "start_char": 45,
+                "end_char": 55,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_polarity": -0.16666666666666666,
+        "subtitle_subjectivity": 0.06666666666666667,
+        "subtitle_NER": [
+            {
+                "word": "Constitution",
+                "start_char": 39,
+                "end_char": 51,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "2050",
+                "start_char": 70,
+                "end_char": 74,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "5 million",
+                "start_char": 80,
+                "end_char": 89,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Italians",
+                "start_char": 90,
+                "end_char": 98,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_polarity": 0.10144751082251079,
+        "content_subjectivity": 0.5003111471861471,
+        "content_NER": [
+            {
+                "word": "Italy",
+                "start_char": 219,
+                "end_char": 224,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 226,
+                "end_char": 232,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "West",
+                "start_char": 241,
+                "end_char": 245,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "second",
+                "start_char": 336,
+                "end_char": 342,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "the General States of Christmas",
+                "start_char": 354,
+                "end_char": 385,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "today",
+                "start_char": 404,
+                "end_char": 409,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "tomorrow",
+                "start_char": 414,
+                "end_char": 422,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Auditorium of the Conciliation",
+                "start_char": 426,
+                "end_char": 460,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Rome",
+                "start_char": 464,
+                "end_char": 468,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "West",
+                "start_char": 570,
+                "end_char": 574,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "Pope Francis",
+                "start_char": 710,
+                "end_char": 722,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pontiff",
+                "start_char": 788,
+                "end_char": 795,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Francis",
+                "start_char": 1100,
+                "end_char": 1107,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pontiff",
+                "start_char": 1807,
+                "end_char": 1814,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "the Foundation for Christmas",
+                "start_char": 1872,
+                "end_char": 1900,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Family Forum: '",
+                "start_char": 1917,
+                "end_char": 1936,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "year",
+                "start_char": 2091,
+                "end_char": 2095,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Francis",
+                "start_char": 2119,
+                "end_char": 2126,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Article 31 of the Constitution",
+                "start_char": 2653,
+                "end_char": 2683,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "the Foundation for Christmas",
+                "start_char": 2806,
+                "end_char": 2834,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Forum for Family Associations",
+                "start_char": 2839,
+                "end_char": 2872,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Gianluigi De Palo",
+                "start_char": 2874,
+                "end_char": 2891,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Law of Delegation 32/2022",
+                "start_char": 3296,
+                "end_char": 3325,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "Parliament",
+                "start_char": 3348,
+                "end_char": 3358,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2050",
+                "start_char": 4330,
+                "end_char": 4334,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Italy",
+                "start_char": 4335,
+                "end_char": 4340,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "5 million",
+                "start_char": 4351,
+                "end_char": 4360,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 4417,
+                "end_char": 4420,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "52%",
+                "start_char": 4450,
+                "end_char": 4453,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "20-66 years",
+                "start_char": 4472,
+                "end_char": 4483,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "16%",
+                "start_char": 4554,
+                "end_char": 4557,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "32%",
+                "start_char": 4651,
+                "end_char": 4654,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "annual",
+                "start_char": 4677,
+                "end_char": 4683,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2050",
+                "start_char": 4708,
+                "end_char": 4712,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "298 thousand",
+                "start_char": 4716,
+                "end_char": 4728,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the General States of Christmas",
+                "start_char": 4778,
+                "end_char": 4809,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Pnrr: Decaro, \"con aumenti servono più risorse per opere\"",
+        "date_raw": "Thu, 12 May 2022 10:45:25 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2022/05/12/pnrr-decaro-con-aumenti-servono-piu-risorse-per-opere_c2a10fe7-a89e-4c49-bb88-0a8e09eeec14.html",
+        "subtitle": "Anci, \"Governo aumenti fondi o rischio attuazione non compiuta\"",
+        "content": "\n            \n            (ANSA) - ANCONA, 12 MAG -    \"Pnrr da rivedere alla luce dei\nrincari e della 'crisi energetica'? In realtà vanno aggiunte\ndelle risorse perché ad oggi, con gli aumenti dei costi delle\nmaterie prime, dell'energia, le opere pubbliche che ci sono\nstate finanziate non possono essere realizzate: i costi perché\nsono aumentati e rischiamo di non dare attuazione compiuta a\nquelle opere\". Così ad Ancona il presidente Anci e sindaco di\nBari, Antonio Decaro, rispondendo all'ANSA, a margine Assemblea\nannuale di Anci Marche, guidata dalla sindaca di Ancona Valeria\nMancinelli, su \"Comuni oggi: problematiche, prospettive e azioni\ncomuni per il presente e il futuro degli enti locali\" alla quale\npartecipa, tra gli altri, Fabrizio Curcio, Capo Dipartimento\nProtezione Civile della Presidenza del Consiglio dei Ministri.   \n\t\t\t\t   \"E' un tema l'attenzione del governo - ha aggiunto Decaro a\nproposito dell'eventuale aumento di risorse - Abbiamo già\nottenuto una norma che ci permette di fare le modifiche in corso\nd'opera rispetto ai contratti già stipulati per le cosiddette\n'variazioni prezzi', contemporaneamente chiediamo al governo di\nmettere altre risorse per farci il completare quelle opere che\nci sono già state finanziate e che ci aiuteranno, come dire, a\ncambiare la vita in meglio delle comunità che noi sindaci\nabbiamo l'onore di amministrare\". (ANSA).   \n\t\t\t\t          ",
+        "ranked": 2,
+        "placed": "Politica",
+        "epoch": 1652353207.4458327,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Pnrr: Decaro, \"with increases serve more resources for works\"",
+        "en_content": "(ANSA) - ANCONA, 12 MAG - \"Pnrr to be reviewed in the light of\nand energy crisis? In reality they must be added\nof resources because to date, with increases in costs of\nraw materials, energy, public works\nfunding cannot be implemented: costs because\nare increased and we risk not to give effect to\nthose works.\" So in Ancona the president Anci and mayor of\nBari, Antonio Decaro, responding to the ANSA, in margin Assembly\nAnci Marche, led by the mayor of Ancona Valeria\nMancinelli, on \"Today Communities: issues, perspectives and actions\nmunicipalities for the present and future of local authorities\" to which\nparticipates, among others, Fabrizio Curcio, Head of Department\nCivil Protection of the Presidency of the Council of Ministers.\n\"It is a theme the attention of the government - added Decaro to\nabout the possible increase in resources - We already have\nobtained a standard that allows us to make the changes in progress\nwork in relation to the contracts already concluded for the so-called\n'price changes', at the same time we ask the government to\nput other resources to make us complete those works that\nwe have already been funded and will help us, as I say, to\nchange life in the best of the communities that we mayor\nwe have the honour to administer.\" (ANSA).\n",
+        "en_subtitle": "Anci, \"Government increases funds or risk implementation unfinished\"",
+        "overall_polarity": 0.1984508547008547,
+        "overall_subjectivity": 0.2653668091168091,
+        "title_polarity": 0.5,
+        "title_subjectivity": 0.5,
+        "title_NER": [
+            {
+                "word": "Decaro",
+                "start_char": 6,
+                "end_char": 12,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": 0.0953525641025641,
+        "content_subjectivity": 0.29610042735042735,
+        "content_NER": [
+            {
+                "word": "12",
+                "start_char": 17,
+                "end_char": 19,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG",
+                "start_char": 20,
+                "end_char": 23,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ancona",
+                "start_char": 318,
+                "end_char": 324,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Anci",
+                "start_char": 339,
+                "end_char": 343,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Bari",
+                "start_char": 357,
+                "end_char": 361,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Antonio Decaro",
+                "start_char": 363,
+                "end_char": 377,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "ANSA",
+                "start_char": 397,
+                "end_char": 401,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Assembly",
+                "start_char": 413,
+                "end_char": 421,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Anci Marche",
+                "start_char": 422,
+                "end_char": 433,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mancinelli",
+                "start_char": 470,
+                "end_char": 480,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Today Communities",
+                "start_char": 486,
+                "end_char": 503,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Fabrizio Curcio",
+                "start_char": 639,
+                "end_char": 654,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Council of Ministers",
+                "start_char": 713,
+                "end_char": 737,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Decaro",
+                "start_char": 794,
+                "end_char": 800,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Dl Ucraina bis, il governo pone la fiducia in Aula al Senato ",
+        "date_raw": "Thu, 12 May 2022 10:09:47 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2022/05/12/dl-ucraina-bis-il-governo-pone-la-fiducia-in-aula-al-senato-_e1dee288-d80e-4012-8b42-e5df629e8115.html",
+        "subtitle": "Si tratta della cosiddetta legge taglia prezzi varata per contrastare gli effetti economici e umanitari della crisi ucraina",
+        "content": "Il ministro per i Rapporti con il Parlamento, Federico D'Incà, ha posto la questione di fiducia in Aula al Senato sul maxi emendamento al decreto Ucraina bis, la cosiddetta legge taglia prezzi varata per contrastare gli effetti economici e umanitari della crisi ucraina. Il provvedimento, all'esame del Senato in prima lettura, deve essere convertito in legge entro il 20 maggio.    ",
+        "ranked": 3,
+        "placed": "Politica",
+        "epoch": 1652353207.5121982,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Dl Ukraine bis, the government places confidence in the Senate Hall",
+        "en_content": "The Minister for Relations with Parliament, Federico D'Incà, put the question of trust in the Senate Chamber on the maxi amendment to the decree Ukraine bis, the so-called price-cutting law to counter the economic and humanitarian effects of the Ukrainian crisis. The measure, at first reading, must be converted into law by 20 May.",
+        "en_subtitle": "This is the so-called price-cutting law to counter the economic and humanitarian effects of the Ukrainian crisis",
+        "overall_polarity": 0.1416666666666667,
+        "overall_subjectivity": 0.15555555555555556,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Dl Ukraine",
+                "start_char": 0,
+                "end_char": 10,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Senate",
+                "start_char": 56,
+                "end_char": 62,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "subtitle_polarity": 0.2,
+        "subtitle_subjectivity": 0.2,
+        "subtitle_NER": [
+            {
+                "word": "Ukrainian",
+                "start_char": 96,
+                "end_char": 105,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ],
+        "content_polarity": 0.225,
+        "content_subjectivity": 0.26666666666666666,
+        "content_NER": [
+            {
+                "word": "Parliament",
+                "start_char": 32,
+                "end_char": 42,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Federico D'Incà",
+                "start_char": 44,
+                "end_char": 59,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Senate",
+                "start_char": 94,
+                "end_char": 100,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 145,
+                "end_char": 152,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 246,
+                "end_char": 255,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "first",
+                "start_char": 280,
+                "end_char": 285,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "20 May.",
+                "start_char": 325,
+                "end_char": 332,
+                "label": "QUANTITY",
+                "info": "Measurements, as of weight or distance"
+            }
+        ]
+    },
+    {
+        "title": "Rigettata richiesta Palamara di ricusare giudici Perugia",
+        "date_raw": "Thu, 12 May 2022 10:57:38 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2022/05/12/rigettata-richiesta-palamara-di-ricusare-giudici-perugia_a34adb3d-e3a7-455b-b00f-61d28c79c023.html",
+        "subtitle": "Per iscrizione Anm di due membri collegio in processo corruzione",
+        "content": "\n            \n            (ANSA) - PERUGIA, 12 MAG - La Corte d'appello di Perugia ha\nrigettato l'istanza di ricusazione avanzata da Luca Palamara dei\ngiudici del tribunale del capoluogo umbro che lo stanno\ngiudicando per corruzione. L'udienza per la trattazione\ndell'istanza si era svolta il 9 maggio scorso e i giudici si\nerano riservati di decidere.   \n\t\t\t\t  La difesa di Palamara aveva avanzato la richiesta di\nricusazione sostenendo che  \"il tema sulla terzietà del giudice\"\nè stato \"creato\" dall'Anm \"che ha chiesto di costituirsi parte\ncivile in un processo dove due membri del collegio sono iscritti\nalla medesima associazione\".   \n\t\t\t\t  La Procura generale di Perugia, guidata da Sergio Sottani,\naveva chiesto invece il rigetto della domanda affermando che\n\"non sussistono ragioni per ritenere un interesse dei giudici\nnel processo, in quanto le condotte addebitate all'imputato, in\nrelazione alle quali l'Anm ha inteso presentare la propria\ndomanda di costituzione di parte civile, sulla base della\nprospettazione accusatoria, si pongono in assoluto contrasto con\ni principi che governano l'agire del magistrato e che\ndanneggiano il prestigio e l'indipendenza della magistratura\".   \n\t\t\t\t(ANSA).   \n\t\t\t\t          ",
+        "ranked": 1,
+        "placed": "Politica",
+        "epoch": 1652353207.524106,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Rejected request Palamara to recuse judges Perugia",
+        "en_content": "(ANSA) - PERUGIA, 12 MAG - The Court of Appeal of Perugia has\nrejected the request for recusal by Luca Palamara dei\njudges of the court of the Umbrian capital who are\njudging by corruption. Debates of the European Parliament\non 9 May last, and the judges\nwere reserved to decide.\nThe defense of Palamara had advanced the request of\nclaiming that \"the theme on the court's tertiage\"\nwas \"created\" by the Am \"who asked to be part of\ncivil in a process where two members of the board are enrolled\nto the same association\".\nThe Attorney General of Perugia, led by Sergio Sottani,\ninstead asked for the rejection of the question stating that\n\"There are no reasons for the judges' interest\nin the process, as the conduct charged to the defendant, in\nreport to which the Anm intended to present its own\napplication for the establishment of a civil party, on the basis of\nProspect for prosecution, they are in absolute contrast with\nthe principles governing the action of the magistrate and that\ndamage the prestige and independence of the judiciary.\"\n(ANSA).\n",
+        "en_subtitle": "For registration Anm of two board members in process corruption",
+        "overall_polarity": 0.05000000000000001,
+        "overall_subjectivity": 0.12191358024691357,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Palamara",
+                "start_char": 17,
+                "end_char": 25,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Perugia",
+                "start_char": 43,
+                "end_char": 50,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "subtitle_NER": [
+            {
+                "word": "Anm",
+                "start_char": 17,
+                "end_char": 20,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "two",
+                "start_char": 24,
+                "end_char": 27,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "content_polarity": 0.15000000000000002,
+        "content_subjectivity": 0.3657407407407407,
+        "content_NER": [
+            {
+                "word": "12",
+                "start_char": 18,
+                "end_char": 20,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG",
+                "start_char": 21,
+                "end_char": 24,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Perugia",
+                "start_char": 50,
+                "end_char": 57,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Luca Palamara",
+                "start_char": 98,
+                "end_char": 111,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Umbrian",
+                "start_char": 143,
+                "end_char": 150,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the European Parliament",
+                "start_char": 201,
+                "end_char": 224,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "9 May last",
+                "start_char": 228,
+                "end_char": 238,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Palamara",
+                "start_char": 295,
+                "end_char": 303,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 456,
+                "end_char": 459,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Perugia",
+                "start_char": 544,
+                "end_char": 551,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sergio Sottani",
+                "start_char": 560,
+                "end_char": 574,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Anm",
+                "start_char": 764,
+                "end_char": 767,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Prospect",
+                "start_char": 864,
+                "end_char": 872,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Nigeria: sacerdote sequestrato morto in mano ai rapitori",
+        "date_raw": "Thu, 12 May 2022 09:57:20 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2022/05/12/nigeria-sacerdote-sequestrato-morto-in-mano-ai-rapitori_074c7e70-d05e-4193-9625-81aa2b5fb419.html",
+        "subtitle": "Padre Bako, 48 anni, era stato preso da uomini armati che avevano assalito la canonica nella notte dell'8 marzo",
+        "content": "\"E' con cuore affranto, ma con totale sottomissione alla volontà di Dio che annunciamo la morte di padre Joseph Aketeh Bako, avvenuta nelle mani dei suoi rapitori tra il 18 e il 20 aprile 2022\". Così - riferisce l'agenzia vaticana Fides - il cancelliere dell'Arcidiocesi nigeriana di Kaduna padre Christian Okewu Emmanuel ha annunciato la morte del parroco della chiesa cattolica di San Giovanni, a Kudenda nell'area del governo locale di Kaduna South, nello stato di Kaduna, rapito l'8 marzo scorso. Padre Bako, 48 anni, era stato sequestrato da uomini armati che avevano assalito la canonica alle 1,30 della notte dell'8 marzo.Insieme a lui era stato rapito anche suo fratello che era andato a trovarlo. \"Suo fratello è stato ucciso in sua presenza e a seguito di ciò, le sue condizioni (era malato da tempo) sono peggiorate ed è morto\" afferma il cancelliere dell'Arcidiocesi di Kaduna. \"Non abbiamo recuperato il corpo ma abbiamo conferma della morte. Le persone che sono state rapite insieme a lui lo hanno visto morire\", viene riferito. Nelle settimane successive al rapimento si erano diffuse voci della morte di padre Bako a seguito di asserite sevizie inferte dai sequestratori. Il cancelliere dell'Arcidiocesi di Kaduna ha precisato che \"le circostanze che hanno portato alla morte di padre Bako e la data del decesso sono state attentamente verificate, ed è per questo che possiamo ora comunicarle\".   ",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1652353207.7799425,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Nigeria: priest kidnapped dead in the hands of the kidnappers",
+        "en_content": "\"It is with a heart, but with total submission to the will of God that we announce the death of Father Joseph Aketeh Bako, who took place in the hands of his abductors between 18 and 20 April 2022.\" Thus - reports Vatican agency Fides - the Chancellor of the Nigerian Archdiocese of Kaduna Father Christian Okewu Emmanuel announced the death of the parish priest of the Catholic church of San Giovanni, in Kudenda in the area of the local government of Kaduna South, in the state of Kaduna, kidnapped on March 8. Father Bako, 48 years old, had been seized by armed men who assaulted the rectory at 1:30 on the night of March 8. Along with him, his brother had also been kidnapped. \"His brother was killed in his presence and as a result of this, his condition (he was sick for a long time) became worse and died\", says the Chancellor of the Archdiocese of Kaduna. \"We didn't recover the body but we confirmed death. The people who were kidnapped with him saw him die,\" he was reported. In the weeks after the kidnapping, rumors of Father Bako's death had spread as a result of alleged misconduct by the kidnappers. The Chancellor of the Archdiocese of Kaduna pointed out that \"the circumstances that led to the death of Father Bako and the date of death have been carefully verified, and that is why we can now communicate them\".",
+        "en_subtitle": "Father Bako, 48 years old, had been taken by armed men who had assaulted the canon on the night of March 8",
+        "overall_polarity": -0.0628968253968254,
+        "overall_subjectivity": 0.33908730158730166,
+        "title_polarity": -0.2,
+        "title_subjectivity": 0.4,
+        "subtitle_polarity": 0.1,
+        "subtitle_subjectivity": 0.2,
+        "subtitle_NER": [
+            {
+                "word": "Bako",
+                "start_char": 7,
+                "end_char": 11,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "48 years old",
+                "start_char": 13,
+                "end_char": 25,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the night of March 8",
+                "start_char": 86,
+                "end_char": 106,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            }
+        ],
+        "content_polarity": -0.0886904761904762,
+        "content_subjectivity": 0.4172619047619048,
+        "content_NER": [
+            {
+                "word": "Joseph Aketeh Bako",
+                "start_char": 103,
+                "end_char": 121,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "between 18 and 20 April 2022",
+                "start_char": 168,
+                "end_char": 196,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Vatican",
+                "start_char": 214,
+                "end_char": 221,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Kaduna",
+                "start_char": 283,
+                "end_char": 289,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Christian Okewu Emmanuel",
+                "start_char": 297,
+                "end_char": 321,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Catholic",
+                "start_char": 370,
+                "end_char": 378,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "San Giovanni",
+                "start_char": 389,
+                "end_char": 401,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kudenda",
+                "start_char": 406,
+                "end_char": 413,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kaduna South",
+                "start_char": 453,
+                "end_char": 465,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Kaduna",
+                "start_char": 483,
+                "end_char": 489,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "March 8",
+                "start_char": 504,
+                "end_char": 511,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bako",
+                "start_char": 520,
+                "end_char": 524,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "48 years old",
+                "start_char": 526,
+                "end_char": 538,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "1:30 on the night of March 8",
+                "start_char": 598,
+                "end_char": 626,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "the weeks",
+                "start_char": 989,
+                "end_char": 998,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Bako",
+                "start_char": 1038,
+                "end_char": 1042,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kaduna",
+                "start_char": 1152,
+                "end_char": 1158,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Bako",
+                "start_char": 1227,
+                "end_char": 1231,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2120 @@
+[
+    {
+        "title": "In Italia 42.249 nuovi casi covid e 115 morti",
+        "date_raw": "Wed, 11 May 2022 15:22:26 GMT",
+        "date": "2022-05-11",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2022-05-11/covid-bollettino-11-maggio-2022-16696362/",
+        "subtitle": "",
+        "content": "AGI - Sono 42.249 i nuovi casi di Covid registrati in Italia nelle ultime 24 ore contro i 56.015 di ieri e soprattutto i 47.039 contagi di mercoledì scorso, una riduzione del 10% su base settimanale. \nI tamponi processati sono 294.611 (ieri 371.221) con il tasso di positività che scende dal 15,1% al 14,3%>. È&nbsp;quanto emerge dal bollettino quotidiano del ministero della Salute.&nbsp; \nI decessi sono 115 (ieri 158). Le vittime totali da inizio pandemia salgono a 164.846. \nIn calo i ricoveri. I pazienti in terapia intensiva sono, infatti, 20 in meno (ieri -5), 338 in tutto con 33 ingressi giornalieri, e quelli nei reparti ordinari sono 167 in meno >(ieri -156) per complessivi a 8.412.&nbsp; \nLa regione con il maggior numero di casi è la Lombardia con 6.157 contagi>, seguita da Campania (+4.356), Veneto (+4.141), Emilia Romagna (+3.892) e Lazio (+3.859). \nI casi totali dall'inizio della pandemia salgono a 16.915.301. I dimessi/guariti delle ultime 24 ore sono 84.344 (ieri 76.824) per un totale che sale a 15.709.259. \nGli attualmente positivi sono 41.776 in meno (ieri -20.783) per un totale di 1.041.196. Di questi, 1.032.446 sono in isolamento domiciliare.",
+        "ranked": 1,
+        "placed": "Cronaca",
+        "epoch": 1652284804.1511319,
+        "language": "IT",
+        "source": "AGI",
+        "en_title": "In Italy 42.249 new covid cases and 115 deaths",
+        "en_content": "AGI - There are 42.249 new cases of Covid registered in Italy in the last 24 hours against the 56.015 of yesterday and especially the 47.039 counts of last Wednesday, a reduction of 10% on a weekly basis.\nThe swabs processed are 294.611 (hire 371.221) with the rate of positivity falling from 15.1% to 14.3%>. It is &nbsp; what emerges from the daily bulletin of the Ministry of Health.&nbsp;\nThe deaths are 115 (hence 158). The total victims from the beginning of the pandemic rise to 164.846.\nThe hospitals are falling. Patients in intensive care are, in fact, 20 in less (leaders -5), 338 in all with 33 daily entrances, and those in ordinary departments are 167 in less >(ieri -156) for a total of 8.412.&nbsp;\nThe region with the largest number of cases is Lombardy with 6,157 accounting, followed by Campania (+4.356), Veneto (+4.141), Emilia Romagna (+3.892) and Lazio (+3.859).\nTotal cases from the beginning of the pandemic rise to 16.915.301. The last 24 hours are 84.344 (76,824) for a total of 15,709,259.\nThe present positives are 41,776 less (hire -20,783) for a total of 1.041.196. Of these, 1.032.446 are in house isolation.",
+        "en_subtitle": "",
+        "overall_polarity": 0.03342245989304813,
+        "overall_subjectivity": 0.2712121212121212,
+        "title_polarity": 0.13636363636363635,
+        "title_subjectivity": 0.45454545454545453,
+        "title_NER": [
+            {
+                "word": "Italy",
+                "start_char": 3,
+                "end_char": 8,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "115",
+                "start_char": 36,
+                "end_char": 39,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": -0.03609625668449197,
+        "content_subjectivity": 0.35909090909090907,
+        "content_NER": [
+            {
+                "word": "42.249",
+                "start_char": 16,
+                "end_char": 22,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Covid",
+                "start_char": 36,
+                "end_char": 41,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 56,
+                "end_char": 61,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the last 24 hours",
+                "start_char": 65,
+                "end_char": 82,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "56.015",
+                "start_char": 95,
+                "end_char": 101,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "yesterday",
+                "start_char": 105,
+                "end_char": 114,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "47.039",
+                "start_char": 134,
+                "end_char": 140,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "last Wednesday",
+                "start_char": 151,
+                "end_char": 165,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "10%",
+                "start_char": 182,
+                "end_char": 185,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "weekly",
+                "start_char": 191,
+                "end_char": 197,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "294.611",
+                "start_char": 229,
+                "end_char": 236,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "371.221",
+                "start_char": 243,
+                "end_char": 250,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "15.1%",
+                "start_char": 293,
+                "end_char": 298,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "14.3%",
+                "start_char": 302,
+                "end_char": 307,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "the Ministry of Health.&nbsp",
+                "start_char": 363,
+                "end_char": 391,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "115",
+                "start_char": 408,
+                "end_char": 411,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "158",
+                "start_char": 419,
+                "end_char": 422,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "164.846",
+                "start_char": 486,
+                "end_char": 493,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "20",
+                "start_char": 563,
+                "end_char": 565,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "338",
+                "start_char": 588,
+                "end_char": 591,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "33",
+                "start_char": 604,
+                "end_char": 606,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "daily",
+                "start_char": 607,
+                "end_char": 612,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "167",
+                "start_char": 662,
+                "end_char": 665,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "8.412.&nbsp",
+                "start_char": 702,
+                "end_char": 713,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Lombardy",
+                "start_char": 762,
+                "end_char": 770,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "6,157",
+                "start_char": 776,
+                "end_char": 781,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Campania",
+                "start_char": 806,
+                "end_char": 814,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Veneto",
+                "start_char": 825,
+                "end_char": 831,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Emilia Romagna",
+                "start_char": 842,
+                "end_char": 856,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lazio (+3.859",
+                "start_char": 870,
+                "end_char": 883,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "16.915.301",
+                "start_char": 941,
+                "end_char": 951,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "The last 24 hours",
+                "start_char": 953,
+                "end_char": 970,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "84.344",
+                "start_char": 975,
+                "end_char": 981,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "76,824",
+                "start_char": 983,
+                "end_char": 989,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "15,709,259",
+                "start_char": 1006,
+                "end_char": 1016,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "41,776",
+                "start_char": 1044,
+                "end_char": 1050,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    },
+    {
+        "title": "Un bando per far lavorare i profughi ucraini negli ospedali del Garda",
+        "date_raw": "Wed, 11 May 2022 13:52:45 GMT",
+        "date": "2022-05-11",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2022-05-11/bando-profughi-ucraini-ospedali-garda-16692091/",
+        "subtitle": "",
+        "content": "AGI&nbsp;- Due ospedali e cinque presidi territoriali del bresciano offrono lavoro a medici e operatori sanitari ucraini fuggiti dalla guerra. L'iniziativa è stata presa dall'Asst Garda che ha pubblicato un bando di concorso, letto dall'AGI. Il documento prevede l'attivazione di&nbsp;incarichi di collaborazione> coordinata e continuativa con validità fino al 4 marzo 2023. \nI requisiti per l'accesso sono: la cittadinanza ucraina, con residenza in Ucraina, prima del 24 febbraio scorso; la qualifica professionale conseguita all'estero regolata dalle direttive Ue; la conoscenza dell'italiano e dell'inglese; il possesso di un passaporto europeo per i rifugiati. Oggetto degli incarichi è lo svolgimento di attività medica, sanitaria e assistenziale: per le prestazioni mediche è previsto un compenso di 35 euro l'ora; mentre per quelle sanitarie e assistenziali di 21 euro l'ora.&nbsp; \n“Un segno concreto di vicinanza alla popolazione ucraina - commenta il direttore generale dell'Asst Garda, Mario Alparone - e contemporaneamente un riconoscimento professionale di cittadini stranieri che tramite la loro professionalità potranno essere d'aiuto all'interno della sanità territoriale. Un modo per rinforzare gli organici e garantire tutte le prestazioni sanitarie”.",
+        "ranked": 2,
+        "placed": "Cronaca",
+        "epoch": 1652284804.1511357,
+        "language": "IT",
+        "source": "AGI",
+        "en_title": "A call for Ukrainian refugees to work in Garda hospitals",
+        "en_content": "AGI&nbsp;- Two hospitals and five territorial districts of Brescia offer work to Ukrainian doctors and health workers who have fled the war. The initiative was taken by Asst Garda who published a call for competition, read by AGI. The document provides for the activation of co-operative enchants > coordinated and continuous with validity until 4 March 2023.\nThe requirements for access are: Ukrainian citizenship, with residence in Ukraine, before 24 February last; the professional qualification obtained abroad regulated by EU directives; the knowledge of Italian and English; possession of a European passport for refugees. The task is to carry out medical, health and welfare activities: for medical services a fee of 35 euros per hour is expected; while for the health and welfare of 21 euros per hour.&nbsp;\n\"A concrete sign of closeness to the Ukrainian population - comments the general manager of Asst Garda, Mario Alparone - and at the same time a professional recognition of foreign citizens who through their professionalism can be of help within the territorial health. A way to strengthen organics and ensure all health benefits.”",
+        "en_subtitle": "",
+        "overall_polarity": 0.004487179487179489,
+        "overall_subjectivity": 0.04401709401709402,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Ukrainian",
+                "start_char": 11,
+                "end_char": 20,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Garda",
+                "start_char": 41,
+                "end_char": 46,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": 0.013461538461538466,
+        "content_subjectivity": 0.13205128205128205,
+        "content_NER": [
+            {
+                "word": "Two",
+                "start_char": 11,
+                "end_char": 14,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "five",
+                "start_char": 29,
+                "end_char": 33,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Brescia",
+                "start_char": 59,
+                "end_char": 66,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 81,
+                "end_char": 90,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Asst Garda",
+                "start_char": 169,
+                "end_char": 179,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "4 March 2023",
+                "start_char": 346,
+                "end_char": 358,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 393,
+                "end_char": 402,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 434,
+                "end_char": 441,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "24 February",
+                "start_char": 450,
+                "end_char": 461,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "EU",
+                "start_char": 528,
+                "end_char": 530,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italian",
+                "start_char": 560,
+                "end_char": 567,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "English",
+                "start_char": 572,
+                "end_char": 579,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "European",
+                "start_char": 597,
+                "end_char": 605,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "35",
+                "start_char": 724,
+                "end_char": 726,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "21",
+                "start_char": 791,
+                "end_char": 793,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "hour.&nbsp",
+                "start_char": 804,
+                "end_char": 814,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 853,
+                "end_char": 862,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Asst Garda",
+                "start_char": 908,
+                "end_char": 918,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mario Alparone -",
+                "start_char": 920,
+                "end_char": 936,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Quando la lettura ad alta voce spezza l'isolamento della malattia mentale",
+        "date_raw": "Wed, 11 May 2022 13:51:34 GMT",
+        "date": "2022-05-11",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2022-05-11/salute-mentale-lettura-ad-alta-voce-contro-pregiudizi-16692047/",
+        "subtitle": "",
+        "content": "AGI - C'è&nbsp;la lettura ad alta voce, innanzi tutto. E poi l'Hatha Yoga, oltre al 'Kamishibai, una sorta di teatro da tavolo dove le storie lette prendono vita attraverso delle animazioni.> Sono gli 'ingredienti' del progetto 'Un libro per la testa', concepito a Sassari dall'associazione culturale 'Coilibri', per spezzare, grazie anche agli studenti e alle studentesse, l'isolamento delle persone con disturbi mentali e aiutarle a uscire dal loro guscio e a superare la paura di frequentare persone al di fuori del contesto familiare o di terapia>. \nIn Italia sono oltre 800 mila (dati Istat) le persone con patologie psichiatriche> ma, nonostante la sua diffusione, pregiudizi e timori spesso avvolgono come un velo il tema della salute mentale. Abbattere con la lettura condivisa lo stigma che circonda chi soffre di con disturbi mentali èl'obiettivo del progetto, che ha vinto il bando del Cepell (Centro per il libro e la lettura) e durerà un anno. \n<h2>Superare i tabù</h2> \n\"Attorno alla<a href=\"https://www.agi.it/cronaca/news/2021-01-03/psichiatria-cagliari-giornale-malattie-mentali-10868445/\"> salute mentale</a>, ai pazienti che soffrono di patologie di questo tipo e più&nbsp;in generale su questo tema ci sono molti tabù\", conferma all'AGI Maria Sechi, presidente dell'associazione culturale 'Coilibri'>, \"come se fosse qualcosa che non ci riguarda\". \n\"Si parla poco di questo tema come a volerlo allontanare da noi\",> aggiunge Sechi. \"Eppure è&nbsp;qualcosa che bisogna imparare a conoscere e di cui dobbiamo smettere di avere paura. Per questo il nostro progetto mira a coinvolgere insieme i pazienti del centro diurno del dipartimento di Salute mentale e Dipendenze di Sassari e gli studenti del Convitto Nazionale Canopoleno>. Vogliamo partire dai più&nbsp;giovani per creare conoscenza e abbattere lo stigma attraverso la lettura a voce alta come veicolo di condivisione e conoscenza\". \n\"Sia gli studenti sia i pazienti del centro di Salute mentale frequenteranno le lezioni di teatro>\", spiega la presidente di 'Coilibri', \"per imparare a trasferire la lettura di un testo a una platea di ascoltatori\".&nbsp; \nI più giovani si cimenteranno nella lettura ad alta voce tramite il 'Kamishibai'>. Quelli più&nbsp;grandi e i pazienti in cura al dipartimento di Salute mentale affronteranno lezioni con un attore >per imparare l'intonazione e l'importanza delle pause. \nAlcuni frequenteranno anche lezioni di Hatha Yoga per imparare la giusta respirazione> e incrementare la concentrazione. \n<h2>La passione per la lettura</h2> \n\"Molti pazienti sono assidui lettori\">, racconta Sechi. \"Alcuni amano scrivere e attraverso questa passione vogliamo condurli a fare un passo in avanti, ad andare oltre l'atto di leggere solo per se stessi>. Leggere a voce alta comporta assumere una responsabilità di condivisione>, implica un impegno superiore, dare una cadenza e un ritmo alla lettura affinché&nbsp;chi ascolta comprenda al meglio il testo. Inoltre, occorre far recuperare alle persone con patologie mentali il piacere sociale, godere della compagnia degli altri> in un contesto paritario su un terreno comune di condivisione di una stessa passione, la lettura\". \nLa conclusione del progetto è&nbsp;prevista per il 23 aprile 2023: \"Chiuderemo nella giornata internazionale del libro>\", sottolinea Maria Sechi, \"con un evento in cui vedremo i frutti del progetto con delle attività&nbsp;dimostrative\". \n'Un libro per la testa' affonda le radici nel 2016 quando l'associazione sassarese 'Coilibri' ha fondato una piccola biblioteca nella sede del centro di Salute mentale di Sassari>, grazie al finanziamento della Fondazione di Sardegna con cui, oltre all'acquisto dei libri per l'allestimento della biblioteca, i pazienti del centro hanno potuto frequentare un corso per diventare bibliotecari>. \n\"Nella complessità&nbsp;della mente possiamo restare tutti intrappolati\">, conclude Sechi, \"e nessuno per questo deve sentirsi escluso e abbandonato\".&nbsp;",
+        "ranked": 3,
+        "placed": "Cronaca",
+        "epoch": 1652284804.1511376,
+        "language": "IT",
+        "source": "AGI",
+        "en_title": "When reading out loud breaks the isolation of mental illness",
+        "en_content": "AGI - There is &nbsp; a high voice reading, first of all. And then Hatha Yoga, in addition to the 'Kamishibai, a sort of table theater where the stories read come alive through animations.> They are the 'indirectors' of the project 'A book for the head', conceived in Sassari by the cultural association 'Coilibri', to break, thanks also to students and students, the isolation of people with mental disorders and help them get out of their shell and overcome the fear of attending people outside the family context or therapy'.\nIn Italy there are over 800 thousand (Istat data) people with psychiatric pathologies > but, despite its diffusion, prejudices and fears often wrap as a veil the theme of mental health. Fighting with shared reading the stigma surrounding those suffering from mental disorders is the goal of the project, which won the call of Cepell (Centre for Book and Reading) and will last a year.\n<h2> Overboards\n\"Actrno alla<a href=\"https://www.agi.it/cronaca/news/2021-01-03/psichiatria-giornale-malattie-mentali-10868445/\"> mental health</a>, patients suffering from pathologies of this type and more &nbsp; generally on this issue there are many taboos\", confirms to AGI Maria\n\"We talk little about this theme as if we want to move it away from us,\" adds Sechi. \"It is also a &nbsp; something you need to learn about and we must stop being afraid of. For this reason, our project aims to involve patients of the day centre of the Department of Mental Health and Employees of Sassari and students of the National Canopoleno Council.» We want to start with the most &nbsp;young people to create knowledge and break down the stigma through reading aloud as a vehicle of sharing and knowledge.\"\n\"The students and patients of the mental health center will attend theater lessons >\", explains the president of 'Coilibri', \"to learn how to transfer a text to a audience of listeners\". &nbsp;\nThe youngest will complain about reading loudly through the 'Kamishibai'>. The most &nbsp; large ones and patients taking care of the mental health department will take lessons with an actor > to learn the intonation and importance of breaks.\nSome will also attend Hatha Yoga lessons to learn the right breathing > and increase concentration.\n<h2> The passion for reading\n\"Many patients are assiduous readers\", says Sechi. \"Some love to write and through this passion we want to lead them to take a step forward, to go beyond the act of reading only for themselves >. Reading on a high voice involves taking responsibility for sharing >, implies a greater commitment, giving a cadence and a rhythm to reading so that &nbsp; who listens understands the text at best. Moreover, it is necessary to make people recover with mental illnesses the social pleasure, enjoy the company of others > in an equal context on a common ground of sharing a same passion, reading\".\nThe conclusion of the project is&nbsp;preview for 23 April 2023: \"We will close on the international day of the book >\", says Maria Sechi, \"with an event in which we will see the fruits of the project with &nbsp; demonstration activities\".\n'A book for the head' has its roots in 2016 when the association of sassarese 'Coilibri' founded a small library in the center of mental health of Sassari>, thanks to the financing of the Foundation of Sardinia with which, in addition to the purchase of books for the preparation of the library, the patients of the center could attend a course to become librarians.'\n\"In the complexity and complexity of the mind we can all stay trapped,\" says Sechi, \"and nobody for this must feel excluded and abandoned.\" &nbsp;",
+        "en_subtitle": "",
+        "overall_polarity": 0.027973027375201298,
+        "overall_subjectivity": 0.2842379802162411,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.5,
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": 0.0839190821256039,
+        "content_subjectivity": 0.3527139406487233,
+        "content_NER": [
+            {
+                "word": "first",
+                "start_char": 44,
+                "end_char": 49,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Hatha Yoga",
+                "start_char": 67,
+                "end_char": 77,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kamishibai",
+                "start_char": 99,
+                "end_char": 109,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sassari",
+                "start_char": 268,
+                "end_char": 275,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the cultural association 'Coilibri'",
+                "start_char": 279,
+                "end_char": 314,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 532,
+                "end_char": 537,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "over 800 thousand",
+                "start_char": 548,
+                "end_char": 565,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Istat",
+                "start_char": 567,
+                "end_char": 572,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Cepell (Centre for Book and Reading",
+                "start_char": 855,
+                "end_char": 890,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "last a year",
+                "start_char": 901,
+                "end_char": 912,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Sechi",
+                "start_char": 1276,
+                "end_char": 1281,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Department of Mental Health and Employees of Sassari",
+                "start_char": 1447,
+                "end_char": 1503,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the National Canopoleno Council",
+                "start_char": 1520,
+                "end_char": 1551,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hatha Yoga",
+                "start_char": 2171,
+                "end_char": 2181,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sechi",
+                "start_char": 2322,
+                "end_char": 2327,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "23 April 2023",
+                "start_char": 2920,
+                "end_char": 2933,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Maria Sechi",
+                "start_char": 2996,
+                "end_char": 3007,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "2016",
+                "start_char": 3149,
+                "end_char": 3153,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the association of sassarese '",
+                "start_char": 3159,
+                "end_char": 3189,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sassari",
+                "start_char": 3257,
+                "end_char": 3264,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the Foundation of Sardinia",
+                "start_char": 3294,
+                "end_char": 3320,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Sechi",
+                "start_char": 3555,
+                "end_char": 3560,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Tra i minorenni c'è \"un'emergenza salute mentale\" ",
+        "date_raw": "Wed, 11 May 2022 12:59:29 GMT",
+        "date": "2022-05-11",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2022-05-11/covid-allarme-disturbi-psichici-mentali-minorenni-16693794/",
+        "subtitle": "",
+        "content": "AGI - \"I problemi del neurosviluppo e della salute mentale di bambini e ragazzi manifestatisi durante la pandemia rischiano di diventare cronici e diffondersi su larga scala\". è l'allarme che lancia l'Autorità garante per l'infanzia e l'adolescenza, Carla Garlatti, in occasione della pubblicazione dello studio Pandemia, neurosviluppo e salute mentale di bambini e ragazzi promosso dall'Agia con l'Istituto superiore di sanità e con la collaborazione del Ministero dell'istruzione. \nPer realizzare la ricerca - la prima scientifica a valenza nazionale - sono stati ascoltati oltre 90 esperti tra neuropsichiatri infantili, pediatri, assistenti sociali, psicologi, pedagogisti e docenti>. Le emergenze segnalate dalla ricerca I professionisti interpellati hanno riferito di disturbi del comportamento alimentare, ideazione suicidaria (tentato suicidio e suicidio), autolesionismo, alterazioni del ritmo sonno-veglia e ritiro sociale. \nIn ambito educativo, poi, sono stati riscontrati disturbi dell'apprendimento, dell'attenzione e del linguaggio>, disturbi della condotta> e della regolazione cognitiva ed emotiva, oltre a paura del contagio, stato di frustrazione e incertezza rispetto al futuro, generando insicurezza e casi di abbandono scolastico. \nE' stato inoltre riportato un aumento delle richieste d'aiuto per l'uso di sostanze psicoattive, cannabinoidi e alcool>, mentre i minori migranti non accompagnati hanno manifestato difficoltà nella gestione dell'isolamento e della quarantena nelle strutture di accoglienza. \n<h2>E' emergenza salute mentale</h2> \nPiù in generale la pandemia ha provocato quella che i professionisti interpellati dall'èquipe di ricerca hanno definito una vera e propria \"emergenza salute mentale\">. E'&nbsp;stata infatti registrata un'impennata delle richieste di aiuto alla quale in molti casi sono corrisposte inadeguatezza e iniquità di risposte che hanno fatto emergere carenze e ritardi strutturali precedenti al coronavirus. Bambini, ragazzi e famiglie si sono trovati spesso costretti a rivolgersi ai privati con impegni economici rilevanti e difficilmente sostenibili, che hanno aumentato le disuguaglianze. \nAllo stesso tempo il lockdown ha fatto scoprire il potenziale della telemedicina applicata alla salute mentale, ma occorre investire rapidamente in formazione degli operatori e in tecnologie specifiche per assistere bambini e ragazzi.&nbsp; \nTra le raccomandazioni del Garante \"c'è innanzitutto la necessità&nbsp;che le azioni di programmazione, prevenzione e cura superino la frammentarietà regionale e locale.> La fase post pandemica puo' essere un'occasione straordinaria per farlo e in generale per migliorare il sistema. Ma non c'è tempo da perdere\", avverte Garlatti. \n\"Vanno previste adeguate risorse per i servizi, fornite risposte specifiche in base all'età, va garantito un numero di posti letto in reparti dedicati ai minorenni e istituiti servizi di psicologia scolastica in modo da attivare un collegamento tra scuola e territorio. E'&nbsp;altrettanto importante operare un cambiamento culturale intervenendo sul ruolo educativo e sulla promozione del dialogo intergenerazionale\". \nLa ricerca è durata un anno e proseguirà per altri due>, coinvolgendo fino a 35.000 minorenni dai 6 ai 18 anni nelle cinque regioni coinvolte nello studio. A validarla un comitato, presieduto dal professor Paolo Petralia e composto da autorevoli rappresentanti del mondo scientifico, accademico e delle professioni psico-sociali.&nbsp;",
+        "ranked": 4,
+        "placed": "Cronaca",
+        "epoch": 1652284804.151139,
+        "language": "IT",
+        "source": "AGI",
+        "en_title": "Among the minors there is \"a mental health emergency\"",
+        "en_content": "AGI - \"The problems of neurodevelopment and mental health of children and children manifested during the pandemic are likely to become chronic and spread on a large scale\". is the alarm that launches the guarantor Authority for childhood and adolescence, Carla Garlatti, on the occasion of the publication of the study Pandemia, neurodevelopment and mental health of children and boys promoted by Agia with the Higher Institute of Health and with the collaboration of the Ministry of Education.\nTo carry out research - the first national scientific - more than 90 experts were heard among infant neuropsychiatrists, pediatricians, social assistants, psychologists, pedagogists and teachers >. The emergencies reported by the research The respondents reported disturbances of food behavior, suicidal ideation (tentato suicide and suicide), self-harm, alterations of sleep-wake rhythm and social retreat.\nIn the educational field, learning, attention and language disorders were found, behavioural disorders and cognitive and emotional regulation, as well as fear of contagion, frustration and uncertainty over the future, generating insecurity and cases of school abandonment.\nIn addition, there has been an increase in requests for help for the use of psychoactive substances, cannabinoids and alcohol > while unaccompanied migrants have experienced difficulties in managing isolation and quarantine in reception facilities.\nMental health emergency\nMore generally, pandemic has caused what the research team has called a real \"mental health emergency\". In fact, a number of requests for aid have been recorded which in many cases are inadequacy and iniquity of responses that have caused structural deficiencies and delays prior to the coronavirus. Children, boys and families have often been forced to turn to private individuals with significant and hardly sustainable economic commitments, which have increased inequalities.\nAt the same time, lockdown revealed the potential of telemedicine applied to mental health, but it is necessary to invest quickly in the training of operators and in specific technologies to assist children and boys.&nbsp;\nAmong the recommendations of the Guarantor \"there is first the need &nbsp;that programming, prevention and care actions exceed regional and local fragmentation.> Post pandemic phase can be an extraordinary opportunity to do so and in general to improve the system. But there's no time to lose,\" warns Garlatti.\n\"There are adequate resources for services, provided specific answers based on age, a number of beds must be guaranteed in departments dedicated to minors and established services of school psychology so as to activate a link between school and territory. It is important to work a cultural change by intervening on the educational role and on the promotion of intergenerational dialogue\".\nThe research lasted one year and will continue for another two >, involving up to 35,000 minors from 6 to 18 years in the five regions involved in the study. A committee, chaired by Professor Paolo Petralia and composed of authoritative representatives of the scientific, academic and psycho-social professions.&nbsp;",
+        "en_subtitle": "",
+        "overall_polarity": 0.008652729384436703,
+        "overall_subjectivity": 0.20409407665505222,
+        "title_polarity": -0.1,
+        "title_subjectivity": 0.2,
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": 0.1259581881533101,
+        "content_subjectivity": 0.41228222996515673,
+        "content_NER": [
+            {
+                "word": "Authority",
+                "start_char": 214,
+                "end_char": 223,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Carla Garlatti",
+                "start_char": 255,
+                "end_char": 269,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pandemia",
+                "start_char": 319,
+                "end_char": 327,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Agia",
+                "start_char": 397,
+                "end_char": 401,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Higher Institute of Health",
+                "start_char": 407,
+                "end_char": 437,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Ministry of Education",
+                "start_char": 468,
+                "end_char": 493,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 523,
+                "end_char": 528,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "more than 90",
+                "start_char": 551,
+                "end_char": 563,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "first",
+                "start_char": 2204,
+                "end_char": 2209,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "one year",
+                "start_char": 2872,
+                "end_char": 2880,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "two",
+                "start_char": 2911,
+                "end_char": 2914,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "up to 35,000",
+                "start_char": 2928,
+                "end_char": 2940,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "6 to 18 years",
+                "start_char": 2953,
+                "end_char": 2966,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "five",
+                "start_char": 2974,
+                "end_char": 2978,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Paolo Petralia",
+                "start_char": 3044,
+                "end_char": 3058,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "Il caso delle presunte molestie alle volontarie dell'Eurovision",
+        "date_raw": "Wed, 11 May 2022 10:59:24 GMT",
+        "date": "2022-05-11",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2022-05-11/caso-presunte-molestie-volontarie-eurovision-ebu-16692234/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;&nbsp; Nell'edizione dell'Eurovision dedicata alla pace,&nbsp; da qualche giorno corre un'acre polemica, per il momento nel silenzio gli organizzatori, sulle presunte molestie subite dalle giovani volontarie da parte di alcuni ballerini&nbsp;alla festa inaugurale di domenica scorsa alla Reggia di Venaria. \n<h2>\"Ci hanno toccato il sedere\"</h2> \nA raccontarne per primo il ‘Corriere della Sera' che ha riportato le testimonianze di alcune di loro. \"Se non fossi stata una volontaria avrei schiaffeggiato q>uei ballerini stranieri. Dopo averci fissato a lungo, si sono avvicinati a me e ad altre volontarie. Ci hanno toccato il sedere. Per il disagio abbiamo deciso di allontanarci”. \n“Ero con le altre volontarie, quei ballerini stranieri ci hanno fissato a lungo> e dopo si sono avvicinati. Ballavamo vicini, poi abbiamo incominciato a sentire le loro mani addosso. Quando ci siano rese conto di quello che stava capitando, abbiamo cambiato stanza della festa”. \n<h2>Smentite e repliche&nbsp;</h2> \nIl Comune di Venaria ha smentito, tramite la responsabile della gestione dei volontari in maglietta arancione: “Se fosse successo qualcosa di inappropriato sarei stata la prima ad intervenire, ma non ho visto nulla di tutto questo - le parole della funzionaria comunale, Alessandra Aires -. Mentre il mondo è in guerra a Torino si sta celebrando una festa di pace. Spiace che si cerchi di sporcare> una festa bellissima”. \nUna smentita a cui il movimento locale ‘Non una di meno' ha reagito a muso duro: “A fronte delle segnalazioni rese pubbliche da alcune lavoratrici rispetto alle molestie subite sul proprio posto di lavoro durante la kermesse dell'Eurovision, ci chiediamo come rappresentanti del Comune si sentano legittimati a dichiarare che non sia successo niente di male.Come quasi sempre succede, la voce delle donne >che vivono violenza o sopruso viene silenziata, i loro racconti non creduti e le loro esperienze non ascoltate.&nbsp;Quanto denunciato dalle lavoratrici è e dovrebbe essere considerato molestia sul posto di lavoro e come tale andrebbe affrontato, puntando l'attenzione sulle condizioni di estremo sfruttamento e ricattabilita' che le donne vivono in ambito lavorativo e in alcuni contesti di lavoro in particolare”. \nA quanto si è saputo, il gruppo femminista valuterà alla sua prossima assemblea se farsi collettore di altre testimonianze e prendere ulteriori iniziative. Al momento non è stata presentata nessuna denuncia.> L'Ebu, l'organizzazione che dà&nbsp;vita all'evento, tace ma sembra che sia molto infastidita dalla vicenda.&nbsp;",
+        "ranked": 5,
+        "placed": "Cronaca",
+        "epoch": 1652284804.1511405,
+        "language": "IT",
+        "source": "AGI",
+        "en_title": "The case of alleged harassment to Eurovision volunteers",
+        "en_content": "AGI -&nbsp;&nbsp; In the edition of the Eurovision dedicated to peace, &nbsp; from a few days there is an acute controversy, for the moment in silence the organizers, about the alleged harassment suffered by young volunteers from some dancers &nbsp; to the inaugural feast of Sunday last at the Reggia di Venaria.\n<h2>\"We had to sit\"</h2>\nTo tell first of all the 'Corriere della Sera' that has reported the testimonies of some of them. \"If I hadn't been a volunteer, I would have slapped foreign dancers. After fixing us for a long time, they approached me and other volunteers. They touched our butt. For the discomfort we decided to move away.”\n“I was with the other volunteers, those foreign dancers fixed us for a long time > and then approached. We danced close, then we started to feel their hands on them. When they realized what was happening, we changed the party room.”\n<h2>Smentite e repliche&nbsp;</h2>\nThe Municipality of Venaria has denied, through the manager of volunteers in orange shirt: “If something inappropriate happened I would have been the first to intervene, but I didn’t see anything about this – the words of the municipal official, Alessandra Aires –. While the world is at war in Turin is celebrating a feast of peace. Sorry you try to get dirty > a beautiful party.”\nA denial to which the local movement 'Not one less' reacted to harsh muzzle: \"In the face of the reports made public by some workers compared to the harassment suffered in their workplace during the Eurovision kermesse, we wonder how representatives of the Municipality feel legitimate to declare that nothing wrong happened. As it almost always happens, the voice of women who live violence or abuse is silenced, their uncreated stories and their unhearded experiences.&nbsp; As reported by the workers is and should be considered harassment at the workplace and as such should be addressed, focusing attention on the conditions of extreme exploitation and blackmail that women live in the workplace and in some contexts of work in particular.\"\nAs we have heard, the feminist group will evaluate to its next assembly if to be a collector of other testimonies and take further initiatives. At the moment no complaint has been lodged.> The Ebu, the organization that gives &nbsp; avoids the event, silent but seems to be very annoyed by the story.&nbsp;",
+        "en_subtitle": "",
+        "overall_polarity": -0.04239669421487604,
+        "overall_subjectivity": 0.17247474747474745,
+        "title_polarity": -0.1,
+        "title_subjectivity": 0.1,
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": -0.027190082644628105,
+        "content_subjectivity": 0.41742424242424236,
+        "content_NER": [
+            {
+                "word": "a few days",
+                "start_char": 83,
+                "end_char": 93,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Sunday",
+                "start_char": 276,
+                "end_char": 282,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Reggia",
+                "start_char": 295,
+                "end_char": 301,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 347,
+                "end_char": 352,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Corriere",
+                "start_char": 365,
+                "end_char": 373,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "The Municipality of Venaria",
+                "start_char": 916,
+                "end_char": 943,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "first",
+                "start_char": 1066,
+                "end_char": 1071,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Alessandra Aires",
+                "start_char": 1162,
+                "end_char": 1178,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Turin",
+                "start_char": 1211,
+                "end_char": 1216,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "gives &nbsp",
+                "start_char": 2265,
+                "end_char": 2276,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Dal 16 maggio stop all'obbligo di mascherina sui voli",
+        "date_raw": "Wed, 11 May 2022 09:10:00 GMT",
+        "date": "2022-05-11",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2022-05-11/stop-obbligo-mascherina-voli-aerei-16690962/",
+        "subtitle": "",
+        "content": "AGI - L'Agenzia dell'Unione europea per la sicurezza aerea (Easa) e il Centro europeo per la prevenzione e il controllo delle malattie (Ecdc) hanno pubblicato un aggiornamento sulle misure di sicurezza sanitaria per i viaggi aerei, eliminando la raccomandazione sull'uso obbligatorio di mascherine mediche negli aeroporti e a bordo di un volo. Le nuove raccomandazioni sull'uso delle mascherine entreranno in vigore dal 16 maggio 2022. \nL'aggiornamento del protocollo congiunto sulla sicurezza sanitaria dell'aviazione tiene conto degli ultimi sviluppi della pandemia, in particolare dei livelli di vaccinazione e dell'immunità&nbsp;acquisita naturalmente, e della conseguente revoca delle restrizioni in un numero crescente di paesi europei. \nOltre alle modifiche relative alle mascherine, le raccomandazioni includono un allentamento delle misure più&nbsp;rigorose sulle operazioni aeree, che contribuirà&nbsp;ad alleviare l'onere per l'industria pur mantenendo le misure appropriate. \nLe regole per le mascherine, però, continueranno a variare in base alla compagnia aerea oltre tale data. Ad esempio, i voli da o verso una destinazione in cui è&nbsp;ancora richiesto l'uso della maschera sui trasporti pubblici dovrebbero continuare a incoraggiare l'uso della maschera, secondo le raccomandazioni. \nI passeggeri vulnerabili, prosegue l'Agenzia, dovrebbero continuare comunque a indossare una maschera facciale indipendentemente dalle regole: idealmente una del tipo Ffp2/N95/Kn95 che offre un livello di protezione superiore rispetto a una maschera chirurgica standard.&nbsp;",
+        "ranked": 6,
+        "placed": "Cronaca",
+        "epoch": 1652284804.151142,
+        "language": "IT",
+        "source": "AGI",
+        "en_title": "From 16 May stop to the obligation to mask on flights",
+        "en_content": "AGI - The European Union Agency for Air Safety (Easa) and the European Centre for Disease Prevention and Control (Ecdc) have published an update on health safety measures for air travel, eliminating the recommendation on the compulsory use of medical masks at airports and on board a flight. The new recommendations on the use of masks will enter into force on 16 May 2022.\nThe update of the Joint Aviation Safety Protocol takes into account the latest developments in pandemic, in particular levels of vaccination and &nbsp immunity; acquired of course, and the consequent revocation of restrictions in a growing number of European countries.\nIn addition to changes to masks, recommendations include a loosening of the most stringent measures on air operations, which will contribute to &nbsp; to alleviate the burden for industry while maintaining appropriate measures.\nThe rules for masks, however, will continue to vary according to the airline beyond that date. For example, flights to or from a destination in which it is &nbsp; still required the use of the mask on public transport should continue to encourage the use of the mask, according to the recommendations.\nVulnerable passengers, the Agency continues, should still wear a face mask independently of the rules: ideally one of the type Ffp2/N95/Kn95 that offers a higher level of protection than a standard surgical mask.&nbsp;",
+        "en_subtitle": "",
+        "overall_polarity": 0.05318813131313132,
+        "overall_subjectivity": 0.10165719696969695,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "16 May",
+                "start_char": 5,
+                "end_char": 11,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": 0.15956439393939395,
+        "content_subjectivity": 0.3049715909090909,
+        "content_NER": [
+            {
+                "word": "The European Union Agency",
+                "start_char": 6,
+                "end_char": 31,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Air Safety (Easa",
+                "start_char": 36,
+                "end_char": 52,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the European Centre for Disease Prevention and Control (Ecdc",
+                "start_char": 58,
+                "end_char": 118,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "16 May 2022",
+                "start_char": 361,
+                "end_char": 372,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Joint Aviation Safety Protocol",
+                "start_char": 388,
+                "end_char": 422,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "European",
+                "start_char": 624,
+                "end_char": 632,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Agency",
+                "start_char": 1201,
+                "end_char": 1207,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ]
+    },
+    {
+        "title": "Nel Lazio presto potranno essere realizzati i cimiteri per gli animali domestici",
+        "date_raw": "Wed, 11 May 2022 08:59:00 GMT",
+        "date": "2022-05-11",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2022-05-11/lazio-avra-cimiteri-per-gli-animali-domestici-16690519/",
+        "subtitle": "",
+        "content": "AGI - Il Lazio avrà&nbsp;dei cimiteri dedicati agli animali domestici dove poter tumulare i propri cani e gatti.> \nLa commissione Sanità&nbsp;del Consiglio regionale del Lazio ha, infatti, dato un primo via libera ad una proposta di legge che prevede la possibilità&nbsp;per i comuni di realizzare dei luoghi dove poter seppellire gli amici a quattro zampe. \nSi tratta di una proposta di legge regionale che ha unificato due distinti testi, la proposta numero 71 e la numero 159, che intendono normare la \"disciplina dei cimiteri per animali da affezione\". \nLa prima era stata presentata dagli esponenti del Movimento 5 stelle mentre la seconda da Fratelli d'Italia. \n<div></div> \nIl testo con i relativi emendamenti già&nbsp;approvati dalla commissione Sanità, dopo i pareri sulle coperture finanziare, verrà&nbsp;presentato in Aula al Consiglio Regionale per l'approvazione definitiva. &nbsp; \n\"Nella Commissione che presiedo, abbiamo dato parere favorevole alla proposta di legge sulla disciplina dei cimiteri per gli animali da compagnia> - ha spiegato all'AGI Rodolfo Lena, presidente della Commissione Sanità&nbsp;del Consiglio Regionale - mi auguro che ora arrivi in tempi brevi anche la calendarizzazione per la discussione in aula\". \nFine della legge è&nbsp;quello di assicurare \"la continuità&nbsp;del rapporto affettivo dei proprietari con i loro animali, anche dopo la loro morte\"> prevedendo quindi dei veri e propri cimiteri. \nMa non si tratta di assicurare \"una cuccia per la vita\" solo a cani e gatti, la proposta prevede che potranno essere seppelliti in questi cimiteri anche i criceti, gli uccelli da gabbia e gli altri animali domestici di piccole dimensioni, ovvero tutti quegli animali \"appartenenti ad una specie abitualmente nutrita e detenuta, ma non consumata, dall'uomo a fini diversi dall'allevamento\". \n<div></div> \n\"Si tratta, infatti, di una legge di civiltà, che consentirà&nbsp;di dare degna sepoltura agli animali domestici che, per noi tutti, sono ormai diventati dei veri e propri componenti della famiglia> - ha aggiunto il presidente Rodolfo Lena del Pd - nei cimiteri, che potranno essere gestiti da enti pubblici o privati, previa autorizzazione del comune competente territorialmente, potranno essere accolte sia le spoglie sia le ceneri degli animali. La Regione si occuperà&nbsp;di garantire il rispetto di tutte le norme di salute pubblica e di concedere i relativi pareri igienico-sanitari tramite appositi controlli demandanti alle Asl e all'agenzia per la protezione ambientale\". \nIn questi cimiteri potranno essere accolte le ceneri degli animali a condizione che un apposito certificato veterinario escluda la presenza di malattie trasmissibili all'uomo>. Inoltre questi luoghi potranno essere realizzati e gestiti dai singoli comuni o dai privati che sono stati autorizzati dopo un nulla osta da parte della Asl. \n\"La proposta di legge sui cimiteri per gli animali è&nbsp;di vitale importanza perché&nbsp;va a dare regole certe sull'argomento, al momento disciplinato solo da un Regolamento europeo che, però, prevede l'incenerimento o la sepoltura solo nel caso in cui si abbia a disposizione un terreno privato - ha detto all'AGI Devid Porrello del Movimento 5 stelle e vice presidente del Consiglio regionale - con questa legge, che abbiamo presentato nel 2018 e che adesso è&nbsp;confluita in un testo unificato, vogliamo far sì&nbsp;che quel legame che si è&nbsp;creato in vita con l'animale domestico non venga spezzato e prosegua anche dopo la morte,> assecondando il desiderio di tutti color che considerano i pet come parte integrante della famiglia\". \n\"Ma oltre all'aspetto affettivo, la legge darà&nbsp;risposte certe anche in termini igienico-sanitari, individuando dei luoghi precisi dove realizzare i cimiteri e garantendo una gestione controllata tramite un registro delle sepolture e continue verifiche da parte della Asl competente >- ha sottolineato Devid Porrello - in questo modo si va a eliminare il rischio di inquinamento delle falde acquifere causato dall'eventuale seppellimento non autorizzato degli animali e anche il rischio di diffusione di malattie, nel caso in cui le spoglie vengano gettate nei cassonetti dell'immondizia. In Commissione Sanità&nbsp;abbiamo discusso gli emendamenti, ora la Pdl passerà&nbsp;all'esame della Commissione Bilancio per discutere la copertura finanziaria e poi tornerà&nbsp;in Commissione Sanità&nbsp;per l'ok definitivo. Ultimati questi passaggi il testo approderà&nbsp;in Aula dove, una volta approvato, diventerà&nbsp;legge. È&nbsp;un provvedimento doveroso che garantirà&nbsp;una degna sepoltura dei nostri amici a quattro zampe che in vita ci hanno donato tutto il loro amore e che, anche dopo la morte, non vogliamo abbandonare\". \n<div></div> \n\"Questa legge darà&nbsp;finalmente la possibilità&nbsp;ai comuni di realizzare dei cimiteri per gli animali domestici - ha detto all'AGI Fabrizio Ghera capo gruppo di Fratelli d'Italia al Consiglio Regionale e firmatario di una delle proposte di legge - c'è&nbsp;una grande attenzione su questo tema da parte dei cittadini e speriamo di poterla approvare definitivamente al più&nbsp;presto in Aula. Si tratta di una legge che è&nbsp;già&nbsp;adottata in altre regioni\">. \nPer ora non è&nbsp;prevista la possibilità&nbsp;che ci siano dei cimiteri cosiddetti misti, ovvero luoghi di sepoltura dove poter tumulare i padroni con i loro animali da compagnia. Una proposta che non è&nbsp;stata approvata prevedeva che le ceneri dell'animale, separate in un teca, potessero essere aggiunte nel loculo del defunto anche su richiesta degli eredi. \n\"Al momento non è&nbsp;passato il nostro emendamento che prevedeva la possibilità&nbsp;di poter seppellire le ceneri dell'animale nella stessa tomba del suo padrone - ha spiegato Fabrizio Ghera - questa proposta la ripresenteremo sicuramente in occasione della discussione in aula. Si tratta di prevedere la possibilità&nbsp;che nello stesso loculo del defunto si possa inserire una piccola teca che custodisce le ceneri dell'animale domestico>. Questo non sarebbe un obbligo ma soltanto una facoltà. È&nbsp;una possibilità&nbsp;già&nbsp;prevista in Lombardia, Emilia Romagna e Liguria\".&nbsp;",
+        "ranked": 7,
+        "placed": "Cronaca",
+        "epoch": 1652284804.151143,
+        "language": "IT",
+        "source": "AGI",
+        "en_title": "In Latium the cemeteries for pets can soon be made",
+        "en_content": "AGI - Latium will have &nbsp; cemeteries dedicated to pets where you can mound your dogs and cats. >\nThe Sanità&nbsp commission; of the regional council of Lazio has, in fact, given a first free way to a proposal of law that previews the possibility &nbsp; for the municipalities to realize of places where to be able to bury four-legged friends.\nThis is a proposal for regional law that has unified two separate texts, the proposal number 71 and the number 159, which intend to regulate the \"discipline of cemeteries for affectionate animals\".\nThe first was presented by the representatives of the 5 star Movement while the second by Brothers of Italy.\n<div </div\nThe text with the relative amendments already&nbsp; approved by the Health Committee, after the opinions on the financial cover, will be&nbsp; presented in the Chamber to the Regional Council for definitive approval. &nbsp;\n\"In the Commission that I preside, we have given favourable opinion to the proposal for law on the discipline of cemeteries for pets > - it has explained to AGI Rodolfo Lena, president of the Commission Sanità&nbsp; of the Regional Council - I hope that now the calendarization for discussion in the classroom arrives in a short time\".\nThe end of the law is &nbsp; to ensure \"the continuity &nbsp; of the affective relationship of the owners with their animals, even after their death\"> thus providing for real cemeteries.\nBut it is not a matter of securing \"a bowl for life\" only to dogs and cats, the proposal previews that they can be buried in these cemeteries also hamsters, cage birds and other small pets, that is all those animals \"apparten to a species usually nourished and held, but not consumed, from man for purposes other than breeding\".\n<div </div\n\"It is, in fact, a law of civilization, which will allow &nbsp; to give worthy burial to pets that, for us all, have become real members of the family > - added President Rodolfo Lena del Pd - in the cemeteries, that can be managed by public or private entities, after authorization of the competent territorially, can be welcomed both the animal remains and the ashes of the animals. The Region will be responsible for ensuring compliance with all public health norms and granting the relevant health and health advice by means of special checks to the Asl and the environmental protection agency.\"\nIn these cemeteries the ashes of animals may be accepted provided that a special veterinary certificate excludes the presence of diseases transmitted to man.' In addition, these places can be realized and managed by the individual municipalities or individuals who have been authorized after nothing from Asl.\n\"The proposal for a law on cemeteries for animals is vital because it would give certain rules on the subject, at the moment governed only by a European Regulation which, however, provides for incineration or burial only in the case of a private land - said the AGI Devid Porrello of the Movement 5 stars and vice president of the Regional Council - with this law,\n\"But in addition to the affective aspect, the law will give &nbsp; certain replies also in hygienic-sanitary terms, identifying precise places where to realize cemeteries and ensuring a controlled management through a register of burials and continuous verification by the competent Asl >- underlined Devid Porrello - in this way it goes to eliminate the risk of pollution of groundwater caused by the possible spread of animals In the Sanità&nbsp Commission; we discussed the amendments, now the Pdl will pass &nbsp; to the examination of the Budget Commission to discuss the financial cover and then return to the Sanità&nbsp Commission; for the definitive ok. After these passages the text will arrive &nbsp;in Hall where, once approved, it will become &nbsp;law. It is &nbsp; a necessary measure that will guarantee &nbsp; a worthy burial of our four-legged friends who in life have given us all their love and that, even after death, we do not want to abandon.\"\n<div </div\n\"This law will give &nbsp; finally the possibility &nbsp; to the municipalities to realize cemeteries for pets - said to the AGI Fabrizio Ghera group leader of Brothers of Italy to the Regional Council and signatory of one of the proposals of law - there is &nbsp; a great attention on this topic from the citizens and hope to be able to definitively approve it to the more&nbsp;presto in Aula. It is a law that is &nbsp;già&nbsp;adopted in other regions.'\nFor now it is not &nbsp;predicts the possibility &nbsp; that there are so-called mixed cemeteries, that is places of burial where you can murmur the masters with their pets. A proposal that is not approved, provided that the ashes of the animal, separated into a teca, could be added in the loculo of the deceased even at the request of the heirs.\n\"At the moment it is not &nbsp; past our amendment that previewed the possibility &nbsp; of being able to bury the ashes of the animal in the same tomb of his master - it has explained Fabrizio Ghera - this proposal we will surely return to the occasion of the discussion in the classroom. It is a question of predicting the possibility of encoding in the same loculo of the deceased can be inserted a small theca that guards the ashes of the pet >. This would not be an obligation but only a faculty. It is a possibility &nbsp;già&nbsp;prevista in Lombardia, Emilia Romagna and Liguria\". &nbsp;",
+        "en_subtitle": "",
+        "overall_polarity": 0.04696765498652291,
+        "overall_subjectivity": 0.16849855246081666,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Latium",
+                "start_char": 3,
+                "end_char": 9,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": 0.14090296495956872,
+        "content_subjectivity": 0.50549565738245,
+        "content_NER": [
+            {
+                "word": "Lazio",
+                "start_char": 156,
+                "end_char": 161,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "first",
+                "start_char": 184,
+                "end_char": 189,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "four",
+                "start_char": 326,
+                "end_char": 330,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "two",
+                "start_char": 400,
+                "end_char": 403,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "71",
+                "start_char": 440,
+                "end_char": 442,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "159",
+                "start_char": 458,
+                "end_char": 461,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "first",
+                "start_char": 549,
+                "end_char": 554,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "5",
+                "start_char": 599,
+                "end_char": 600,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "second",
+                "start_char": 625,
+                "end_char": 631,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Brothers of Italy",
+                "start_char": 635,
+                "end_char": 652,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Health Committee",
+                "start_char": 729,
+                "end_char": 749,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "be&nbsp",
+                "start_char": 799,
+                "end_char": 806,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Chamber",
+                "start_char": 825,
+                "end_char": 832,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Regional Council",
+                "start_char": 836,
+                "end_char": 856,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "AGI Rodolfo Lena",
+                "start_char": 1046,
+                "end_char": 1062,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Commission",
+                "start_char": 1081,
+                "end_char": 1091,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Regional Council - I",
+                "start_char": 1108,
+                "end_char": 1132,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Rodolfo Lena del Pd -",
+                "start_char": 1923,
+                "end_char": 1944,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "a European Regulation",
+                "start_char": 2804,
+                "end_char": 2825,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Movement 5",
+                "start_char": 2950,
+                "end_char": 2960,
+                "label": "LAW",
+                "info": "Named documents made into laws."
+            },
+            {
+                "word": "the Regional Council - with this law",
+                "start_char": 2989,
+                "end_char": 3025,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Devid Porrello - in",
+                "start_char": 3328,
+                "end_char": 3347,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Pdl",
+                "start_char": 3524,
+                "end_char": 3527,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Budget Commission",
+                "start_char": 3567,
+                "end_char": 3588,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Sanità&nbsp Commission",
+                "start_char": 3639,
+                "end_char": 3665,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Hall",
+                "start_char": 3741,
+                "end_char": 3745,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "four",
+                "start_char": 3877,
+                "end_char": 3881,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "AGI",
+                "start_char": 4130,
+                "end_char": 4133,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ghera",
+                "start_char": 4143,
+                "end_char": 4148,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Brothers of Italy",
+                "start_char": 4165,
+                "end_char": 4182,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "the Regional Council",
+                "start_char": 4186,
+                "end_char": 4206,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "one",
+                "start_char": 4224,
+                "end_char": 4227,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Aula",
+                "start_char": 4394,
+                "end_char": 4398,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Fabrizio Ghera - this",
+                "start_char": 4995,
+                "end_char": 5016,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lombardia",
+                "start_char": 5359,
+                "end_char": 5368,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Emilia Romagna",
+                "start_char": 5370,
+                "end_char": 5384,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Liguria",
+                "start_char": 5389,
+                "end_char": 5396,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    },
+    {
+        "title": "In Sardegna la spiaggia delle conchiglie sarà aperta ai nudisti",
+        "date_raw": "Wed, 11 May 2022 05:10:35 GMT",
+        "date": "2022-05-11",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2022-05-11/sardegna-spiaggia-conciglie-aperta-a-nudisti-16682137/",
+        "subtitle": "",
+        "content": "AGI&nbsp;- La Sardegna avrà&nbsp;una terza spiaggia naturista, dopo Piscinas, sulla costa orientale, e Porto Ferro, vicino a Sassari>. Si tratta di Is Benas, nella marina di San Vero Milis, nell'Oristanese>. \nLa Giunta comunale l'ha aperta ai nudisti con una delibera, approvata all'unanimità&nbsp;lo scorso 29 aprile, su proposta di Anita Sardegna Naturista>, la sezione regionale dell'Associazione Naturista Italiana. \nIl tratto dedicato al turismo naturista sarà&nbsp;quello a confine con Is Arenas, nel territorio comunale di Narbolia. La spiaggia sarà&nbsp;segnalata con apposita cartellonistica. \nNel sito dei naturisti italiani Is Benas è descritta come \"un lungo arenile sabbioso con alle spalle grandi dune e la più&nbsp;estesa pineta costiera artificiale della Sardegna>. Il luogo è&nbsp;famoso come 'la spiaggia delle conchiglie',> per il gran numero di bivalvi spiaggiati che la rendono unica\". \n\"Si tratta di una bella opportunità, non solo economica come allargamento dell'offerta turistica\", ha commentato il sindaco di San Vero Milis, Luigi Tedeschi,> \"ma soprattutto come momento di arricchimento e di apertura culturale per la propria comunità, con un spirito di accoglienza e di rispetto dei diritti civili e umani\". \nI referenti di Anita Sardegna Naturista, Sergio Cossu e Giuseppe Ligios>, si sono detti \"grati al comune di San Vero Milis per la delibera\". I due referenti esprimono soddisfazione per l'aumento delle spiagge naturiste in Sardegna, convinti che gli amministratori dell'isola abbiano \"capito le grandi prospettive di un turismo naturista consapevole\". \n\"L'estate si avvicina e ci aspettiamo turisti naturisti da tutta Europa>\", dice&nbsp;Giampietro Tentori, presidente dell'Associazione Anita. \"L'Italia ha cambiato rotta\".&nbsp;",
+        "ranked": 8,
+        "placed": "Cronaca",
+        "epoch": 1652284804.1511445,
+        "language": "IT",
+        "source": "AGI",
+        "en_title": "In Sardinia the beach of the shells will be open to nudists",
+        "en_content": "AGI&nbsp;- Sardinia will have a third naturist beach, after Piscinas, on the eastern coast, and Porto Ferro, near Sassari>. It is Is Benas, in the marina of San Vero Milis, in Oristanese>.\nThe municipal council opened it to nudists with a deliberation, approved unanimously &nbsp; last April 29, on proposal of Anita Sardegna Naturista>, the regional section of the Italian Naturista Association.\nThe section dedicated to naturist tourism will be&nbsp; that border with Is Arenas, in the municipal territory of Narbolia. The beach will be&nbsp;signed with a billboard.\nIn the site of the Italian naturists Is Benas is described as \"a long sandy beach with large dunes and the most&nbsp; extensive artificial coastal pine forest of Sardinia\"). The place is &nbsp;famous as 'the beach of shells', > for the large number of beached bivalves that make it unique\".\n\"This is a good opportunity, not only economical as an extension of the tourist offer\", commented the mayor of San Vero Milis, Luigi Tedeschi, > \"but above all as a moment of enrichment and cultural openness for its community, with a spirit of welcome and respect for civil and human rights.\"\nThe referents of Anita Sardegna Naturista, Sergio Cossu and Giuseppe Ligios>, said \"free to the municipality of San Vero Milis for the deliberation\". The two referents express satisfaction for the increase of the naturist beaches in Sardinia, convinced that the island administrators have \"capture the great prospects of a conscious naturist tourism\".\n\"Summer approaches and we expect naturist tourists from all over Europe,\" says &nbsp;Giampietro Tentori, president of the Anita Association. \"Italy has changed its course\".&nbsp;",
+        "en_subtitle": "",
+        "overall_polarity": 0.054818594104308394,
+        "overall_subjectivity": 0.32233560090702945,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.5,
+        "title_NER": [
+            {
+                "word": "Sardinia",
+                "start_char": 3,
+                "end_char": 11,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": 0.16445578231292518,
+        "content_subjectivity": 0.4670068027210884,
+        "content_NER": [
+            {
+                "word": "Sardinia",
+                "start_char": 11,
+                "end_char": 19,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "third",
+                "start_char": 32,
+                "end_char": 37,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "Piscinas",
+                "start_char": 60,
+                "end_char": 68,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Porto Ferro",
+                "start_char": 96,
+                "end_char": 107,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Sassari",
+                "start_char": 114,
+                "end_char": 121,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "San Vero Milis",
+                "start_char": 157,
+                "end_char": 171,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Oristanese",
+                "start_char": 176,
+                "end_char": 186,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "last April 29",
+                "start_char": 281,
+                "end_char": 294,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Anita",
+                "start_char": 311,
+                "end_char": 316,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Italian Naturista Association",
+                "start_char": 362,
+                "end_char": 395,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "be&nbsp",
+                "start_char": 444,
+                "end_char": 451,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Arenas",
+                "start_char": 473,
+                "end_char": 479,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Narbolia",
+                "start_char": 511,
+                "end_char": 519,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italian",
+                "start_char": 588,
+                "end_char": 595,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Benas",
+                "start_char": 609,
+                "end_char": 614,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "most&nbsp",
+                "start_char": 676,
+                "end_char": 685,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Sardinia",
+                "start_char": 731,
+                "end_char": 739,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "San Vero Milis",
+                "start_char": 971,
+                "end_char": 985,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Luigi Tedeschi",
+                "start_char": 987,
+                "end_char": 1001,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Anita Sardegna Naturista",
+                "start_char": 1170,
+                "end_char": 1194,
+                "label": "FAC",
+                "info": "Buildings, airports, highways, bridges, etc."
+            },
+            {
+                "word": "Sergio Cossu",
+                "start_char": 1196,
+                "end_char": 1208,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "San Vero Milis",
+                "start_char": 1265,
+                "end_char": 1279,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "two",
+                "start_char": 1307,
+                "end_char": 1310,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Sardinia",
+                "start_char": 1386,
+                "end_char": 1394,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 1570,
+                "end_char": 1576,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the Anita Association",
+                "start_char": 1623,
+                "end_char": 1644,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Italy",
+                "start_char": 1647,
+                "end_char": 1652,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "course\".&nbsp",
+                "start_char": 1669,
+                "end_char": 1682,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Un incontro d'amore in Ucraina dietro lo storico blog ventennale sull'Eurovision ",
+        "date_raw": "Tue, 10 May 2022 15:22:48 GMT",
+        "date": "2022-05-10",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2022-05-10/incontro-amore-ucraina-storico-blog-eurovision-16676963/",
+        "subtitle": "",
+        "content": "AGI - Ossessione Eurovision. C'è un blog italiano che 12 mesi all'anno da 20 anni parla solo di questo e che deve un po' della sua inesauribile energia a una storia d'amore sbocciata durante un'edizione ucraina. Nella sala stampa del PalaOlimpico di Torino che accoglie 400 giornalist>i da ogni parte del mondo (presenti o collegati sul web), Enrico Picciolo si individua subito perché sulla sua postazione sventola una bandiera tricolore col nome del sito custode di ogni segreto della rassegna, ‘Eurofestival Italia'.> \n<h2>L'Eurovision galeotto con la ragazza di Kiev</h2> \n“Lo ha creato una ventina d'anni fa Gianluca Giunta, insegnante, quando ancora l'Italia non partecipava alla competizione e l'interesse da noi era scarso. Poi sono arrivato anche io, il mio primo Eurovision è stato nel 2005, quello forse più bello nel 2017&nbsp;a Kiev”. \nQuell'anno succede che Picciolo, nella vita poliziotto a Bari, “appassionato di musica russa”,> inizia a chattare con una ragazza di Kiev sulla comune passione per la musica. \n“Entrambi fan di gruppo tedesco”, i due si innamorano nella capitale ucraina e stanno insieme per sette ann>i. Non finisce la passione per Eurovision, a spese proprie. “Quest'anno venire qui mi è costato 2500 euro,> tra viaggio, alloggio e biglietti per le serate. Certo, ho scelto i tagliandi top ma me la voglia godere al massimo”. \nSpiega all'AGI perché la manifestazione per lui è così speciale: “E' una meravigliosa esperienza di confronto e diversità tra le culture europee che passa attraverso la musica. La metà delle persone che sono qui si vedono tutti gli anni da molto tempo, è una comunità in cui nascono amicizie e ci si ospita nei rispettivi Paesi”. C'è anche il lato ‘giornalistico del blog' anche se nessuno lo è di professione. Picciolo, Giunta e gli altri collaboratori di varie città italiane tengono d'occhio il numero dei visitatori.&nbsp; \n<h2>Numeri da record</h2> \n“L'anno scorso con la foto dei&nbsp;Maneskin vittoriosi&nbsp;su Instagram abbiamo totalizzato 28mila visualizzazioni. >Nella settimana delle semifinali e della finale raccogliamo miglaia di contatti ma noi aggiorniamo sempre il sito. Seguiamo le singole selezioni nazionali in cui si scelgono i rappresentanti di ciascun Paese e pubblichiamo qualsiasi notizia che riguardi la manifestazione”.&nbsp; Previsioni sui vincitori? “L'Ucraina viene data per favorita ma tra gli addetti ai lavori non ci crede nessuno e poi non sarebbe bello che vincesse per pietismo. Anche se non sarebbe la prima volta di una vittoria per motivi esterni alla musica. Nel 2014 l'austriaca Conchita Wurst, 'donna con la barba', vinse l'edizione danese in nome della diversità. A me piace la canzone inglese, >punto su quella”.&nbsp;",
+        "ranked": 9,
+        "placed": "Cronaca",
+        "epoch": 1652284804.151146,
+        "language": "IT",
+        "source": "AGI",
+        "en_title": "A love meeting in Ukraine behind the historic 20-year Eurovision blog",
+        "en_content": "AGI - Eurovision obsession. There is an Italian blog that 12 months a year for 20 years speaks only of this and that owes some of its inexhaustible energy to a love story bloomed during a Ukrainian edition. In the press room of the PalaOlimpico of Turin that welcomes 400 journals from all over the world (present or connected on the web), Enrico Picciolo is immediately identified because on his post it winds a tricolor flag with the name of the site custodian of every secret of the exhibition, 'Eurofestival Italia'. >\n<h2> Eurovision galley with Kiev girl</h2>\n“It created him twenty years ago Gianluca Giunta, teacher, when Italy still did not participate in the competition and the interest from us was poor. Then I also arrived, my first Eurovision was in 2005, perhaps the most beautiful in 2017 &nbsp; in Kiev”.\nThat year happens that Picciolo, in the police life in Bari, “passionate of Russian music”,> starts chatting with a Kiev girl about the common passion for music.\n“Both German group fans”, the two fall in love in the Ukrainian capital and are together for seven years. He doesn't end his passion for Eurovision at his own expense. “This year coming here cost me 2500 euros, > between travel, accommodation and tickets for the evenings. Of course, I chose the top coupons but I want to enjoy it to the maximum.”\nExplain to AGI because the event for him is so special: “It is a wonderful experience of comparison and diversity among European cultures that passes through music. Half of the people who are here have been seeing each year for a long time, is a community where friendships are born and we are housed in their respective countries.” There is also the ‘journalist’ side of the blog’ although no one is professionally. Picciolo, Giunta and other collaborators of various Italian cities keep an eye on the number of visitors.&nbsp;\n<h2> Record numbers\n“Last year with the photo of the&nbsp;Maneskin vittoriosi&nbsp; on Instagram we totaled 28 thousand views. >In the week of the semi-finals and the final we collect contact myglaries but we always update the site. We follow the individual national selections in which the representatives of each country are chosen and publish any news regarding the event.” &nbsp; Forecasts on the winners? “Ukraine is given as a favourite, but among the laborers nobody believes it and then it would not be nice to win for piety. Although it would not be the first time of a victory for reasons outside the music. In 2014 the Austrian Conchita Wurst, 'woman with beard', won the Danish edition in the name of diversity. I like the English song, > point on that\".&nbsp;",
+        "en_subtitle": "",
+        "overall_polarity": 0.06554421768707482,
+        "overall_subjectivity": 0.28869614512471653,
+        "title_polarity": 0.033333333333333326,
+        "title_subjectivity": 0.4333333333333333,
+        "title_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 18,
+                "end_char": 25,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "20-year",
+                "start_char": 46,
+                "end_char": 53,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": 0.16329931972789113,
+        "content_subjectivity": 0.43275510204081635,
+        "content_NER": [
+            {
+                "word": "Italian",
+                "start_char": 40,
+                "end_char": 47,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "12 months",
+                "start_char": 58,
+                "end_char": 67,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "20 years",
+                "start_char": 79,
+                "end_char": 87,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 188,
+                "end_char": 197,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the PalaOlimpico of Turin",
+                "start_char": 228,
+                "end_char": 253,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "400",
+                "start_char": 268,
+                "end_char": 271,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Enrico Picciolo",
+                "start_char": 340,
+                "end_char": 355,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Kiev girl</h2",
+                "start_char": 551,
+                "end_char": 564,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "twenty years ago",
+                "start_char": 582,
+                "end_char": 598,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Gianluca Giunta",
+                "start_char": 599,
+                "end_char": 614,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italy",
+                "start_char": 630,
+                "end_char": 635,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 740,
+                "end_char": 745,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "2005",
+                "start_char": 764,
+                "end_char": 768,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2017",
+                "start_char": 800,
+                "end_char": 804,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 815,
+                "end_char": 819,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Picciolo",
+                "start_char": 845,
+                "end_char": 853,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Bari",
+                "start_char": 877,
+                "end_char": 881,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Russian",
+                "start_char": 898,
+                "end_char": 905,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Kiev",
+                "start_char": 938,
+                "end_char": 942,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "German",
+                "start_char": 990,
+                "end_char": 996,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "two",
+                "start_char": 1014,
+                "end_char": 1017,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Ukrainian",
+                "start_char": 1038,
+                "end_char": 1047,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "seven years",
+                "start_char": 1077,
+                "end_char": 1088,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "This year",
+                "start_char": 1153,
+                "end_char": 1162,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "2500",
+                "start_char": 1183,
+                "end_char": 1187,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Explain",
+                "start_char": 1332,
+                "end_char": 1339,
+                "label": "PRODUCT",
+                "info": "Objects, vehicles, foods, etc. (not services)"
+            },
+            {
+                "word": "European",
+                "start_char": 1452,
+                "end_char": 1460,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Half",
+                "start_char": 1497,
+                "end_char": 1501,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "each year",
+                "start_char": 1546,
+                "end_char": 1555,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Picciolo",
+                "start_char": 1749,
+                "end_char": 1757,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Giunta",
+                "start_char": 1759,
+                "end_char": 1765,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Italian",
+                "start_char": 1801,
+                "end_char": 1808,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Last year",
+                "start_char": 1882,
+                "end_char": 1891,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "vittoriosi&nbsp",
+                "start_char": 1928,
+                "end_char": 1943,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Instagram",
+                "start_char": 1948,
+                "end_char": 1957,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "28 thousand",
+                "start_char": 1969,
+                "end_char": 1980,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the week",
+                "start_char": 1992,
+                "end_char": 2000,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 2272,
+                "end_char": 2279,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "first",
+                "start_char": 2424,
+                "end_char": 2429,
+                "label": "ORDINAL",
+                "info": "\"first\", \"second\", etc."
+            },
+            {
+                "word": "2014",
+                "start_char": 2482,
+                "end_char": 2486,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "the Austrian Conchita Wurst",
+                "start_char": 2487,
+                "end_char": 2514,
+                "label": "EVENT",
+                "info": "Named hurricanes, battles, wars, sports events, etc."
+            },
+            {
+                "word": "Danish",
+                "start_char": 2544,
+                "end_char": 2550,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "English",
+                "start_char": 2596,
+                "end_char": 2603,
+                "label": "LANGUAGE",
+                "info": "Any named language"
+            },
+            {
+                "word": "that\".&nbsp",
+                "start_char": 2621,
+                "end_char": 2632,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "Sono 56.015 i nuovi casi di Covid e 158 i morti",
+        "date_raw": "Tue, 10 May 2022 15:20:03 GMT",
+        "date": "2022-05-10",
+        "url": "https://www.agi.it/cronaca/rss",
+        "news_url": "https://www.agi.it/cronaca/news/2022-05-10/bollettino-covid-10-maggio-2022-16683299/",
+        "subtitle": "",
+        "content": "AGI -&nbsp;Sono 56.015 i nuovi casi di Covid registrati in Italia nelle ultime 24 ore contro i 17.155 di ieri e soprattutto i 62.071 contagi di martedì scorso. \nI tamponi processati sono 371.221 (ieri 126.559) con il tasso di positività che sale dal 13,5% al 15,1%. \nI decessi sono 158 (ieri 84). Le vittime totali da inizio pandemia salgono a 164.731. In calo i ricoveri. I pazienti in terapia intensiva sono, infatti, 5 in meno (ieri +7), 358 in tutto, e quelli nei reparti ordinari sono 156 in meno (ieri +80) scendendo a 8.579 complessivi. È&nbsp;quanto emerge dal bollettino quotidiano del ministero della Salute.&nbsp; \nLa regione con il maggior numero di casi odierni e' la Lombardia con 9.481 contagi, seguita da Campania (+6.416), Veneto (+5.719), Lazio (+4.864) e Puglia (+4.114). \nI casi totali dall'inizio della pandemia salgono a 16.872.618. I dimessi/guariti delle ultime 24 ore sono 76.824 per un totale che sale a 15.624.915. Gli attualmente positivi sono 20.783 in meno scendendo complessivamente a 1.082.972. Di questi, 1.074.035 sono in isolamento domiciliare.",
+        "ranked": 10,
+        "placed": "Cronaca",
+        "epoch": 1652284804.1511476,
+        "language": "IT",
+        "source": "AGI",
+        "en_title": "It is 56,015 the new cases of Covid and 158 the dead",
+        "en_content": "AGI -&nbsp; There are 56,015 new cases of Covid recorded in Italy in the last 24 hours against 17.155 yesterday and especially the 62,071 counters of last Tuesday.\nThe swabs processed are 371.221 (stars 126.559) with the rate of positivity rising from 13.5% to 15.1%.\nThe deaths are 158 (fighters 84). The total victims from the beginning of the pandemic rise to 164.731. The hospitals are falling. Patients in intensive care are, in fact, 5 in less (hearts +7), 358 in all, and those in ordinary departments are 156 in less (hearts +80) descending to 8.579 overall. It is &nbsp; what emerges from the daily bulletin of the Ministry of Health.&nbsp;\nThe region with the largest number of cases today is Lombardy with 9.481 peasants, followed by Campania (+6.416), Veneto (+5.719), Lazio (+4.864) and Puglia (+4.114).\nTotal cases from the beginning of the pandemic date back to 16.872.618. The last 24 hours are 76,824 for a total of 15.624,915. The current positives are 20,783 less falling overall to 1.082.972. Of these, 1,074,035 are in house isolation.",
+        "en_subtitle": "",
+        "overall_polarity": -0.022638146167557934,
+        "overall_subjectivity": 0.24055258467023174,
+        "title_polarity": -0.03181818181818183,
+        "title_subjectivity": 0.42727272727272725,
+        "title_NER": [
+            {
+                "word": "56,015",
+                "start_char": 6,
+                "end_char": 12,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Covid",
+                "start_char": 30,
+                "end_char": 35,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "158",
+                "start_char": 40,
+                "end_char": 43,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "content_polarity": -0.03609625668449197,
+        "content_subjectivity": 0.29438502673796796,
+        "content_NER": [
+            {
+                "word": "56,015",
+                "start_char": 22,
+                "end_char": 28,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Covid",
+                "start_char": 42,
+                "end_char": 47,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 60,
+                "end_char": 65,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "the last 24 hours",
+                "start_char": 69,
+                "end_char": 86,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "17.155 yesterday",
+                "start_char": 95,
+                "end_char": 111,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "62,071",
+                "start_char": 131,
+                "end_char": 137,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "last Tuesday",
+                "start_char": 150,
+                "end_char": 162,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "371.221",
+                "start_char": 188,
+                "end_char": 195,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "126.559",
+                "start_char": 203,
+                "end_char": 210,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "13.5%",
+                "start_char": 252,
+                "end_char": 257,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "15.1%",
+                "start_char": 261,
+                "end_char": 266,
+                "label": "PERCENT",
+                "info": "Percentage, including \"%\""
+            },
+            {
+                "word": "158",
+                "start_char": 283,
+                "end_char": 286,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "84",
+                "start_char": 297,
+                "end_char": 299,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "164.731",
+                "start_char": 363,
+                "end_char": 370,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "5",
+                "start_char": 440,
+                "end_char": 441,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "358",
+                "start_char": 463,
+                "end_char": 466,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "156",
+                "start_char": 513,
+                "end_char": 516,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "8.579",
+                "start_char": 552,
+                "end_char": 557,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the Ministry of Health.&nbsp",
+                "start_char": 620,
+                "end_char": 648,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "today",
+                "start_char": 694,
+                "end_char": 699,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Lombardy",
+                "start_char": 703,
+                "end_char": 711,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "9.481",
+                "start_char": 717,
+                "end_char": 722,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Campania",
+                "start_char": 745,
+                "end_char": 753,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Veneto",
+                "start_char": 764,
+                "end_char": 770,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Lazio",
+                "start_char": 781,
+                "end_char": 786,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Puglia (+4.114)",
+                "start_char": 800,
+                "end_char": 815,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "16.872.618",
+                "start_char": 877,
+                "end_char": 887,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "The last 24 hours",
+                "start_char": 889,
+                "end_char": 906,
+                "label": "TIME",
+                "info": "Times smaller than a day"
+            },
+            {
+                "word": "76,824",
+                "start_char": 911,
+                "end_char": 917,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "15.624,915",
+                "start_char": 933,
+                "end_char": 943,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "20,783",
+                "start_char": 971,
+                "end_char": 977,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "1,074,035",
+                "start_char": 1023,
+                "end_char": 1032,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            }
+        ]
+    }
+]

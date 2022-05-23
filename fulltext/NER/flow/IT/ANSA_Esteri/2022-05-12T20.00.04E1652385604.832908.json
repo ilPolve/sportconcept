@@ -1,0 +1,131 @@
+[
+    {
+        "title": "Covid: infermieri protestano a Washington, condizioni disumane",
+        "date_raw": "Thu, 12 May 2022 16:58:29 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2022/05/12/covid-infermieri-protestano-a-washington-condizioni-disumane_5c8b056f-df10-4f7d-ae1a-72a9e7d89d1f.html",
+        "subtitle": "In migliaia sfilano nella capitale Usa: 'Da eroi a nullità'",
+        "content": "\n            \n            (ANSA) - WASHINGTON, 12 MAG - 'From heroes to zeroes', 'da\neroi a nullità'. E' uno dei tanti cartelli agitati da infermieri\ne operatori sanitari americani che sono scesi per le strade di\nWashington e hanno marciato verso Capitol Hill.   \n\t\t\t\t     In migliaia hanno manifestato nella capitale e nelle\nprincipali città americane per chiedere un aumento degli\nstipendi e condizioni di lavoro meno disumane, soprattutto dopo\ni due anni di pandemia di Covid che hanno messo i lavoratori\ndegli ospedali a dura prova. \"Ci avete usato e adesso ci gettate\nvia\", urlano i manifestanti accompagnati anche da qualche ex\nloro paziente in sedia a rotelle che hanno voluto dimostrare il\nloro sostegno a figure così importante e trascurate dal sistema\nsanitario americano. (ANSA).   \n\t\t\t\t          ",
+        "ranked": 5,
+        "placed": "Esteri",
+        "epoch": 1652378536.1828363,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Covid: Nurses protest in Washington, inhuman conditions",
+        "en_content": "(ANSA) - WASHINGTON, 12 MAG - 'From heroes to zeroes', 'da\nheroes to nothing. It's one of the many infirmary cartels\nand American health professionals who have come down the streets of\nWashington and they marched to Capitol Hill.\nIn thousands have manifested in the capital and in the\nmain American cities to ask for an increase in\nless inhuman wages and working conditions, especially after\nthe two years of Covid's pandemic that put the workers\nHard-tested hospitals. \"You used us and now you throw us\naway,\" the protesters shout, accompanied by some ex\ntheir patient in wheelchair who wanted to demonstrate the\ntheir support to figures so important and neglected by the system\nAmerican health care. (ANSA).\n",
+        "en_subtitle": "In thousands parade in the US capital: From heroes to nullity",
+        "overall_polarity": -0.05576131687242799,
+        "overall_subjectivity": 0.19588477366255144,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Washington",
+                "start_char": 25,
+                "end_char": 35,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "subtitle_polarity": -0.25,
+        "subtitle_subjectivity": 0.23333333333333334,
+        "subtitle_NER": [
+            {
+                "word": "thousands",
+                "start_char": 3,
+                "end_char": 12,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "US",
+                "start_char": 27,
+                "end_char": 29,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_polarity": 0.08271604938271605,
+        "content_subjectivity": 0.354320987654321,
+        "content_NER": [
+            {
+                "word": "12",
+                "start_char": 21,
+                "end_char": 23,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG - '",
+                "start_char": 24,
+                "end_char": 31,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "one",
+                "start_char": 83,
+                "end_char": 86,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "American",
+                "start_char": 121,
+                "end_char": 129,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Washington",
+                "start_char": 185,
+                "end_char": 195,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Capitol Hill",
+                "start_char": 216,
+                "end_char": 228,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "thousands",
+                "start_char": 233,
+                "end_char": 242,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "American",
+                "start_char": 290,
+                "end_char": 298,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "the two years",
+                "start_char": 392,
+                "end_char": 405,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Covid",
+                "start_char": 409,
+                "end_char": 414,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "American",
+                "start_char": 680,
+                "end_char": 688,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            }
+        ]
+    }
+]

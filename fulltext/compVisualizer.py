@@ -16,7 +16,12 @@ TO_DO = ["ANSA", "AGI"]
 
 DATES = ["2022-04-28", "2022-04-29"]
 
+
 START_HOUR = 22
+
+#CNN -  BBC TESTS
+#DATES = ["2022-04-21", "2022-04-22"]
+#START_HOUR = 18
 
 def main():
     plt.close()

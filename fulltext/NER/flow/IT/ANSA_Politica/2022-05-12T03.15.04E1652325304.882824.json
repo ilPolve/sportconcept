@@ -1,0 +1,379 @@
+[
+    {
+        "title": "Draghi, Ucraina ha bisogno di piano Marshall",
+        "date_raw": "Thu, 12 May 2022 03:01:58 +0200",
+        "date": "2022-05-12",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2022/05/12/draghi-ucraina-ha-bisogno-di-piano-marshall_3aef038f-1f29-45fe-9c66-59d226edf43c.html",
+        "subtitle": "Lo ha detto in Usa ricevendo il premio dell' Atlantic Council",
+        "content": "\n            \n            (ANSA) - WASHINGTON, 11 MAG - \"L'Ucraina ha bisogno di un\npiano Marshall per la ricostruzione\": lo ha proposto il premier\nMario Draghi ritirando il premio di politico dell'anno\nall'Atlantic Council a Washington.   \n\t\t\t\t   \"Dobbiamo continuare - ha sottolineato Draghi - a sostenere\nil coraggio degli ucraini, che combattono per la loro libertà e\nper la sicurezza di tutti noi. Dobbiamo continuare a infliggere\ncosti alla Russia, muovendoci rapidamente con il nostro ultimo\npacchetto di sanzioni. Ma dobbiamo anche fare tutto il possibile\nper raggiungere un cessate il fuoco e una pace duratura.   \n\t\t\t\tSpetterà agli ucraini decidere i termini di questa pace - e\nnessun altro. Nel frattempo, dobbiamo prepararci per il mondo in\ncui vivremo domani. Dobbiamo essere pronti a continuare a stare\ncon l'Ucraina molto tempo dopo la fine della guerra. La\ndistruzione delle sue città, dei suoi impianti industriali, dei\nsuoi campi richiederà un enorme sostegno finanziario. L'Ucraina\navrà bisogno di un Piano Marshall, proprio come quello che ha\ncontribuito alle relazioni speciali tra Europa e Stati Uniti. E\ndovremo garantire che le sue istituzioni democratiche rimangano\nforti, stabili, vivaci. L'Ucraina è nostra amica. L'Ucraina\nrimarrà nostra amica\".   \n\t\t\t\t  \"Voglio condividere questo premio con il governo, con l'Italia\ne con gli italiani - ha poi affermato il premier -. L'Italia ha\nvissuto momenti molto difficili con la pandemia di Covid eppure\nsi è rialzata\".   \n\t\t\t\t   \"Questa è l'ora dell'Europa e dobbiamo coglierla\", ha detto\nancora. \"Le scelte che la Ue ha di fronte - ha spiegato - sono\nbrutalmente semplici. Possiamo essere artefici del nostro\ndestino o schiavi delle decisioni altrui. Quello che mi rende\nottimista è che non siamo soli. In un momento di profondo\ncambiamento, alcune cose restano uguali: la stretta relazione\ntra la Ue e gli Usa, il legame senza tempo che rafforza\nentrambi\". (ANSA).   \n\t\t\t\t          ",
+        "ranked": 1,
+        "placed": "Politica",
+        "epoch": 1652318105.9155138,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Dragons, Ukraine needs plan Marshall",
+        "en_content": "(ANSA) - WASHINGTON, 11 MAG - \"Ukraine needs a\nMarshall Plan for Reconstruction: the premier\nMario Draghi withdrawing the political prize of the year\nat the Atlantic Council in Washington.\n\"We must continue - said Draghi - to support\nthe courage of the Ukrainians, who fight for their freedom and\nfor the safety of all of us. We must continue to inflict\ncost to Russia, moving quickly with our last\npackage of sanctions. But we must also do everything possible\nto reach a ceasefire and lasting peace.\nIt will be up to the Ukrainians to decide the terms of this peace - and\nNo one else. In the meantime, we must prepare ourselves for the world in\nwhich we will live tomorrow. We have to be ready to continue to stay\nwith Ukraine long after the end of the war. The\ndestruction of its cities, industrial plants,\nits fields will require enormous financial support. Ukraine\nwill need a Marshall Plan, just like what it has\ncontributed to the special relations between Europe and the United States. And\nWe must ensure that its democratic institutions remain\nstrong, stable, lively. Ukraine is our friend. Ukraine\nwill remain our friend.\"\n\"I want to share this award with the government, with Italy\nand with the Italians - he then affirmed the premier -. Italy has\nexperienced very difficult moments with Covid's pandemic yet\nShe got up.\"\n\"This is Europe's time and we have to catch it,\" he said.\nAgain. \"The choices that the EU has in front - it has explained - are\nbrutally simple. We can be craftsmen of ours\ndestiny or slaves of others' decisions. What makes me\noptimistic is that we are not alone. In a deep moment\nchange, some things remain equal: The close relationship\nbetween the EU and the US, the timeless bond that strengthens\nboth.\" (ANSA).\n",
+        "en_subtitle": "He said it in the US receiving the Atlantic Council award",
+        "overall_polarity": 0.03141734808401476,
+        "overall_subjectivity": 0.16071428571428573,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 9,
+                "end_char": 16,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Marshall",
+                "start_char": 28,
+                "end_char": 36,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_polarity": 0.0,
+        "subtitle_subjectivity": 0.0,
+        "subtitle_NER": [
+            {
+                "word": "US",
+                "start_char": 18,
+                "end_char": 20,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Atlantic Council",
+                "start_char": 35,
+                "end_char": 51,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            }
+        ],
+        "content_polarity": 0.09425204425204428,
+        "content_subjectivity": 0.48214285714285715,
+        "content_NER": [
+            {
+                "word": "11",
+                "start_char": 21,
+                "end_char": 23,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "MAG",
+                "start_char": 24,
+                "end_char": 27,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 31,
+                "end_char": 38,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Marshall",
+                "start_char": 47,
+                "end_char": 55,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Mario Draghi",
+                "start_char": 93,
+                "end_char": 105,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the Atlantic Council",
+                "start_char": 153,
+                "end_char": 173,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "Washington",
+                "start_char": 177,
+                "end_char": 187,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainians",
+                "start_char": 253,
+                "end_char": 263,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Russia",
+                "start_char": 362,
+                "end_char": 368,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukrainians",
+                "start_char": 522,
+                "end_char": 532,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 720,
+                "end_char": 727,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 861,
+                "end_char": 868,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Europe",
+                "start_char": 963,
+                "end_char": 969,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "the United States",
+                "start_char": 974,
+                "end_char": 991,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1076,
+                "end_char": 1083,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Ukraine",
+                "start_char": 1099,
+                "end_char": 1106,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italy",
+                "start_char": 1186,
+                "end_char": 1191,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Italians",
+                "start_char": 1205,
+                "end_char": 1213,
+                "label": "NORP",
+                "info": "Nationalities or religious or political groups"
+            },
+            {
+                "word": "Italy",
+                "start_char": 1248,
+                "end_char": 1253,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Covid",
+                "start_char": 1298,
+                "end_char": 1303,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Europe",
+                "start_char": 1341,
+                "end_char": 1347,
+                "label": "LOC",
+                "info": "Non-GPE locations, mountain ranges, bodies of water"
+            },
+            {
+                "word": "EU",
+                "start_char": 1419,
+                "end_char": 1421,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "EU",
+                "start_char": 1682,
+                "end_char": 1684,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "US",
+                "start_char": 1693,
+                "end_char": 1695,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ]
+    },
+    {
+        "title": "M5s, Casaleggio: 'crolla nei sondaggi, imboccata la via del declino'",
+        "date_raw": "Wed, 11 May 2022 22:53:45 +0200",
+        "date": "2022-05-11",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2022/05/11/m5s-casaleggio-crolla-nei-sondaggi-imboccata-la-via-del-declino_1de6b536-2e04-4ab6-9a2d-0e011b96a2c2.html",
+        "subtitle": "'E' schizofrenico il suo comportamento, alleanza con Pd sta tramontando' precisa",
+        "content": "\"Penso che sia un po' schizofrenico quello che si sta facendo oggi nel M5s. Si dice una cosa e si fa il contrario spesso. Questa schizofrenia in politica non credo paghi. Infatti i sondaggi stanno crollando di giorno in giorno\".    Così  a margine di un evento a Milano.    ha aggiunto. E anche l'alleanza con il centrosinistra \"penso stia tramontando, infatti al governo c'è un campo larghissimo di presenze. Mi dispiace - ha concluso - che non si voglia più partecipare alle comunali. È la fase di declino di un progetto\".\"Il fatto di mettere all'angolo un senatore che vota contro l'invio delle armi quando pubblicamente si dice di non volerle inviare è un esempio di schizofrenia\". Così Davide Casaleggio ha commentatola decisione della Giunta del regolamento di palazzo Madama di sciogliere la commissione Esteri presieduta da Vito Petrocelli. \"È stata bizzarra come gestione e tra l'altro non è stato espulso dal Movimento 5 stelle, ma solo dalla commissione\", ha concluso. perché penso che tutte queste persone disilluse, su cui il Movimento 5 Stelle aveva pescato elettoralmente nel 2013, oggi stanno tornando, e lo vediamo alle elezioni comunali e regionali, all'astensionismo\". Lo ha spiegato Davide Casaleggio parlando con i giornalisti a margine di un evento a Milano. \"Intercettare le istanze di queste persone è importante, è stato fatto un tentativo tramite le iniziative del referendum e mi spiace che siano state bocciate e rimandate al mittente in modo così brusco - ha proseguito -, perché una partecipazione dei cittadini è essenziale per costruire uno stato forte. Penso che il tema sia quello della partecipazione, ho sempre lavorato per questo in modo innovativo, tramite Rousseau, e la costruzione di nuove idee. La platform society, la costruzione di strumenti per la partecipazione dei cittadini, penso sia la via del futuro e oggi il concetto di Movimento che era innovativo dieci anni fa è già qualcosa di passato\". Con la crisi da affrontare come quelle della guerra e dell'inflazione \"dobbiamo pensare a quali possono essere le soluzioni e dobbiamo coinvolgere i cittadini sulle soluzioni - ha concluso -, non possiamo pensare di trovarle in una stanza chiusa e pensare che valgano per tutti\".   ",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1652318105.934923,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "M5s, Casaleggio: 'croll in the polls, paved the path of decline'",
+        "en_content": "\"I think it's a little schizophrenic what you're doing today in M5s. They say one thing and they do the opposite often. This schizophrenia in politics I don't think you pay. The polls are falling from day to day.\" So at the edge of an event in Milan. added. And also the alliance with the center-left \"I think it is going down, in fact to the government there is a very wide field of presences. I'm sorry - he concluded - that you don't want to participate in the municipalities anymore. It is the decline of a project.\" \"The fact of cornering a senator who votes against sending weapons when publicly they say they don't want to send them is an example of schizophrenia.\" Thus Davide Casaleggio commented on the decision of the Junta of the Palazzo Madama regulation to dissolve the foreign commission chaired by Vito Petrocelli. \"It was bizarre as management and among other things was not expelled from the 5 star Movement, but only from the commission,\" he concluded. because I think all these disillusioned people, on which the 5 Star Movement had fished electorally in 2013, are returning today, and we see it in the municipal and regional elections, astensionism.\" Davide Casaleggio explained this by talking to journalists at the margin of an event in Milan. \"Intercepting the demands of these people is important, an attempt has been made through the initiatives of the referendum and I am sorry that they have been rejected and sent back to the sender in such a rough way - it has continued -, because a participation of the citizens is essential to build a strong state. I think the theme is that of participation, I have always worked for this in an innovative way, through Rousseau, and the construction of new ideas. The platform society, the construction of tools for citizen participation, I think is the way of the future and today the concept of Movement that was innovative ten years ago is already something past\". With the crisis to face like those of war and inflation \"we have to think about what solutions can be and we have to involve citizens on solutions - he concluded -, we can not think of finding them in a closed room and think they are worth everyone\".",
+        "en_subtitle": "'It's schizophrenic his behavior, alliance with Pd is tramontando' precise",
+        "overall_polarity": 0.13995521885521886,
+        "overall_subjectivity": 0.4191791245791246,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Casaleggio",
+                "start_char": 5,
+                "end_char": 15,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ],
+        "subtitle_polarity": 0.4,
+        "subtitle_subjectivity": 0.8,
+        "subtitle_NER": [
+            {
+                "word": "Pd",
+                "start_char": 48,
+                "end_char": 50,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            }
+        ],
+        "content_polarity": 0.019865656565656562,
+        "content_subjectivity": 0.45753737373737374,
+        "content_NER": [
+            {
+                "word": "today",
+                "start_char": 55,
+                "end_char": 60,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "one",
+                "start_char": 78,
+                "end_char": 81,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "Milan",
+                "start_char": 244,
+                "end_char": 249,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Davide Casaleggio",
+                "start_char": 678,
+                "end_char": 695,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Palazzo Madama",
+                "start_char": 742,
+                "end_char": 756,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "Vito Petrocelli",
+                "start_char": 814,
+                "end_char": 829,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "5",
+                "start_char": 910,
+                "end_char": 911,
+                "label": "CARDINAL",
+                "info": "Numerals that do not fall under another type"
+            },
+            {
+                "word": "the 5 Star Movement",
+                "start_char": 1029,
+                "end_char": 1048,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "2013",
+                "start_char": 1075,
+                "end_char": 1079,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "today",
+                "start_char": 1095,
+                "end_char": 1100,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "Davide Casaleggio",
+                "start_char": 1172,
+                "end_char": 1189,
+                "label": "WORK_OF_ART",
+                "info": "Titles of books, songs, etc."
+            },
+            {
+                "word": "Milan",
+                "start_char": 1260,
+                "end_char": 1265,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Rousseau",
+                "start_char": 1686,
+                "end_char": 1694,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "today",
+                "start_char": 1843,
+                "end_char": 1848,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            },
+            {
+                "word": "ten years ago",
+                "start_char": 1893,
+                "end_char": 1906,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ]
+    }
+]

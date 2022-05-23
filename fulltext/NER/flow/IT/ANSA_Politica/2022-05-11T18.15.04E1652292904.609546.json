@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Intervento Draghi al Senato il 19, niente comunicazioni",
+        "date_raw": "Tue, 10 May 2022 18:56:15 +0200",
+        "date": "2022-05-10",
+        "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "news_url": "https://www.ansa.it/sito/notizie/politica/2022/05/10/intervento-draghi-al-senato-il-19-niente-comunicazioni_edebf8d2-14f9-4a6d-9157-c819b9f98522.html",
+        "subtitle": "Sarà solo\"premier time\", con risposte secche a domande scritte",
+        "content": ", . E' quanto chiariscono fonti parlamentari rispetto alla richiesta, avanzata dalla conferenza dei capigruppo, di un intervento del presidente sulle questioni legate alla crisi in Ucraina e alla luce del viaggio del premier negli Stati Uniti.    In attesa che il question time sia confermato, con la disponibilità di Palazzo Chigi, in aula quindi dovrebbero esserci domande e risposte ma non una discussione fra parlamentari né la presentazione di documenti e mozioni che può esserci solo con le \"comunicazioni\".    ",
+        "ranked": 5,
+        "placed": "Politica",
+        "epoch": 1652285705.5283403,
+        "language": "IT",
+        "source": "ANSA",
+        "en_title": "Intervention Dragons in the Senate on 19th, no communications",
+        "en_content": "It is clear from parliamentary sources regarding the request made by the group leaders conference, of a speech by the president on issues related to the crisis in Ukraine and in the light of the Premier's journey to the United States. Waiting for the question time to be confirmed, with the availability of Palazzo Chigi, there should therefore be questions and answers but not a discussion between MPs nor the presentation of documents and motions that can be only with the \"communications\".",
+        "en_subtitle": "It will only be \"premier time\", with dry answers to written questions",
+        "overall_polarity": 0.04888888888888889,
+        "overall_subjectivity": 0.4988888888888889,
+        "title_polarity": 0.0,
+        "title_subjectivity": 0.0,
+        "title_NER": [
+            {
+                "word": "Senate",
+                "start_char": 28,
+                "end_char": 34,
+                "label": "ORG",
+                "info": "Companies, agencies, institutions, etc."
+            },
+            {
+                "word": "19th",
+                "start_char": 38,
+                "end_char": 42,
+                "label": "DATE",
+                "info": "Absolute or relative dates or periods"
+            }
+        ],
+        "subtitle_polarity": -0.033333333333333326,
+        "subtitle_subjectivity": 0.8,
+        "content_polarity": 0.18,
+        "content_subjectivity": 0.6966666666666667,
+        "content_NER": [
+            {
+                "word": "Ukraine",
+                "start_char": 163,
+                "end_char": 170,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Premier",
+                "start_char": 195,
+                "end_char": 202,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            },
+            {
+                "word": "the United States",
+                "start_char": 216,
+                "end_char": 233,
+                "label": "GPE",
+                "info": "Countries, cities, states"
+            },
+            {
+                "word": "Palazzo Chigi",
+                "start_char": 307,
+                "end_char": 320,
+                "label": "PERSON",
+                "info": "People, including fictional"
+            }
+        ]
+    }
+]
