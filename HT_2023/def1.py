@@ -4,6 +4,7 @@ import json
 import random
 from utils import snapped_news_by_source, has_similar_in_pool
 import warnings
+from typing import List
 warnings.filterwarnings("ignore")
 
 snap_dir = "ANSA_Politica"
@@ -12,15 +13,13 @@ main_dir = "../fulltext/NER/flow/IT"
 
 skip_dirs = ["AGI_Politica"]
 
-to_check_dir = f"{main_dir}/{snap_dir}"
-
-
+to_check_dir = f"{main_dir}/{snap_dir}/{news_snap}"
 
 def main():
-    skipped_by(news_snap)
+    to_check = main_news_getter(to_check_dir)
+    skipped_by(to_check)
 
-def skipped_by(news):
-    to_check = main_news_getter(f"{to_check_dir}/{news}")
+def skipped_by(to_check: dict) -> List[str]:
     skipping_sources = []
     for skip_dir in skip_dirs:
         snapped = snapped_news_by_source(f"{main_dir}/{skip_dir}")
@@ -30,7 +29,7 @@ def skipped_by(news):
     print(f"Sources which skipped the given news: {skipping_sources}")
     return skipping_sources
 
-def main_news_getter(dir):
+def main_news_getter(dir: str) -> dict:
     with open(dir, "r") as f:
         news = json.load(f)
     n_new = random.randint(0, len(news)-1)

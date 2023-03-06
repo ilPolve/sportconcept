@@ -23,7 +23,7 @@ main_dir = "../fulltext/NER/flow/IT"
 def main2():
     skip_between_day(sources_dir_A, sources_dir_B, "2022-05-11")
 
-def skip_between_day(source_A, source_B, day):
+def skip_between_day(source_A: str, source_B: str, day: str ) -> float:
     skipped = 0
     published_in_date_by_source_A = []
     for source in source_A:
@@ -38,10 +38,10 @@ def skip_between_day(source_A, source_B, day):
             if article["date"] == day:
                 published_in_date_by_source_B.append(article)
 
-    for article in published_in_date_by_source_A:
-        if not has_similar_in_pool(article, published_in_date_by_source_B):
+    for article in published_in_date_by_source_B:
+        if not has_similar_in_pool(article, published_in_date_by_source_A):
             skipped += 1
-    skipped_percentage = -1 if len(published_in_date_by_source_A) == 0 else (skipped / len(published_in_date_by_source_A))*100
+    skipped_percentage = -1 if len(published_in_date_by_source_B) == 0 else (skipped / len(published_in_date_by_source_B))*100
     print(f"{source_A} skipped a mean of {skipped_percentage:.2f}% news of {source_B} on {day}")
     return skipped_percentage
 
@@ -51,9 +51,9 @@ if __name__ == "__main__":
 
 # Example output:
 # 3
-# ['ANSA_Politica'] skipped a mean of 63.19% news of ['AGI_Politica']
-# return: [57.14, 69.24] 
+# ['ANSA_Politica'] skips a mean of 55.00% news of ['AGI_Politica']
+# return: [50.00, 60.00] 
 #
 # 3b
 # ['ANSA_Politica'] skipped a mean of 57.14% news of ['AGI_Politica'] on 2022-05-11
-# return: 57.14
+# return: 50.00
