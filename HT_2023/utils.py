@@ -59,14 +59,24 @@ def snapped_news_in_range(dir: str, start_epoch: str, end_epoch: str) -> Union[L
                     snap_list.append(news)                      
     return news_list, snap_list
 
-def has_similar_in_pool(main_news: dict, news_pool: List[dict]) -> bool:
+def has_similar_in_pool(main_news: dict, news_pool: List[dict], simil_cache: dict = {}) -> bool:
+    if len(news_pool) == 0:
+        return False
     if "cont_nlp" not in main_news:
         main_news["cont_nlp"] = nlp(main_news["en_content"])
     for news in news_pool:
+        first_idx = max(main_news["title"], news["title"])
+        second_idx = min(main_news["title"], news["title"])
+        idx = f"{first_idx}_{second_idx}"
+        if idx in simil_cache:
+            print("Found in cache")
+            return simil_cache[idx]
         if "cont_nlp" not in news:
             news["cont_nlp"] = nlp(news["en_content"])
         if is_similar_nlpied(main_news, news, COSINE_THRESHOLD):
+            simil_cache[idx] = True
             return True
+        simil_cache[idx] = False
     return False
 
 def is_similar(news_A: dict, news_B: dict, nlp: any =nlp, threshold: int=COSINE_THRESHOLD) -> bool:
@@ -106,6 +116,8 @@ def date_to_epoch(date: str) -> str:
     return (date - epoch).total_seconds()
 
 def in_range_epoch(filename: str, start_epoch: str, end_epoch: str) -> bool:
+    
+    
     return int(start_epoch) <= int(filename.split("E")[1].split(".")[0]) <= int(end_epoch)
 
 def remove_duplicates(news: List[dict]) -> List[dict]:
