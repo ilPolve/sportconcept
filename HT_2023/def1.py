@@ -2,7 +2,7 @@
 
 import json
 import random
-from utils import snapped_news_by_source, has_similar_in_pool
+from utils import snapped_news_by_source, has_similar_in_snapshot
 import warnings
 from typing import List
 warnings.filterwarnings("ignore")
@@ -23,7 +23,7 @@ def skipped_by(to_check: dict) -> List[str]:
     skipping_sources = []
     for skip_dir in skip_dirs:
         snapped = snapped_news_by_source(f"{main_dir}/{skip_dir}")
-        has_similar = has_similar_in_pool(to_check, snapped)
+        has_similar = has_similar_in_snapshot(to_check, snapped)
         if not has_similar:
             skipping_sources.append(skip_dir)
     print(f"Sources which skipped the given news: {skipping_sources}")
