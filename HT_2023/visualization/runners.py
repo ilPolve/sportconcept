@@ -1,13 +1,10 @@
-import sys
-sys.path.append("..")
-from def4 import churn_rate
-from triple_def import skip_common_excl, sce_lister
-from typing import List
-from utils import date_to_epoch, in_range_epoch
 import datetime
-import random
 import json
 import os
+
+from ..def4 import churn_rate
+from ..triple_def import sce_classify, snapshots_in_range
+from ..utils import date_to_epoch, in_range_epoch
 
 
 DATE_FORMAT = "%Y-%m-%d %H:%M:%S"
@@ -17,7 +14,7 @@ def add_slice(date, slice):
 
 # Function for running the churn rate calculator in different slices of equal time
 # slice is in hours
-def churn_run(source: str, start_date: str, end_date: str, slice: str) -> List[float]:
+def churn_run(source: str, start_date: str, end_date: str, slice: str) -> list[float]:
     start_in_date = datetime.datetime.strptime(start_date, DATE_FORMAT)
     end_in_date = datetime.datetime.strptime(end_date, DATE_FORMAT)
     rates = []
@@ -36,36 +33,44 @@ main_dir = "../../fulltext/NER/flow"
 snap_dir = "DE/Spiegel"
 
 in_range = True
-start_date = date_to_epoch("2023-03-16 08:00:00")
-end_date = date_to_epoch("2023-03-16 20:01:00")
 
-def triple_def_run(in_range = False, start_date = None, end_date = None):
-    values = {}
-    simil_cache = {}
+start_date = int(date_to_epoch("2023-03-16 08:00:00"))
+end_date = int(date_to_epoch("2023-03-16 20:01:00"))
+
+
+
+def triple_def_run(in_range: bool = False, start_date: int = None, end_date: int = None):
+    sce: dict[str, dict[str, int]] = {}
     for lang in os.listdir(f"{main_dir}"):
-        for source in os.listdir(f"{main_dir}/{lang}"):
-            # Switch for linux filesystemh
-            # values[f"{lang}/{source}"] = {"skipped": 0, "exclusive": 0, "common": 0}
-            values[f"{lang}\\{source}"] = {"skipped": 0, "exclusive": 0, "common": 0}
-    all_news = all_news_getter(main_dir, in_range=in_range, start_date=start_date, end_date=end_date)
-    for to_check in all_news:
-        skipped, exclusive, common = sce_lister(to_check, simil_cache, \
-                                                in_range=in_range, start_date=start_date, \
-                                                end_date=end_date)
-        for source in values:
-            if source in skipped:
-                values[source]["skipped"] += 1
-            if source in exclusive:
-                values[source]["exclusive"] += 1
-            if source in common:
-                values[source]["common"] += 1
-        print(values)
-    with open('triple_def_out.json', 'w', encoding="utf-8") as fp:
-        json.dump(values, fp, indent=4)
-        fp.write("\n")
-    return values
+        news_outlets = os.listdir(f"{main_dir}/{lang}")
+        for news_outlet in news_outlets:
+            # Switch for linux filesystem
+            sce[f"{lang}/{news_outlet}"] = {"skipped": 0, "exclusive": 0, "common": 0}
+            #values[f"{lang}\\{source}"] = {"skipped": 0, "exclusive": 0, "common": 0}
 
-def all_news_getter(dir: str, in_range: bool = False, start_date: str = None, end_date: str = None) -> List[dict]:
+    simil_cache = {}
+    snapshots = snapshots_in_range(in_range, start_date, end_date)
+    #nlp_all_the_things!
+    news_items = get_all_news_items(main_dir, in_range=in_range, start_date=start_date, end_date=end_date)
+    for news_item in news_items:
+        skipped, exclusive, common = sce_classify(news_item, simil_cache, snapshots)
+        for news_outlet in sce:
+            if news_outlet in skipped:
+                sce[news_outlet]["skipped"] += 1
+            if news_outlet in exclusive:
+                sce[news_outlet]["exclusive"] += 1
+            if news_outlet in common:
+                sce[news_outlet]["common"] += 1
+        print(sce)
+
+    with open('triple_def_out.json', 'w', encoding="utf-8") as fp:
+        json.dump(sce, fp, indent=4)
+        fp.write("\n")
+
+    return sce
+
+
+def get_all_news_items(dir: str, in_range: bool = False, start_date: int = None, end_date: int = None) -> list[dict]:
     all_snap = []
     title_list = []
     for lang in os.listdir(f"{dir}"):
@@ -77,7 +82,7 @@ def all_news_getter(dir: str, in_range: bool = False, start_date: str = None, en
                         all_snap_getter(full_dir, all_snap, title_list)
     return all_snap
 
-def all_snap_getter(full_dir: str, all_snap: List[dict], title_list: List[str]) -> List[dict]:
+def all_snap_getter(full_dir: str, all_snap: list[dict], title_list: list[str]) -> list[dict]:
     for news in json.load(open(full_dir, "r", encoding="utf-8")):
         if not news["title"] in title_list:
             title_list.append(news["title"])
