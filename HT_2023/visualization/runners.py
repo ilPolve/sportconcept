@@ -33,8 +33,10 @@ main_dir = "../../fulltext/NER/flow"
 snap_dir = "DE/Spiegel"
 
 in_range = True
+
 start_date = int(date_to_epoch("2023-03-16 08:00:00"))
 end_date = int(date_to_epoch("2023-03-16 20:01:00"))
+
 
 
 def triple_def_run(in_range: bool = False, start_date: int = None, end_date: int = None):
@@ -79,7 +81,6 @@ def get_all_news_items(dir: str, in_range: bool = False, start_date: int = None,
                         full_dir = f"{dir}/{lang}/{source}/{file}"
                         all_snap_getter(full_dir, all_snap, title_list)
     return all_snap
-
 
 def all_snap_getter(full_dir: str, all_snap: list[dict], title_list: list[str]) -> list[dict]:
     for news in json.load(open(full_dir, "r", encoding="utf-8")):

@@ -1,37 +1,27 @@
 {
-    "DE/Spiegel": {
-        "skipped": 63,
-        "exclusive": 0,
-        "common": 9
-    },
-    "EN/BBC": {
-        "skipped": 36,
-        "exclusive": 4,
-        "common": 32
-    },
-    "EN/CNN": {
-        "skipped": 33,
-        "exclusive": 4,
-        "common": 35
-    },
-    "ES/ABC": {
-        "skipped": 47,
-        "exclusive": 15,
-        "common": 10
-    },
-    "FR/France24": {
-        "skipped": 52,
+    "DE\\Spiegel": {
+        "skipped": 167,
         "exclusive": 1,
-        "common": 19
+        "common": 83
     },
-    "IT/ilPost": {
-        "skipped": 0,
-        "exclusive": 0,
-        "common": 0
+    "EN\\BBC": {
+        "skipped": 210,
+        "exclusive": 1,
+        "common": 40
     },
-    "IT/Televideo": {
-        "skipped": 0,
-        "exclusive": 0,
-        "common": 0
+    "ES\\ABC": {
+        "skipped": 124,
+        "exclusive": 11,
+        "common": 116
+    },
+    "FR\\France24": {
+        "skipped": 137,
+        "exclusive": 2,
+        "common": 112
+    },
+    "IT\\ilPost": {
+        "skipped": 99,
+        "exclusive": 40,
+        "common": 112
     }
 }
