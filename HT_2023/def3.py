@@ -16,7 +16,7 @@ def skip_between(source_A, source_B):
 
 # 3b. Given two newspapers A and B, how much does A skip with regards to B, in a given day(/hour/temporal frame)?
 
-from utils import snapped_news_by_source, has_similar_in_pool
+from utils import snapped_news_by_source, has_similar_in_snapshot
 
 main_dir = "../fulltext/NER/flow/IT"
 
@@ -39,7 +39,7 @@ def skip_between_day(source_A: str, source_B: str, day: str ) -> float:
                 published_in_date_by_source_B.append(article)
 
     for article in published_in_date_by_source_B:
-        if not has_similar_in_pool(article, published_in_date_by_source_A):
+        if not has_similar_in_snapshot(article, published_in_date_by_source_A):
             skipped += 1
     skipped_percentage = -1 if len(published_in_date_by_source_B) == 0 else (skipped / len(published_in_date_by_source_B))*100
     print(f"{source_A} skipped a mean of {skipped_percentage:.2f}% news of {source_B} on {day}")

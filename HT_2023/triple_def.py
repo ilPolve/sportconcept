@@ -3,23 +3,26 @@
 #    If no, is it exclusive or in common with other outlets?
 
 import json
+import os
 import random
-from typing import Union, List, Tuple
-from utils import snapped_news_by_source, has_similar_in_pool, snapped_news_in_range
+from typing import Optional, Union, List, Tuple
+from utils import snapped_news_by_source, has_similar_in_snapshot, snapped_news_in_range, Snapshot
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # For fast example:
-main_dir = "../fulltext/NER/flow/IT"
+repo_dir = "../fulltext/NER/flow/IT"
 snap_dir = "ANSA_Politica"
 news_snap = "2022-05-11T17.34.30E1652290470.188478.json"
 
-ALL_DIRS = ["AGI_Politica", "AGI_Esteri"]
+ALL_NEWS_OUTLETS = ["AGI_Politica", "AGI_Esteri"]
 
 check_dir = "ANSA_Politica"
-to_check_dir = f"{main_dir}/{snap_dir}/{news_snap}"
+to_check_dir = f"{repo_dir}/{snap_dir}/{news_snap}"
 
 # For real example:
-main_dir = "../../../All_News/ConcepTitle/fulltext/NER/flow"
-ALL_DIRS = ["EN/CNN", "ES/ABC", "FR/France24", "EN/BBC", "DE/Spiegel"]
+repo_dir = f"{BASE_DIR}\\..\\fulltext\\NER\\flow"
+ALL_NEWS_OUTLETS = ["IT\\ilPost", "ES\\ABC", "FR\\France24", "EN\\BBC", "DE\\Spiegel"]
 
 
 
@@ -30,17 +33,17 @@ def main():
 def skip_common_excl(to_check: dict, check_dir: str, simil_cache: dict = {}, in_range: bool = False, start_date: str = None, end_date: str = None) -> Union[str, List[str]]:
     main_snapped = []
     if in_range:
-        main_snapped, _ = snapped_news_in_range(f"{main_dir}/{check_dir}", start_date, end_date)
+        main_snapped, _ = snapped_news_in_range(f"{repo_dir}/{check_dir}", start_date, end_date)
     else:
-        main_snapped = snapped_news_by_source(f"{main_dir}/{check_dir}")
-    if not has_similar_in_pool(to_check, main_snapped):
+        main_snapped = snapped_news_by_source(f"{repo_dir}/{check_dir}")
+    if not has_similar_in_snapshot(to_check, main_snapped):
         print("skipped")
         print([])
         return "skipped", []
     covering_list = []
-    for dir in ALL_DIRS:
-        snapped = snapped_news_by_source(f"{main_dir}/{dir}")
-        if has_similar_in_pool(to_check, snapped, simil_cache):
+    for dir in ALL_NEWS_OUTLETS:
+        snapped = snapped_news_by_source(f"{repo_dir}/{dir}")
+        if has_similar_in_snapshot(to_check, snapped, simil_cache):
             covering_list.append(dir)
 
     covering_list.append(check_dir)
@@ -53,31 +56,51 @@ def skip_common_excl(to_check: dict, check_dir: str, simil_cache: dict = {}, in_
         print(covering_list)
         return "common", covering_list
 
-def sce_lister(to_check: dict, simil_cache: dict = {}, in_range: bool = False, start_date: str = None, end_date: str = None) -> Tuple[List[str]]:
-    sce_list = []
-    for dir in ALL_DIRS:
-        snapped = []
+
+def snapshots_in_range(
+    in_range: bool,
+    start_date: int,
+    end_date: int,
+) -> dict[str, Snapshot]:
+    snapshots = {}
+    for news_outlet in ALL_NEWS_OUTLETS:
         if in_range:
-            snapped, _ = snapped_news_in_range(f"{main_dir}/{dir}", start_date, end_date)
+            snapshot, _ = snapped_news_in_range(f"{repo_dir}/{news_outlet}", start_date, end_date)
         else:
-            snapped = snapped_news_by_source(f"{main_dir}/{dir}")
-        if has_similar_in_pool(to_check, snapped, simil_cache):
-            sce_list.append(dir)
+            snapshot = snapped_news_by_source(f"{repo_dir}/{news_outlet}")
+
+        snapshots[news_outlet] = snapshot
+
+    return snapshots
+
+
+def sce_classify(
+    news_item_to_check: dict,
+    simil_cache: dict,
+    snapshots: dict[str, Snapshot],
+) -> tuple[list[str], list[str], list[str]]:
+    sce_list = []
+    for news_outlet, snapshot in snapshots.items():
+        if has_similar_in_snapshot(news_item_to_check, snapshot, simil_cache):
+            sce_list.append(news_outlet)
+
     skipped = []
     exclusive = []
     common = []
-    for dir in ALL_DIRS:
+    for news_outlet in ALL_NEWS_OUTLETS:
         if len(sce_list) == 1:
-            if dir == sce_list[0]:
-                exclusive.append(dir)
+            if news_outlet == sce_list[0]:
+                exclusive.append(news_outlet)
             else:
-                skipped.append(dir)
+                skipped.append(news_outlet)
         else:
-            if dir in sce_list:
-                common.append(dir)
+            if news_outlet in sce_list:
+                common.append(news_outlet)
             else:
-                skipped.append(dir)
-    return (skipped, exclusive, common)
+                skipped.append(news_outlet)
+
+    return skipped, exclusive, common
+
 
 def main_news_getter(dir: str) -> dict:
     with open(dir, "r") as f:

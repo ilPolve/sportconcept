@@ -3,7 +3,7 @@
 import json
 import os
 
-from utils import snapped_news_by_source, snapped_news_by_date, has_similar_in_pool, remove_duplicates
+from utils import snapped_news_by_source, snapped_news_by_date, has_similar_in_snapshot, remove_duplicates
 
 sources_dir = ["ANSA_Politica", "ANSA_Cronaca", "ANSA_Esteri"]
 main_dir = "../fulltext/NER/flow/IT"
@@ -29,7 +29,7 @@ def skip_usually(source: str, day: str) -> float:
     published_in_date = remove_duplicates(published_in_date)
 
     for article in published_in_date:
-        if not has_similar_in_pool(article, published_in_date_by_source):
+        if not has_similar_in_snapshot(article, published_in_date_by_source):
             skipped += 1
     skipped_percentage = (skipped / len(published_in_date))*100
     print(f"{sources_dir} skips a mean of {skipped_percentage:.2f}% news")
