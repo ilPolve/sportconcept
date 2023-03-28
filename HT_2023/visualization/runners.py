@@ -1,10 +1,13 @@
+import sys
+sys.path.append("..")
+
 import datetime
 import json
 import os
 
-from ..def4 import churn_rate
-from ..triple_def import sce_classify, snapshots_in_range
-from ..utils import date_to_epoch, in_range_epoch
+from def4 import churn_rate
+from triple_def import sce_classify, snapshots_in_range
+from utils import date_to_epoch, in_range_epoch
 
 
 DATE_FORMAT = "%Y-%m-%d %H:%M:%S"
@@ -35,7 +38,7 @@ snap_dir = "DE/Spiegel"
 in_range = True
 
 start_date = int(date_to_epoch("2023-03-16 08:00:00"))
-end_date = int(date_to_epoch("2023-03-16 20:01:00"))
+end_date = int(date_to_epoch("2023-03-16 08:01:00"))
 
 
 
@@ -45,8 +48,8 @@ def triple_def_run(in_range: bool = False, start_date: int = None, end_date: int
         news_outlets = os.listdir(f"{main_dir}/{lang}")
         for news_outlet in news_outlets:
             # Switch for linux filesystem
-            sce[f"{lang}/{news_outlet}"] = {"skipped": 0, "exclusive": 0, "common": 0}
-            #values[f"{lang}\\{source}"] = {"skipped": 0, "exclusive": 0, "common": 0}
+            # sce[f"{lang}/{news_outlet}"] = {"skipped": 0, "exclusive": 0, "common": 0}
+            sce[f"{lang}\\{news_outlet}"] = {"skipped": 0, "exclusive": 0, "common": 0}
 
     simil_cache = {}
     snapshots = snapshots_in_range(in_range, start_date, end_date)
@@ -63,7 +66,7 @@ def triple_def_run(in_range: bool = False, start_date: int = None, end_date: int
                 sce[news_outlet]["common"] += 1
         print(sce)
 
-    with open('triple_def_out.json', 'w', encoding="utf-8") as fp:
+    with open('triple_def_out_1.json', 'w', encoding="utf-8") as fp:
         json.dump(sce, fp, indent=4)
         fp.write("\n")
 
@@ -75,11 +78,12 @@ def get_all_news_items(dir: str, in_range: bool = False, start_date: int = None,
     title_list = []
     for lang in os.listdir(f"{dir}"):
         for source in os.listdir(f"{dir}/{lang}"):
-            for file in os.listdir(f"{dir}/{lang}/{source}"):
-                if file.endswith(".json"):
-                    if (not in_range) or in_range_epoch(file, start_date, end_date):
-                        full_dir = f"{dir}/{lang}/{source}/{file}"
-                        all_snap_getter(full_dir, all_snap, title_list)
+            if "ANSA" not in source:
+                for file in os.listdir(f"{dir}/{lang}/{source}"):
+                    if file.endswith(".json"):
+                        if (not in_range) or in_range_epoch(file, start_date, end_date):
+                            full_dir = f"{dir}/{lang}/{source}/{file}"
+                            all_snap_getter(full_dir, all_snap, title_list)
     return all_snap
 
 def all_snap_getter(full_dir: str, all_snap: list[dict], title_list: list[str]) -> list[dict]:

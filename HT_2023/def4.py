@@ -11,7 +11,7 @@ sources = []
 
 FILE_DIR = path.dirname(__file__)
 
-main_dir = f"{FILE_DIR}/../fulltext/NER/flow/IT"
+main_dir = f"{FILE_DIR}/../fulltext/NER/flow"
 source = "AGI_Politica"
 
 def main():
@@ -24,14 +24,19 @@ def churn_rate(source: str, start_time: str, end_time: str) -> Union[float,  dic
     news_list = remove_duplicates(news_list)
     
     found = {}
-
     for article in news_list:
         for snapshot in snap_list:
             if has_similar_in_snapshot(article, snapshot):
-                if article["en_title"] in found:
-                    found[article["en_title"]] += 1
+                if "en_title" not in article:
+                    if "title" not in found:
+                        found["title"] = 1
+                    else:
+                        found["title"] += 1
                 else:
-                    found[article["en_title"]] = 1
+                    if article["en_title"] in found:
+                        found[article["en_title"]] += 1
+                    else:
+                        found[article["en_title"]] = 1  
     
     durations = found.values()
     if len(found) == 0:
