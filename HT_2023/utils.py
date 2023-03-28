@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore")
 UTILS_DIR = path.dirname(__file__)
 
 nlp = spacy.load("en_core_web_sm")
-main_dir = f"{UTILS_DIR}/../fulltext/NER/flow/IT"
+main_dir = f"{UTILS_DIR}/../fulltext/NER/flow"
 
 COSINE_THRESHOLD = 0.90
 
@@ -53,7 +53,7 @@ def snapped_news_in_range(dir: str, start_epoch: int, end_epoch: int) -> Union[L
     for file in os.listdir(dir):
         if file.endswith(".json"):
             if in_range_epoch(file, start_epoch, end_epoch):
-                with open(f"{dir}/{file}", "r") as f:
+                with open(f"{dir}/{file}", "r", encoding="utf-8") as f:
                     news = json.load(f)
                     for new in news:
                         new["cont_nlp"] = nlp(new["en_content"])

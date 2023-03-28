@@ -8,7 +8,7 @@ def main():
 def triple_def_visual():
     triple_def_data = {}
     color = [1, 25, 50, 100, 150, 200, 300, 450, 550, 600, 650]
-    with open("triple_def_out.json") as fp:
+    with open("triple_def_out_12_ANSA.json") as fp:
         triple_def_data = json.load(fp)
     names = []
     x_skip = []

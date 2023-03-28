@@ -10,7 +10,7 @@ from runners import churn_run
 from typing import List
 
 sources = ["DE/Spiegel", "EN/BBC", "ES/ABC", "FR/France24", "IT/ilPost", "IT/ANSA_Esteri"]
-start_date = "2023-03-18 12:00:00"
+start_date = "2023-03-16 12:00:00"
 
 DATE_FORMAT = "%Y-%m-%d %H:%M:%S"
 

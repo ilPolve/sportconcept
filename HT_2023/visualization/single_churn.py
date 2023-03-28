@@ -12,7 +12,7 @@ from typing import List
 source = "IT/ilPost"
 start_dates = ["2023-03-16 00:00:00", "2023-03-17 00:00:00", "2023-03-18 00:00:00"]
 
-sources = ["ES/ABC", "FR/France24", "DE/Spiegel", "IT/ANSA_Esteri", "IT_AGI_Esteri"]
+sources = ["ES/ABC", "DE/Spiegel", "IT/ANSA_Esteri", "IT/ilPost", "EN/BBC"]
 
 DATE_FORMAT = "%Y-%m-%d %H:%M:%S"
 
