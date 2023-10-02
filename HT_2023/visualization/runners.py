@@ -12,17 +12,19 @@ from utils import date_to_epoch, in_range_epoch
 
 DATE_FORMAT = "%Y-%m-%d %H:%M:%S"
 
-def add_slice(date, slice):
-    return date + datetime.timedelta(hours=slice)
+
+def add_slice(date, my_slice):
+    return date + datetime.timedelta(hours=my_slice)
+
 
 # Function for running the churn rate calculator in different slices of equal time
 # slice is in hours
-def churn_run(source: str, start_date: str, end_date: str, slice: str) -> list[float]:
+def churn_run(source: str, start_date: str, end_date: str, my_slice: str) -> list[float]:
     start_in_date = datetime.datetime.strptime(start_date, DATE_FORMAT)
     end_in_date = datetime.datetime.strptime(end_date, DATE_FORMAT)
     rates = []
-    while add_slice(start_in_date, slice) < add_slice(end_in_date, slice):
-        temp_end = add_slice(start_in_date, slice)
+    while add_slice(start_in_date, my_slice) < add_slice(end_in_date, my_slice):
+        temp_end = add_slice(start_in_date, my_slice)
         rate, _ = churn_rate(source, start_date, temp_end.strftime(DATE_FORMAT))
         if rate != 0:
             rates.append(1/rate)
@@ -32,14 +34,14 @@ def churn_run(source: str, start_date: str, end_date: str, slice: str) -> list[f
         start_date = start_in_date.strftime(DATE_FORMAT)
     return rates
 
-main_dir = "../../fulltext/NER/flow"
+
+main_dir = "../../fulltext/translated"
 snap_dir = "DE/Spiegel"
 
 in_range = True
 
-start_date = int(date_to_epoch("2023-03-16 08:00:00"))
-end_date = int(date_to_epoch("2023-03-16 08:01:00"))
-
+start_date = int(date_to_epoch("2023-03-11 00:01:00"))
+end_date = int(date_to_epoch("2023-03-15 23:59:00"))
 
 
 def triple_def_run(in_range: bool = False, start_date: int = None, end_date: int = None):
@@ -49,12 +51,18 @@ def triple_def_run(in_range: bool = False, start_date: int = None, end_date: int
         for news_outlet in news_outlets:
             # Switch for linux filesystem
             # sce[f"{lang}/{news_outlet}"] = {"skipped": 0, "exclusive": 0, "common": 0}
-            sce[f"{lang}\\{news_outlet}"] = {"skipped": 0, "exclusive": 0, "common": 0}
+            idx = lang
+            if "SwissScrape" not in main_dir:
+                idx = f"{lang}\\{news_outlet}"
+            sce[idx] = {"skipped": 0, "exclusive": 0, "common": 0}
 
     simil_cache = {}
-    snapshots = snapshots_in_range(in_range, start_date, end_date)
-    #nlp_all_the_things!
+    snapshots = snapshots_in_range(in_range, start_date, end_date, nlpy=True)
+
+    # nlp_all_the_things!
     news_items = get_all_news_items(main_dir, in_range=in_range, start_date=start_date, end_date=end_date)
+    print(snapshots)
+
     for news_item in news_items:
         skipped, exclusive, common = sce_classify(news_item, simil_cache, snapshots)
         for news_outlet in sce:
@@ -64,9 +72,9 @@ def triple_def_run(in_range: bool = False, start_date: int = None, end_date: int
                 sce[news_outlet]["exclusive"] += 1
             if news_outlet in common:
                 sce[news_outlet]["common"] += 1
-        print(sce)
+    print(sce)
 
-    with open('triple_def_out_1.json', 'w', encoding="utf-8") as fp:
+    with open('special_issue\\triple_def_out_7days.json', 'w', encoding="utf-8") as fp:
         json.dump(sce, fp, indent=4)
         fp.write("\n")
 
@@ -78,13 +86,13 @@ def get_all_news_items(dir: str, in_range: bool = False, start_date: int = None,
     title_list = []
     for lang in os.listdir(f"{dir}"):
         for source in os.listdir(f"{dir}/{lang}"):
-            if "ANSA" not in source:
-                for file in os.listdir(f"{dir}/{lang}/{source}"):
-                    if file.endswith(".json"):
-                        if (not in_range) or in_range_epoch(file, start_date, end_date):
-                            full_dir = f"{dir}/{lang}/{source}/{file}"
-                            all_snap_getter(full_dir, all_snap, title_list)
+            for file in os.listdir(f"{dir}/{lang}/{source}"):
+                if file.endswith(".json"):
+                    if (not in_range) or in_range_epoch(file, start_date, end_date):
+                        full_dir = f"{dir}/{lang}/{source}/{file}"
+                        all_snap_getter(full_dir, all_snap, title_list)
     return all_snap
+
 
 def all_snap_getter(full_dir: str, all_snap: list[dict], title_list: list[str]) -> list[dict]:
     for news in json.load(open(full_dir, "r", encoding="utf-8")):
@@ -93,14 +101,17 @@ def all_snap_getter(full_dir: str, all_snap: list[dict], title_list: list[str]) 
             all_snap.append(news)
     return all_snap
 
-def main_news_getter(dir: str, idx: int) -> dict:
-    with open(dir, "r") as f:
+
+def main_news_getter(check_dir: str, idx: int) -> dict:
+    with open(check_dir, "r") as f:
         news = json.load(f)
     single_news = news[idx]
     return single_news
 
+
 def main():
     triple_def_run(in_range, start_date, end_date)
+
 
 if __name__ == "__main__":
     main()

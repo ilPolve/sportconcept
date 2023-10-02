@@ -18,21 +18,22 @@ SNAP_RATE = 15
 
 Snapshot = list[dict]
 
-def snapped_news_by_source(dir: str) -> List[dict]:
+def snapped_news_by_source(dir: str, nlpy: bool = True) -> List[dict]:
     title_list = []
     news_list = []
     for file in os.listdir(dir):
         if file.endswith(".json"):
-            with open(f"{dir}/{file}", "r") as f:
+            with open(f"{dir}/{file}", "r", encoding="utf-8") as f:
                 news = json.load(f)
                 for new in news:
                     if new["title"] not in title_list:
-                        new["cont_nlp"] = nlp(new["en_content"])
+                        if nlpy:
+                            new["cont_nlp"] = nlp(new["en_content"])
                         title_list.append(new["title"])
                         news_list.append(new)
     return news_list
 
-def snapped_news_by_date(date: str)-> List[dict]:
+def snapped_news_by_date(date: str, nlpy: bool = True)-> List[dict]:
     title_list = []
     news_list = []
     for subdir in os.listdir(main_dir):
@@ -42,12 +43,13 @@ def snapped_news_by_date(date: str)-> List[dict]:
                     news = json.load(f)
                     for new in news:
                         if new["title"] not in title_list:
-                            new["cont_nlp"] = nlp(new["en_content"])
+                            if nlpy:
+                                new["cont_nlp"] = nlp(new["en_content"])
                             title_list.append(new["title"])
                             news_list.append(new)
     return news_list
 
-def snapped_news_in_range(dir: str, start_epoch: int, end_epoch: int) -> Union[List[dict], List[List[dict]]]:
+def snapped_news_in_range(dir: str, start_epoch: int, end_epoch: int, nlpy: bool = True) -> Union[List[dict], List[List[dict]]]:
     snap_list = []
     news_list = []
     for file in os.listdir(dir):
@@ -56,25 +58,28 @@ def snapped_news_in_range(dir: str, start_epoch: int, end_epoch: int) -> Union[L
                 with open(f"{dir}/{file}", "r", encoding="utf-8") as f:
                     news = json.load(f)
                     for new in news:
-                        new["cont_nlp"] = nlp(new["en_content"])
+                        if nlpy:
+                            new["cont_nlp"] = nlp(new["en_content"])
                         news_list.append(new)
                     snap_list.append(news)                      
     return news_list, snap_list
 
 
-def has_similar_in_snapshot(
-    main_news: dict,
-    news_snapshot: Snapshot,
-    simil_cache: dict = {},
-) -> bool:
-    if len(news_snapshot) == 0:
-        return False
 
+def similar_in_snapshot_linked(main_news, news_snapshot, simil_cache):
+    translations_list = [article for articles_list in news_snapshot for article in list(articles_list["translations"].values())]
+    urls_list = [article["item_url"] for article in news_snapshot]
+    versions = translations_list + urls_list
+    for version in versions:
+        if version == main_news["item_url"]:
+            return True
+    return False
+
+def similar_in_snapshot_spacy(main_news, news_snapshot, simil_cache):
     # "cont_nlp" = content, NLP processed.
     # if not yet NLP'd, do it now.
     if "cont_nlp" not in main_news:
         main_news["cont_nlp"] = nlp(main_news["en_content"])
-
     for news_item in news_snapshot:
         title1 = max(main_news["title"], news_item["title"])
         title2 = min(main_news["title"], news_item["title"])
@@ -95,9 +100,17 @@ def has_similar_in_snapshot(
             return True
 
         simil_cache[key] = False
-
     return False
+def has_similar_in_snapshot(
+    main_news: dict,
+    news_snapshot: Snapshot,
+    simil_cache: dict = {},
+    simil_fun: any = similar_in_snapshot_spacy,
+) -> bool:
+    if len(news_snapshot) == 0:
+        return False
 
+    return simil_fun(main_news, news_snapshot, simil_cache)
 
 def is_similar(news_A: dict, news_B: dict, nlp: any =nlp, threshold: int=COSINE_THRESHOLD) -> bool:
     content_A = news_A["en_content"]
@@ -140,7 +153,7 @@ def in_range_epoch(filename: str, start_epoch: int, end_epoch: int) -> bool:
     return start_epoch <= epoch_in_filename <= end_epoch
 
 
-def remove_duplicates(news: List[dict]) -> List[dict]:
+def remove_duplicates(news: List[dict], similarity_in_snapshot: any = similar_in_snapshot_spacy) -> List[dict]:
     # Removing same article
     title_list = []
     news_list = []
@@ -154,7 +167,7 @@ def remove_duplicates(news: List[dict]) -> List[dict]:
     for i in range(len(news_list)):
         article_A = news_list[i]
         if i < len(news_list)-1:
-            if not has_similar_in_snapshot(article_A, news_list[i + 1:]):
+            if not has_similar_in_snapshot(article_A, news_list[i + 1:], similarity_in_snapshot):
                 to_ret.append(article_A)
     
     return to_ret
