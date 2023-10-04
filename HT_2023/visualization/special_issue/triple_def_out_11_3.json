@@ -1,0 +1,32 @@
+{
+    "DE\\Spiegel": {
+        "skipped": 83,
+        "exclusive": 12,
+        "common": 99
+    },
+    "EN\\BBC": {
+        "skipped": 179,
+        "exclusive": 15,
+        "common": 0
+    },
+    "ES\\ABC": {
+        "skipped": 162,
+        "exclusive": 0,
+        "common": 32
+    },
+    "FR\\France24": {
+        "skipped": 127,
+        "exclusive": 4,
+        "common": 63
+    },
+    "IT\\ANSA_Esteri": {
+        "skipped": 82,
+        "exclusive": 56,
+        "common": 56
+    },
+    "IT\\ilPost": {
+        "skipped": 121,
+        "exclusive": 4,
+        "common": 69
+    }
+}

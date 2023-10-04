@@ -40,7 +40,7 @@ snap_dir = "DE/Spiegel"
 
 in_range = True
 
-start_date = int(date_to_epoch("2023-03-11 00:01:00"))
+start_date = int(date_to_epoch("2023-03-15 00:01:00"))
 end_date = int(date_to_epoch("2023-03-15 23:59:00"))
 
 
@@ -74,7 +74,7 @@ def triple_def_run(in_range: bool = False, start_date: int = None, end_date: int
                 sce[news_outlet]["common"] += 1
     print(sce)
 
-    with open('special_issue\\triple_def_out_7days.json', 'w', encoding="utf-8") as fp:
+    with open('special_issue\\triple_def_out_15_3.json', 'w', encoding="utf-8") as fp:
         json.dump(sce, fp, indent=4)
         fp.write("\n")
 
