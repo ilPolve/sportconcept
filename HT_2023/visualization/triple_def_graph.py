@@ -7,9 +7,12 @@ plt.rc('font', weight='bold')
 plt.rc('axes', axisbelow = True)
 
 FONTSIZE =24
-HOURS = [1]
+HOURS = [24]
 
-JSON_DIR = f"special_issue\\triple_def_out_prova.json"
+# SEPARATOR = "\\"
+SEPARATOR = "/"
+
+JSON_DIR = f"special_issue{SEPARATOR}out{SEPARATOR}triple_def_out_11_24hours.json"
 
 def main():
     for hour in HOURS:
@@ -24,17 +27,16 @@ def triple_def_visual(hours):
     y_com = []
     z_excl = []
     for source in triple_def_data:
-        if source != "IT\\ANSA_Esteri":
-        # names.append(source.split("/")[1])
-            names.append(source.split("\\")[1])
-            x_skip.append(triple_def_data[source]["skipped"])
-            y_com.append(triple_def_data[source]["common"])
-            z_excl.append(triple_def_data[source]["exclusive"])
-    names.append("ANSA_Esteri")
-    x_skip.append(triple_def_data["IT\\ANSA_Esteri"]["skipped"])
-    y_com.append(triple_def_data["IT\\ANSA_Esteri"]["common"])
-    z_excl.append(triple_def_data["IT\\ANSA_Esteri"]["exclusive"])
-    tot_news = triple_def_data["DE\\Spiegel"]["skipped"] + triple_def_data["DE\\Spiegel"]["common"] + triple_def_data["DE\\Spiegel"]["exclusive"]
+        names.append(source.split("/")[1])
+        # names.append(source.split("\\")[1])
+        x_skip.append(triple_def_data[source]["skipped"])
+        y_com.append(triple_def_data[source]["common"])
+        z_excl.append(triple_def_data[source]["exclusive"])
+    # names.append("ANSA_Esteri")
+    # x_skip.append(triple_def_data["IT\\ANSA_Esteri"]["skipped"])
+    # y_com.append(triple_def_data["IT\\ANSA_Esteri"]["common"])
+    # z_excl.append(triple_def_data["IT\\ANSA_Esteri"]["exclusive"])
+    tot_news = triple_def_data[f"DE{SEPARATOR}Spiegel"]["skipped"] + triple_def_data[f"DE{SEPARATOR}Spiegel"]["common"] + triple_def_data[f"DE{SEPARATOR}Spiegel"]["exclusive"]
     if "ANSA_Esteri" in names:
         x_c = np.arange(len(x_skip)-1)
         y_c = [i+x_c+(i*x_c)**2 for i in range(len(x_skip)-1)]
