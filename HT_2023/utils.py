@@ -4,7 +4,11 @@ import spacy
 from os import path
 import warnings
 from datetime import datetime
+<<<<<<< HEAD
 from typing import Union, List, Dict
+=======
+from typing import Union, List
+>>>>>>> 5b2fd248146083d8c86068e65eebc492a59022f1
 warnings.filterwarnings("ignore")
 
 UTILS_DIR = path.dirname(__file__)
@@ -16,7 +20,11 @@ COSINE_THRESHOLD = 0.90
 
 SNAP_RATE = 15
 
+<<<<<<< HEAD
 Snapshot = List[dict]
+=======
+Snapshot = list[dict]
+>>>>>>> 5b2fd248146083d8c86068e65eebc492a59022f1
 
 def snapped_news_by_source(dir: str, nlpy: bool = True) -> List[dict]:
     title_list = []

@@ -5,7 +5,7 @@
 import json
 import os
 import random
-from typing import Optional, Union, List, Tuple, Dict
+from typing import Optional, Union, List, Tuple
 from utils import snapped_news_by_source, has_similar_in_snapshot, snapped_news_in_range, Snapshot, similar_in_snapshot_linked, similar_in_snapshot_spacy
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -21,8 +21,8 @@ check_dir = "ANSA_Politica"
 to_check_dir = f"{repo_dir}/{snap_dir}/{news_snap}"
 
 # For real example:
-repo_dir = f"{BASE_DIR}/../fulltext/translated"
-ALL_NEWS_OUTLETS = ["IT/ilPost", "ES/ABC", "FR/France24", "EN/BBC", "DE/Spiegel", "IT/ANSA_Esteri"]
+repo_dir = f"{BASE_DIR}\\..\\fulltext\\translated"
+ALL_NEWS_OUTLETS = ["IT\\ilPost", "ES\\ABC", "FR\\France24", "EN\\BBC", "DE\\Spiegel", "IT\\ANSA_Esteri"]
 
 
 # Trying Swissinfo
@@ -76,7 +76,7 @@ def snapshots_in_range(
     start_date: int,
     end_date: int,
     nlpy: bool = NLPY,
-) -> Dict[str, Snapshot]:
+) -> dict[str, Snapshot]:
     snapshots = {}
     for news_outlet in ALL_NEWS_OUTLETS:
         if in_range:
@@ -92,8 +92,8 @@ def snapshots_in_range(
 def sce_classify(
     news_item_to_check: dict,
     simil_cache: dict,
-    snapshots: Dict[str, Snapshot],
-) -> Tuple[List[str], List[str], List[str]]:
+    snapshots: dict[str, Snapshot],
+) -> tuple[list[str], list[str], list[str]]:
     sce_list = []
     for news_outlet, snapshot in snapshots.items():
         if has_similar_in_snapshot(news_item_to_check, snapshot, simil_cache, simil_fun=SIMIL_FUN):
