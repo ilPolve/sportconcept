@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 FONTSIZE = 20
 plt.rc('font', weight='bold')
 
+NEW_LINE = '\n'
 SEP = "\\"
 # SEP = "/"
 
@@ -27,26 +28,32 @@ def single_language(outlet: str, ratio: bool = False):
     for i, day in zip(range(TOT_DAYS), DAYS):
         rect = ax.bar(i - w, excl[i], width=w, align='center', color=colors[0])
         autolabel(rect, ax)
+        if i== 0:
+            bars.append(rect)
         rect = ax.bar(i, skip[i], width=w, align='center', color=colors[1])
         autolabel(rect, ax)
+        if i == 0:
+            bars.append(rect)
         rect = ax.bar(i + w, com[i], width=w, align='center', color=colors[2])
         autolabel(rect, ax)
-    rect = ax.bar(TOT_DAYS - w, excl[TOT_DAYS], width=w, align='center', color=colors[0])
+        if i == 0:
+            bars.append(rect)
+    rect = ax.bar(TOT_DAYS - w, excl[TOT_DAYS], width=w, align='center', color=colors[0], edgecolor='black', hatch='.')
     autolabel(rect, ax)
-    bars.append(rect)
-    rect = ax.bar(TOT_DAYS, skip[TOT_DAYS], width=w, align='center', color=colors[1])
+    rect = ax.bar(TOT_DAYS, skip[TOT_DAYS], width=w, align='center', color=colors[1], edgecolor='black', hatch='.')
     autolabel(rect, ax)
-    bars.append(rect)
-    rect = ax.bar(TOT_DAYS + w, com[TOT_DAYS], width=w, align='center', color=colors[2])
+    rect = ax.bar(TOT_DAYS + w, com[TOT_DAYS], width=w, align='center', color=colors[2], edgecolor='black', hatch='.')
     autolabel(rect, ax)
-    bars.append(rect)
-    ax.legend(bars, ["Exclusive", "Skipped", "Common"], fontsize = FONTSIZE-7)
-    x_ticks = [f"{day}-{day+12}" for day in DAYS] + ["Total"]
-    plt.xticks(range(TOT_DAYS + 1), x_ticks)
+    ax.legend(bars, ["Exclusive", "Skipped", "Common"], fontsize=FONTSIZE - 7)
+    x_ticks = [f"{day}-0{MONTH}{NEW_LINE}" for day in DAYS] + [
+        f"{DAYS[0]}-0{MONTH} to {DAYS[-1]}-0{MONTH}"
+        f"{NEW_LINE}({TOT_DAYS} days snapshot)"]
+    plt.xticks(range(TOT_DAYS + 1), x_ticks, fontsize=FONTSIZE - 7)
+    plt.yticks(fontsize=FONTSIZE - 7)
     ratio_str = " divided by total" if ratio else ""
-    plt.title(f"SCE from {outlet}{ratio_str} in {TOT_DAYS} days", fontsize=FONTSIZE, weight = "bold")
-    plt.xlabel("Timespan", fontsize=FONTSIZE, weight = "bold")
-    plt.ylabel("Number of news", fontsize=FONTSIZE, weight = "bold")
+    plt.title(f"SCE from {outlet}{ratio_str} in {TOT_DAYS} day{'s' if TOT_DAYS > 1 else ''}", fontsize=FONTSIZE, weight="bold")
+    plt.xlabel("Timespan", fontsize=FONTSIZE, weight="bold")
+    plt.ylabel("Number of news", fontsize=FONTSIZE, weight="bold")
     plt.show()
 
 
@@ -54,13 +61,13 @@ def get_values(outlet, ratio):
     excl = []
     skip = []
     com = []
-    for i in DAYS:
-        with open(f"{JSON_DIR}_{i}_{MONTH}.json", "r", encoding="utf-8") as f:
+    for day in DAYS:
+        with open(f"{JSON_DIR}_{day}_{MONTH}.json", "r", encoding="utf-8") as f:
             data = json.load(f)
             excl.append(data[outlet]["exclusive"])
             skip.append(data[outlet]["skipped"])
             com.append(data[outlet]["common"])
-    with open(f"{JSON_DIR}_{TOT_DAYS}days.json", "r", encoding="utf-8") as f:
+    with open(f"{JSON_DIR}_5days.json", "r", encoding="utf-8") as f:
         data = json.load(f)
         excl.append(data[outlet]["exclusive"])
         skip.append(data[outlet]["skipped"])
@@ -107,12 +114,14 @@ def columned_bars(ratio: bool = False):
                            bottom=tot_vals[i][0] + tot_vals[i][1], edgecolor='black', hatch='.')
         autolabel(rect3_tot, ax, true_h=rect3_tot[0].get_height() + tot_vals[i][0] + tot_vals[i][1])
         if i == len(OUTLETS) - 1:
-            ax.legend([rect1, rect2, rect3], ["Exclusive", "Skipped", "Common"], fontsize=FONTSIZE-7)
+            ax.legend([rect1, rect2, rect3], ["Exclusive", "Skipped", "Common"], fontsize=FONTSIZE - 7)
     x_ticks = [outlet.split(f"{SEP}")[1] for outlet in OUTLETS]
-    plt.xticks(range(len(OUTLETS)), x_ticks)
-    plt.title(f"SCE averages from {TOT_DAYS} days compared to {TOT_DAYS} days snapshot", fontsize=FONTSIZE, weight = "bold")
-    plt.xlabel("Outlet", fontsize=FONTSIZE, weight = "bold")
-    plt.ylabel("Number of news", fontsize=FONTSIZE, weight = "bold")
+    plt.xticks(range(len(OUTLETS)), x_ticks, fontsize=FONTSIZE - 2)
+    plt.yticks(fontsize=FONTSIZE - 2)
+    plt.title(f"SCE averages from {TOT_DAYS} days compared to {TOT_DAYS} days snapshot", fontsize=FONTSIZE,
+              weight="bold")
+    plt.xlabel("Outlet", fontsize=FONTSIZE, weight="bold")
+    plt.ylabel("Number of news", fontsize=FONTSIZE, weight="bold")
     plt.show()
 
 
@@ -124,13 +133,13 @@ def autolabel(rects, ax, true_h=-1):
         if rect.get_height() <= 0:
             return
         ax.text(rect.get_x() + rect.get_width() / 2., h, f"{rect.get_height():.2f}",
-                ha='center', va='bottom', fontsize=FONTSIZE-6, weight="bold")
+                ha='center', va='bottom', fontsize=FONTSIZE - 6, weight="bold")
 
 
 def main():
-    # for outlet in OUTLETS:
-    #     single_language(outlet, True)
-    columned_bars(True)
+    for outlet in OUTLETS:
+        single_language(outlet, True)
+    # columned_bars(True)
 
 
 if __name__ == "__main__":
