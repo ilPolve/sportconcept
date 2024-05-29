@@ -1,24 +1,8 @@
 #!/usr/bin/env python
 
-import json
-from argostranslate import package, translate
-import sys
-import os
-import errno
-
-#The scraped news base directory
-BASE_DIR= f"../../Newscraping/collectedNews"
-
-#The output base directory
-TRANSLATED_DIR= f"./translated"
-
-#The translators indexes based on the source language
-LANG_TO_TRANS = {'FR': 0,
-                 'DE': 1,
-                 'IT': 2,
-                 'ES': 3,
-                 'en': 0,
-                 'EN': 0}
+import json, sys, os, errno
+from argostranslate import translate
+from globals import TRANSL_IN_DIR, TRANSL_OUT_DIR
 
 def main():
     if len(sys.argv) < 2:
@@ -26,66 +10,48 @@ def main():
     full_translator(sys.argv[1])
 
 def full_translator(subdir):
-    translators = translators_setup()
-    to_translate= news_getter(subdir)
-    translated = news_translator(to_translate, translators)
+    translator = translator_setup()
+    to_translate = news_getter(subdir)
+    translated = news_translator(to_translate, translator)
     jsonizer(translated, subdir)
 
 #Starting from the 1-st because of the 0-index english translator
-def translators_setup():
-    translators= [{}, {}, {}, {}]
-    installed_languages = translate.get_installed_languages()
-    for i in range(1, 5):
-        translators[i-1]= installed_languages[i].get_translation(installed_languages[0])
-    return translators
+def translator_setup():
+    return translate.get_translation_from_codes(from_code="it", to_code="en")
 
 def news_getter(subdir):
-    to_get_dir= f"{BASE_DIR}/{subdir}"
-    to_get= {}
+    to_get_dir= f"{TRANSL_IN_DIR}/{subdir}"
+    print("TRANSLATING: ", to_get_dir)
     with open(to_get_dir, "r") as f:
         try:
-            to_get = json.load(f)
+            return json.load(f)
         except:
             raise Exception("Could not read file from the given directory: " + to_get_dir + ".")
-    return to_get
 
-def news_translator(to_trans, translators):
+def news_translator(to_trans, translator):
     for article in to_trans:
         if article['title'] != None:
-            try:
-                article = article_translator(article, translators[LANG_TO_TRANS[article['language']]])
-            except:
-                article = article_translator(article, translators[LANG_TO_TRANS["EN"]], True)
+            article = article_translator(article, translator)
     return to_trans
 
-def article_translator(article, translator, isEn= False):
-    if not isEn and article['language'] != "EN" and article['language'] != "en":
-        article['en_title']= translator.translate(article['title'])
-        print(article['title'] + "   " + article['en_title'])
-
-        try:
-            article['en_content']= translator.translate(article['content'])
-        except:
-            raise Exception("Could not translate content of an article.")
-
-        try: 
-            article['en_subtitle']= translator.translate(article['subtitle'])
-        except:
-            pass
-    else:
-        article['en_title'] = article['title']
-        
-        article['en_content'] = article['content']
-
-        try:
-            article['en_subtitle']  = article['subtitle']
-        except:
-            pass
+def article_translator(article, translator):
+    article['en_title']= translator.translate(article['title'])
+    
+    try:
+        if article['content'] is not None:
+            article['en_content'] = translator.translate(article['content'])
+    except:
+        raise Exception("Could not translate content of an article.")
+    try: 
+        if article['subtitle'] is not None:
+            article['en_subtitle'] = translator.translate(article['subtitle'])
+    except:
+        raise Exception("Could not translate subtitle of an article.")
 
     return article
 
 def jsonizer(translated, subdir):
-    to_json_dir= f"{TRANSLATED_DIR}/{subdir}"
+    to_json_dir= f"{TRANSL_OUT_DIR}/{subdir}"
     if not os.path.exists(os.path.dirname(to_json_dir)):
         try:
             os.makedirs(os.path.dirname(to_json_dir))

@@ -1,38 +1,35 @@
 #!/usr/bin/env python
 
 import os
-
+from datetime import datetime
 from newsTranslator import full_translator
-from newsNER import full_recognizer
-
-ESTENSION_CHECK = ".json"
-
-GET_DIR = "../../Newscraping/collectedNews"
-
-CHECK_DIR = "./translated"
-
-#TO_DO = ["EN/CNN", "FR/France24", "DE/Spiegel", "IT/ilPost", "IT/Televideo", "ES/ABC", "EN/BBC"]
-
-TO_DO = ["IT/AGI_Cronaca", "IT/AGI_Esteri", "IT/AGI_Politica", "IT/ANSA_Cronaca", "IT/ANSA_Esteri", "IT/ANSA_Politica",]
+from globals import TRANSL_IN_DIR, TRANSL_OUT_DIR, NEWS_SOURCES
 
 def main():
-    for mydir in TO_DO:
-        dir_translator(f"flow/{mydir}")
-
-def dir_translator(dir):
-    for subdir in os.scandir(f"{GET_DIR}/{dir}"):
-        print(subdir.name[len(subdir.name)-5:])
-        if new_trans_check(dir, subdir.name):
-            if "2022" in subdir.name and "05" in subdir.name:
-                print(subdir.name)
-                full_translator(f"{dir}/{subdir.name}")
-                full_recognizer(f"{dir}/{subdir.name}", sentiment=1)
+    print("LAUNCHED AT: ", datetime.now().strftime("%H:%M:%S"))
+    dir_check(TRANSL_IN_DIR, TRANSL_OUT_DIR)
     
-def new_trans_check(dir, to_check):
-    for subdir in os.scandir(f"{CHECK_DIR}/{dir}"):
-        if subdir.name == to_check or subdir.name[len(subdir.name)-5:] != ESTENSION_CHECK:
-            return False
-    return True
+    for source_dir in NEWS_SOURCES:
+        dir_translator(source_dir)
+    print("ENDED AT: ", datetime.now().strftime("%H:%M:%S"))
+
+def dir_check(in_dir, out_dir):
+    if not os.path.exists(in_dir):
+        raise FileNotFoundError(f"Directory not found: {in_dir}")
+    
+    if not os.path.exists(out_dir):
+        try:
+            os.makedirs(out_dir)
+            for source in NEWS_SOURCES:
+                os.makedirs(f"{out_dir}/flow/{source}")
+        except:
+            raise Exception(f"Directory {out_dir} does not exist and could not be created")
+        
+def dir_translator(dir):
+    for entry in os.listdir(f"{TRANSL_IN_DIR}/{dir}"):
+        if not os.path.exists(f"{TRANSL_OUT_DIR}/{dir}/{entry}"):
+            full_translator(f"{dir}/{entry}")
+            # full_recognizer(f"{dir}/{subdir.name}", sentiment=1)
 
 if __name__ == "__main__":
     main()
