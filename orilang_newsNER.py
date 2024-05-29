@@ -1,34 +1,15 @@
 #!/usr/bin/env python
 
-import json
-import sys
-import os
-import errno
-import spacy
-import torch
-import numpy as np 
+import json, sys, os, errno, spacy, torch, numpy as np
+from globals import NER_IN_DIR, NER_OUT_DIR
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, TFAutoModelForSequenceClassification, pipeline
-from sentiment_analysis_spanish import sentiment_analysis
-from spacytextblob.spacytextblob import SpacyTextBlob
-
-
-#The scraped news base directory
-BASE_DIR = f"../../Newscraping/collectedNews"
-
-#The output base directory
-NER_DIR = f"./multilang_NER"
 
 #The fields' name we want to NER
-FIELDS_TO_NLP = ['title',
-                 'subtitle',
-                 'content'
-                ]     
-
-LANG_TO_SPACY = {'EN': "en_core_web_sm",
-                 'IT': "it_core_news_md",
-                 'ES': "es_core_news_md",
-                 'DE': "de_core_news_md",
-                 'FR': "fr_core_news_md"}
+FIELDS_TO_NLP = [
+    'title',
+    'subtitle',
+    'content'
+]
 
 def main():
     if len(sys.argv) < 2:
@@ -38,90 +19,67 @@ def main():
     else:
         full_recognizer(sys.argv[1])
 
-def full_recognizer(subdir, sentiment= 0):
+def full_recognizer(subdir, sentiment=0):
     to_recognize = news_getter(subdir)
-    nlp = spacy_setup(to_recognize[0]['language'])
-    if sentiment and to_recognize[0]['language'] == 'EN':
-        nlp.add_pipe('spacytextblob')
+    nlp = spacy_setup()
     recognized = news_recognizer(to_recognize, nlp, sentiment)
     jsonizer(recognized, subdir)
 
-def spacy_setup(lang):
-    spacy_module = ""
-    if lang in LANG_TO_SPACY:
-        spacy_module = LANG_TO_SPACY[lang]
-    else:
-        raise Exception("Language not analyzable.")
-    return spacy.load(spacy_module)
+def spacy_setup():
+    return spacy.load("it_core_news_lg")
 
 def news_getter(subdir):
-    to_get_dir = f"{BASE_DIR}/{subdir}"
-    to_get = {}
+    to_get_dir= f"{NER_IN_DIR}/{subdir}"
+    print("ANALYZING: ", to_get_dir)
     with open(to_get_dir, "r") as f:
         try:
-            to_get = json.load(f)
+            return json.load(f)
         except:
             raise Exception("Could not read file from the given directory: " + to_get_dir + ".")
-    return to_get
 
-
-def news_recognizer(to_reco, nlp, sentiment= 0):
+def news_recognizer(to_reco, nlp, sentiment=0):
     tokenizer= None
     model= None
-    if sentiment and to_reco[0]['language'] == 'IT':
+    
+    if sentiment:
         tokenizer, model = load_italian_sentiment()
-    if sentiment and to_reco[0]['language'] == 'DE':
-        tokenizer, model = load_german_sentiment()
-    if sentiment and to_reco[0]['language'] == 'FR':
-        tokenizer, model = load_french_sentiment()
+    
     for article in to_reco:
-        prova = article_recognizer(article, nlp, sentiment, tokenizer, model)
+        article_recognizer(article, nlp, sentiment, tokenizer, model)
 
     return to_reco
 
 
-def article_recognizer(article, nlp, sentiment= 0, tokenizer= None, model= None):
-    field_lang = ""
-
+def article_recognizer(article, nlp, sentiment=0, tokenizer=None, model=None):
     if sentiment:
-        article['overall_polarity']= 0
+        article['overall_polarity'] = 0
 
     for field_to_nlp in FIELDS_TO_NLP:
-        article = field_nlpier(article, f"{field_lang}{field_to_nlp}", nlp, sentiment, tokenizer, model)
+        article = field_nlpier(article, field_to_nlp, nlp, sentiment, tokenizer, model)
         if sentiment:
-            article['overall_polarity']+= article[sent_field_creator(f"{field_lang}{field_to_nlp}", "polarity")]
+            try:
+                article['overall_polarity'] += article[sent_field_creator(field_to_nlp, "polarity")] or 0
+            except:
+                pass
     
     if sentiment:
-        article['overall_polarity']/= len(FIELDS_TO_NLP)
+        article['overall_polarity'] /= len(FIELDS_TO_NLP)
 
     return article
 
 
-def field_nlpier(article, field, nlp, sentiment= 0, tokenizer= None, model= None):
-    nlpied = nlp(article[field])
-    if sentiment:
-        if article['language'] == 'ES':
-            sentiment_an = sentiment_analysis.SentimentAnalysisSpanish()
-            article[sent_field_creator(field, "polarity")]= sentiment_an.sentiment(article[field])
-        if article['language'] == 'IT':
+def field_nlpier(article, field, nlp, sentiment=0, tokenizer=None, model=None):
+    if (article[field] is not None and len(article[field]) > 0):    
+        nlpied = nlp(article[field])
+        if sentiment:
             article[sent_field_creator(field, "polarity")]= italian_analyze(article[field], tokenizer, model)
-        if article['language'] == 'DE':
-            article[sent_field_creator(field, "polarity")]= italian_analyze(article[field], tokenizer, model, german=1)
-        if article['language'] == 'FR':
-            sa = pipeline('sentiment-analysis', model=model, tokenizer= tokenizer)
-            to_analyze = article[field]
-            if len(to_analyze) > 512:
-                to_analyze = to_analyze[:512]
-            article[sent_field_creator(field, "polarity")]= (sa(to_analyze))[0]['score']
-        if article['language'] == 'EN':
-            article[sent_field_creator(field, "polarity")]= nlpied._.blob.polarity
-            article[sent_field_creator(field, "subjectivity")]= nlpied._.blob.subjectivity
-    if nlpied.ents:
-        article[ner_field_creator(field)]= []
-        for ent in nlpied.ents:
-            ner_object= ner_object_creator(ent)
-            #It is possibile to add a control to avoid appending the same entities many times
-            article[ner_field_creator(field)].append(ner_object)
+
+        if nlpied.ents:
+            article[ner_field_creator(field)] = []
+            for ent in nlpied.ents:
+                ner_object = ner_object_creator(ent)
+                #It is possibile to add a control to avoid appending the same entities many times
+                article[ner_field_creator(field)].append(ner_object)
     
     return article
 
@@ -148,47 +106,32 @@ def load_italian_sentiment():
     model = AutoModelForSequenceClassification.from_pretrained("MilaNLProc/feel-it-italian-sentiment")
     return (tokenizer, model)
 
-def load_german_sentiment():
-    tokenizer = AutoTokenizer.from_pretrained("oliverguhr/german-sentiment-bert")
-    model = AutoModelForSequenceClassification.from_pretrained("oliverguhr/german-sentiment-bert")
-    return (tokenizer, model)
-
-def load_french_sentiment():
-    tokenizer = AutoTokenizer.from_pretrained("tblard/tf-allocine")
-    model = TFAutoModelForSequenceClassification.from_pretrained("tblard/tf-allocine")
-    return (tokenizer, model)
-
 #Function found on https://huggingface.co/MilaNLProc/feel-it-italian-sentiment?text=Mi+piaci.+Ti+amo.+Coglione.
-def italian_analyze(to_analyze, tokenizer, model, german= 0):
-    #try:
-        if len(to_analyze) > 512:
-            to_analyze = to_analyze[:512]
-        sentence = to_analyze
-        inputs = tokenizer(sentence, return_tensors="pt")
-
-        # Call the model and get the logits
-        labels = torch.tensor(1).unsqueeze(-1)  # Batch size 1
-        outputs = model(**inputs, labels=labels)
-        loss, logits = outputs[:2]
-        logits = logits.squeeze(0)
-
-        # Extract probabilities
-        proba = torch.nn.functional.softmax(logits, dim=0)
-        # Unpack the tensor to obtain negative and positive probabilities
-        if german:
-            positive, negative, neutral = proba
-        else:
-            negative, positive = proba
-        toRet = np.round(positive.item(), 4) - np.round(negative.item(), 4)
-
-        return toRet 
-    #except:
-        #return 0
+def italian_analyze(to_analyze, tokenizer, model):
+    if len(to_analyze) > 512:
+        to_analyze = to_analyze[:512]
+    sentence = to_analyze
+    inputs = tokenizer(sentence, return_tensors="pt")
+    
+    # Call the model and get the logits
+    labels = torch.tensor(1).unsqueeze(-1)  # Batch size 1
+    outputs = model(**inputs, labels=labels)
+    loss, logits = outputs[:2]
+    logits = logits.squeeze(0)
+    
+    # Extract probabilities
+    proba = torch.nn.functional.softmax(logits, dim=0)
+    
+    # Unpack the tensor to obtain negative and positive probabilities
+    negative, positive = proba
+    toRet = np.round(positive.item(), 4) - np.round(negative.item(), 4)
+    
+    return toRet
     
 
 
 def jsonizer(analyzed, subdir):
-    to_json_dir= f"{NER_DIR}/{subdir}"
+    to_json_dir= f"{NER_OUT_DIR}/{subdir}"
     if not os.path.exists(os.path.dirname(to_json_dir)):
         try:
             os.makedirs(os.path.dirname(to_json_dir))
